@@ -29,7 +29,7 @@ def createDirIfNotExists(csvPath):
 
 def getISTDateTime():
     ist_tz = ZoneInfo("Asia/Kolkata")
-    return datetime.now(ist_tz).strftime('%Y-%m-%d %H:%M:%S')
+    return datetime.now(ist_tz)
 
 
 def fetchOptionsFromNSE():
@@ -44,7 +44,7 @@ def fetchOptionsFromNSE():
         #Transform json to DataFrame
         df = pd.DataFrame(data['data'])
         #Added DateTime column
-        df["datetime"] = getISTDateTime()
+        df["datetime"] = getISTDateTime() #.strftime('%Y-%m-%d %H:%M:%S')
         #Remove unused columns
         removeUnusedFeatures(df)
         #Select only current and next week data
@@ -64,11 +64,13 @@ def removeUnusedFeatures(df):
 
 
 def selectTwoWeeksData(df):
-    currWeek = int(datetime.now().isocalendar()[1])
+    currWeek = int(getISTDateTime().isocalendar()[1])
     df["expiryDate_week"] = pd.to_datetime(df["expiryDate"], format="%d-%b-%Y").dt.isocalendar().week
     ndf = df[(df["lastPrice"] > 0) & ((df["expiryDate_week"] == currWeek) | (df["expiryDate_week"] == currWeek+1))]
     del ndf["expiryDate_week"]
     ndf.reset_index(inplace=True, drop=True)
+    print(f'current week: {currWeek}')
+    print(ndf.head())
     return ndf
 
 
