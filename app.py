@@ -60,7 +60,8 @@ try:
         ohlc = ohlc.reset_index()
         ohlc.columns = ['time', 'open', 'high', 'low', 'close']
         # Convert datetime to Unix timestamp (seconds)
-        ohlc['time'] = ohlc['time'].view('int64') // 10**9
+        ohlc['time'] = (ohlc['time'] - pd.Timestamp("1970-01-01")) // pd.Timedelta('1s')
+
 
         # --- 5. Rendering ---
         st.subheader(f"NIFTY {selected_strike} {opt_type} | Expiry: {selected_expiry} | TF: {selected_tf}")
