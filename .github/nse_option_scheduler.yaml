@@ -1,0 +1,44 @@
+name: NSE OI Collector
+
+on:
+  schedule:
+    # Runs every 5 minutes from 03:30 to 10:00 UTC (9:00 - 15:30 IST)
+    # Format: minute hour day month day-of-week
+    - cron: '*/5 3-10 * * 1-5'
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        item: 
+          - { name: "nifty50", symbol: "nse50_opt" }
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install pandas requests
+
+      - name: Run Scraper
+        env:
+          index_symbol: ${{ matrix.item.symbol }}
+          index_name: ${{ matrix.item.name }}
+        run: python nse_scraper.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add optionOIData/
+          git commit -m "Updated data for index: ${{ matrix.item.name }} $(date)" || echo "No changes to commit"
+          git push
