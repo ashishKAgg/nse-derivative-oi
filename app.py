@@ -16,7 +16,6 @@ def load_data(file_name):
     file_path = os.path.join(DATA_DIR, file_name)
     if os.path.exists(file_path):
         df = pd.read_csv(file_path)
-        # Standardize column names and types
         df['datetime'] = pd.to_datetime(df['datetime'])
         return df
     return pd.DataFrame()
@@ -24,76 +23,77 @@ def load_data(file_name):
 # --- 3. Sidebar Filters ---
 st.sidebar.header("Chart Settings")
 
-# Dynamic Expiry Selection based on files in the folder
 try:
     all_files = [f for f in os.listdir(DATA_DIR) if f.endswith('.csv')]
-    # Extracts '13-Apr-2026' from 'nifty50-13-Apr-2026.csv'
     expiry_options = sorted([f.replace('nifty50-', '').replace('.csv', '') for f in all_files])
-    
+
     selected_expiry = st.sidebar.selectbox("Expiry Date", expiry_options)
-    
-    # Load data for that specific expiry
+
     target_file = f"nifty50-{selected_expiry}.csv"
     df_raw = load_data(target_file)
 
     if not df_raw.empty:
         # Option Type Filter
         opt_type = st.sidebar.radio("Option Type", ["Call", "Put"])
-        
-        # Strike Price Filter (Updates based on Option Type)
+
+        # Strike Price Filter
         available_strikes = sorted(df_raw[df_raw['optionType'] == opt_type]['strikePrice'].unique())
         selected_strike = st.sidebar.selectbox("Strike Price", available_strikes)
-        
+
         # Timeframe Filter
         tf_map = {"5m": "5min", "10m": "10min", "15m": "15min", "30m": "30min", "60m": "60min"}
         selected_tf = st.sidebar.selectbox("Timeframe", list(tf_map.keys()), index=0)
 
         # --- 4. Data Processing ---
-        # Filter for the specific contract
         mask = (df_raw['optionType'] == opt_type) & (df_raw['strikePrice'] == selected_strike)
         df_filtered = df_raw[mask].copy()
 
-        # Resample 'openInterest' to create OHLC candles
         ohlc = df_filtered.resample(tf_map[selected_tf], on='datetime')['openInterest'].ohlc().dropna()
-        
-        # Format for Lightweight Charts
         ohlc = ohlc.reset_index()
         ohlc.columns = ['time', 'open', 'high', 'low', 'close']
-        # Convert datetime to Unix timestamp (seconds)
-        ohlc['time'] = (ohlc['time'] - pd.Timestamp("1970-01-01")) // pd.Timedelta('1s')
 
+        # Convert to Unix timestamp (seconds) as native Python int
+        ohlc['time'] = ((ohlc['time'] - pd.Timestamp("1970-01-01")) // pd.Timedelta('1s')).astype(int)
+
+        # Convert OHLC values to native Python float for JSON serialization
+        for col in ['open', 'high', 'low', 'close']:
+            ohlc[col] = ohlc[col].astype(float)
 
         # --- 5. Rendering ---
         st.subheader(f"NIFTY {selected_strike} {opt_type} | Expiry: {selected_expiry} | TF: {selected_tf}")
-        
-        series_data = [
+
+        charts = [
             {
-                "type": "Candlestick",
-                "data": ohlc.to_dict('records'),
-                "options": {
-                    "upColor": "#26a69a",
-                    "downColor": "#ef5350",
-                    "borderVisible": False,
-                    "wickVisible": True,
-                }
+                "chart": {
+                    "layout": {
+                        "backgroundColor": "#131722",
+                        "textColor": "#d1d4dc",
+                        "fontSize": 12,
+                    },
+                    "grid": {
+                        "vertLines": {"color": "#2B2B43"},
+                        "horzLines": {"color": "#2B2B43"},
+                    },
+                    "timeScale": {"timeVisible": True, "secondsVisible": False},
+                    "height": 600,
+                },
+                "series": [
+                    {
+                        "type": "Candlestick",
+                        "data": ohlc.to_dict('records'),
+                        "options": {
+                            "upColor": "#26a69a",
+                            "downColor": "#ef5350",
+                            "borderVisible": False,
+                            "wickVisible": True,
+                        }
+                    }
+                ]
             }
         ]
-        
-        renderLightweightCharts(series_data, {
-            "layout": {
-                "backgroundColor": "#131722",
-                "textColor": "#d1d4dc",
-                "fontSize": 12,
-            },
-            "grid": {
-                "vertLines": {"color": "#2B2B43"},
-                "horzLines": {"color": "#2B2B43"},
-            },
-            "timeScale": {"timeVisible": True, "secondsVisible": False},
-            "height": 600,
-        })
-        
-        # Display raw data snapshot
+
+        renderLightweightCharts(charts, key="nifty_chart")
+
         with st.expander("View Raw Data Snippet"):
             st.dataframe(df_filtered.tail(10))
 
