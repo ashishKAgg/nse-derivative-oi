@@ -29,7 +29,7 @@ def createDirIfNotExists(csvPath):
 
 def getISTDateTime():
     ist_tz = ZoneInfo("Asia/Kolkata")
-    return datetime.now(ist_tz)
+    return datetime.now(ist_tz).strftime('%Y-%m-%d %H:%M:%S')
 
 
 def fetchOptionsFromNSE():

@@ -26,7 +26,8 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.13'
+          cache: 'pip' # Will cache python packages like pandas, requests for subsequent runs
 
       - name: Install dependencies
         run: pip install pandas requests
