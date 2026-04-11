@@ -4,6 +4,7 @@ import pandas as pd
 import json, warnings
 warnings.filterwarnings("ignore")
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 indexSymbol = os.getenv('index_symbol', 'nse50_opt')
 indexName = os.getenv('index_name', 'nifty50')
@@ -26,6 +27,11 @@ def createDirIfNotExists(csvPath):
         os.makedirs(dirPath)
 
 
+def getISTDateTime():
+    ist_tz = ZoneInfo("Asia/Kolkata")
+    return datetime.now(ist_tz)
+
+
 def fetchOptionsFromNSE():
     #Handle Cookies
     with requests.Session() as sess:
@@ -38,7 +44,7 @@ def fetchOptionsFromNSE():
         #Transform json to DataFrame
         df = pd.DataFrame(data['data'])
         #Added DateTime column
-        df["datetime"] = datetime.now()
+        df["datetime"] = getISTDateTime()
         #Remove unused columns
         removeUnusedFeatures(df)
         #Select only current and next week data
