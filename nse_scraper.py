@@ -69,8 +69,6 @@ def selectTwoWeeksData(df):
     ndf = df[(df["lastPrice"] > 0) & ((df["expiryDate_week"] == currWeek) | (df["expiryDate_week"] == currWeek+1))]
     del ndf["expiryDate_week"]
     ndf.reset_index(inplace=True, drop=True)
-    print(f'current week: {currWeek}')
-    print(ndf.head())
     return ndf
 
 

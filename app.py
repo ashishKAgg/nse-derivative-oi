@@ -16,7 +16,7 @@ def load_data(file_name):
     file_path = os.path.join(DATA_DIR, file_name)
     if os.path.exists(file_path):
         df = pd.read_csv(file_path)
-        df['datetime'] = pd.to_datetime(df['datetime'])
+        df['datetime'] = pd.to_datetime(df['datetime'], utc=False)
         return df
     return pd.DataFrame()
 
@@ -53,8 +53,9 @@ try:
         ohlc.columns = ['time', 'open', 'high', 'low', 'close']
 
         # Convert to Unix timestamp (seconds) as native Python int
-        ohlc['time'] = ((ohlc['time'] - pd.Timestamp("1970-01-01")) // pd.Timedelta('1s')).astype(int)
-
+        ohlc['time'] = (ohlc['time'].dt.tz_convert('UTC') - pd.Timestamp("1970-01-01", tz='UTC')) // pd.Timedelta('1s')
+        ohlc['time'] = ohlc['time'].astype(int)
+        
         # Convert OHLC values to native Python float for JSON serialization
         for col in ['open', 'high', 'low', 'close']:
             ohlc[col] = ohlc[col].astype(float)
