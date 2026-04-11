@@ -30,7 +30,7 @@ jobs:
           cache: 'pip' # Will cache python packages like pandas, requests for subsequent runs
 
       - name: Install dependencies
-        run: pip install -r requirements
+        run: pip install -r requirements.txt
 
       - name: Run Scraper
         env:
