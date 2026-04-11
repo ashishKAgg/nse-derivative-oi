@@ -88,8 +88,10 @@ def saveToRepo(df, directory, repoPrefixPath):
     for name, group in grouped:
         csvPath = repoPrefixPath + name + ".csv"
         if os.path.exists(csvPath):
+            print(f'File exists, appending data into it. {csvPath}')
             group.to_csv(csvPath, mode="a", index=False, header=False)
         else:
+            print(f'Creating new file: {csvPath}')
             group.to_csv(csvPath, mode="a", index=False)
         print(f'Successfully created/appended data in file: {csvPath}')
 
