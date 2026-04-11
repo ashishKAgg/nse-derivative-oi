@@ -55,7 +55,9 @@ try:
         # Convert to Unix timestamp (seconds) as native Python int
         ohlc['time'] = (ohlc['time'].dt.tz_convert('UTC') - pd.Timestamp("1970-01-01", tz='UTC')) // pd.Timedelta('1s')
         ohlc['time'] = ohlc['time'].astype(int)
-        
+        # Add IST offset (5.5 hours = 19800 seconds) to shift display
+        ohlc['time'] = ohlc['time'] + 19800
+
         # Convert OHLC values to native Python float for JSON serialization
         for col in ['open', 'high', 'low', 'close']:
             ohlc[col] = ohlc[col].astype(float)
@@ -77,8 +79,7 @@ try:
                     },
                     "timeScale": {
                         "timeVisible": True,
-                        "secondsVisible": False,
-                        "timezone": "Asia/Kolkata"
+                        "secondsVisible": False
                     },
                     "height": 600,
                 },
