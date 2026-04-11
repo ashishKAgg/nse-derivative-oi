@@ -33,6 +33,7 @@ def fetchOptionsFromNSE():
         resp = sess.get(nseOptionsUrl, headers=headers, verify=False)
 
     if resp.status_code == 200:
+        print('Received 200 response from NSE')
         data = json.loads(resp.text)
         #Transform json to DataFrame
         df = pd.DataFrame(data['data'])
@@ -90,6 +91,7 @@ def saveToRepo(df, directory, repoPrefixPath):
             group.to_csv(csvPath, mode="a", index=False, header=False)
         else:
             group.to_csv(csvPath, mode="a", index=False)
+        print(f'Successfully created/appended data in file: {csvPath}')
 
 
 def checkAndCreateNew(csvPath):
@@ -116,14 +118,8 @@ def checkAndCreateNew(csvPath):
 
 
 if __name__ == "__main__":
-    # timer = 180
-    while True:
-        df = fetchOptionsFromNSE()
-        # saveToFile(df,prefixPath)
-        saveToRepo(df, repoDirectory, repoPrefixPath)
-        # Scheduling will be controlled by the workflow itself
-        # if((datetime.now().hour > 14) & (datetime.now().minute > 30)):
-        #     break
-        # else:
-        #     #break
-        #     time.sleep(timer)
+    print('Reading data from NSE')
+    df = fetchOptionsFromNSE()
+    print('Fetched data from NSE, saving it in CSV file')
+    # saveToFile(df,prefixPath)
+    saveToRepo(df, repoDirectory, repoPrefixPath)
