@@ -75,7 +75,11 @@ try:
                         "vertLines": {"color": "#2B2B43"},
                         "horzLines": {"color": "#2B2B43"},
                     },
-                    "timeScale": {"timeVisible": True, "secondsVisible": False},
+                    "timeScale": {
+                        "timeVisible": True,
+                        "secondsVisible": False,
+                        "timezone": "Asia/Kolkata"
+                    },
                     "height": 600,
                 },
                 "series": [
