@@ -7,7 +7,7 @@ on:
     # 1. Start at 03:25 UTC (8:55 AM IST) and run every 5 mins until 03:55 UTC (9:25 AM IST)
     - cron: '25,30,35,40,45,50,55 3 * * 1-5'
     # 2. Run every 5 mins from 04:00 UTC (9:30 AM IST) until 10:00 UTC (15:30 PM IST)
-    - cron: '*/5 4-10 * * 1-5'
+    - cron: '*/15 4-10 * * 1-5'
   workflow_dispatch: # Allows you to run it manually for testing
 
 jobs:
