@@ -2,3 +2,7 @@ pandas
 requests
 streamlit
 streamlit-lightweight-charts
+pyotp
+smartapi-python
+logzero
+plotly
