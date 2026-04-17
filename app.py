@@ -10,13 +10,13 @@ from render_max_pain import render_oi_analytics
 st.set_page_config(layout="wide", page_title="Nifty50 OI OHLC")
 
 # options_tab, futures_tab, options_analytics = st.tabs(["📊 Option OI Analysis", "📈 Nifty Futures Chart", "Options Analytics"])
-options_tab, options_analytics = st.tabs(["📊 Option OI Analysis", "Options Analytics"])
+# options_tab, options_analytics = st.tabs(["📊 Option OI Analysis", "Options Analytics"])
 
-with options_tab:
-    render_oi_chart()
+# with options_tab:
+#     render_oi_chart()
 
 # with futures_tab:
 #     render_futures_chart()
 
-with options_analytics:
-    render_oi_analytics()
+# with options_analytics:
+render_oi_analytics()

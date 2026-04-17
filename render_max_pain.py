@@ -233,8 +233,17 @@ def render_oi_analytics():
             st.error("No CSV files found in the data directory.")
             st.stop()
 
-        expiry_options = sorted([f.replace('nifty50-', '').replace('.csv', '') for f in all_files])
-        selected_expiry = st.sidebar.selectbox("Expiry Date", expiry_options, key='expiry_date')
+        raw_expiries = [f.replace('nifty50-', '').replace('.csv', '') for f in all_files]
+        def _parse_exp(s):
+            try:
+                return pd.to_datetime(s, format="%d-%b-%Y").date()
+            except Exception:
+                return pd.Timestamp.min.date()
+        expiry_options = sorted(raw_expiries, key=_parse_exp, reverse=True)
+        today = pd.Timestamp.now().date()
+        parsed_exp_dates = [_parse_exp(e) for e in expiry_options]
+        default_exp_idx = min(range(len(parsed_exp_dates)), key=lambda i: abs((parsed_exp_dates[i] - today).days))
+        selected_expiry = st.sidebar.selectbox("Expiry Date", expiry_options, index=default_exp_idx, key='expiry_date')
 
         target_file = f"nifty50-{selected_expiry}.csv"
         df_raw = load_data(target_file)
@@ -768,7 +777,7 @@ def render_oi_analytics():
             hist["acceleration"] = hist["velocity"].diff()          # pts per interval²
 
             # Optional smoothing
-            smooth = st.slider("Smoothing window (snapshots)", 1, min(10, len(hist) // 2 or 1), 1, key="smooth_vel")
+            smooth = st.slider("Smoothing window (snapshots)", 1, max(2, min(10, len(hist) // 2)), 1, key="smooth_vel")
             if smooth > 1:
                 hist["velocity_s"]     = hist["velocity"].rolling(smooth, center=True).mean()
                 hist["acceleration_s"] = hist["acceleration"].rolling(smooth, center=True).mean()
