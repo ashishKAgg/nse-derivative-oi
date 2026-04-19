@@ -4,6 +4,7 @@ import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import os
+import time
 
 def set_layout():
     st.set_page_config(
@@ -164,6 +165,392 @@ def compute_max_pain_history(df: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame(records)
 
 
+@st.cache_data(ttl=1800)   # file refreshes every ~30 min
+def load_futures_data() -> pd.DataFrame:
+    """
+    Load Nifty50 futures OHLCV + OI data from the API-populated JSON file.
+
+    Expected JSON layout:
+        { "status": "success",
+          "data":   { "candles": [ [datetime, open, high, low, close, volume, oi], ... ] } }
+
+    Columns returned: datetime, open, high, low, close, volume, oi
+    """
+    import json as _json
+
+    json_path = os.path.join("futuresData", "nifty50", "nifty50_futures_apr_2026.json")
+
+    if not os.path.exists(json_path) or os.path.getsize(json_path) == 0:
+        return pd.DataFrame()
+
+    with open(json_path) as f:
+        raw = _json.load(f)
+
+    candles = raw.get("data", {}).get("candles", [])
+    if not candles:
+        return pd.DataFrame()
+
+    COLS = ["datetime", "open", "high", "low", "close", "volume", "oi"]
+    df   = pd.DataFrame(candles, columns=COLS[:len(candles[0])])
+    df["datetime"] = pd.to_datetime(df["datetime"], utc=False)
+    for c in COLS[1:]:
+        if c in df.columns:
+            df[c] = pd.to_numeric(df[c], errors="coerce")
+
+    return df.sort_values("datetime").reset_index(drop=True)
+
+
+@st.cache_data(ttl=300)
+def compute_pcr_history(df: pd.DataFrame) -> pd.DataFrame:
+    """Compute PCR (Put/Call OI ratio) for every datetime snapshot in df."""
+    records = []
+    for dt, snap in df.groupby("datetime", sort=True):
+        ce_oi = snap[snap["optionType"] == "Call"]["openInterest"].sum()
+        pe_oi = snap[snap["optionType"] == "Put"]["openInterest"].sum()
+        if ce_oi > 0:
+            records.append({
+                "datetime": dt,
+                "pcr":      pe_oi / ce_oi,
+                "ce_oi":    ce_oi,
+                "pe_oi":    pe_oi,
+                "spot":     snap["underlyingValue"].iloc[0],
+            })
+    return pd.DataFrame(records)
+
+
+def compute_trap_signals(df_snap: pd.DataFrame,
+                         pcr_hist: pd.DataFrame,
+                         mp_hist:  pd.DataFrame,
+                         fut_df:   pd.DataFrame = None) -> dict:
+    """
+    Compute all operator-trap indicators and return a flat signal dict.
+
+    Convention:
+      Bull Trap  → operators trap retail bulls; price will fall
+      Bear Trap  → operators trap retail bears; price will rise
+    Positive score values always indicate a trap (bull or bear).
+    """
+    out = {}
+    spot = float(df_snap["underlyingValue"].iloc[0])
+    out["spot"] = spot
+
+    ce_by_strike = df_snap[df_snap["optionType"] == "Call"].groupby("strikePrice")["openInterest"].max()
+    pe_by_strike = df_snap[df_snap["optionType"] == "Put"].groupby("strikePrice")["openInterest"].max()
+    total_ce_oi  = ce_by_strike.sum()
+    total_pe_oi  = pe_by_strike.sum()
+
+    # ── 1. Put-Call Ratio (PCR) ───────────────────────────────────────────────
+    pcr = total_pe_oi / total_ce_oi if total_ce_oi > 0 else 1.0
+    out["pcr"] = pcr
+    if pcr >= 1.5:
+        pcr_bull, pcr_bear = 0, 70
+        pcr_signal = "Extreme PUT writing → Strong bullish operator positioning"
+        pcr_bias   = "BEAR TRAP"
+    elif pcr >= 1.2:
+        pcr_bull, pcr_bear = 0, 40
+        pcr_signal = "High PCR → Moderate bullish operator bias"
+        pcr_bias   = "BEAR TRAP"
+    elif pcr <= 0.70:
+        pcr_bull, pcr_bear = 70, 0
+        pcr_signal = "Extreme CALL writing → Strong bearish operator positioning"
+        pcr_bias   = "BULL TRAP"
+    elif pcr <= 0.85:
+        pcr_bull, pcr_bear = 40, 0
+        pcr_signal = "Low PCR → Moderate bearish operator bias"
+        pcr_bias   = "BULL TRAP"
+    else:
+        pcr_bull, pcr_bear = 0, 0
+        pcr_signal = "PCR near neutral — no directional bias"
+        pcr_bias   = "NEUTRAL"
+    out.update(pcr_signal=pcr_signal, pcr_bias=pcr_bias,
+               pcr_bull_score=pcr_bull, pcr_bear_score=pcr_bear)
+
+    # ── 2. Max Pain Divergence ────────────────────────────────────────────────
+    max_pain, _ = compute_max_pain(df_snap)
+    out["max_pain"] = max_pain
+    div_pct = (spot - max_pain) / max_pain * 100 if max_pain else 0.0
+    out["divergence_pct"] = div_pct
+    abs_div = abs(div_pct)
+    div_score = 80 if abs_div >= 2.0 else 50 if abs_div >= 1.0 else 25 if abs_div >= 0.5 else 0
+    if div_pct > 0:
+        div_bull, div_bear = div_score, 0
+        div_signal = f"Spot +{div_pct:.2f}% above max pain → Gravitational DOWNWARD pull"
+        div_bias   = "BULL TRAP"
+    elif div_pct < 0:
+        div_bull, div_bear = 0, div_score
+        div_signal = f"Spot {div_pct:.2f}% below max pain → Gravitational UPWARD pull"
+        div_bias   = "BEAR TRAP"
+    else:
+        div_bull, div_bear = 0, 0
+        div_signal = "Spot at max pain — no gravitational pull"
+        div_bias   = "NEUTRAL"
+    out.update(div_signal=div_signal, div_bias=div_bias,
+               div_bull_score=div_bull, div_bear_score=div_bear)
+
+    # ── 3. OI Walls ───────────────────────────────────────────────────────────
+    ce_wall = int(ce_by_strike.idxmax()) if not ce_by_strike.empty else int(spot)
+    pe_wall = int(pe_by_strike.idxmax()) if not pe_by_strike.empty else int(spot)
+    out["ce_wall"] = ce_wall
+    out["pe_wall"] = pe_wall
+    ce_wall_dist = (ce_wall - spot) / spot * 100   # +ve = above spot
+    pe_wall_dist = (spot - pe_wall) / spot * 100   # +ve = below spot
+    out["ce_wall_dist_pct"] = ce_wall_dist
+    out["pe_wall_dist_pct"] = pe_wall_dist
+
+    if -0.5 <= ce_wall_dist < 0:
+        wall_bull, wall_bear = 80, 0
+        wall_signal = f"Spot BREACHED CE wall {ce_wall:,} → Fake breakout risk"
+        wall_bias   = "BULL TRAP"
+    elif 0 <= ce_wall_dist <= 1.0:
+        wall_bull, wall_bear = 65, 0
+        wall_signal = f"CE wall {ce_wall:,} only {ce_wall_dist:.1f}% above spot → Strong resistance ahead"
+        wall_bias   = "BULL TRAP"
+    elif -0.5 <= pe_wall_dist < 0:
+        wall_bull, wall_bear = 0, 80
+        wall_signal = f"Spot BREACHED PE wall {pe_wall:,} → Fake breakdown risk"
+        wall_bias   = "BEAR TRAP"
+    elif 0 <= pe_wall_dist <= 1.0:
+        wall_bull, wall_bear = 0, 65
+        wall_signal = f"PE wall {pe_wall:,} only {pe_wall_dist:.1f}% below spot → Strong support below"
+        wall_bias   = "BEAR TRAP"
+    else:
+        wall_bull, wall_bear = 0, 0
+        wall_signal = (f"CE wall {ce_wall_dist:+.1f}% / PE wall {pe_wall_dist:+.1f}% — "
+                       "no immediate pressure")
+        wall_bias   = "NEUTRAL"
+    out.update(wall_signal=wall_signal, wall_bias=wall_bias,
+               wall_bull_score=wall_bull, wall_bear_score=wall_bear)
+
+    # ── 4. ATM OI Skew ────────────────────────────────────────────────────────
+    all_stk = sorted(set(ce_by_strike.index) | set(pe_by_strike.index))
+    if all_stk:
+        atm     = min(all_stk, key=lambda x: abs(x - spot))
+        ai      = all_stk.index(atm)
+        near    = all_stk[max(0, ai - 3): ai + 4]
+        atm_ce  = float(ce_by_strike[ce_by_strike.index.isin(near)].sum())
+        atm_pe  = float(pe_by_strike[pe_by_strike.index.isin(near)].sum())
+        atm_rat = atm_ce / atm_pe if atm_pe > 0 else 1.0
+    else:
+        atm, atm_ce, atm_pe, atm_rat = int(spot), 0.0, 0.0, 1.0
+    out.update(atm=atm, atm_ce_oi=atm_ce, atm_pe_oi=atm_pe, atm_skew_ratio=atm_rat)
+    if atm_rat >= 2.0:
+        skew_bull, skew_bear = 60, 0
+        skew_signal = f"CE OI {atm_rat:.1f}× PE OI near ATM → Heavy call writing → capped upside"
+        skew_bias   = "BULL TRAP"
+    elif atm_rat <= 0.50:
+        skew_bull, skew_bear = 0, 60
+        skew_signal = f"PE OI {1/atm_rat:.1f}× CE OI near ATM → Heavy put writing → capped downside"
+        skew_bias   = "BEAR TRAP"
+    else:
+        skew_bull, skew_bear = 0, 0
+        skew_signal = f"ATM skew ratio {atm_rat:.2f} — balanced near-ATM writing"
+        skew_bias   = "NEUTRAL"
+    out.update(skew_signal=skew_signal, skew_bias=skew_bias,
+               skew_bull_score=skew_bull, skew_bear_score=skew_bear)
+
+    # ── 5. PCR Trend (rolling 5-snapshot direction) ───────────────────────────
+    trend_bull = trend_bear = 0
+    trend_signal  = "Insufficient history for PCR trend"
+    trend_bias    = "NEUTRAL"
+    pcr_trend_val = 0.0
+    if pcr_hist is not None and len(pcr_hist) >= 5:
+        recent        = pcr_hist["pcr"].iloc[-5:].values
+        pcr_trend_val = float(recent[-1] - recent[0])
+        if pcr_trend_val >= 0.2:
+            trend_bull, trend_bear = 0, 55
+            trend_signal = f"PCR +{pcr_trend_val:.2f} over last 5 snaps → Increasing put writing"
+            trend_bias   = "BEAR TRAP"
+        elif pcr_trend_val <= -0.2:
+            trend_bull, trend_bear = 55, 0
+            trend_signal = f"PCR {pcr_trend_val:.2f} over last 5 snaps → Increasing call writing"
+            trend_bias   = "BULL TRAP"
+        else:
+            trend_signal = f"PCR trend {pcr_trend_val:+.3f} — stable operator positioning"
+    out.update(pcr_trend_val=pcr_trend_val, trend_signal=trend_signal, trend_bias=trend_bias,
+               trend_bull_score=trend_bull, trend_bear_score=trend_bear)
+
+    # ── 6. Max Pain Velocity (convergence with spot) ──────────────────────────
+    vel_bull = vel_bear = 0
+    vel_signal = "Insufficient history for velocity analysis"
+    vel_bias   = "NEUTRAL"
+    if mp_hist is not None and len(mp_hist) >= 3:
+        recent_mp = mp_hist.iloc[-3:]
+        mp_vel    = float(recent_mp["max_pain"].diff().mean())
+        convergence = spot - max_pain   # +ve = spot above max pain
+        if abs(mp_vel) > 5:
+            if convergence > 0 and mp_vel > 0:
+                vel_bull, vel_bear = 40, 0
+                vel_signal = f"Max Pain velocity +{mp_vel:.0f} pts/snap — chasing spot UP → bull trap closing"
+                vel_bias   = "BULL TRAP"
+            elif convergence < 0 and mp_vel < 0:
+                vel_bull, vel_bear = 0, 40
+                vel_signal = f"Max Pain velocity {mp_vel:.0f} pts/snap — chasing spot DOWN → bear trap closing"
+                vel_bias   = "BEAR TRAP"
+            else:
+                vel_signal = f"Max Pain velocity {mp_vel:+.0f} pts/snap — diverging from spot"
+                vel_bias   = "DIVERGING"
+        else:
+            vel_signal = f"Max Pain near stationary ({mp_vel:+.1f} pts/snap)"
+    out.update(vel_signal=vel_signal, vel_bias=vel_bias,
+               vel_bull_score=vel_bull, vel_bear_score=vel_bear)
+
+    # ── 7. Futures Basis ──────────────────────────────────────────────────────
+    basis_bull = basis_bear = 0
+    basis_signal = "No futures data available"
+    basis_bias   = "NEUTRAL"
+    basis_val    = 0.0
+    basis_pct    = 0.0
+    fut_close    = None
+    fut_vol      = None
+    fut_vol_avg  = None
+    snap_time    = df_snap["datetime"].max()
+    fut_before   = pd.DataFrame()
+    out["fut_oi_now"] = out["fut_oi_delta"] = None
+
+    if fut_df is not None and not fut_df.empty:
+        # Align futures to market-hours window of the selected day
+        snap_date  = pd.Timestamp(snap_time).date()
+        fut_day    = fut_df[fut_df["datetime"].dt.date == snap_date].sort_values("datetime")
+        fut_before = fut_day[fut_day["datetime"] <= snap_time]
+        if not fut_before.empty:
+            fut_close = float(fut_before.iloc[-1]["close"])
+            fut_vol   = float(fut_before.iloc[-1]["volume"])
+            basis_val = fut_close - spot
+            basis_pct = basis_val / spot * 100
+            # Futures OI (if available)
+            if "oi" in fut_before.columns:
+                out["fut_oi_now"]   = float(fut_before.iloc[-1]["oi"])
+                out["fut_oi_delta"] = (float(fut_before.iloc[-1]["oi"]) -
+                                       float(fut_before.iloc[-2]["oi"])
+                                       if len(fut_before) >= 2 else 0.0)
+            else:
+                out["fut_oi_now"] = out["fut_oi_delta"] = None
+            if basis_pct <= -0.5:
+                basis_bull, basis_bear = 60, 0
+                basis_signal = (f"Backwardation {basis_pct:.2f}% — futures discount to spot → "
+                                "operators SHORT futures → BULL TRAP")
+                basis_bias   = "BULL TRAP"
+            elif basis_pct <= -0.2:
+                basis_bull, basis_bear = 35, 0
+                basis_signal = f"Mild backwardation {basis_pct:.2f}% — slight bearish futures bias"
+                basis_bias   = "BULL TRAP"
+            elif basis_pct >= 0.5:
+                basis_bull, basis_bear = 0, 40
+                basis_signal = (f"Strong contango {basis_pct:.2f}% — futures premium → "
+                                "operators LONG futures → BEAR TRAP")
+                basis_bias   = "BEAR TRAP"
+            elif basis_pct >= 0.2:
+                basis_bull, basis_bear = 0, 20
+                basis_signal = f"Mild contango {basis_pct:.2f}% — slight bullish futures bias"
+                basis_bias   = "BEAR TRAP"
+            else:
+                basis_signal = f"Basis {basis_pct:+.3f}% — futures near parity with spot"
+        else:
+            basis_signal = "No futures bar found for this date / snapshot time"
+    out.update(fut_close=fut_close, basis_val=basis_val, basis_pct=basis_pct,
+               basis_signal=basis_signal, basis_bias=basis_bias,
+               basis_bull_score=basis_bull, basis_bear_score=basis_bear)
+
+    # ── 8. Futures Volume Spike ────────────────────────────────────────────────
+    vol_bull = vol_bear = 0
+    vol_signal  = "No futures data available"
+    vol_bias    = "NEUTRAL"
+    vol_ratio   = 1.0
+
+    if fut_close is not None and len(fut_before) >= 5:
+        avg_window  = fut_before["volume"].iloc[-6:-1]           # 5 bars before current
+        fut_vol_avg = float(avg_window.mean()) if len(avg_window) > 0 else 1.0
+        vol_ratio   = fut_vol / fut_vol_avg if fut_vol_avg > 0 else 1.0
+        # Augment with futures OI change direction if available
+        if "oi" in fut_before.columns:
+            oi_now   = float(fut_before["oi"].iloc[-1])
+            oi_prev  = float(fut_before["oi"].iloc[-2]) if len(fut_before) >= 2 else oi_now
+            oi_delta = oi_now - oi_prev
+            # Rising futures OI + backwardation = fresh short build = BULL TRAP
+            # Rising futures OI + contango     = fresh long build  = BEAR TRAP
+            if oi_delta > 0 and basis_pct <= -0.2:
+                vol_bull = max(vol_bull, 35)
+                vol_bear = 0
+            elif oi_delta > 0 and basis_pct >= 0.2:
+                vol_bear = max(vol_bear, 35)
+                vol_bull = 0
+
+        if vol_ratio >= 2.5:
+            if basis_pct <= -0.2:
+                vol_bull, vol_bear = 50, 0
+                vol_signal = (f"Volume spike {vol_ratio:.1f}× avg with backwardation → "
+                              "Aggressive institutional selling → BULL TRAP")
+                vol_bias   = "BULL TRAP"
+            elif basis_pct >= 0.2:
+                vol_bull, vol_bear = 0, 50
+                vol_signal = (f"Volume spike {vol_ratio:.1f}× avg with contango → "
+                              "Aggressive institutional buying → BEAR TRAP")
+                vol_bias   = "BEAR TRAP"
+            else:
+                vol_signal = f"Volume spike {vol_ratio:.1f}× avg — heavy activity, direction unclear"
+        elif vol_ratio >= 1.5:
+            if basis_pct <= -0.2:
+                vol_bull, vol_bear = 25, 0
+                vol_signal = f"Elevated volume {vol_ratio:.1f}× avg with backwardation → operator pressure"
+                vol_bias   = "BULL TRAP"
+            elif basis_pct >= 0.2:
+                vol_bull, vol_bear = 0, 25
+                vol_signal = f"Elevated volume {vol_ratio:.1f}× avg with contango → operator accumulation"
+                vol_bias   = "BEAR TRAP"
+            else:
+                vol_signal = f"Elevated volume {vol_ratio:.1f}× avg — monitoring needed"
+        else:
+            vol_signal = f"Normal volume ({vol_ratio:.1f}× 5-bar avg) — no unusual activity"
+    elif fut_close is not None:
+        vol_signal = "Insufficient futures history for volume spike analysis"
+    out.update(fut_vol=fut_vol, fut_vol_avg=fut_vol_avg, vol_ratio=vol_ratio,
+               vol_signal=vol_signal, vol_bias=vol_bias,
+               vol_bull_score=vol_bull, vol_bear_score=vol_bear)
+
+    # ── Final Verdict ─────────────────────────────────────────────────────────
+    total_bull = (pcr_bull + div_bull + wall_bull + skew_bull + trend_bull + vel_bull +
+                  basis_bull + vol_bull)
+    total_bear = (pcr_bear + div_bear + wall_bear + skew_bear + trend_bear + vel_bear +
+                  basis_bear + vol_bear)
+    max_possible = 80 + 80 + 70 + 60 + 55 + 40 + 60 + 50   # sum of per-signal max scores
+    bull_conf = min(100, round(total_bull / max_possible * 100))
+    bear_conf = min(100, round(total_bear / max_possible * 100))
+
+    if bull_conf >= 60:
+        verdict, v_color, v_bg, v_conf = (
+            "🔴 BULL TRAP DETECTED", "#dc3545", "#f8d7da", bull_conf)
+        v_detail = ("Strong signals that operators are trapping retail bulls. "
+                    "Current price strength may be artificial — expect a reversal downward.")
+    elif bear_conf >= 60:
+        verdict, v_color, v_bg, v_conf = (
+            "🟢 BEAR TRAP DETECTED", "#198754", "#d1e7dd", bear_conf)
+        v_detail = ("Strong signals that operators are trapping retail bears. "
+                    "Current price weakness may be artificial — expect a reversal upward.")
+    elif bull_conf >= 40:
+        verdict, v_color, v_bg, v_conf = (
+            "⚠️ POSSIBLE BULL TRAP", "#fd7e14", "#fff3cd", bull_conf)
+        v_detail = "Moderate signals suggest a bull trap. Exercise caution on long positions."
+    elif bear_conf >= 40:
+        verdict, v_color, v_bg, v_conf = (
+            "⚠️ POSSIBLE BEAR TRAP", "#fd7e14", "#fff3cd", bear_conf)
+        v_detail = "Moderate signals suggest a bear trap. Exercise caution on short positions."
+    else:
+        # Confidence in "no trap" = inverse of how strong any trap signal is
+        no_trap_conf = max(50, min(90, 100 - max(bull_conf, bear_conf)))
+        verdict, v_color, v_bg, v_conf = (
+            "✅ NO VISIBLE TRAP", "#6c757d", "#f8f9fa", no_trap_conf)
+        v_detail = ("All signals are neutral or weak. Market appears to be trading without "
+                    "a visible operator trap at this time. Operators likely pinning near max pain.")
+
+    out.update(
+        total_bull_score=total_bull, total_bear_score=total_bear,
+        bull_confidence=bull_conf,   bear_confidence=bear_conf,
+        verdict=verdict, verdict_color=v_color, verdict_bg=v_bg,
+        final_confidence=v_conf,     verdict_detail=v_detail,
+    )
+    return out
+
+
 def build_oi_table(df_snap: pd.DataFrame, max_pain: int, n: int = 10) -> pd.DataFrame:
     lot_size = 65  # Nifty 50 lot size
 
@@ -266,9 +653,10 @@ def render_oi_analytics():
         all_strikes = sorted(df["strikePrice"].dropna().unique().astype(int).tolist())
 
         st.divider()
-        auto_refresh = st.toggle("Auto-refresh every 30s", value=False)
+        auto_refresh = st.toggle("Auto-refresh every 3 minutes", value=False)
         if auto_refresh:
-            import time; time.sleep(0.5); st.rerun()
+            time.sleep(3)
+            st.rerun()
 
 
     # ─── Header ──────────────────────────────────────────────────────────────────
@@ -289,7 +677,13 @@ def render_oi_analytics():
     </div>
     """, unsafe_allow_html=True)
 
-    tab1, tab2, tab3, tab4 = st.tabs(["📈  OI Profile & Trend", "🕯  OHLC Single Strike", "⚖️  Max Pain & Table", "📡  Max Pain Velocity"])
+    tab1, tab2, tab3, tab4, tab5 = st.tabs([
+        "📈  OI Profile & Trend",
+        "🕯  OHLC Single Strike",
+        "⚖️  Max Pain & Table",
+        "📡  Max Pain Velocity",
+        "🎯  Operator Trap Detector",
+    ])
 
 
     # ══════════════════════════════════════════════════════════════════════════════
@@ -897,3 +1291,474 @@ def render_oi_analytics():
                 disp["velocity"]    = disp["velocity"].map(lambda x: f"{x:+.0f}" if pd.notna(x) else "—")
                 disp["acceleration"]= disp["acceleration"].map(lambda x: f"{x:+.0f}" if pd.notna(x) else "—")
                 st.dataframe(disp, width='stretch', height=300)
+
+
+    # ══════════════════════════════════════════════════════════════════════════════
+    # TAB 5 — Operator Trap Detector
+    # ══════════════════════════════════════════════════════════════════════════════
+    with tab5:
+        st.markdown('<div class="tab-header">Operator Trap Detector — Signal Analysis & Verdict</div>',
+                    unsafe_allow_html=True)
+
+        df_day5 = date_selector(df, key="t5_date")
+        if df_day5.empty:
+            st.warning("No market-hours data for this date.")
+            st.stop()
+
+        df_snap5  = df_day5[df_day5["datetime"] == df_day5["datetime"].max()].copy()
+        pcr_hist5 = compute_pcr_history(df_day5)
+        mp_hist5  = compute_max_pain_history(df_day5)
+        fut_df5   = load_futures_data()
+        sig       = compute_trap_signals(df_snap5, pcr_hist5, mp_hist5, fut_df=fut_df5)
+
+        # ── Top metrics ──────────────────────────────────────────────────────────
+        mc1, mc2, mc3, mc4, mc5 = st.columns(5)
+        pcr_color = (GAIN_COLOR if sig["pcr"] > 1.2 else
+                     LOSS_COLOR if sig["pcr"] < 0.85 else "#6c757d")
+        div_color = (LOSS_COLOR if sig["divergence_pct"] > 0 else
+                     GAIN_COLOR if sig["divergence_pct"] < 0 else "#6c757d")
+        for col, (lbl, val, sub, clr) in zip(
+            [mc1, mc2, mc3, mc4, mc5],
+            [
+                ("PCR",             f"{sig['pcr']:.3f}",
+                 "Put / Call OI ratio",                    pcr_color),
+                ("Max Pain Gap",    f"{sig['divergence_pct']:+.2f}%",
+                 f"Spot vs MP {sig['max_pain']:,}",         div_color),
+                ("CE Wall",         f"{sig['ce_wall']:,}",
+                 f"{sig['ce_wall_dist_pct']:+.1f}% from spot", CE_COLOR),
+                ("PE Wall",         f"{sig['pe_wall']:,}",
+                 f"{sig['pe_wall_dist_pct']:+.1f}% from spot", PE_COLOR),
+                ("ATM CE/PE Ratio", f"{sig['atm_skew_ratio']:.2f}×",
+                 f"ATM strike {sig['atm']:,}",             "#6f42c1"),
+            ]
+        ):
+            col.markdown(f"""<div class="metric-card">
+            <div class="metric-label">{lbl}</div>
+            <div class="metric-value" style="color:{clr};">{val}</div>
+            <div class="metric-sub">{sub}</div>
+            </div>""", unsafe_allow_html=True)
+
+        # ── Futures metrics row ───────────────────────────────────────────────────
+        fm1, fm2, fm3, fm4, fm5 = st.columns(5)
+        _no_fut = sig["fut_close"] is None
+        basis_clr = ("#6c757d" if _no_fut else
+                     LOSS_COLOR if sig["basis_pct"] <= -0.2 else
+                     GAIN_COLOR if sig["basis_pct"] >= 0.2 else "#6c757d")
+        vol_clr   = ("#6c757d" if _no_fut else
+                     LOSS_COLOR if sig["vol_ratio"] >= 2.5 else
+                     "#fd7e14" if sig["vol_ratio"] >= 1.5 else "#6c757d")
+        for col, (lbl, val, sub, clr) in zip(
+            [fm1, fm2, fm3, fm4, fm5],
+            [
+                ("Futures Price",
+                 f"₹{sig['fut_close']:,.2f}" if not _no_fut else "—",
+                 "Latest futures close", "#17a2b8"),
+                ("Futures Basis",
+                 f"{sig['basis_pct']:+.3f}%" if not _no_fut else "—",
+                 f"₹{sig['basis_val']:+.1f} (fut − spot)" if not _no_fut else "No data",
+                 basis_clr),
+                ("Futures OI",
+                 f"{int(sig['fut_oi_now']):,}" if sig.get('fut_oi_now') is not None else "—",
+                 (f"Δ {int(sig['fut_oi_delta']):+,}" if sig.get('fut_oi_delta') is not None else "—"),
+                 GAIN_COLOR if (sig.get('fut_oi_delta') or 0) > 0 else
+                 LOSS_COLOR if (sig.get('fut_oi_delta') or 0) < 0 else "#6c757d"),
+                ("Futures Volume",
+                 f"{int(sig['fut_vol']):,}" if sig["fut_vol"] is not None else "—",
+                 f"5-bar avg {int(sig['fut_vol_avg']):,}" if sig["fut_vol_avg"] is not None else "—",
+                 vol_clr),
+                ("Vol Spike Ratio",
+                 f"{sig['vol_ratio']:.2f}×" if not _no_fut else "—",
+                 "vs 5-bar average", vol_clr),
+            ]
+        ):
+            col.markdown(f"""<div class="metric-card">
+            <div class="metric-label">{lbl}</div>
+            <div class="metric-value" style="color:{clr};">{val}</div>
+            <div class="metric-sub">{sub}</div>
+            </div>""", unsafe_allow_html=True)
+
+        st.divider()
+
+        # ── Charts row: PCR history | Max Pain divergence history ────────────────
+        ch1, ch2 = st.columns(2)
+
+        with ch1:
+            if not pcr_hist5.empty:
+                fig_pcr = go.Figure()
+                fig_pcr.add_trace(go.Scatter(
+                    x=pcr_hist5["datetime"], y=pcr_hist5["pcr"],
+                    mode="lines+markers", name="PCR",
+                    line=dict(color="#6f42c1", width=2), marker=dict(size=5),
+                    hovertemplate="%{x|%H:%M}<br>PCR: <b>%{y:.3f}</b><extra></extra>"
+                ))
+                fig_pcr.add_hline(y=1.2,  line_dash="dash", line_color=GAIN_COLOR,
+                                  annotation_text="1.2 Bear-trap zone",
+                                  annotation_font_color=GAIN_COLOR)
+                fig_pcr.add_hline(y=0.85, line_dash="dash", line_color=LOSS_COLOR,
+                                  annotation_text="0.85 Bull-trap zone",
+                                  annotation_font_color=LOSS_COLOR)
+                fig_pcr.add_hline(y=1.0,  line_dash="dot",  line_color="#adb5bd",
+                                  annotation_text="Neutral 1.0",
+                                  annotation_font_color="#adb5bd")
+                fig_pcr.update_layout(**PLOTLY_LAYOUT,
+                    title=dict(text="Put-Call Ratio (PCR) — Intraday History",
+                               font=dict(color="#212529", size=14)),
+                    xaxis_title="Time", yaxis_title="PCR", height=360)
+                st.plotly_chart(fig_pcr, width='stretch')
+            else:
+                st.info("Not enough snapshots for PCR history.")
+
+        with ch2:
+            if not mp_hist5.empty:
+                div_series  = (mp_hist5["spot"] - mp_hist5["max_pain"]) / mp_hist5["max_pain"] * 100
+                bar_clrs    = [LOSS_COLOR if v > 0 else GAIN_COLOR for v in div_series]
+                fig_div = go.Figure()
+                fig_div.add_trace(go.Bar(
+                    x=mp_hist5["datetime"], y=div_series,
+                    name="Spot−MaxPain %", marker_color=bar_clrs, opacity=0.82,
+                    hovertemplate="%{x|%H:%M}<br>Gap: <b>%{y:+.2f}%</b><extra></extra>"
+                ))
+                fig_div.add_hline(y=0,    line_color="#dee2e6", line_width=1.5)
+                fig_div.add_hline(y=1.0,  line_dash="dash", line_color=LOSS_COLOR,
+                                  annotation_text="+1% Bull-trap zone",
+                                  annotation_font_color=LOSS_COLOR)
+                fig_div.add_hline(y=-1.0, line_dash="dash", line_color=GAIN_COLOR,
+                                  annotation_text="−1% Bear-trap zone",
+                                  annotation_font_color=GAIN_COLOR)
+                fig_div.update_layout(**PLOTLY_LAYOUT,
+                    title=dict(text="Spot vs Max Pain Divergence % (History)",
+                               font=dict(color="#212529", size=14)),
+                    xaxis_title="Time",
+                    yaxis_title="(Spot − MaxPain) / MaxPain %",
+                    height=360)
+                st.plotly_chart(fig_div, width='stretch')
+
+        # ── Futures Basis + Volume chart ──────────────────────────────────────────
+        if not fut_df5.empty:
+            snap_date5 = pd.Timestamp(df_day5["datetime"].max()).date()
+            fut_day5   = fut_df5[fut_df5["datetime"].dt.date == snap_date5].sort_values("datetime")
+            if not fut_day5.empty:
+                st.markdown("---")
+                st.markdown("#### Futures Basis & Volume — Intraday")
+                fc1, fc2 = st.columns(2)
+
+                with fc1:
+                    # Basis line: need spot at each futures bar time
+                    # Approximate spot from max pain history (spot column)
+                    if not mp_hist5.empty:
+                        mp_idx = mp_hist5.set_index("datetime")["spot"]
+                        basis_vals = []
+                        for _, row in fut_day5.iterrows():
+                            # nearest spot at or before this bar
+                            sp_before = mp_idx[mp_idx.index <= row["datetime"]]
+                            s = float(sp_before.iloc[-1]) if not sp_before.empty else float(row["close"])
+                            basis_vals.append(row["close"] - s)
+                    else:
+                        basis_vals = [0.0] * len(fut_day5)
+
+                    b_clrs = [LOSS_COLOR if v < 0 else GAIN_COLOR for v in basis_vals]
+                    fig_bas = go.Figure()
+                    fig_bas.add_trace(go.Bar(
+                        x=fut_day5["datetime"], y=basis_vals,
+                        name="Basis (Fut−Spot)", marker_color=b_clrs, opacity=0.8,
+                        hovertemplate="%{x|%H:%M}<br>Basis: <b>₹%{y:+.1f}</b><extra></extra>"
+                    ))
+                    fig_bas.add_hline(y=0, line_color="#dee2e6", line_width=1.5)
+                    fig_bas.update_layout(**PLOTLY_LAYOUT,
+                        title=dict(text="Futures Basis (Futures − Spot) — Backwardation = Bearish",
+                                   font=dict(color="#212529", size=13)),
+                        xaxis_title="Time", yaxis_title="Basis (₹)", height=320)
+                    st.plotly_chart(fig_bas, width='stretch')
+
+                with fc2:
+                    vol_avg_line = fut_day5["volume"].expanding().mean()
+                    v_clrs = [LOSS_COLOR if v >= 2.5 * a else
+                              "#fd7e14"  if v >= 1.5 * a else CE_COLOR
+                              for v, a in zip(fut_day5["volume"], vol_avg_line)]
+                    if "oi" in fut_day5.columns:
+                        fig_vol = make_subplots(rows=2, cols=1, shared_xaxes=True,
+                                                row_heights=[0.55, 0.45],
+                                                vertical_spacing=0.06,
+                                                subplot_titles=["Futures Volume", "Futures OI"])
+                        fig_vol.add_trace(go.Bar(
+                            x=fut_day5["datetime"], y=fut_day5["volume"],
+                            name="Volume", marker_color=v_clrs, opacity=0.8,
+                            hovertemplate="%{x|%H:%M}<br>Vol: <b>%{y:,}</b><extra></extra>"
+                        ), row=1, col=1)
+                        fig_vol.add_trace(go.Scatter(
+                            x=fut_day5["datetime"], y=vol_avg_line,
+                            mode="lines", name="Vol Avg",
+                            line=dict(color="#6f42c1", width=2, dash="dot"),
+                            hovertemplate="%{x|%H:%M}<br>Avg: <b>%{y:,.0f}</b><extra></extra>"
+                        ), row=1, col=1)
+                        oi_delta_colors = [GAIN_COLOR if d >= 0 else LOSS_COLOR
+                                           for d in fut_day5["oi"].diff().fillna(0)]
+                        fig_vol.add_trace(go.Bar(
+                            x=fut_day5["datetime"], y=fut_day5["oi"],
+                            name="Futures OI", marker_color=oi_delta_colors, opacity=0.75,
+                            hovertemplate="%{x|%H:%M}<br>OI: <b>%{y:,}</b><extra></extra>"
+                        ), row=2, col=1)
+                    else:
+                        fig_vol = go.Figure()
+                        fig_vol.add_trace(go.Bar(
+                            x=fut_day5["datetime"], y=fut_day5["volume"],
+                            name="Volume", marker_color=v_clrs, opacity=0.8,
+                            hovertemplate="%{x|%H:%M}<br>Vol: <b>%{y:,}</b><extra></extra>"
+                        ))
+                        fig_vol.add_trace(go.Scatter(
+                            x=fut_day5["datetime"], y=vol_avg_line,
+                            mode="lines", name="Cumulative Avg",
+                            line=dict(color="#6f42c1", width=2, dash="dot"),
+                            hovertemplate="%{x|%H:%M}<br>Avg: <b>%{y:,.0f}</b><extra></extra>"
+                        ))
+                    fig_vol.update_layout(**PLOTLY_LAYOUT,
+                        title=dict(
+                            text="Futures Volume + OI — Red=2.5× spike, Orange=1.5× elevated",
+                            font=dict(color="#212529", size=13)),
+                        xaxis_title="Time", height=380,
+                        xaxis_rangeslider_visible=False)
+                    st.plotly_chart(fig_vol, width='stretch')
+
+        # ── OI Wall Visualization ─────────────────────────────────────────────────
+        st.markdown("---")
+        st.markdown("#### OI Distribution — CE Wall, PE Wall & Spot")
+
+        TOP_N       = 20
+        ce_top      = (df_snap5[df_snap5["optionType"] == "Call"]
+                       .groupby("strikePrice")["openInterest"].max()
+                       .nlargest(TOP_N))
+        pe_top      = (df_snap5[df_snap5["optionType"] == "Put"]
+                       .groupby("strikePrice")["openInterest"].max()
+                       .nlargest(TOP_N))
+        wall_stk    = sorted(set(ce_top.index) | set(pe_top.index))
+        ce_vals     = [float(ce_top.get(s, 0)) for s in wall_stk]
+        pe_vals     = [float(pe_top.get(s, 0)) for s in wall_stk]
+        ce_clrs_w   = [MAX_COLOR if s == sig["ce_wall"] else CE_COLOR for s in wall_stk]
+        pe_clrs_w   = ["#20c997"  if s == sig["pe_wall"] else PE_COLOR for s in wall_stk]
+
+        fig_wall = go.Figure()
+        fig_wall.add_trace(go.Bar(
+            x=wall_stk, y=ce_vals, name="CE OI",
+            marker_color=ce_clrs_w, opacity=0.85,
+            hovertemplate="Strike %{x:,}<br>CE OI: <b>%{y:,.0f}</b><extra></extra>"
+        ))
+        fig_wall.add_trace(go.Bar(
+            x=wall_stk, y=pe_vals, name="PE OI",
+            marker_color=pe_clrs_w, opacity=0.85,
+            hovertemplate="Strike %{x:,}<br>PE OI: <b>%{y:,.0f}</b><extra></extra>"
+        ))
+        fig_wall.add_vline(x=sig["spot"],     line_dash="dot",      line_color="#fd7e14",
+                           annotation_text=f"Spot {int(sig['spot']):,}",
+                           annotation_font_color="#fd7e14")
+        fig_wall.add_vline(x=sig["max_pain"], line_dash="dash",     line_color=MAX_COLOR,
+                           annotation_text=f"Max Pain {sig['max_pain']:,}",
+                           annotation_font_color=MAX_COLOR)
+        fig_wall.add_vline(x=sig["ce_wall"],  line_dash="longdash", line_color=CE_COLOR,
+                           annotation_text=f"CE Wall {sig['ce_wall']:,}",
+                           annotation_font_color=CE_COLOR,
+                           annotation_position="top left")
+        fig_wall.add_vline(x=sig["pe_wall"],  line_dash="longdash", line_color=PE_COLOR,
+                           annotation_text=f"PE Wall {sig['pe_wall']:,}",
+                           annotation_font_color=PE_COLOR,
+                           annotation_position="top left")
+        fig_wall.update_layout(**(PLOTLY_LAYOUT | dict(
+            barmode="group",
+            title=dict(
+                text="Top OI Strikes — CE Wall (★ highlighted) & PE Wall (★ highlighted)",
+                font=dict(color="#212529", size=14)),
+            xaxis=dict(title="Strike Price", tickmode="array",
+                       tickvals=wall_stk,
+                       ticktext=[f"{int(s):,}" for s in wall_stk],
+                       tickangle=-45, gridcolor="#e9ecef"),
+            yaxis=dict(title="Open Interest", tickformat=",", gridcolor="#e9ecef"),
+            height=430,
+        )))
+        st.plotly_chart(fig_wall, width='stretch')
+
+        # ── Signal Scorecard ──────────────────────────────────────────────────────
+        st.markdown("---")
+        st.markdown("#### 📊 Signal Scorecard")
+        st.caption("Each signal contributes an independent score toward the final verdict. "
+                   "Scores ≥ 60 are highlighted as strong. Threshold for verdict: combined confidence ≥ 60%.")
+
+        scorecard = pd.DataFrame([
+            {
+                "Signal":           "Put-Call Ratio (PCR)",
+                "Value":            f"{sig['pcr']:.3f}",
+                "Bull Trap Score":  sig["pcr_bull_score"],
+                "Bear Trap Score":  sig["pcr_bear_score"],
+                "Bias":             sig["pcr_bias"],
+                "Interpretation":   sig["pcr_signal"],
+            },
+            {
+                "Signal":           "Max Pain Divergence",
+                "Value":            f"{sig['divergence_pct']:+.2f}%",
+                "Bull Trap Score":  sig["div_bull_score"],
+                "Bear Trap Score":  sig["div_bear_score"],
+                "Bias":             sig["div_bias"],
+                "Interpretation":   sig["div_signal"],
+            },
+            {
+                "Signal":           "OI Wall Proximity",
+                "Value":            f"CE {sig['ce_wall_dist_pct']:+.1f}% / PE {sig['pe_wall_dist_pct']:+.1f}%",
+                "Bull Trap Score":  sig["wall_bull_score"],
+                "Bear Trap Score":  sig["wall_bear_score"],
+                "Bias":             sig["wall_bias"],
+                "Interpretation":   sig["wall_signal"],
+            },
+            {
+                "Signal":           "ATM OI Skew (CE÷PE)",
+                "Value":            f"{sig['atm_skew_ratio']:.2f}×",
+                "Bull Trap Score":  sig["skew_bull_score"],
+                "Bear Trap Score":  sig["skew_bear_score"],
+                "Bias":             sig["skew_bias"],
+                "Interpretation":   sig["skew_signal"],
+            },
+            {
+                "Signal":           "PCR Trend (5-snap Δ)",
+                "Value":            f"{sig['pcr_trend_val']:+.3f}",
+                "Bull Trap Score":  sig["trend_bull_score"],
+                "Bear Trap Score":  sig["trend_bear_score"],
+                "Bias":             sig["trend_bias"],
+                "Interpretation":   sig["trend_signal"],
+            },
+            {
+                "Signal":           "Max Pain Velocity",
+                "Value":            "—",
+                "Bull Trap Score":  sig["vel_bull_score"],
+                "Bear Trap Score":  sig["vel_bear_score"],
+                "Bias":             sig["vel_bias"],
+                "Interpretation":   sig["vel_signal"],
+            },
+            {
+                "Signal":           "Futures Basis",
+                "Value":            (f"{sig['basis_pct']:+.3f}%"
+                                     if sig["fut_close"] is not None else "—"),
+                "Bull Trap Score":  sig["basis_bull_score"],
+                "Bear Trap Score":  sig["basis_bear_score"],
+                "Bias":             sig["basis_bias"],
+                "Interpretation":   sig["basis_signal"],
+            },
+            {
+                "Signal":           "Futures Vol Spike",
+                "Value":            (f"{sig['vol_ratio']:.2f}×"
+                                     if sig["fut_close"] is not None else "—"),
+                "Bull Trap Score":  sig["vol_bull_score"],
+                "Bear Trap Score":  sig["vol_bear_score"],
+                "Bias":             sig["vol_bias"],
+                "Interpretation":   sig["vol_signal"],
+            },
+            {
+                "Signal":           "━━ TOTAL ━━",
+                "Value":            "",
+                "Bull Trap Score":  sig["total_bull_score"],
+                "Bear Trap Score":  sig["total_bear_score"],
+                "Bias":             ("BULL TRAP" if sig["bull_confidence"] >= sig["bear_confidence"]
+                                     else "BEAR TRAP"),
+                "Interpretation":   (f"Bull confidence: {sig['bull_confidence']}%  |  "
+                                     f"Bear confidence: {sig['bear_confidence']}%"),
+            },
+        ])
+
+        def _style_bias(val):
+            s = str(val)
+            if "BULL TRAP" in s:
+                return "background-color:#f8d7da; color:#842029; font-weight:600;"
+            if "BEAR TRAP" in s:
+                return "background-color:#d1e7dd; color:#0f5132; font-weight:600;"
+            if s == "NEUTRAL":
+                return "color:#6c757d;"
+            if s == "DIVERGING":
+                return "color:#6f42c1;"
+            return ""
+
+        def _style_score(val):
+            if isinstance(val, (int, float)):
+                if val >= 60:
+                    return "font-weight:700; color:#dc3545;"
+                if val >= 30:
+                    return "font-weight:600; color:#fd7e14;"
+            return ""
+
+        def _highlight_total(row):
+            if str(row["Signal"]).startswith("━"):
+                return ["font-weight:700; border-top:2px solid #dee2e6;"] * len(row)
+            return [""] * len(row)
+
+        styled_sc = (
+            scorecard.style
+            .apply(_highlight_total, axis=1)
+            .map(_style_bias,  subset=["Bias"])
+            .map(_style_score, subset=["Bull Trap Score", "Bear Trap Score"])
+            .set_properties(**{"font-family": "JetBrains Mono, monospace", "font-size": "12px"})
+        )
+        st.dataframe(styled_sc, width='stretch', height=390)
+
+        # ── Final Verdict ─────────────────────────────────────────────────────────
+        st.markdown("---")
+        st.markdown("#### 🎯 Final Verdict")
+
+        st.markdown(f"""
+        <div style="
+            background:{sig['verdict_bg']};
+            border:2px solid {sig['verdict_color']};
+            border-radius:16px;
+            padding:28px 32px;
+            text-align:center;
+        ">
+            <div style="font-size:28px; font-weight:800;
+                        color:{sig['verdict_color']};
+                        font-family:'Sora',sans-serif; margin-bottom:8px;">
+                {sig['verdict']}
+            </div>
+            <div style="font-size:15px; color:{sig['verdict_color']};
+                        opacity:0.85; font-weight:500; margin-bottom:12px;">
+                Confidence: <b>{sig['final_confidence']}%</b>
+            </div>
+            <div style="font-size:13px; color:#495057; line-height:1.6;">
+                {sig['verdict_detail']}
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+
+        gc1, gc2 = st.columns(2)
+        for gcol, (trap_lbl, conf_val, bar_clr, steps_clrs) in zip(
+            [gc1, gc2],
+            [
+                ("Bull Trap Confidence", sig["bull_confidence"], LOSS_COLOR,
+                 [{"range": [0, 40],  "color": "#f8f9fa"},
+                  {"range": [40, 60], "color": "#fff3cd"},
+                  {"range": [60, 100],"color": "#f8d7da"}]),
+                ("Bear Trap Confidence", sig["bear_confidence"], GAIN_COLOR,
+                 [{"range": [0, 40],  "color": "#f8f9fa"},
+                  {"range": [40, 60], "color": "#fff3cd"},
+                  {"range": [60, 100],"color": "#d1e7dd"}]),
+            ]
+        ):
+            fig_g = go.Figure(go.Indicator(
+                mode="gauge+number",
+                value=conf_val,
+                title={"text": trap_lbl, "font": {"color": bar_clr, "size": 15}},
+                gauge={
+                    "axis":        {"range": [0, 100], "tickcolor": "#495057",
+                                    "tickfont": {"size": 12}},
+                    "bar":         {"color": bar_clr, "thickness": 0.25},
+                    "bgcolor":     "#ffffff",
+                    "bordercolor": "#dee2e6",
+                    "borderwidth": 2,
+                    "steps":       steps_clrs,
+                    "threshold":   {"line": {"color": bar_clr, "width": 4}, "value": 60},
+                },
+                number={"suffix": "%", "font": {"color": bar_clr, "size": 36}},
+            ))
+            fig_g.update_layout(
+                paper_bgcolor="#ffffff",
+                font=dict(family="Sora, sans-serif", color="#495057"),
+                height=340,
+                margin=dict(l=30, r=30, t=60, b=20),
+            )
+            gcol.plotly_chart(fig_g, width='stretch')
+
+        st.caption(
+            "Build in India."
+        )
