@@ -1,0 +1,59 @@
+name: Fetch Global Market Cues
+
+# yfinance gives ~15-min delayed data for free — good enough for gap analysis.
+#
+# Two separate schedules via cron-job.org:
+#
+# ── 1. Pre-market snapshot (most important) ──────────────────────────────────
+#   08:30 IST (03:00 UTC) weekdays — US closed, Asia settling, before Indian open.
+#   This is the single most useful run for Monday gap prediction etc.
+#
+# ── 2. Intraday every 15 minutes ─────────────────────────────────────────────
+#   Covers US session overlap + Asian open for next-day context.
+#   Runs 18:00–23:30 IST (12:30–18:00 UTC) Mon–Fri to capture US market hours.
+#
+# WHY NOT EVERY 5 MINUTES:
+#   • GitHub Actions has a minimum cron of */5 but can lag 10-30 min under load.
+#   • yfinance data is already 15-min delayed — running faster wastes quota.
+#   • For truly live global data (sub-5-min), use a paid feed (Refinitiv, Bloomberg).
+#
+# cron-job.org webhooks → POST to:
+#   https://api.github.com/repos/<owner>/<repo>/actions/workflows/fetch_global_markets.yaml/dispatches
+# Body: {"ref": "main"}
+# Header: Authorization: Bearer <GITHUB_PAT>
+#
+# Set up TWO cron-job.org jobs pointing at the same webhook:
+#   Job 1: Daily weekdays 03:00 UTC          (pre-market snapshot)
+#   Job 2: Every 15 min, 12:30-18:00 UTC, Mon-Fri  (US session)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-global:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install pandas yfinance
+
+      - name: Fetch global market snapshot
+        run: python scripts/fetch_global_markets.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add globalCues/
+          git commit -m "Global cues snapshot $(date -u '+%Y-%m-%d %H:%M') UTC" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main

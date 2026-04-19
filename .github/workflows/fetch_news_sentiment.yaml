@@ -1,0 +1,61 @@
+name: Fetch News & Sentiment
+
+# Triggered from cron-job.org every 5 minutes during market hours.
+#
+# ── cron-job.org setup ───────────────────────────────────────────────────────
+# Create ONE job on cron-job.org with:
+#   URL:    https://api.github.com/repos/<owner>/<repo>/actions/workflows/fetch_news_sentiment.yaml/dispatches
+#   Method: POST
+#   Headers:
+#     Authorization: Bearer <GITHUB_PAT>    ← PAT with repo/actions scope
+#     Content-Type:  application/json
+#   Body:   {"ref": "main"}
+#   Schedule: Every 5 minutes
+#   Active hours: 08:55 – 15:35 IST  (03:25 – 10:05 UTC)  Mon–Fri
+#     → covers pre-open + full market session
+#
+# ── Optional: also run after US market close (next-day gap cues) ─────────────
+#   Second cron-job.org job, same URL, every 30 min:
+#   Active hours: 21:00 – 23:30 IST (15:30 – 18:00 UTC) Mon–Fri
+#
+# ── Secrets required ─────────────────────────────────────────────────────────
+#   FINNHUB_API_KEY  (optional) — free at https://finnhub.io/register
+#                    If not set, only RSS feeds are used (still fully functional)
+# ─────────────────────────────────────────────────────────────────────────────
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-sentiment:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5        # hard cap — news fetch should finish in < 60 s
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1       # shallow clone — we only need latest state
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install vaderSentiment requests
+
+      - name: Fetch news & run sentiment
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python scripts/fetch_news_sentiment.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add newsData/
+          git commit -m "News sentiment $(date -u '+%Y-%m-%d %H:%M') UTC" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main

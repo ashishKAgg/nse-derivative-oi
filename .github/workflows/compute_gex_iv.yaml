@@ -1,0 +1,49 @@
+name: Compute GEX & IV Rank
+
+# Runs every 5 minutes during market hours — piggybacking on the same
+# cron-job.org infrastructure as NSE OI Collector.
+#
+# IMPORTANT: This job should run AFTER the OI scrape has committed fresh data.
+# Add a 60-second delay in cron-job.org for this job relative to the OI job
+# (e.g. OI job fires at :00, this job fires at :01).
+#
+# cron-job.org webhook -> POST:
+#   https://api.github.com/repos/<owner>/<repo>/actions/workflows/compute_gex_iv.yaml/dispatches
+# Body:   {"ref": "main"}
+# Header: Authorization: Bearer <GITHUB_PAT>
+# Schedule: Every 5 minutes, 09:01-15:31 IST (03:31-10:01 UTC), Mon-Fri
+
+on:
+  workflow_dispatch:
+
+jobs:
+  compute-gex-iv:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install pandas scipy
+
+      - name: Compute GEX and IV Rank
+        run: python scripts/compute_gex_iv.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add gexData/ ivData/
+          git commit -m "GEX+IV update $(date -u '+%Y-%m-%d %H:%M') UTC" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main

@@ -5,15 +5,9 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import os
 import time
+from render_live_data import render_live_data_tab
 
 def set_layout():
-    st.set_page_config(
-        page_title="Options OI Analytics",
-        page_icon="📈",
-        layout="wide",
-        initial_sidebar_state="expanded"
-    )
-
     # ─── Light theme CSS ────────────────────────────────────────────────────────
     st.markdown("""
     <style>
@@ -677,12 +671,13 @@ def render_oi_analytics():
     </div>
     """, unsafe_allow_html=True)
 
-    tab1, tab2, tab3, tab4, tab5 = st.tabs([
+    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
         "📈  OI Profile & Trend",
         "🕯  OHLC Single Strike",
         "⚖️  Max Pain & Table",
         "📡  Max Pain Velocity",
         "🎯  Operator Trap Detector",
+        "📡  Live Market Data",
     ])
 
 
@@ -1762,3 +1757,9 @@ def render_oi_analytics():
         st.caption(
             "Build in India."
         )
+
+    # ══════════════════════════════════════════════════════════════════════════════
+    # TAB 6 — Live Market Data (Angel One SmartAPI)
+    # ══════════════════════════════════════════════════════════════════════════════
+    with tab6:
+        render_live_data_tab()

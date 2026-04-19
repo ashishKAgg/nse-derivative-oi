@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-04-19 14:46:14 IST",
+  "total_articles": 60,
+  "bullish_count": 37,
+  "bearish_count": 13,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2768,
+  "weighted_score": 0.2721,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
+  "top_bullish": [
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+  ],
+  "top_bearish": [
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+  ],
+  "sources_hit": [
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top"
+  ]
+}

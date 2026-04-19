@@ -1,0 +1,42 @@
+name: Fetch India VIX
+
+# Triggered from cron-job.org (same pattern as NSE OI Collector).
+# Recommended cron-job.org schedule:
+#   Daily on weekdays at 15:55 IST (10:25 UTC) — after market close, before NSE data purge.
+#
+# cron-job.org webhook URL → POST to:
+#   https://api.github.com/repos/<owner>/<repo>/actions/workflows/fetch_india_vix.yaml/dispatches
+# Body: {"ref": "main"}
+# Header: Authorization: Bearer <GITHUB_PAT>
+
+on:
+  workflow_dispatch:   # manual trigger + cron-job.org webhook
+
+jobs:
+  fetch-vix:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install pandas requests
+
+      - name: Fetch India VIX
+        run: python scripts/fetch_india_vix.py
+
+      - name: Commit and push
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add vixData/
+          git commit -m "India VIX update $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin main
