@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28 15:55:28 IST",
+  "generated_at": "2026-04-28 16:00:51 IST",
   "total_articles": 60,
-  "bullish_count": 33,
+  "bullish_count": 32,
   "bearish_count": 16,
-  "neutral_count": 11,
-  "avg_fin_score": 0.1772,
-  "weighted_score": 0.2498,
+  "neutral_count": 12,
+  "avg_fin_score": 0.1743,
+  "weighted_score": 0.2485,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
@@ -19,9 +19,9 @@
     "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Top",
     "LiveMint Markets",
     "MoneyControl Comm",
-    "MoneyControl Top",
     "MoneyControl Mkts"
   ]
 }
