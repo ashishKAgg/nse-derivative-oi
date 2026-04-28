@@ -1,10 +1,10 @@
 {
-  "computed_at": "2026-04-28 14:20:47 IST",
-  "spot": 23984.5,
+  "computed_at": "2026-04-28 14:25:39 IST",
+  "spot": 23992.2,
   "atm_strike": 24000,
-  "atm_iv": 23.63,
-  "iv_rank": 95.9,
-  "iv_pctile": 96.2,
+  "atm_iv": 22.47,
+  "iv_rank": 80.0,
+  "iv_pctile": 81.5,
   "verdict": "IV HIGH \u2014 Options expensive, mean-reversion likely",
   "verdict_color": "#dc3545"
 }
