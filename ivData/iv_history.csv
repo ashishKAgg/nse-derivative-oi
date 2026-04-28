@@ -5,3 +5,4 @@ computed_at,spot,atm_strike,atm_iv,iv_rank,iv_pctile,verdict
 2026-04-28 10:05:39 IST,24135.0,24150,21.48,,,INSUFFICIENT HISTORY
 2026-04-28 10:10:45 IST,24156.95,24150,19.94,,,INSUFFICIENT HISTORY
 2026-04-28 10:15:45 IST,24161.75,24150,19.84,-4.2,0.0,"IV LOW — Options cheap, big move expected"
+2026-04-28 10:20:44 IST,24146.25,24150,19.79,-2.0,0.0,"IV LOW — Options cheap, big move expected"
