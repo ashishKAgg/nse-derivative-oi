@@ -42,3 +42,4 @@ computed_at,spot,atm_strike,atm_iv,iv_rank,iv_pctile,verdict
 2026-04-28 13:15:48 IST,24029.3,24050,20.73,68.3,65.0,IV ELEVATED — Slight premium in options
 2026-04-28 13:20:49 IST,24018.9,24000,21.38,79.1,87.8,IV ELEVATED — Slight premium in options
 2026-04-28 13:25:40 IST,24029.7,24050,21.18,75.7,76.2,IV ELEVATED — Slight premium in options
+2026-04-28 13:31:17 IST,24041.75,24050,21.62,83.1,93.0,"IV HIGH — Options expensive, mean-reversion likely"
