@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-28 12:15:36 IST",
+  "generated_at": "2026-04-28 12:20:35 IST",
   "summary": {
-    "generated_at": "2026-04-28 12:15:36 IST",
+    "generated_at": "2026-04-28 12:20:35 IST",
     "total_articles": 60,
-    "bullish_count": 33,
-    "bearish_count": 18,
+    "bullish_count": 34,
+    "bearish_count": 17,
     "neutral_count": 9,
-    "avg_fin_score": 0.2112,
-    "weighted_score": 0.2562,
+    "avg_fin_score": 0.2385,
+    "weighted_score": 0.2637,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -21,10 +21,10 @@
       "Subramanian Swamy seeks ban on import of cement from Pakistan"
     ],
     "sources_hit": [
-      "MoneyControl Top",
-      "LiveMint Markets",
+      "MoneyControl Mkts",
       "MoneyControl Comm",
-      "MoneyControl Mkts"
+      "LiveMint Markets",
+      "MoneyControl Top"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,7 +581,37 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "₹1.25 to ₹122.20: Multibagger penny stock turns ₹1 lakh into ₹98 lakh in six years",
+      "summary": "The share price of Websol Energy System, which was once priced at ₹1.25 in April 2020, is now trading at ₹122 on the NSE. Here's share price trend and investment growth of the multibagger penny stock.",
+      "url": "https://www.livemint.com/market/stock-market-news/125-to-122-20-multibagger-penny-stock-websol-energy-system-turns-1-lakh-into-98-lakh-in-six-years-11777355225216.html",
+      "published": "Tue, 28 Apr 2026 12:18:46 +0530",
+      "compound": 0.7964,
+      "pos": 0.162,
+      "neg": 0.0,
+      "neu": 0.838,
+      "fin_score": 0.7964,
+      "label": "BULLISH",
+      "id": "3917c3ea7db8",
+      "fetched_at": "2026-04-28 12:20:35 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Vodafone Idea, SEPC, Suzlon Energy, Orient Green Power among the most traded stocks today, 28 April 2026",
+      "summary": "Vodafone Idea, SEPC, Suzlon Energy, Orient Green Power Company, HCC, and Jaiprakash Power Ventures (JP Power) &nbsp;were the most traded stocks, or most active stocks in volume, on the NSE on 28 April.",
+      "url": "https://www.livemint.com/market/stock-market-news/vodafone-idea-sepc-suzlon-energy-orient-green-power-among-the-most-traded-stocks-today-28-april-2026-11777354198089.html",
+      "published": "Tue, 28 Apr 2026 12:14:22 +0530",
+      "compound": 0.7346,
+      "pos": 0.133,
+      "neg": 0.0,
+      "neu": 0.867,
+      "fin_score": 0.7346,
+      "label": "BULLISH",
+      "id": "7186db369c7d",
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -596,7 +626,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "0ca8de3c2163",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -611,7 +641,7 @@
       "fin_score": 0.7455,
       "label": "BULLISH",
       "id": "3909890fed0f",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -626,7 +656,7 @@
       "fin_score": -0.2331,
       "label": "BEARISH",
       "id": "7c8217ea933f",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -641,7 +671,7 @@
       "fin_score": 0.7184,
       "label": "BULLISH",
       "id": "1fbd1e8c7c2b",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -656,7 +686,7 @@
       "fin_score": -0.8306,
       "label": "BEARISH",
       "id": "a0fcffad1b03",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -671,7 +701,7 @@
       "fin_score": 0.1779,
       "label": "BULLISH",
       "id": "54975fa2ba57",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -686,7 +716,7 @@
       "fin_score": -0.9902,
       "label": "BEARISH",
       "id": "55e030e26394",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -701,7 +731,7 @@
       "fin_score": 0.802,
       "label": "BULLISH",
       "id": "3e9d3bf882f9",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -716,7 +746,7 @@
       "fin_score": -0.8271,
       "label": "BEARISH",
       "id": "ce440c83c43b",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -731,7 +761,7 @@
       "fin_score": -0.4182,
       "label": "BEARISH",
       "id": "9f85fbcd870b",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -746,7 +776,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "50a5d4977d81",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -761,7 +791,7 @@
       "fin_score": 0.4376,
       "label": "BULLISH",
       "id": "74ca0f4c383c",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -776,7 +806,7 @@
       "fin_score": 0.8979,
       "label": "BULLISH",
       "id": "e92295691245",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -791,7 +821,7 @@
       "fin_score": 0.8176,
       "label": "BULLISH",
       "id": "264c4857976b",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -806,7 +836,7 @@
       "fin_score": 0.9325,
       "label": "BULLISH",
       "id": "8e3907a0b4d4",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -821,7 +851,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8da8ea30dc76",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -836,7 +866,7 @@
       "fin_score": 0.802,
       "label": "BULLISH",
       "id": "ae87cfcc1055",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -851,7 +881,7 @@
       "fin_score": 0.8591,
       "label": "BULLISH",
       "id": "51ba352228bd",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -866,7 +896,7 @@
       "fin_score": 0.9274,
       "label": "BULLISH",
       "id": "02d27f8fbf89",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -881,7 +911,7 @@
       "fin_score": 0.7096,
       "label": "BULLISH",
       "id": "c6f0036efa2d",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -896,37 +926,7 @@
       "fin_score": 0.6705,
       "label": "BULLISH",
       "id": "ce908d8cb44a",
-      "fetched_at": "2026-04-28 12:15:36 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Korea Passes UK to Become World’s Eighth-Largest Stock Market",
-      "summary": "South Korea has leapfrogged the UK to become the world’s eighth-biggest stock market, fueled by a high-octane rally in its artificial intelligence-linked technology champions.",
-      "url": "https://www.livemint.com/market/korea-passes-uk-to-become-world-s-eighth-largest-stock-market-11777339085991.html",
-      "published": "Tue, 28 Apr 2026 06:48:05 +0530",
-      "compound": 0.5267,
-      "pos": 0.096,
-      "neg": 0.0,
-      "neu": 0.904,
-      "fin_score": 0.7267,
-      "label": "BULLISH",
-      "id": "7f6f41fc7acc",
-      "fetched_at": "2026-04-28 12:15:36 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "BoJ policy decision Highlights: Bank of Japan keeps interest rate unchanged at 0.75%; 3 board members call for rate hike",
-      "summary": "BoJ policy decision Highlights: The Bank of Japan kept the short-term interest rate target unchanged at 0.75%. However, three in the nine-member board proposed hiking borrowing costs, signalling the bank's concern over inflationary pressures from the US-Iran war in the Middle East.",
-      "url": "https://www.livemint.com/market/stock-market-news/bank-of-japan-interest-rate-bank-of-japan-interest-rate-decision-bank-of-japan-meeting-28-april-2026-nikkei-11777290444424.html",
-      "published": "Tue, 28 Apr 2026 06:38:37 +0530",
-      "compound": -0.0516,
-      "pos": 0.085,
-      "neg": 0.088,
-      "neu": 0.826,
-      "fin_score": -0.8316,
-      "label": "BEARISH",
-      "id": "5e65b622a0d7",
-      "fetched_at": "2026-04-28 12:15:36 IST"
+      "fetched_at": "2026-04-28 12:20:35 IST"
     }
   ]
 }
