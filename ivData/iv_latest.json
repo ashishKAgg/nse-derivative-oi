@@ -1,10 +1,10 @@
 {
-  "computed_at": "2026-04-28 11:25:38 IST",
-  "spot": 24127.45,
-  "atm_strike": 24150,
-  "atm_iv": 19.06,
-  "iv_rank": 42.8,
-  "iv_pctile": 57.9,
-  "verdict": "IV NORMAL \u2014 No edge from volatility alone",
-  "verdict_color": "#6c757d"
+  "computed_at": "2026-04-28 11:35:41 IST",
+  "spot": 24050.55,
+  "atm_strike": 24050,
+  "atm_iv": 22.64,
+  "iv_rank": 105.6,
+  "iv_pctile": 100.0,
+  "verdict": "IV HIGH \u2014 Options expensive, mean-reversion likely",
+  "verdict_color": "#dc3545"
 }
