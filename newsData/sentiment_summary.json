@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-28 15:45:37 IST",
+  "generated_at": "2026-04-28 15:50:40 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 17,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1493,
-  "weighted_score": 0.2905,
+  "bullish_count": 33,
+  "bearish_count": 16,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1772,
+  "weighted_score": 0.2498,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex falls 400 points, Nifty 50 ends below 24,000; mid, small-caps outperform",
-    "US Fed interest rate decision in focus: Can policy outcome be a non-event for Indian stock market amid US-Iran tensions?",
-    "Zomato parent Eternal Q4 Results 2026: Net profit soars 346% to ₹174 crore - Key Highlights"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Oil Back Above $110 as World Awaits US Response to Iran Proposal",
-    "BPCL, HPCL, IOC shares dip but soaring oil prices fail to weigh on ONGC shares. Here's why",
-    "Gold rate outlook: ASK Private Wealth's CIO Somnath Mukherjee turns neutral on gold after two years; here's why"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
