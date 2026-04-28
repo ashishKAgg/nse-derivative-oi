@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-28 11:15:36 IST",
+  "generated_at": "2026-04-28 11:20:51 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 19,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1352,
-  "weighted_score": 0.2393,
+  "bullish_count": 33,
+  "bearish_count": 18,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2112,
+  "weighted_score": 0.2547,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Zomato parent Eternal share price falls 3.5% ahead of Q4 results; here's what brokerages expect - all eyes on Blinkit",
-    "Cohance Lifesciences share price surges 37% in two days on appointment of new CEO",
-    "Canara Bank, PNB to Bank of Baroda: Why are PSU bank shares nosediving?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold rate outlook: ASK Private Wealth's CIO Somnath Mukherjee turns neutral on gold after two years; here's why",
-    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 28 April in Delhi, Mumbai, Pune, others",
-    "HSBC to JPMorgan, Goldman Sachs: Why are foreign brokerages downgrading India?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "LiveMint Markets",
+    "MoneyControl Top"
   ]
 }
