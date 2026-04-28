@@ -51,3 +51,4 @@ computed_at,spot,atm_strike,atm_iv,iv_rank,iv_pctile,verdict
 2026-04-28 14:01:03 IST,24010.5,24000,22.8,84.5,91.8,"IV HIGH — Options expensive, mean-reversion likely"
 2026-04-28 14:05:43 IST,24010.5,24000,23.42,93.0,96.0,"IV HIGH — Options expensive, mean-reversion likely"
 2026-04-28 14:10:46 IST,23999.2,24000,22.61,81.9,86.3,"IV HIGH — Options expensive, mean-reversion likely"
+2026-04-28 14:15:49 IST,24006.9,24000,23.15,89.3,92.3,"IV HIGH — Options expensive, mean-reversion likely"
