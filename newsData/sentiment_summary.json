@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-04-28 10:10:37 IST",
+  "generated_at": "2026-04-28 10:15:36 IST",
   "total_articles": 60,
-  "bullish_count": 33,
+  "bullish_count": 35,
   "bearish_count": 18,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1997,
-  "weighted_score": 0.2541,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "neutral_count": 7,
+  "avg_fin_score": 0.1616,
+  "weighted_score": 0.0203,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Coal India share price jumps over 4% after Q4 results. Should you buy, sell or hold the PSU stock?",
+    "Stocks to buy for short term: From GMDC to Hindustan Zinc- Experts suggest 6 stock picks for next 1-2 weeks",
+    "Silver rate today steady as dollar strengthens, oil surges ahead of US Fed meet: Target level ahead?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "HSBC to JPMorgan, Goldman Sachs: Why are foreign brokerages downgrading India?",
+    "Crude oil prices extend rise to 7th day; Brent near $110 as US-Iran peace talks stall. What's next?",
+    "Gold prices volatile on MCX as strong dollar, high oil prices weigh; US Fed policy outcome in focus"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
