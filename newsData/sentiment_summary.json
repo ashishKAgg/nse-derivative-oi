@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-28 14:15:46 IST",
+  "generated_at": "2026-04-28 14:20:36 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1561,
-  "weighted_score": -0.0196,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 32,
+  "bearish_count": 19,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1591,
+  "weighted_score": 0.2433,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Great depression coming? Rich Dad Poor Dad author Robert Kiyosaki predicts ‘giant crash’ in 2026–27: Here’s his strategy",
-    "Metals rally masks growth hurdles at Hindustan Zinc",
-    "Tata Steel, JSW Steel, and more: Why are steel stocks at record highs today?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Oil Back Above $110 as World Awaits US Response to Iran Proposal",
-    "BPCL, HPCL, IOC shares dip but soaring oil prices fail to weigh on ONGC shares. Here's why",
-    "Gold rate outlook: ASK Private Wealth's CIO Somnath Mukherjee turns neutral on gold after two years; here's why"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm",
     "LiveMint Markets"
   ]
 }
