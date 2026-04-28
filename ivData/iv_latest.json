@@ -1,8 +1,8 @@
 {
-  "computed_at": "2026-04-28 10:01:01 IST",
+  "computed_at": "2026-04-28 10:05:39 IST",
   "spot": 24135.0,
   "atm_strike": 24150,
-  "atm_iv": 21.33,
+  "atm_iv": 21.48,
   "iv_rank": null,
   "iv_pctile": null,
   "verdict": "INSUFFICIENT HISTORY",
