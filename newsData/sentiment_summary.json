@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-29 15:10:51 IST",
+  "generated_at": "2026-04-29 15:15:38 IST",
   "total_articles": 60,
-  "bullish_count": 35,
+  "bullish_count": 33,
   "bearish_count": 18,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1487,
-  "weighted_score": 0.4407,
+  "neutral_count": 9,
+  "avg_fin_score": 0.205,
+  "weighted_score": 0.2549,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "350% rally in five years! Multibagger small-cap stock hits upper circuit after promoters plan to raise stake",
-    "Indian Bank Q4 Results: Net profit rises 5% YoY to ₹3,103 crore, asset quality improves; declares ₹18.25 dividend",
-    "Bajel Projects shares jump 11% after bagging ₹400 crore transmission orders in MENA region"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Markets Downplay War’s Impact on Petrochemicals, Pipeline CEO Says",
-    "Nifty 50 begins May series with cautious undertone; FII long ratio slips",
-    "Expert view: Below 24,300, Nifty 50 could signal short-term weakness, says Rohit Srivastava of Indiacharts"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
