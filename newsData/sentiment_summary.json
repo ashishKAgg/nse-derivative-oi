@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-04-29 11:00:52 IST",
+  "generated_at": "2026-04-29 11:05:28 IST",
   "total_articles": 60,
   "bullish_count": 32,
-  "bearish_count": 15,
-  "neutral_count": 13,
-  "avg_fin_score": 0.2148,
-  "weighted_score": 0.2604,
+  "bearish_count": 18,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1136,
+  "weighted_score": 0.4235,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Bajaj Finance Q4 Results 2026 LIVE: Bajaj Finance share price gains ahead of earnings today. What to expect?",
+    "Vedanta Q4 Results 2026 LIVE: What to Anil Agarwal-led firm's earnings; stock up 1%, demerger in focus",
+    "Infosys slips out of top 10 most valuable firms as nearly ₹2 lakh crore market cap wiped out this year"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Crude oil prices extend gains for 8th day, brent crude remains above $110/bbl. Where are prices headed?",
+    "Silver rate today: White metal steady ahead of US Fed decision, oil spike keeps investors cautious: Key levels to watch",
+    "Crude oil price near three-week high as UAE leaves OPEC; Strait of Hormuz disruption, US-Iran tension persist"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
