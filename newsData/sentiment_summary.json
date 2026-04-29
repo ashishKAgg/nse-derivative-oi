@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-04-29 12:40:33 IST",
+  "generated_at": "2026-04-29 12:45:45 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 15,
-  "neutral_count": 12,
-  "avg_fin_score": 0.2231,
-  "weighted_score": 0.2624,
+  "bullish_count": 34,
+  "bearish_count": 16,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1425,
+  "weighted_score": 0.3186,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Vodafone Idea, Eternal, JP Power, Bandhan Bank, Suzlon among the most traded stocks today, 29 April 2026",
+    "AI stock Blue Cloud jumps after this MoU update. Check details",
+    "Mint Explainer: How Sebi’s proposed net worth rules could reshape stockbrokers’ business"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Deutsche Bank’s DWS Sees Net Inflows Slow as War Rattles Markets",
+    "Crude oil prices extend gains for 8th day, brent crude remains above $110/bbl. Where are prices headed?",
+    "Silver rate today: White metal steady ahead of US Fed decision, oil spike keeps investors cautious: Key levels to watch"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
