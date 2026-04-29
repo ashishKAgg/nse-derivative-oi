@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-04-29 09:40:37 IST",
+  "generated_at": "2026-04-29 09:45:37 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 16,
-  "neutral_count": 14,
-  "avg_fin_score": 0.1731,
-  "weighted_score": 0.2471,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 31,
+  "bearish_count": 19,
+  "neutral_count": 10,
+  "avg_fin_score": 0.072,
+  "weighted_score": 0.0461,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stock market today: Gift Nifty signals flat opening; US Fed meet, India VIX to oil, gold rates — 8 stocks to buy or sell",
+    "Maruti Suzuki share price jumps 3.5% on strong Q4 results: Should you buy, sell, or hold?",
+    "Gold price today: Rates lacklustre on MCX ahead of US Fed policy outcome; experts highlight key levels to watch"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Crude oil prices extend gains on 8th day, brent crude remains above $110/bbl. Where are prices headed?",
+    "Silver rate today: White metal steady ahead of US Fed decision, oil spike keeps investors cautious: Key levels to watch",
+    "Crude oil price near three-week high as UAE leaves OPEC; Strait of Hormuz disruption, US-Iran tension persist"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Comm",
-    "MoneyControl Top"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
