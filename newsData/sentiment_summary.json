@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-04-29 15:55:29 IST",
+  "generated_at": "2026-04-29 16:01:01 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 17,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2272,
-  "weighted_score": 0.2621,
+  "bullish_count": 35,
+  "bearish_count": 18,
+  "neutral_count": 7,
+  "avg_fin_score": 0.1603,
+  "weighted_score": 0.425,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Realty stock Man Infraconstruction jumps 7% after acquiring South Mumbai projects worth ₹2,000 crore",
+    "Stock market today: Nifty 50, Sensex end higher but off day’s highs on profit booking; FMCG stocks shine",
+    "Adani Power Q4 Results 2026: Net profit rises 64% to ₹4,271.40 crore; revenue flat"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold rate today: Can precious metal reach $5,000 per ounce anytime soon?",
+    "Markets Downplay War’s Impact on Petrochemicals, Pipeline CEO Says",
+    "Nifty 50 begins May series with cautious undertone; FII long ratio slips"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
