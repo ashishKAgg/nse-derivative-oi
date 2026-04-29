@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-29 11:25:30 IST",
+  "generated_at": "2026-04-29 11:31:03 IST",
   "total_articles": 60,
   "bullish_count": 32,
-  "bearish_count": 18,
-  "neutral_count": 10,
-  "avg_fin_score": 0.0998,
-  "weighted_score": 0.1889,
+  "bearish_count": 16,
+  "neutral_count": 12,
+  "avg_fin_score": 0.205,
+  "weighted_score": 0.2566,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Mint Explainer | Vedanta F&O contracts expire today ahead of demerger. What happens next?",
-    "Bajaj Finance Q4 Results 2026 LIVE: Bajaj Finance share price gains ahead of earnings today. What to expect?",
-    "Vedanta Q4 Results 2026 LIVE: What to Anil Agarwal-led firm's earnings; stock up 1%, demerger in focus"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Deutsche Bank’s DWS Sees Net Inflows Slow as War Rattles Markets",
-    "Crude oil prices extend gains for 8th day, brent crude remains above $110/bbl. Where are prices headed?",
-    "Silver rate today: White metal steady ahead of US Fed decision, oil spike keeps investors cautious: Key levels to watch"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
