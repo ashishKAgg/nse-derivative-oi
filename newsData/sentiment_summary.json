@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-04-29 09:10:31 IST",
+  "generated_at": "2026-04-29 09:15:42 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 17,
-  "neutral_count": 13,
-  "avg_fin_score": 0.1672,
-  "weighted_score": 0.2461,
+  "bullish_count": 32,
+  "bearish_count": 18,
+  "neutral_count": 10,
+  "avg_fin_score": 0.0928,
+  "weighted_score": 0.1993,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Gold price today: Rates lacklustre on MCX ahead of US Fed policy outcome; experts highlight key levels to watch",
+    "Options data hint at limited upside after sharp recovery this month",
+    "Buy or sell: Gift Nifty signals flat opening, Vaishali Parekh recommends three stocks to buy today — 29 April 2026"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Silver rate today: White metal steady ahead of US Fed decision, oil spike keeps investors cautious: Key levels to watch",
+    "Crude oil price near three-week high as UAE leaves OPEC; Strait of Hormuz disruption, US-Iran tension persist",
+    "TSX posts longest daily losing streak this year as tech shares slide"
   ],
   "sources_hit": [
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
