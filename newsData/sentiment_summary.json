@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-30 09:05:29 IST",
+  "generated_at": "2026-04-30 09:10:29 IST",
   "total_articles": 60,
-  "bullish_count": 37,
+  "bullish_count": 34,
   "bearish_count": 17,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1262,
-  "weighted_score": 0.453,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1732,
+  "weighted_score": 0.2494,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "HFCL is attracting strong investor interest. Where is the stock headed?",
-    "Stock market today: Gift Nifty hints weak start; US-Iran war, US Fed rate to oil, gold rates — 8 stocks to buy or sell",
-    "OnEMI Technology Solutions IPO Day 1: Issue opens today. Check GMP, review, key details. Apply or skip?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude nears $120 as Trump signals Hormuz blockade to continue",
-    "Gold Holds Three-Day Decline as Hawkish Fed Flags Inflation Risk",
-    "AI-Led Rally in Asia Stocks Masks Deeper Damage from Iran War"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
