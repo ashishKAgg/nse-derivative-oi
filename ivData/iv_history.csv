@@ -190,3 +190,4 @@ computed_at,spot,atm_strike,atm_iv,iv_rank,iv_pctile,verdict
 2026-04-30 12:05:44 IST,23843.2,23850,16.91,5.9,52.7,"IV LOW — Options cheap, big move expected"
 2026-04-30 12:10:42 IST,23841.2,23850,16.59,5.1,49.7,"IV LOW — Options cheap, big move expected"
 2026-04-30 12:15:44 IST,23869.25,23850,16.4,4.6,49.5,"IV LOW — Options cheap, big move expected"
+2026-04-30 12:20:41 IST,23901.7,23900,16.24,4.2,47.1,"IV LOW — Options cheap, big move expected"
