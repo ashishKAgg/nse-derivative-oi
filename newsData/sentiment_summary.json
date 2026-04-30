@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-30 15:45:48 IST",
+  "generated_at": "2026-04-30 15:50:40 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 22,
-  "neutral_count": 6,
-  "avg_fin_score": 0.0883,
-  "weighted_score": -0.0423,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 34,
+  "bearish_count": 18,
+  "neutral_count": 8,
+  "avg_fin_score": 0.2115,
+  "weighted_score": 0.2549,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Adani Ports Q4 results: Net profit up 10% to ₹3,329 crore, revenue rises 26.5%; dividend of ₹7.5/share announced",
-    "Cemindia Projects shares hit 20% upper circuit, touch 4-month high after Q4 results",
-    "Bajaj Finance crosses ₹5 trillion AUM – Cleaner growth ahead?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Junk Issuers in Europe Cut Costs by Switching to Fixed-Rate Debt",
-    "Top Gainers and Losers on April 30: Vedanta, Waaree Energies, Eternal, Adani Energy, Ceat, among top losers",
-    "Gold rate today: MCX gold rebounds from the one-month low as tension escalates in US-Iran war"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Mkts",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
