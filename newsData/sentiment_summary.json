@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-30 10:40:35 IST",
+  "generated_at": "2026-04-30 10:45:37 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 21,
-  "neutral_count": 7,
-  "avg_fin_score": 0.0359,
-  "weighted_score": 0.2041,
+  "bullish_count": 30,
+  "bearish_count": 19,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1555,
+  "weighted_score": 0.2426,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Small-cap stock under ₹50 jumps despite weak trends on Dalal Street",
-    "Demand at Japan’s Two-Year Note Sale Jumps to Highest Since 2024",
-    "Stocks to buy or sell: Osho Krishan of Angel One suggests buying Chennai Petroleum Corp, Bharti Airtel shares to buy"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices continue to rise, brent above $121/bbl amid ongoing US-Iran talks uncertainty",
-    "Sensex plunges 1,100 points, investors lose ₹9 lakh crore: 5 Key factors behind stock market crash explained",
-    "Vedanta demerger: Did the Anil Agarwal-led stock really crash 65% today? Here's what happened"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
