@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-30 09:10:29 IST",
+  "generated_at": "2026-04-30 09:15:31 IST",
   "summary": {
-    "generated_at": "2026-04-30 09:10:29 IST",
+    "generated_at": "2026-04-30 09:15:31 IST",
     "total_articles": 60,
-    "bullish_count": 34,
-    "bearish_count": 17,
+    "bullish_count": 33,
+    "bearish_count": 18,
     "neutral_count": 9,
-    "avg_fin_score": 0.1732,
-    "weighted_score": 0.2494,
+    "avg_fin_score": 0.1591,
+    "weighted_score": 0.243,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -23,8 +23,8 @@
     "sources_hit": [
       "LiveMint Markets",
       "MoneyControl Mkts",
-      "MoneyControl Comm",
-      "MoneyControl Top"
+      "MoneyControl Top",
+      "MoneyControl Comm"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,7 +581,37 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Rupee depreciates 0.2% to open at 95.02 against US dollar amid surge in crude oil prices, hawkish US Fed",
+      "summary": "Rupee depreciates 0.2% to open at 95.02 against US dollar amid surge in crude oil prices, hawkish US Fed",
+      "url": "https://www.livemint.com/market/stock-market-news/rupee-depreciates-0-2-to-open-at-95-02-against-us-dollar-amid-surge-in-crude-oil-prices-hawkish-us-fed-11777520481554.html",
+      "published": "Thu, 30 Apr 2026 09:12:00 +0530",
+      "compound": -0.8126,
+      "pos": 0.0,
+      "neg": 0.171,
+      "neu": 0.829,
+      "fin_score": -0.7126,
+      "label": "BEARISH",
+      "id": "22465df276a0",
+      "fetched_at": "2026-04-30 09:15:31 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Silver price today: White metal rebounds to ₹2.35 lakh/kg as dollar falls after Federal Reserve rate decision",
+      "summary": "Silver prices in India recovered on Thursday after reaching a one-month low, supported by a weaker U.S. dollar. However, high crude oil prices raise inflation concerns, impacting interest rates. MCX silver rose 1% to ₹2,35,102 per kg, while gold prices remained stable.",
+      "url": "https://www.livemint.com/market/commodities/gold-silver-price-today-white-metal-rebounds-rs-2-35-lk-kg-as-dollar-falls-after-federal-reserve-interest-rate-decision-11777517019248.html",
+      "published": "Thu, 30 Apr 2026 09:11:17 +0530",
+      "compound": -0.1027,
+      "pos": 0.133,
+      "neg": 0.124,
+      "neu": 0.743,
+      "fin_score": -0.3527,
+      "label": "BEARISH",
+      "id": "d3cb99c991e4",
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -596,7 +626,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "7bd550b63527",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -611,7 +641,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "35a193dd579d",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -626,7 +656,7 @@
       "fin_score": 0.2994,
       "label": "BULLISH",
       "id": "6d2a146f2747",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -641,7 +671,7 @@
       "fin_score": 0.6249,
       "label": "BULLISH",
       "id": "81722d927807",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -656,7 +686,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "5250a248c4a3",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -671,7 +701,7 @@
       "fin_score": 0.952,
       "label": "BULLISH",
       "id": "2488ad507bd0",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -686,7 +716,7 @@
       "fin_score": 0.8579,
       "label": "BULLISH",
       "id": "87aa4952a88a",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -701,7 +731,7 @@
       "fin_score": 0.8074,
       "label": "BULLISH",
       "id": "dfa87727a753",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -716,7 +746,7 @@
       "fin_score": 0.5442,
       "label": "BULLISH",
       "id": "55d071a8960a",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -731,7 +761,7 @@
       "fin_score": 0.7096,
       "label": "BULLISH",
       "id": "4065b6e46e99",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -746,7 +776,7 @@
       "fin_score": -0.8126,
       "label": "BEARISH",
       "id": "116c6b7a1eb9",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -761,7 +791,7 @@
       "fin_score": 0.9001,
       "label": "BULLISH",
       "id": "1d0548f3dcd4",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -776,7 +806,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "63a8bc3a0f78",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -791,7 +821,7 @@
       "fin_score": 0.3272,
       "label": "BULLISH",
       "id": "dcb70df02bd5",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -806,7 +836,7 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "0c6e354bcf0a",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -821,7 +851,7 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "34e48e718891",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -836,7 +866,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "30ed2f89522d",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -851,7 +881,7 @@
       "fin_score": -0.8689,
       "label": "BEARISH",
       "id": "9389f34be066",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -866,7 +896,7 @@
       "fin_score": 0.4494,
       "label": "BULLISH",
       "id": "9650c5a95881",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -881,7 +911,7 @@
       "fin_score": 0.34,
       "label": "BULLISH",
       "id": "dbb057a4c6f7",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -896,37 +926,7 @@
       "fin_score": 0.25,
       "label": "BULLISH",
       "id": "8327cd9fbe6e",
-      "fetched_at": "2026-04-30 09:10:29 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Wall Street extends losses after Fed decision, big tech earnings on tap",
-      "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Wall Street extends losses after Fed decision, big tech earnings on tap",
-      "url": "https://www.livemint.com/market/wall-street-extends-losses-after-fed-decision-big-tech-earnings-on-tap-11777488255370.html",
-      "published": "Thu, 30 Apr 2026 00:14:15 +0530",
-      "compound": -0.5267,
-      "pos": 0.096,
-      "neg": 0.172,
-      "neu": 0.732,
-      "fin_score": -0.5267,
-      "label": "BEARISH",
-      "id": "06b5a695bc2c",
-      "fetched_at": "2026-04-30 09:10:29 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "US Federal Reserve keeps rates unchanged for third straight meeting: 5 key takeaways from April policy",
-      "summary": "The US Federal Reserve on 29 April kept the federal funds rate unchanged for the third consecutive meeting at 3.5%–3.75% amdi increased risk of inflation rising due to higher global energy prices.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-federal-reserve-keeps-rates-unchanged-for-third-straight-meeting-5-key-takeaways-from-april-policy-11777485690294.html",
-      "published": "Wed, 29 Apr 2026 23:42:22 +0530",
-      "compound": 0.4588,
-      "pos": 0.117,
-      "neg": 0.04,
-      "neu": 0.843,
-      "fin_score": 0.3088,
-      "label": "BULLISH",
-      "id": "9dca04276b98",
-      "fetched_at": "2026-04-30 09:10:29 IST"
+      "fetched_at": "2026-04-30 09:15:31 IST"
     }
   ]
 }
