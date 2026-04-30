@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-04-30 13:31:08 IST",
+  "generated_at": "2026-04-30 13:35:30 IST",
   "total_articles": 60,
-  "bullish_count": 31,
-  "bearish_count": 19,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1799,
-  "weighted_score": 0.2514,
+  "bullish_count": 32,
+  "bearish_count": 22,
+  "neutral_count": 6,
+  "avg_fin_score": 0.0898,
+  "weighted_score": 0.3154,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Up 110% in 3 months! Multibagger defence stock MTAR Technologies share price hits record high— What’s driving the surge?",
+    "Adisoft Technologies share price rises 5% after strong listing on NSE. Do you own?",
+    "Vodafone Idea, Suzlon, Meesho, JP Power among the most traded stocks today, 30 April 2026"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Market cap-to-GDP nears 2007 peak: expensive valuations, but not a bubble yet",
+    "Higher Oil Prices May Spur Quicker Yield Gains in Emerging Asia",
+    "FPI outflows near ₹1.9 lakh crore in 2026; Can global AI stock correction turn the tide?"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
