@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-30 09:30:58 IST",
+  "generated_at": "2026-04-30 09:35:25 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 19,
-  "neutral_count": 7,
-  "avg_fin_score": 0.073,
-  "weighted_score": 0.0497,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 32,
+  "bearish_count": 18,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1664,
+  "weighted_score": 0.246,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "HFCL is attracting strong investor interest. Where is the stock headed?",
-    "Stock market today: Gift Nifty hints weak start; US-Iran war, US Fed rate to oil, gold rates — 8 stocks to buy or sell",
-    "OnEMI Technology Solutions IPO Day 1: Issue opens today. Check GMP, review, key details. Apply or skip?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee depreciates 0.2% to open at 95.02 against US dollar amid surge in crude oil prices, hawkish US Fed",
-    "Silver price today: White metal rebounds to ₹2.35 lakh/kg as dollar falls after Federal Reserve rate decision",
-    "Gold rate up on MCX after US Fed hold rates steady; a sharp jump in crude oil prices raises inflation fears"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Top"
   ]
 }
