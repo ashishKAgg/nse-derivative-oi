@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-04-30 13:50:37 IST",
+  "generated_at": "2026-04-30 13:55:36 IST",
   "total_articles": 60,
   "bullish_count": 33,
-  "bearish_count": 21,
-  "neutral_count": 6,
-  "avg_fin_score": 0.0995,
-  "weighted_score": 0.249,
+  "bearish_count": 17,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2008,
+  "weighted_score": 0.2554,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "L&T share price falls 2% after divesting 100% stake in L&T Metro Rail (Hyderabad). Do you own?",
-    "Kissht operator OnEMI Tech mobilises ₹278 cr from anchor investors; IPO to open on April 30",
-    "Up 110% in 3 months! Multibagger defence stock MTAR Technologies share price hits record high— What’s driving the surge?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Market cap-to-GDP nears 2007 peak: expensive valuations, but not a bubble yet",
-    "Higher Oil Prices May Spur Quicker Yield Gains in Emerging Asia",
-    "FPI outflows near ₹1.9 lakh crore in 2026; Can global AI stock correction turn the tide?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Top",
+    "MoneyControl Mkts",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm"
   ]
 }
