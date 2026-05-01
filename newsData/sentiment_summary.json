@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-01 11:50:32 IST",
+  "generated_at": "2026-05-01 11:55:28 IST",
   "total_articles": 60,
   "bullish_count": 34,
-  "bearish_count": 16,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1933,
-  "weighted_score": 0.2522,
+  "bearish_count": 21,
+  "neutral_count": 5,
+  "avg_fin_score": 0.0886,
+  "weighted_score": 0.2225,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Expert View: What's the biggest risk for HNI investors’ portfolio today? Rahul Roy Chowdhury of Geojit Financial answers",
+    "OnEMI Technology Solutions IPO subscribed 24% on Day 1; GMP, review, other key details. Should you apply?",
+    "Four AC stocks to add to your watchlist as temperatures soar"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 1 May in Delhi, Mumbai, Pune, others",
+    "Crude oil prices rally on US-Iran war worries as Strait of Hormuz remains blocked; Brent above $110 per barrel",
+    "AI Debt Investors Show Signs of Fatigue After $300 Billion Binge"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
