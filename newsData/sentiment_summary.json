@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-01 15:40:30 IST",
+  "generated_at": "2026-05-01 15:45:40 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 18,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1696,
-  "weighted_score": 0.246,
+  "bullish_count": 33,
+  "bearish_count": 21,
+  "neutral_count": 6,
+  "avg_fin_score": 0.0775,
+  "weighted_score": 0.1702,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Nifty 50 slips below 24,000. Next key levels to watch",
+    "RBL Bank, Canara Bank to PNB - Who will be impacted the most by RBI ECL norms? Explained",
+    "GIFT City treasury hub picks up pace; 6 listed companies seek licences"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Sell in May & Go Away: Is it the right strategy as US-Iran war and crude oil prices wreak havoc on portfolios?",
+    "Can HUL’s price hikes offset looming margin pressure?",
+    "Dr Lal Path Labs needs volume growth to clear its FY27 tests"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Comm"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
