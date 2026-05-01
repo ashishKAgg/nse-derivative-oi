@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-01 14:30:54 IST",
+  "generated_at": "2026-05-01 14:35:28 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 18,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1683,
-  "weighted_score": 0.2447,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 31,
+  "bearish_count": 23,
+  "neutral_count": 6,
+  "avg_fin_score": 0.044,
+  "weighted_score": 0.0592,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stock market holiday: NSE and BSE to remain shut for 12 days in May 2026; check full list",
+    "Penny stock under ₹5 to be in focus on Monday; here’s why",
+    "Expert View: What's the biggest risk for HNI investors’ portfolio today? Rahul Roy Chowdhury of Geojit Financial answers"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Can HUL’s price hikes offset looming margin pressure?",
+    "Dr Lal Path Labs needs volume growth to clear its FY27 tests",
+    "Indian bond yields end April near 7% as crude oil prices surge. What should investors do?"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
