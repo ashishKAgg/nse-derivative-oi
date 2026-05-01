@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-01 12:20:36 IST",
+  "generated_at": "2026-05-01 12:25:33 IST",
   "total_articles": 60,
   "bullish_count": 33,
-  "bearish_count": 22,
-  "neutral_count": 5,
-  "avg_fin_score": 0.0687,
-  "weighted_score": 0.0257,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bearish_count": 17,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1742,
+  "weighted_score": 0.2463,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Expert View: What's the biggest risk for HNI investors’ portfolio today? Rahul Roy Chowdhury of Geojit Financial answers",
-    "OnEMI Technology Solutions IPO subscribed 24% on Day 1; GMP, review, other key details. Should you apply?",
-    "Four AC stocks to add to your watchlist as temperatures soar"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Indian bond yields end April near 7% as crude oil prices surge. What should investors do?",
-    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 1 May in Delhi, Mumbai, Pune, others",
-    "Crude oil prices rally on US-Iran war worries as Strait of Hormuz remains blocked; Brent above $110 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
