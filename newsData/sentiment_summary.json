@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-01 11:20:32 IST",
+  "generated_at": "2026-05-01 11:25:29 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 16,
-  "neutral_count": 11,
-  "avg_fin_score": 0.1804,
-  "weighted_score": 0.2483,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 35,
+  "bearish_count": 20,
+  "neutral_count": 5,
+  "avg_fin_score": 0.1037,
+  "weighted_score": 0.0151,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Four AC stocks to add to your watchlist as temperatures soar",
+    "Rajesh Palviya of Axis Sec suggests Sun Pharma, Chennai Petro, Great Eastern Shipping shares to buy next week",
+    "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy on Monday"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 1 May in Delhi, Mumbai, Pune, others",
+    "Crude oil prices rally on US-Iran war worries as Strait of Hormuz remains blocked; Brent above $110 per barrel",
+    "AI Debt Investors Show Signs of Fatigue After $300 Billion Binge"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
