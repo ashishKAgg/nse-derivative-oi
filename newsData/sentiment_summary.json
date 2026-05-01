@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-05-01 09:20:30 IST",
+  "generated_at": "2026-05-01 09:25:29 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 19,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1547,
-  "weighted_score": 0.0031,
+  "bullish_count": 34,
+  "bearish_count": 21,
+  "neutral_count": 5,
+  "avg_fin_score": 0.0957,
+  "weighted_score": 0.0041,
   "verdict": "NEUTRAL",
   "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Vodafone Idea share price to be in focus after ₹23,649-crore AGR relief",
+    "Rupee slide deepens in 2026: Will it hit 100 against the dollar?",
+    "Stock market holiday: BSE, NSE closed today for Maharashtra Day; Commodity trading on MCX to begin at 5 PM"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Crude oil prices rally on US-Iran war worries as Strait of Hormuz remains blocked; Brent above $110 per barrel",
+    "AI Debt Investors Show Signs of Fatigue After $300 Billion Binge",
+    "Pulse of the Street: Will the April sprint stumble over $126 oil and a 95-plus Rupee?"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Comm",
     "LiveMint Economy"
   ]
 }
