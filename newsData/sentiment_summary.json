@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-01 09:25:29 IST",
+  "generated_at": "2026-05-01 09:30:58 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 21,
-  "neutral_count": 5,
-  "avg_fin_score": 0.0957,
-  "weighted_score": 0.0041,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 31,
+  "bearish_count": 18,
+  "neutral_count": 11,
+  "avg_fin_score": 0.15,
+  "weighted_score": 0.242,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Vodafone Idea share price to be in focus after ₹23,649-crore AGR relief",
-    "Rupee slide deepens in 2026: Will it hit 100 against the dollar?",
-    "Stock market holiday: BSE, NSE closed today for Maharashtra Day; Commodity trading on MCX to begin at 5 PM"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices rally on US-Iran war worries as Strait of Hormuz remains blocked; Brent above $110 per barrel",
-    "AI Debt Investors Show Signs of Fatigue After $300 Billion Binge",
-    "Pulse of the Street: Will the April sprint stumble over $126 oil and a 95-plus Rupee?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
