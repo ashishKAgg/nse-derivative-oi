@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-05-01 15:45:40 IST",
+  "generated_at": "2026-05-01 15:50:29 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 21,
-  "neutral_count": 6,
-  "avg_fin_score": 0.0775,
-  "weighted_score": 0.1702,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 32,
+  "bearish_count": 19,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1321,
+  "weighted_score": -0.0015,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Nifty 50 slips below 24,000. Next key levels to watch",
-    "RBL Bank, Canara Bank to PNB - Who will be impacted the most by RBI ECL norms? Explained",
-    "GIFT City treasury hub picks up pace; 6 listed companies seek licences"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Sell in May & Go Away: Is it the right strategy as US-Iran war and crude oil prices wreak havoc on portfolios?",
-    "Can HUL’s price hikes offset looming margin pressure?",
-    "Dr Lal Path Labs needs volume growth to clear its FY27 tests"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
+    "LiveMint Markets",
+    "MoneyControl Top",
     "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts"
   ]
 }
