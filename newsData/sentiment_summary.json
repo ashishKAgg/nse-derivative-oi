@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-05-01 13:40:28 IST",
+  "generated_at": "2026-05-01 13:45:42 IST",
   "total_articles": 60,
   "bullish_count": 31,
-  "bearish_count": 21,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1038,
-  "weighted_score": -0.0065,
+  "bearish_count": 23,
+  "neutral_count": 6,
+  "avg_fin_score": 0.0317,
+  "weighted_score": 0.0955,
   "verdict": "NEUTRAL",
   "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Stock market holiday: NSE and BSE to remain shut for 12 days in May 2026; check full list",
+    "Penny stock under ₹5 to be in focus on Monday; here’s why",
+    "Expert View: What's the biggest risk for HNI investors’ portfolio today? Rahul Roy Chowdhury of Geojit Financial answers"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Dr Lal Path Labs needs volume growth to clear its FY27 tests",
+    "Indian bond yields end April near 7% as crude oil prices surge. What should investors do?",
+    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 1 May in Delhi, Mumbai, Pune, others"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
