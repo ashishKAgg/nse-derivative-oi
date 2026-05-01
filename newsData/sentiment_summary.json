@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-01 15:00:45 IST",
+  "generated_at": "2026-05-01 15:05:30 IST",
   "total_articles": 60,
   "bullish_count": 33,
-  "bearish_count": 21,
-  "neutral_count": 6,
-  "avg_fin_score": 0.0899,
-  "weighted_score": 0.3294,
+  "bearish_count": 17,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1933,
+  "weighted_score": 0.2533,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "GIFT City treasury hub picks up pace; 6 listed companies seek licences",
-    "Do you know how to transfer physical shares to demat account?",
-    "Stock market holiday: NSE and BSE to remain shut for 12 days in May 2026; check full list"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Can HUL’s price hikes offset looming margin pressure?",
-    "Dr Lal Path Labs needs volume growth to clear its FY27 tests",
-    "Indian bond yields end April near 7% as crude oil prices surge. What should investors do?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Mkts"
   ]
 }
