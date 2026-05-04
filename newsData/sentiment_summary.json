@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-04 09:40:46 IST",
+  "generated_at": "2026-05-04 09:45:33 IST",
   "total_articles": 60,
-  "bullish_count": 29,
-  "bearish_count": 24,
-  "neutral_count": 7,
-  "avg_fin_score": 0.0742,
-  "weighted_score": -0.0238,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 32,
+  "bearish_count": 17,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2154,
+  "weighted_score": 0.2553,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 4 May in Delhi, Mumbai, Kolkata, others",
-    "Vodafone Idea share price jumps 10% after AGR relief; Should you buy the telecom stock?",
-    "Bitcoin Tops $80,000 for Three-Month High as Asian Stocks Rise"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil price steadies amid US-Iran war uncertainty. Where's it headed in near term?",
-    "Gold rate declines on MCX amid persisting inflation worries; US-Iran talks remain in focus",
-    "Rupee opens 4 paise lower at 94.95 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "MoneyControl Top",
     "LiveMint Markets"
   ]
 }
