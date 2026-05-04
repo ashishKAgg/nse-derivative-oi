@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-01 16:25:31 IST",
+  "generated_at": "2026-05-04 09:00:44 IST",
   "summary": {
-    "generated_at": "2026-05-01 16:25:31 IST",
+    "generated_at": "2026-05-04 09:00:44 IST",
     "total_articles": 60,
-    "bullish_count": 31,
-    "bearish_count": 18,
+    "bullish_count": 34,
+    "bearish_count": 15,
     "neutral_count": 11,
-    "avg_fin_score": 0.1752,
-    "weighted_score": 0.2497,
+    "avg_fin_score": 0.2717,
+    "weighted_score": 0.2769,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -21,10 +21,10 @@
       "Subramanian Swamy seeks ban on import of cement from Pakistan"
     ],
     "sources_hit": [
-      "MoneyControl Mkts",
       "LiveMint Markets",
       "MoneyControl Comm",
-      "MoneyControl Top"
+      "MoneyControl Top",
+      "MoneyControl Mkts"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,352 +581,352 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Groww, BSE to Angel One: Over 10 capital market stocks jump up to 43% in April amid market revival",
-      "summary": "April marked a recovery for capital market stocks, with Groww and Angel One leading gains. The Nifty Capital Market index surged 23.20% as easing geopolitical tensions and positive earnings reports fueled investor enthusiasm, reversing four months of declines.",
-      "url": "https://www.livemint.com/market/stock-market-news/groww-bse-to-angel-one-over-10-capital-market-stocks-jump-up-to-43-in-april-amid-market-revival-11777629224012.html",
-      "published": "Fri, 01 May 2026 16:05:13 +0530",
-      "compound": 0.872,
-      "pos": 0.202,
-      "neg": 0.04,
-      "neu": 0.758,
-      "fin_score": 0.992,
-      "label": "BULLISH",
-      "id": "450212ba7b7a",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Private Credit’s Retail Risk Draws Scrutiny From Global Watchdog",
-      "summary": "The world’s top financial stability watchdog is examining the potential risks posed by an influx of retail investors into the $1.8 trillion private credit market, according to a person with knowledge of the matter.",
-      "url": "https://www.livemint.com/market/private-credit-s-retail-risk-draws-scrutiny-from-global-watchdog-11777631346694.html",
-      "published": "Fri, 01 May 2026 15:59:06 +0530",
-      "compound": 0.0772,
-      "pos": 0.115,
-      "neg": 0.088,
-      "neu": 0.797,
-      "fin_score": 0.0772,
-      "label": "NEUTRAL",
-      "id": "c0aad8478b02",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Emerging Markets Eke Out Gains in Thin-Volume Holiday Trading",
-      "summary": "Emerging-market benchmarks for stocks and currencies posted small gains in holiday-thinned trade, with most markets in Asia, Europe and Africa closed for Labour Day.",
-      "url": "https://www.livemint.com/market/emerging-markets-eke-out-gains-in-thin-volume-holiday-trading-11777630714374.html",
-      "published": "Fri, 01 May 2026 15:48:34 +0530",
-      "compound": 0.7579,
-      "pos": 0.2,
-      "neg": 0.0,
-      "neu": 0.8,
-      "fin_score": 0.8579,
-      "label": "BULLISH",
-      "id": "e839c87bdd57",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Nifty 50 slips below 24,000: What are the key levels to watch for next week?",
-      "summary": "On April 30, Indian stock indices fell nearly 1% due to rising crude oil prices and foreign fund exits. The Nifty 50 and Sensex closed at 23,997.55 and 76,913.50, respectively. Despite this, both indices showed weekly gains, breaking previous losing streaks.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-slips-below-24-000-next-key-levels-to-watch-11777626818884.html",
-      "published": "Fri, 01 May 2026 15:35:44 +0530",
-      "compound": 0.4404,
-      "pos": 0.153,
-      "neg": 0.095,
-      "neu": 0.752,
-      "fin_score": 0.4404,
-      "label": "BULLISH",
-      "id": "dc8e5e7aca95",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Sell in May & Go Away: Is it the right strategy as US-Iran war and crude oil prices wreak havoc on portfolios?",
-      "summary": "Nifty 50 index has risen in six of the last 10 years during May. But the crude oil prices remain a joker in the pack for India. According to experts, the trajectory of crude oil remains the single largest short-term risk variable.",
-      "url": "https://www.livemint.com/market/stock-market-news/sell-in-may-go-away-is-it-the-right-strategy-as-us-iran-war-and-crude-oil-prices-wreak-havoc-on-portfolios-11777626548052.html",
-      "published": "Fri, 01 May 2026 15:15:36 +0530",
-      "compound": -0.9545,
-      "pos": 0.045,
-      "neg": 0.251,
-      "neu": 0.704,
-      "fin_score": -1.0,
-      "label": "BEARISH",
-      "id": "51434972f24e",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "RBL Bank, Canara Bank to PNB - Who will be impacted the most by RBI ECL norms? Explained",
-      "summary": "Several PSBs have indicated that the one-time provisioning hit could reduce net worth by 3–9%. In contrast, large private sector banks appear better positioned due to stronger provision buffers, estimated at 2–4% of net worth.",
-      "url": "https://www.livemint.com/market/stock-market-news/rbl-bank-canara-bank-to-pnb-who-will-be-impacted-the-most-by-rbi-ecl-norms-explained-11777626415203.html",
-      "published": "Fri, 01 May 2026 15:04:54 +0530",
-      "compound": 0.8074,
-      "pos": 0.16,
-      "neg": 0.0,
-      "neu": 0.84,
-      "fin_score": 0.8074,
-      "label": "BULLISH",
-      "id": "30c7cf38f29b",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "GIFT City treasury hub picks up pace; 6 listed companies seek licences",
-      "summary": "GIFT City is gaining traction as a destination for multinational companies looking to streamline their treasury operations. Recent applications for corporate treasury centre licenses highlight a growing interest in this financial hub, offering regulatory incentives and a robust framework.",
-      "url": "https://www.livemint.com/market/gift-city-treasury-hub-listed-companies-seek-licences-kalyanaraman-rajaraman-ifsca-lack-of-automation-cross-border-cash-11777616919418.html",
-      "published": "Fri, 01 May 2026 14:49:38 +0530",
-      "compound": 0.9728,
-      "pos": 0.405,
-      "neg": 0.0,
-      "neu": 0.595,
-      "fin_score": 0.9728,
-      "label": "BULLISH",
-      "id": "a39c917669e3",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Do you know how to transfer physical shares to demat account?",
-      "summary": "Investors are urged to convert physical share certificates into dematerialised form due to regulatory changes. The process involves opening a demat account and submitting a Dematerialisation Request Form. This transition mitigates risks associated with physical assets and simplifies transactions.",
-      "url": "https://www.livemint.com/market/stock-market-news/do-you-know-how-to-transfer-physical-shares-to-demat-account-11777622789346.html",
-      "published": "Fri, 01 May 2026 14:34:26 +0530",
-      "compound": 0.4588,
-      "pos": 0.113,
-      "neg": 0.039,
-      "neu": 0.849,
-      "fin_score": 0.4588,
-      "label": "BULLISH",
-      "id": "daf3e665ea5c",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Can HUL’s price hikes offset looming margin pressure?",
-      "summary": "HUL reported a multi-quarter high volume growth in Q4FY26, but rising input costs, El Niño risks and recent price hikes set up a tougher test for margins ahead.",
-      "url": "https://www.livemint.com/market/mark-to-market/hul-q4fy26-results-volume-growth-fy27-outlook-price-hikes-margin-pressure-11777620166287.html",
-      "published": "Fri, 01 May 2026 13:52:09 +0530",
-      "compound": -0.1655,
-      "pos": 0.095,
-      "neg": 0.136,
-      "neu": 0.768,
-      "fin_score": -0.1655,
-      "label": "BEARISH",
-      "id": "c6c230645a7a",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "AMC quarterly earnings dented by impact of West Asia conflict on other income despite steady fees",
-      "summary": "In FY26, AMCs maintained stable earnings overall, but Q4 profits were affected by market volatility linked to the West Asia conflict. ICICI Prudential AMC and HDFC AMC saw notable declines in net profit, with mark-to-market losses impacting other income significantly.",
-      "url": "https://www.livemint.com/market/amcs-quarterly-earnings-west-asia-conflict-other-income-steady-fees-average-aum-total-expense-ratio-mutual-funds-11777609871793.html",
-      "published": "Fri, 01 May 2026 13:41:20 +0530",
-      "compound": 0.0644,
-      "pos": 0.136,
-      "neg": 0.147,
-      "neu": 0.717,
-      "fin_score": -0.1156,
-      "label": "NEUTRAL",
-      "id": "f66d76eaf8ca",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Dr Lal Path Labs needs volume growth to clear its FY27 tests",
-      "summary": "Risks remain around pricing pressure in a competitive diagnostics market, continued cost pressures, and execution risks in scaling newer segments",
-      "url": "https://www.livemint.com/market/mark-to-market/dr-lal-path-labs-q4-earnings-diagnostics-market-india-dr-lal-path-labs-share-price-11777616903305.html",
-      "published": "Fri, 01 May 2026 12:55:50 +0530",
-      "compound": -0.2023,
-      "pos": 0.17,
-      "neg": 0.214,
-      "neu": 0.616,
-      "fin_score": -0.2023,
-      "label": "BEARISH",
-      "id": "467087d1a789",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Stock market holiday: NSE and BSE to remain shut for 12 days in May 2026; check full list",
-      "summary": "The Indian stock market will be closed on Maharashtra Day and Bakri Id in May 2026, totalling 12 holidays. Trading halts include equity, derivatives, and currency segments. Key holidays like Diwali and Christmas will also see market closures, while Sensex and Nifty 50 fell amid rising oil prices.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-nse-and-bse-to-remain-shut-for-12-days-in-may-2026-check-full-list-11777617378981.html",
-      "published": "Fri, 01 May 2026 12:48:15 +0530",
-      "compound": 0.9022,
-      "pos": 0.177,
-      "neg": 0.0,
-      "neu": 0.823,
-      "fin_score": 0.9022,
-      "label": "BULLISH",
-      "id": "52cdfcf2b41e",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Penny stock under ₹5 to be in focus on Monday; here’s why",
-      "summary": "Penny stock under ₹5: Empower India share price has rallied 12% in one week, and has jumped by a whopping 97% in one month. The penny stock has gained 50% in three months, but has risen just 2% in six months. Empower India shares have surged 30% in one year.",
-      "url": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-empower-india-share-price-to-be-in-focus-on-monday-here-s-why-11777619404606.html",
-      "published": "Fri, 01 May 2026 12:47:43 +0530",
-      "compound": 0.6369,
-      "pos": 0.095,
-      "neg": 0.0,
-      "neu": 0.905,
-      "fin_score": 0.6369,
-      "label": "BULLISH",
-      "id": "a7bb1e772ca6",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Indian bond yields end April near 7% as crude oil prices surge. What should investors do?",
-      "summary": "Global bond markets also faced pressure, with the 10-year US Treasury yield rising to a five-week high. This followed the US Federal Reserve’s most divided rate decision since 1992, which dampened expectations of near-term rate cuts as rising energy prices heightened inflation concerns.",
-      "url": "https://www.livemint.com/market/bonds/indian-bond-yields-end-april-near-7-as-crude-oil-prices-surge-what-should-investors-do-11777616351456.html",
-      "published": "Fri, 01 May 2026 12:07:25 +0530",
-      "compound": -0.6369,
-      "pos": 0.059,
-      "neg": 0.123,
-      "neu": 0.818,
-      "fin_score": -0.6169,
-      "label": "BEARISH",
-      "id": "ff52947047fa",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Expert View: What's the biggest risk for HNI investors’ portfolio today? Rahul Roy Chowdhury of Geojit Financial answers",
-      "summary": "Expert View: When valuations were stretched, we slowed entry; now that the risk-reward balance is better, we are more willing to add selectively, said Rahul Roy Chowdhury, CEO - Private Wealth Services, Geojit Financial Services.",
-      "url": "https://www.livemint.com/market/stock-market-news/expert-view-whats-the-biggest-risk-for-hni-investors-portfolio-today-rahul-roy-chowdhury-of-geojit-financial-answers-11777615108225.html",
-      "published": "Fri, 01 May 2026 11:37:37 +0530",
-      "compound": 0.6124,
-      "pos": 0.105,
-      "neg": 0.036,
-      "neu": 0.859,
-      "fin_score": 0.3124,
-      "label": "BULLISH",
-      "id": "d26d7370df69",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "OnEMI Technology Solutions IPO subscribed 24% on Day 1; GMP, review, other key details. Should you apply?",
-      "summary": "OnEMI Technology Solutions IPO saw a 24% subscription on its opening day, with bids for 9.4 million shares. The IPO aims to raise ₹926 crore, priced between ₹162-171 per share. It concludes on May 5, with a significant portion allocated to institutional investors.",
-      "url": "https://www.livemint.com/market/ipo/onemi-technology-solutions-ipo-gmp-onemi-technology-solutions-ipo-review-onemi-technology-solutions-ipo-subscription-11777611848196.html",
-      "published": "Fri, 01 May 2026 11:22:34 +0530",
-      "compound": 0.765,
-      "pos": 0.149,
-      "neg": 0.0,
-      "neu": 0.851,
-      "fin_score": 0.765,
-      "label": "BULLISH",
-      "id": "3431a94e7c7c",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 1 May in Delhi, Mumbai, Pune, others",
-      "summary": "Gold and silver prices rose on 1 May amid geopolitical tensions and inflationary concerns, driven by rising crude oil prices. Check the latest rates for 24K, 22K gold and 999 silver in Delhi, Mumbai, Pune and other cities.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-1-may-in-delhi-mumbai-pune-others-11777605886380.html",
-      "published": "Fri, 01 May 2026 10:26:31 +0530",
-      "compound": -0.7506,
-      "pos": 0.0,
-      "neg": 0.101,
-      "neu": 0.899,
-      "fin_score": -0.9806,
-      "label": "BEARISH",
-      "id": "b25bc715afb2",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Four AC stocks to add to your watchlist as temperatures soar",
-      "summary": "Changing weather conditions could be setting the stage for a strong sectoral move.",
-      "url": "https://www.livemint.com/market/stock-market-news/air-conditioner-stocks-india-voltas-blue-star-ac-stocks-pg-electroplast-summer-stocks-11777606842202.html",
-      "published": "Fri, 01 May 2026 10:02:23 +0530",
+      "title": "Bitcoin Tops $80,000 for Three-Month High as Asian Stocks Rise",
+      "summary": "Bitcoin rose above $80,000 for the first time in more than three months as Asian stocks approached record highs.",
+      "url": "https://www.livemint.com/market/bitcoin-tops-80-000-for-three-month-high-as-asian-stocks-rise-11777865022812.html",
+      "published": "Mon, 04 May 2026 08:53:42 +0530",
       "compound": 0.5106,
-      "pos": 0.125,
+      "pos": 0.105,
       "neg": 0.0,
-      "neu": 0.875,
-      "fin_score": 0.5106,
+      "neu": 0.895,
+      "fin_score": 0.8106,
       "label": "BULLISH",
-      "id": "5cce78f39bc2",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "id": "84bdf03a9f86",
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Rajesh Palviya of Axis Sec suggests Sun Pharma, Chennai Petro, Great Eastern Shipping shares to buy next week",
-      "summary": "On Thursday, Sensex and Nifty 50 declined nearly 1%, affected by increasing crude prices and foreign fund outflows. Sensex settled at 76,913.50 and Nifty 50 at 23,997.55. Markets will remain closed on Friday for Maharashtra Day.",
-      "url": "https://www.livemint.com/market/stock-market-news/rajesh-palviya-of-axis-sec-suggests-sun-pharma-chennai-petro-great-eastern-shipping-shares-to-buy-next-week-11777606215378.html",
-      "published": "Fri, 01 May 2026 09:52:25 +0530",
-      "compound": 0.7506,
-      "pos": 0.18,
-      "neg": 0.082,
-      "neu": 0.738,
-      "fin_score": 0.7506,
-      "label": "BULLISH",
-      "id": "39c63b8f1d10",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy on Monday",
-      "summary": "Shares to buy or sell: Chandan Taparia has recommended three stocks to buy on Monday, 4 May 2026 - Reliance Industries, RBL Bank and BSE shares.",
-      "url": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-on-monday-4-may-2026-reliance-bse-11777608663791.html",
-      "published": "Fri, 01 May 2026 09:50:36 +0530",
-      "compound": 0.8074,
-      "pos": 0.213,
+      "title": "Emerging-Market Stocks Rise to Record High on Tech Boost",
+      "summary": "Emerging-market assets gained, with strong tech earnings and hopes of a resumption in shipping through the Strait of Hormuz lifting sentiment.",
+      "url": "https://www.livemint.com/market/emergingmarketstocks-rise-to-record-high-on-tech-boost-11777864773266.html",
+      "published": "Mon, 04 May 2026 08:49:32 +0530",
+      "compound": 0.9022,
+      "pos": 0.344,
       "neg": 0.0,
-      "neu": 0.787,
-      "fin_score": 0.8074,
+      "neu": 0.656,
+      "fin_score": 1.0,
       "label": "BULLISH",
-      "id": "8510410984a6",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "id": "e2f75eeb084b",
+      "fetched_at": "2026-05-04 09:00:44 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Crude oil prices rally on US-Iran war worries as Strait of Hormuz remains blocked; Brent above $110 per barrel",
-      "summary": "Crude oil prices climbed on May 1, with Brent crude at $111.59 a barrel amid unresolved tensions with Iran. Experts noted inflation fears as prices exceeded $120 for the first time in four years, following ongoing disruptions in oil supply.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-rally-on-us-iran-war-worries-as-strait-of-hormuz-remains-blocked-brent-above-110-per-barrel-11777605668332.html",
-      "published": "Fri, 01 May 2026 08:58:38 +0530",
-      "compound": -0.9794,
+      "title": "Aluminum Gains as Trump Vows to Maintain Naval Blockade on Iran",
+      "summary": "Aluminum gained, with traders seeing little prospect of an imminent opening of the Strait of Hormuz that would ease availability of the metal.",
+      "url": "https://www.livemint.com/market/aluminum-gains-as-trump-vows-to-maintain-naval-blockade-on-iran-11777864467470.html",
+      "published": "Mon, 04 May 2026 08:44:27 +0530",
+      "compound": 0.813,
+      "pos": 0.239,
+      "neg": 0.0,
+      "neu": 0.761,
+      "fin_score": 0.913,
+      "label": "BULLISH",
+      "id": "aaf0efcdc2fb",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "OnEMI Technology Solutions IPO Day 2: Issue subscribed 24% so far. GMP, review, other key details. Should you apply?",
+      "summary": "OnEMI Technology Solutions IPO was 24% subscribed on the first day, with 66% from Qualified Institutional Buyers. The offering closes on May 5, with a price range of ₹162 to ₹171 per share, valuing the company at approximately ₹2,900 crore.",
+      "url": "https://www.livemint.com/market/ipo/onemi-technology-solutions-ipo-gmp-onemi-technology-solutions-ipo-review-onemi-technology-solutions-ipo-subscription-11777862437810.html",
+      "published": "Mon, 04 May 2026 08:37:30 +0530",
+      "compound": 0.7184,
+      "pos": 0.127,
+      "neg": 0.0,
+      "neu": 0.873,
+      "fin_score": 0.7184,
+      "label": "BULLISH",
+      "id": "baad4668cb9a",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stocks to buy for short term: From Jio Financial to Hero MotoCorp - Jigar Patel of Anand Rathi recommends 3 shares",
+      "summary": "Stocks to buy for short term: Jigar S. Patel, Senior Manager of Equity Technical Research at Anand Rathi Share and Stock Brokers, recommends three stocks to buy for the short term, highlighting their ideal buying range, target prices, and stop losses.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-jio-financial-hero-motocorp-castrol-india-jigar-patel-anand-rathi-recommends-3-shares-11777860637235.html",
+      "published": "Mon, 04 May 2026 08:24:54 +0530",
+      "compound": 0.8519,
+      "pos": 0.205,
+      "neg": 0.066,
+      "neu": 0.729,
+      "fin_score": 0.8519,
+      "label": "BULLISH",
+      "id": "82d3bc71d5b3",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Q4 results 2026: BHEL to Ambuja Cements among companies to declare Q4 results today; check full list here",
+      "summary": "Q4 results 2026: Around 45 companies will declare their March quarter results on Monday. Checkout Q4 previews, along with full list of companies to release Q4 results today.",
+      "url": "https://www.livemint.com/market/stock-market-news/q4-results-2026-bhel-to-ambuja-cements-among-companies-to-declare-q4-results-today-check-full-list-here-11777859881317.html",
+      "published": "Mon, 04 May 2026 08:10:46 +0530",
+      "compound": 0.0,
       "pos": 0.0,
-      "neg": 0.357,
-      "neu": 0.643,
-      "fin_score": -1.0,
-      "label": "BEARISH",
-      "id": "e3451b40976b",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Vodafone Idea share price to be in focus after ₹23,649-crore AGR relief",
-      "summary": "Vodafone Idea share price has gained 20% in one month, but the stock has fallen 8.5% in three months. The telecom stock has gained 17% in six months and has rallied over 43% in one year.",
-      "url": "https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-to-be-in-focus-after-rs-23-649-crore-agr-relief-11777601492353.html",
-      "published": "Fri, 01 May 2026 07:58:38 +0530",
-      "compound": 0.6369,
-      "pos": 0.188,
-      "neg": 0.058,
-      "neu": 0.754,
-      "fin_score": 0.6369,
-      "label": "BULLISH",
-      "id": "e1093b636d84",
-      "fetched_at": "2026-05-01 16:25:31 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Stocks to buy or sell for short term: Religare Broking's Ajit Mishra suggests strategies for 3 shares",
-      "summary": "Stocks to buy or sell for short term: Ajit Mishra, SVP of Research at Religare Broking, suggests trading strategies for three stocks, including RBL Bank and Sun Pharma. He believes a decisive move below 23,800 in Nifty could trigger further downside towards 23,500 or lower.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-for-short-term-religare-brokings-ajit-mishra-suggests-strategies-for-3-shares-11777597506549.html",
-      "published": "Fri, 01 May 2026 07:01:14 +0530",
-      "compound": 0.3818,
-      "pos": 0.1,
-      "neg": 0.062,
-      "neu": 0.838,
-      "fin_score": 0.0818,
+      "neg": 0.0,
+      "neu": 1.0,
+      "fin_score": 0.0,
       "label": "NEUTRAL",
-      "id": "1e5d38c4d005",
-      "fetched_at": "2026-05-01 16:25:31 IST"
+      "id": "b48c0ed64ab7",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stock market today: Gift Nifty signals gap-up start; election results, India VIX to Q4 results — 7 stocks to buy or sell",
+      "summary": "Stock market today: Experts recommend these eight stocks to buy today —Sona Blw Precision Forgings, Sai Life Sciences, Reliance, SAIL, GPPL, Thermax, and Tata Capital",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-signals-gap-up-start-election-results-india-vix-to-q4-results-7-stocks-to-buy-or-sell-11777859518981.html",
+      "published": "Mon, 04 May 2026 08:06:10 +0530",
+      "compound": 0.7964,
+      "pos": 0.155,
+      "neg": 0.0,
+      "neu": 0.845,
+      "fin_score": 0.7964,
+      "label": "BULLISH",
+      "id": "78ff2832ac9f",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Sensex, Nifty 50 | Stock Market LIVE: Gift Nifty signals firm start for Indian market; Assembly election results eyed",
+      "summary": "Sensex, Nifty 50 | Stock Market LIVE: Globally, Asian markets traded higher, while the US stock market ended mixed, with the S&P 500 and the Nasdaq posting record closing highs.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-sensex-nifty-50-live-gift-nifty-us-iran-war-crude-oil-prices-gold-rate-assembly-election-results-4-may-2026-11777861406580.html",
+      "published": "Mon, 04 May 2026 08:00:54 +0530",
+      "compound": 0.875,
+      "pos": 0.196,
+      "neg": 0.0,
+      "neu": 0.804,
+      "fin_score": 0.875,
+      "label": "BULLISH",
+      "id": "a89454c87710",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Raja Venkatraman, MarketSmith recommend five stocks for 4 May",
+      "summary": "After a dip in late April, Indian markets may start positively on May 4, driven by a favourable Gift Nifty. Analysts recommend buying stocks such as Syngene International and DCM Shriram, highlighting their growth potential despite recent market volatility.",
+      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-4-may-11777858578104.html",
+      "published": "Mon, 04 May 2026 07:44:35 +0530",
+      "compound": 0.9393,
+      "pos": 0.283,
+      "neg": 0.0,
+      "neu": 0.717,
+      "fin_score": 0.8593,
+      "label": "BULLISH",
+      "id": "c141846a1b11",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Emerging Assets Climb on Iran’s New Proposal in Thin Trading",
+      "summary": "Emerging-market benchmarks for stocks and currencies advanced in thin holiday trading, as Iran delivered a new proposal to the US via Pakistan over the Strait of Hormuz, pushing crude lower.",
+      "url": "https://www.livemint.com/market/emerging-assets-climb-on-iran-s-new-proposal-in-thin-trading-11777859786364.html",
+      "published": "Mon, 04 May 2026 07:26:26 +0530",
+      "compound": -0.128,
+      "pos": 0.135,
+      "neg": 0.125,
+      "neu": 0.74,
+      "fin_score": -0.128,
+      "label": "NEUTRAL",
+      "id": "952b49faa8d1",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 4 May",
+      "summary": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a positive start for the Indian benchmark index. The Gift Nifty was trading around 24,240 level, a premium of nearly 142 points from the Nifty futures’ previous close.",
+      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-4-may-11777859138023.html",
+      "published": "Mon, 04 May 2026 07:25:24 +0530",
+      "compound": 0.9678,
+      "pos": 0.318,
+      "neg": 0.0,
+      "neu": 0.682,
+      "fin_score": 0.9678,
+      "label": "BULLISH",
+      "id": "a60364ea27c9",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Buy or sell: Gift Nifty signals gap-up opening, Vaishali Parekh recommends three stocks to buy today — 4 May 2026",
+      "summary": "Buy or sell: Gift Nifty up, Vaishali Parekh recommends three stocks to buy today — Thirumalai Chemicals, CESC, and Bharat Dynamics",
+      "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-4-may-2026-11777857599550.html",
+      "published": "Mon, 04 May 2026 07:15:35 +0530",
+      "compound": 0.9337,
+      "pos": 0.335,
+      "neg": 0.0,
+      "neu": 0.665,
+      "fin_score": 0.9337,
+      "label": "BULLISH",
+      "id": "331377b958bc",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stocks to watch: BHEL, Kotak Mahindra, Adani Enterprises among 10 shares in focus today",
+      "summary": "Stock market today: The Indian stock market is likely to snap its losing streak as trends in the Gift Nifty index signalled a positive opening on Monday. Amid this backdrop, these stocks will remain in focus on Monday, 4 May.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-bhel-kotak-mahindra-adani-enterprises-among-10-shares-in-focus-today-11777857024146.html",
+      "published": "Mon, 04 May 2026 07:15:10 +0530",
+      "compound": 0.8316,
+      "pos": 0.181,
+      "neg": 0.041,
+      "neu": 0.778,
+      "fin_score": 0.8316,
+      "label": "BULLISH",
+      "id": "db9d07d0e68f",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "From Gift Nifty, Kospi, Nasdaq rally to crude oil prices: 8 key things that changed for Indian stock market over weekend",
+      "summary": "Gift Nifty was trading around 24,245 level, a premium of nearly 147 points from the Nifty futures’ previous close, indicating a positive start for the Indian stock market indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-kospi-nasdaq-rally-to-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-over-weekend-11777858020966.html",
+      "published": "Mon, 04 May 2026 07:05:52 +0530",
+      "compound": 0.9153,
+      "pos": 0.273,
+      "neg": 0.058,
+      "neu": 0.67,
+      "fin_score": 1.0,
+      "label": "BULLISH",
+      "id": "f4ccd1bbd6ca",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Australian shares fall in broad-based losses, NAB slips on missing earnings estimate",
+      "summary": "AUSTRALIA-STOCKS/ MIDDAY:Australian shares fall in broad-based losses, NAB slips on missing earnings estimate",
+      "url": "https://www.livemint.com/market/australian-shares-fall-in-broad-based-losses-nab-slips-on-missing-earnings-estimate-11777858135160.html",
+      "published": "Mon, 04 May 2026 06:58:54 +0530",
+      "compound": -0.6597,
+      "pos": 0.133,
+      "neg": 0.295,
+      "neu": 0.572,
+      "fin_score": -0.7597,
+      "label": "BEARISH",
+      "id": "d67ff90dfb10",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 4 May 2026",
+      "summary": "The Indian stock market ended Thursday's session on a negative note. Sumeet Bagadia of Choice Broking recommends five breakout stocks to buy today.",
+      "url": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-4-may-2026-11777855317521.html",
+      "published": "Mon, 04 May 2026 06:31:59 +0530",
+      "compound": 0.0772,
+      "pos": 0.128,
+      "neg": 0.079,
+      "neu": 0.792,
+      "fin_score": 0.3272,
+      "label": "BULLISH",
+      "id": "5703f0a2a4d9",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Yen steady as intervention fears linger with Japan shut for holidays",
+      "summary": "GLOBAL-FOREX/:FOREX-Yen steady as intervention fears linger with Japan shut for holidays",
+      "url": "https://www.livemint.com/market/yen-steady-as-intervention-fears-linger-with-japan-shut-for-holidays-11777854813552.html",
+      "published": "Mon, 04 May 2026 06:03:33 +0530",
+      "compound": -0.1027,
+      "pos": 0.181,
+      "neg": 0.194,
+      "neu": 0.625,
+      "fin_score": -0.1027,
+      "label": "NEUTRAL",
+      "id": "35786d29db24",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stock recommendations for 4 May from MarketSmith India",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 4 May. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-marketsmith-india-sensex-nifty-11777550518687.html",
+      "published": "Mon, 04 May 2026 06:01:13 +0530",
+      "compound": 0.2023,
+      "pos": 0.057,
+      "neg": 0.0,
+      "neu": 0.943,
+      "fin_score": 0.2023,
+      "label": "BULLISH",
+      "id": "091bb555c9ec",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "RBI’s forex gamble may steady the rupee but weigh on investor sentiment",
+      "summary": "Experts are divided on the long-term implications. While some warn of unintended consequences, others see the curbs as necessary.",
+      "url": "https://www.livemint.com/market/rbi-forex-cap-rupee-stability-investor-sentiment-india-market-fragmentation-11777790683126.html",
+      "published": "Mon, 04 May 2026 06:00:53 +0530",
+      "compound": -0.1531,
+      "pos": 0.0,
+      "neg": 0.051,
+      "neu": 0.949,
+      "fin_score": -0.4531,
+      "label": "BEARISH",
+      "id": "f4983537149d",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Kotak Mahindra Bank needs to catch up with its peers in cost efficiency",
+      "summary": "The pursuit of growth in safer, secured segments such as home loans is good for asset quality. However, it does not help in expanding NIM. Unsecured loans hold the key to better profitability.",
+      "url": "https://www.livemint.com/market/mark-to-market/kotak-mahindra-bank-q4-results-cost-efficiency-challenges-peer-performance-11777801990338.html",
+      "published": "Mon, 04 May 2026 06:00:33 +0530",
+      "compound": 0.9342,
+      "pos": 0.339,
+      "neg": 0.079,
+      "neu": 0.582,
+      "fin_score": 0.9342,
+      "label": "BULLISH",
+      "id": "23e5a2dc7a92",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stocks to trade: Raja Venkatraman recommends 3 stocks for 4 May",
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 4 May. Here’s his technical outlook and trade strategy.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-trade-raja-venkatraman-recommendations-3-stocks-for-4-may-11777805369975.html",
+      "published": "Mon, 04 May 2026 06:00:33 +0530",
+      "compound": 0.5994,
+      "pos": 0.179,
+      "neg": 0.0,
+      "neu": 0.821,
+      "fin_score": 0.5994,
+      "label": "BULLISH",
+      "id": "936aa1d82973",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Nifty bulls eye 500-point rally on peace hopes and Bengal buzz",
+      "summary": "Growing anticipation of a peace deal in West Asia, with both sides preferring negotiations over renewed fighting, and expectations of a win for the BJP in the West Bengal assembly elections have fuelled bullish sentiment.",
+      "url": "https://www.livemint.com/market/nifty-bulls-eye-500-point-rally-on-peace-hopes-and-bengal-buzz-11777784216177.html",
+      "published": "Mon, 04 May 2026 05:50:52 +0530",
+      "compound": 0.9423,
+      "pos": 0.324,
+      "neg": 0.042,
+      "neu": 0.634,
+      "fin_score": 1.0,
+      "label": "BULLISH",
+      "id": "2030811b282d",
+      "fetched_at": "2026-05-04 09:00:44 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Oil Edges Lower as Trump Says US Will Help Vessels Exit Strait",
+      "summary": "Oil dropped after President Donald Trump said the US would begin guiding neutral ships out through the Strait of Hormuz and signaled progress on talks with Iran to end the war now in its 10th week.",
+      "url": "https://www.livemint.com/market/oil-edges-lower-as-trump-says-us-will-help-vessels-exit-strait-11777849353380.html",
+      "published": "Mon, 04 May 2026 04:32:33 +0530",
+      "compound": -0.1531,
+      "pos": 0.099,
+      "neg": 0.11,
+      "neu": 0.791,
+      "fin_score": -0.4531,
+      "label": "BEARISH",
+      "id": "b87517038e3c",
+      "fetched_at": "2026-05-04 09:00:44 IST"
     }
   ]
 }
