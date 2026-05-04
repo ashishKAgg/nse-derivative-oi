@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-04 14:25:25 IST",
+  "generated_at": "2026-05-04 14:31:01 IST",
   "summary": {
-    "generated_at": "2026-05-04 14:25:25 IST",
+    "generated_at": "2026-05-04 14:31:01 IST",
     "total_articles": 60,
     "bullish_count": 33,
-    "bearish_count": 17,
-    "neutral_count": 10,
-    "avg_fin_score": 0.2264,
-    "weighted_score": 0.0334,
+    "bearish_count": 18,
+    "neutral_count": 9,
+    "avg_fin_score": 0.2234,
+    "weighted_score": 0.0291,
     "verdict": "NEUTRAL",
     "verdict_color": "#6c757d",
     "top_bullish": [
@@ -21,11 +21,11 @@
       "Rise in textile demand to support MCX cotton ahead of harvest season in October"
     ],
     "sources_hit": [
-      "MoneyControl Mkts",
-      "LiveMint Markets",
       "MoneyControl Top",
       "MoneyControl Comm",
-      "LiveMint Economy"
+      "LiveMint Economy",
+      "LiveMint Markets",
+      "MoneyControl Mkts"
     ]
   },
   "articles": [
@@ -42,7 +42,7 @@
       "fin_score": -0.5789,
       "label": "BEARISH",
       "id": "c128e32f5fb5",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -57,7 +57,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -72,7 +72,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -87,7 +87,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -102,7 +102,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -117,7 +117,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -132,7 +132,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -147,7 +147,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -162,7 +162,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -177,7 +177,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -192,7 +192,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -207,7 +207,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -222,7 +222,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -237,7 +237,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -252,7 +252,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -267,7 +267,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -282,7 +282,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -297,7 +297,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -312,7 +312,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -327,7 +327,22 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "April manufacturing PMI: is the uptick temporary?",
+      "summary": "The manufacturing PMI recovered mildly in April to 54.7 from a four-year low, driven partly by pre-emptive inventory building ahead of price hikes rather than genuine demand.&nbsp;",
+      "url": "https://www.livemint.com/market/mark-to-market/april-manufacturing-pmi-uptick-temporary-inventory-building-soaring-crude-oil-prices-11777882363306.html",
+      "published": "Mon, 04 May 2026 14:26:41 +0530",
+      "compound": -0.2732,
+      "pos": 0.0,
+      "neg": 0.06,
+      "neu": 0.94,
+      "fin_score": -0.1732,
+      "label": "BEARISH",
+      "id": "acd0b7020f28",
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -342,7 +357,7 @@
       "fin_score": 0.8225,
       "label": "BULLISH",
       "id": "a48f1def9080",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -357,7 +372,7 @@
       "fin_score": 0.9118,
       "label": "BULLISH",
       "id": "3c07ff313567",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -372,7 +387,7 @@
       "fin_score": 0.0772,
       "label": "NEUTRAL",
       "id": "8067d011ed95",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -387,7 +402,7 @@
       "fin_score": 0.6732,
       "label": "BULLISH",
       "id": "644e31b58ed9",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -402,7 +417,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "5cc8573c38ac",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -417,7 +432,7 @@
       "fin_score": 0.4939,
       "label": "BULLISH",
       "id": "5d8d3b74b01b",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -432,7 +447,7 @@
       "fin_score": 0.7184,
       "label": "BULLISH",
       "id": "8676c76eaa11",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -447,7 +462,7 @@
       "fin_score": -0.054,
       "label": "NEUTRAL",
       "id": "4d12ae7acbbf",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -462,7 +477,7 @@
       "fin_score": -0.7096,
       "label": "BEARISH",
       "id": "eae486b481b4",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -477,7 +492,7 @@
       "fin_score": -0.4511,
       "label": "BEARISH",
       "id": "f446e4d7dc9a",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -492,7 +507,7 @@
       "fin_score": 0.882,
       "label": "BULLISH",
       "id": "8d0db9d4c812",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -507,7 +522,7 @@
       "fin_score": 0.7003,
       "label": "BULLISH",
       "id": "3f04cb049887",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -522,7 +537,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "93c42b9fb39f",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -537,7 +552,7 @@
       "fin_score": 0.743,
       "label": "BULLISH",
       "id": "c7e771ab3db8",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -552,7 +567,7 @@
       "fin_score": 0.2104,
       "label": "BULLISH",
       "id": "4084f0a03f9f",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -567,7 +582,7 @@
       "fin_score": 0.8316,
       "label": "BULLISH",
       "id": "9cc6ac37a505",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -582,7 +597,7 @@
       "fin_score": 0.6019,
       "label": "BULLISH",
       "id": "61a604e32baa",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -597,7 +612,7 @@
       "fin_score": 0.9274,
       "label": "BULLISH",
       "id": "f3cb3fc20d3a",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -612,7 +627,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "97db88f56e2b",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -627,7 +642,7 @@
       "fin_score": 0.7845,
       "label": "BULLISH",
       "id": "112cf157e62c",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -642,7 +657,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "adcf1ce0fc68",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -657,7 +672,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "b16d94f6e97e",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -672,7 +687,7 @@
       "fin_score": -0.9879,
       "label": "BEARISH",
       "id": "61efc6a28bb1",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -687,7 +702,7 @@
       "fin_score": -0.7316,
       "label": "BEARISH",
       "id": "db34ebda1b42",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -702,7 +717,7 @@
       "fin_score": -0.4412,
       "label": "BEARISH",
       "id": "983bcf81b467",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -717,7 +732,7 @@
       "fin_score": 0.8106,
       "label": "BULLISH",
       "id": "84bdf03a9f86",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -732,7 +747,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "e2f75eeb084b",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -747,7 +762,7 @@
       "fin_score": 0.913,
       "label": "BULLISH",
       "id": "aaf0efcdc2fb",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -762,7 +777,7 @@
       "fin_score": 0.7184,
       "label": "BULLISH",
       "id": "89ef03c2f3a9",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -777,7 +792,7 @@
       "fin_score": 0.8519,
       "label": "BULLISH",
       "id": "82d3bc71d5b3",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -792,7 +807,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "b48c0ed64ab7",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -807,22 +822,22 @@
       "fin_score": 0.7964,
       "label": "BULLISH",
       "id": "78ff2832ac9f",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Sensex, Nifty 50 | Stock Market LIVE: Sensex gains over 200 points; Nifty 50 around 24,100 amid volatility",
+      "title": "Sensex, Nifty 50 | Stock Market LIVE: Sensex falls 600 points from day's high, up 400 points — Adani Ports lead gainer",
       "summary": "Sensex, Nifty 50 | Stock Market LIVE: Barring Nifty Media, all the sectoral indices were trading in the green, led by Nifty Auto, Nifty Realty, Nifty FMCG, Nifty Metals and Nifty PSU Banks.",
       "url": "https://www.livemint.com/market/stock-market-news/stock-market-sensex-nifty-50-live-gift-nifty-us-iran-war-crude-oil-prices-gold-rate-assembly-election-results-4-may-2026-11777861406580.html",
       "published": "Mon, 04 May 2026 08:00:54 +0530",
-      "compound": 0.9741,
-      "pos": 0.394,
+      "compound": 0.9618,
+      "pos": 0.315,
       "neg": 0.0,
-      "neu": 0.606,
-      "fin_score": 0.9941,
+      "neu": 0.685,
+      "fin_score": 0.8618,
       "label": "BULLISH",
-      "id": "c3ef2955a744",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "id": "ffb78fb76f45",
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -837,22 +852,7 @@
       "fin_score": 0.8593,
       "label": "BULLISH",
       "id": "c141846a1b11",
-      "fetched_at": "2026-05-04 14:25:25 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Emerging Assets Climb on Iran’s New Proposal in Thin Trading",
-      "summary": "Emerging-market benchmarks for stocks and currencies advanced in thin holiday trading, as Iran delivered a new proposal to the US via Pakistan over the Strait of Hormuz, pushing crude lower.",
-      "url": "https://www.livemint.com/market/emerging-assets-climb-on-iran-s-new-proposal-in-thin-trading-11777859786364.html",
-      "published": "Mon, 04 May 2026 07:26:26 +0530",
-      "compound": -0.128,
-      "pos": 0.135,
-      "neg": 0.125,
-      "neu": 0.74,
-      "fin_score": -0.128,
-      "label": "NEUTRAL",
-      "id": "952b49faa8d1",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -867,7 +867,7 @@
       "fin_score": -0.2846,
       "label": "BEARISH",
       "id": "3487e7a7753e",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -882,7 +882,7 @@
       "fin_score": 0.743,
       "label": "BULLISH",
       "id": "4be5ba7bdbe5",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -897,7 +897,7 @@
       "fin_score": -0.3779,
       "label": "BEARISH",
       "id": "7ea0a41cd93f",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -912,7 +912,7 @@
       "fin_score": 0.5808,
       "label": "BULLISH",
       "id": "9f978bf42de0",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -927,7 +927,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "b070ada2e423",
-      "fetched_at": "2026-05-04 14:25:25 IST"
+      "fetched_at": "2026-05-04 14:31:01 IST"
     }
   ]
 }
