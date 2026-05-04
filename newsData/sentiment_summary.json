@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-05-04 13:45:31 IST",
+  "generated_at": "2026-05-04 13:50:40 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 17,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2293,
-  "weighted_score": 0.0276,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 30,
+  "bearish_count": 21,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1164,
+  "weighted_score": 0.2335,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Vodafone Idea, HFCL, Meesho, JP Power, BHEL among the most traded stocks today, 4 May 2026",
+    "Why Avenue Supermarts may find it challenging to maintain margin",
+    "₹2.75 to ₹151.50: Multibagger penny stock turns ₹1 lakh into ₹55 lakh in four years"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Tactical tool or red flag? Inside the Q4 promoter pledging churn",
+    "1,400% returns in five years! Multibagger small-cap stock Spice Lounge hits upper circuit",
+    "Crude oil price steadies amid US-Iran war uncertainty. Where's it headed in near term?"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Comm",
     "LiveMint Economy"
   ]
 }
