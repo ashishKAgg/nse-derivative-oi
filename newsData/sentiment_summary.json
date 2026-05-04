@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-04 09:00:44 IST",
+  "generated_at": "2026-05-04 09:05:29 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 15,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2717,
-  "weighted_score": 0.2769,
+  "bullish_count": 29,
+  "bearish_count": 24,
+  "neutral_count": 7,
+  "avg_fin_score": 0.0708,
+  "weighted_score": 0.2661,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Bitcoin Tops $80,000 for Three-Month High as Asian Stocks Rise",
+    "Emerging-Market Stocks Rise to Record High on Tech Boost",
+    "Aluminum Gains as Trump Vows to Maintain Naval Blockade on Iran"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Distributors skirt SIF certification norms as talent shortage bites",
+    "Australian shares fall in broad-based losses, NAB slips on missing earnings estimate",
+    "RBI’s forex gamble may steady the rupee but weigh on investor sentiment"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
