@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-04 13:50:40 IST",
+  "generated_at": "2026-05-04 13:55:26 IST",
   "total_articles": 60,
   "bullish_count": 30,
-  "bearish_count": 21,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1164,
-  "weighted_score": 0.2335,
+  "bearish_count": 18,
+  "neutral_count": 12,
+  "avg_fin_score": 0.1581,
+  "weighted_score": 0.2455,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Vodafone Idea, HFCL, Meesho, JP Power, BHEL among the most traded stocks today, 4 May 2026",
-    "Why Avenue Supermarts may find it challenging to maintain margin",
-    "₹2.75 to ₹151.50: Multibagger penny stock turns ₹1 lakh into ₹55 lakh in four years"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Tactical tool or red flag? Inside the Q4 promoter pledging churn",
-    "1,400% returns in five years! Multibagger small-cap stock Spice Lounge hits upper circuit",
-    "Crude oil price steadies amid US-Iran war uncertainty. Where's it headed in near term?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "LiveMint Markets"
   ]
 }
