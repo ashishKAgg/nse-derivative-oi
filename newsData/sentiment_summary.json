@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-04 13:10:36 IST",
+  "generated_at": "2026-05-04 13:15:34 IST",
   "total_articles": 60,
-  "bullish_count": 31,
-  "bearish_count": 22,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1213,
-  "weighted_score": 0.2944,
+  "bullish_count": 32,
+  "bearish_count": 18,
+  "neutral_count": 10,
+  "avg_fin_score": 0.191,
+  "weighted_score": 0.2526,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Why Avenue Supermarts may find it challenging to maintain margin",
-    "₹2.75 to ₹151.50: Multibagger penny stock turns ₹1 lakh into ₹55 lakh in four years",
-    "Vinay Rajani of HDFC Sec suggests Tata Steel, Linde India shares to buy"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Tactical tool or red flag? Inside the Q4 promoter pledging churn",
-    "1,400% returns in five years! Multibagger small-cap stock Spice Lounge hits upper circuit",
-    "Crude oil price steadies amid US-Iran war uncertainty. Where's it headed in near term?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
