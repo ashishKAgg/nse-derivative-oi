@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-04 09:30:58 IST",
+  "generated_at": "2026-05-04 09:35:23 IST",
   "total_articles": 60,
-  "bullish_count": 29,
-  "bearish_count": 23,
-  "neutral_count": 8,
-  "avg_fin_score": 0.0846,
-  "weighted_score": 0.1318,
+  "bullish_count": 32,
+  "bearish_count": 16,
+  "neutral_count": 12,
+  "avg_fin_score": 0.2304,
+  "weighted_score": 0.2614,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Vodafone Idea share price jumps 10% after AGR relief; Should you buy the telecom stock?",
-    "Bitcoin Tops $80,000 for Three-Month High as Asian Stocks Rise",
-    "Emerging-Market Stocks Rise to Record High on Tech Boost"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold rate declines on MCX amid persisting inflation worries; US-Iran talks remain in focus",
-    "Rupee opens 4 paise lower at 94.95 against US dollar",
-    "Distributors skirt SIF certification norms as talent shortage bites"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
