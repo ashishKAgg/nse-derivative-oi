@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-04 15:15:35 IST",
+  "generated_at": "2026-05-04 15:20:34 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 15,
-  "neutral_count": 12,
-  "avg_fin_score": 0.2543,
-  "weighted_score": 0.2701,
+  "bullish_count": 31,
+  "bearish_count": 21,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1378,
+  "weighted_score": 0.4609,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "FPI outflows persist in equities; primary market sees continued interest",
+    "BSE SME stock rebounds after announcement of H2 results 2026",
+    "Bank Nifty falls 8% in 2026 so far: Is this correction a buying opportunity?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "April manufacturing PMI: is the uptick temporary?",
+    "Tactical tool or red flag? Inside the Q4 promoter pledging churn",
+    "1,400% returns in five years! Multibagger small-cap stock Spice Lounge hits upper circuit"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
