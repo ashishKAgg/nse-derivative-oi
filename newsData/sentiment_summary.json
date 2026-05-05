@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-05 11:50:40 IST",
+  "generated_at": "2026-05-05 11:55:30 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 18,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1883,
-  "weighted_score": 0.2514,
+  "bullish_count": 34,
+  "bearish_count": 21,
+  "neutral_count": 5,
+  "avg_fin_score": 0.1476,
+  "weighted_score": 0.1922,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Amazon logistics push rattles Delhivery, stock drops over 4%",
+    "NSE introduces Electronic Gold Receipts: What are they, how to trade and benefits explained",
+    "Healthcare stock Park Medi World hits record high despite stock market crash"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold Edges Higher on Dip Buying While Inflation Risks Still Loom",
+    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 5 May in Delhi, Mumbai and Kolkata",
+    "Crude oil prices retreat after gaining 6% amid ongoing US-Iran war. What's next?"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
