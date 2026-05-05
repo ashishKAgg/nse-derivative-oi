@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-05 14:50:34 IST",
+  "generated_at": "2026-05-05 14:55:38 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 17,
-  "neutral_count": 11,
-  "avg_fin_score": 0.1808,
-  "weighted_score": 0.2502,
+  "bullish_count": 31,
+  "bearish_count": 22,
+  "neutral_count": 7,
+  "avg_fin_score": 0.0907,
+  "weighted_score": 0.3374,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Marico Q4 results: Net profit rises 14% YoY to ₹391 crore, ₹4 per share dividend announced",
+    "Nippon India Mutual Fund raises stake in this healthcare stock. Do you own?",
+    "PNB Q4 results: Profit up 14.4% to ₹5,225 crore; NII, NIM drop on a YoY basis"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "USD vs INR: Indian Rupee may depreciate to 96 per US dollar amid rising crude oil prices, global risk",
+    "US 30-Year Yield Hits 5% on Oil Surge, Higher Borrowing Outlook",
+    "UBS cuts India’s FY27 GDP growth forecast to 6.2% amid oil price shock, weak monsoon; expects RBI rate hike in H2FY27"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
