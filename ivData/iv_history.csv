@@ -412,3 +412,4 @@ computed_at,spot,atm_strike,atm_iv,iv_rank,iv_pctile,verdict
 2026-05-05 09:15:46 IST,24052.6,24050,42.25,71.8,99.8,IV ELEVATED — Slight premium in options
 2026-05-05 09:20:43 IST,23990.35,24000,27.04,32.3,97.3,IV NORMAL — No edge from volatility alone
 2026-05-05 09:25:39 IST,24063.95,24050,28.63,36.4,97.8,IV NORMAL — No edge from volatility alone
+2026-05-05 09:31:18 IST,24047.95,24050,26.96,32.1,96.9,IV NORMAL — No edge from volatility alone
