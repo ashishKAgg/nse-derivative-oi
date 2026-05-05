@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05 13:15:48 IST",
+  "generated_at": "2026-05-05 13:20:43 IST",
   "total_articles": 60,
   "bullish_count": 33,
   "bearish_count": 21,
   "neutral_count": 6,
-  "avg_fin_score": 0.1369,
-  "weighted_score": 0.3964,
+  "avg_fin_score": 0.1377,
+  "weighted_score": 0.3967,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
@@ -19,7 +19,7 @@
     "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 5 May in Delhi, Mumbai and Kolkata"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
