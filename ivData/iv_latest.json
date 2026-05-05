@@ -1,9 +1,9 @@
 {
-  "computed_at": "2026-05-05 09:10:48 IST",
-  "spot": 24054.4,
+  "computed_at": "2026-05-05 09:15:46 IST",
+  "spot": 24052.6,
   "atm_strike": 24050,
-  "atm_iv": 41.96,
-  "iv_rank": 71.0,
+  "atm_iv": 42.25,
+  "iv_rank": 71.8,
   "iv_pctile": 99.8,
   "verdict": "IV ELEVATED \u2014 Slight premium in options",
   "verdict_color": "#fd7e14"
