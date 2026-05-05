@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-05-05 12:30:56 IST",
+  "generated_at": "2026-05-05 12:35:38 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 17,
-  "neutral_count": 7,
-  "avg_fin_score": 0.2319,
-  "weighted_score": 0.0176,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 33,
+  "bearish_count": 21,
+  "neutral_count": 6,
+  "avg_fin_score": 0.1266,
+  "weighted_score": 0.2152,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "M&M Q4 results 2026: Profit jumps 42% YoY to ₹4,667.57 crore; declares a final dividend of ₹33",
+    "Vodafone Idea, HFCL, JP Power, HCC, Meesho, Ola Electric Mobility among the most traded stocks today, 5 May 2026",
+    "Amazon logistics push rattles Delhivery, stock drops over 4%"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "UBS cuts India’s FY27 GDP growth forecast to 6.2% amid oil price shock, weak monsoon; expects RBI rate hike in H2FY27",
+    "Gold Edges Higher on Dip Buying While Inflation Risks Still Loom",
+    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 5 May in Delhi, Mumbai and Kolkata"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "LiveMint Markets",
-    "MoneyControl Mkts",
     "LiveMint Economy",
-    "MoneyControl Comm"
+    "LiveMint Markets"
   ]
 }
