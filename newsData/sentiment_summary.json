@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-06 10:10:30 IST",
+  "generated_at": "2026-05-06 10:15:45 IST",
   "total_articles": 60,
   "bullish_count": 33,
-  "bearish_count": 16,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2431,
-  "weighted_score": 0.265,
+  "bearish_count": 17,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2016,
+  "weighted_score": 0.3994,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Coforge share price jumps 10% on strong Q4 results. Should you buy, sell or hold?",
+    "OnEMI Technology Solutions IPO allotment date likely today. GMP, steps to check share allotment status online",
+    "PNB share price climbs almost 4% after Q4 results: Should you buy, sell, or hold the PSU bank stock?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Crude oil prices fall for second day amid US-Iran peace talks hopes; Brent below below $110/bbl mark",
+    "Gold rate jumps over 1% on MCX amid a weaker dollar, easing crude oil prices; possible US-Iran peace talks in focus",
+    "Rupee plunges to new low, some see signs of undervaluation against EM peers"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
