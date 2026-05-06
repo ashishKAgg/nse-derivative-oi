@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-05 16:25:35 IST",
+  "generated_at": "2026-05-06 09:00:49 IST",
   "summary": {
-    "generated_at": "2026-05-05 16:25:35 IST",
+    "generated_at": "2026-05-06 09:00:49 IST",
     "total_articles": 60,
-    "bullish_count": 30,
-    "bearish_count": 18,
-    "neutral_count": 12,
-    "avg_fin_score": 0.1844,
-    "weighted_score": 0.2507,
+    "bullish_count": 31,
+    "bearish_count": 16,
+    "neutral_count": 13,
+    "avg_fin_score": 0.1955,
+    "weighted_score": 0.2549,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -22,8 +22,8 @@
     ],
     "sources_hit": [
       "LiveMint Markets",
-      "MoneyControl Top",
       "MoneyControl Comm",
+      "MoneyControl Top",
       "MoneyControl Mkts"
     ]
   },
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,352 +581,352 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "We downgrade our growth forecast from 7.1% to 6.4%: Standard Chartered Bank's head of India Economic Research",
-      "summary": "Expert view: Anubhuti Sahay, Head- India Economic Research at Standard Chartered Bank, has downgraded the Indian economy's growth forecast from 7.1% to 6.4% assuming an average crude price of $90 per barrel.",
-      "url": "https://www.livemint.com/market/stock-market-news/downgrade-our-growth-forecast-from-7-1-to-6-4-standard-chartered-banks-head-of-india-economic-research-11777977120227.html",
-      "published": "Tue, 05 May 2026 16:14:45 +0530",
-      "compound": 0.128,
-      "pos": 0.095,
-      "neg": 0.067,
-      "neu": 0.838,
-      "fin_score": 0.128,
-      "label": "NEUTRAL",
-      "id": "9a20d51ab55b",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "176% rally in 1 year: Gautam Exim announces stock split and bonus issue",
-      "summary": "Gautam Exim's shares are in focus after announcing a stock split and bonus issue. Despite a recent 2.6% decline, the company has seen significant long-term gains, with a 176% increase over the past year and 1,284% over five years, reflecting strong investor interest.",
-      "url": "https://www.livemint.com/market/stock-market-news/176-rally-in-1-year-gautam-exim-share-price-flat-as-it-announces-stock-split-and-bonus-issue-11777974928680.html",
-      "published": "Tue, 05 May 2026 16:11:09 +0530",
-      "compound": 0.9638,
-      "pos": 0.314,
+      "title": "Q4 results 2026: Bajaj Auto to Paytm among companies to declare Q4 results today",
+      "summary": "Q4 results 2026: Around 60 companies will declare their March quarter results on Wednesday. Checkout Q4 previews, along with full list of companies to release Q4 results today.",
+      "url": "https://www.livemint.com/market/stock-market-news/q4-results-2026-bajaj-auto-to-paytm-among-companies-to-declare-q4-results-today-11778034551095.html",
+      "published": "Wed, 06 May 2026 08:38:12 +0530",
+      "compound": 0.0,
+      "pos": 0.0,
       "neg": 0.0,
-      "neu": 0.686,
-      "fin_score": 1.0,
-      "label": "BULLISH",
-      "id": "9ff21f7a55a7",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "neu": 1.0,
+      "fin_score": 0.0,
+      "label": "NEUTRAL",
+      "id": "c88236042249",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Sebi proposes GIFT City access for online bond platforms",
-      "summary": "Draft rules propose allowing OBPPs to offer overseas debt via IFSCA framework, list 54EC bonds, and relax compliance officer requirements.",
-      "url": "https://www.livemint.com/market/sebi-proposes-gift-city-access-for-online-bond-platforms-11777971228737.html",
-      "published": "Tue, 05 May 2026 15:54:50 +0530",
-      "compound": 0.6166,
-      "pos": 0.186,
-      "neg": 0.071,
-      "neu": 0.742,
-      "fin_score": 0.6166,
-      "label": "BULLISH",
-      "id": "6ee94bb315f4",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Emerging Assets Drop as Middle East Flareup Weighs on Sentiment",
-      "summary": "The currency and stock benchmarks for developing economies declined as a flareup in the Middle East conflict reinforced concerns over a global inflation spike and curbed risk appetite.",
-      "url": "https://www.livemint.com/market/emerging-assets-drop-as-middle-east-flareup-weighs-on-sentiment-11777975793287.html",
-      "published": "Tue, 05 May 2026 15:39:52 +0530",
-      "compound": -0.5859,
-      "pos": 0.04,
-      "neg": 0.154,
-      "neu": 0.806,
-      "fin_score": -0.8159,
+      "title": "Rupee plunges to new low, some see signs of undervaluation against EM peers",
+      "summary": "While the rupee has weakened significantly against the greenback, its Real Effective Exchange Rate (REER) tells a more balanced story of competitiveness against major trading partners",
+      "url": "https://www.livemint.com/market/stock-market-news/india-rupee-inr-vs-dollar-foreign-institutional-investors-fii-fpi-outflows-brent-crude-inflation-capital-forex-reserves-11777994762668.html",
+      "published": "Wed, 06 May 2026 08:35:25 +0530",
+      "compound": -0.0772,
+      "pos": 0.071,
+      "neg": 0.101,
+      "neu": 0.828,
+      "fin_score": -0.2772,
       "label": "BEARISH",
-      "id": "a62f491a25b9",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "819d885feb2c",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Top Gainers & Losers on May 5: Wockhardt, Tata Tech, Gabriel India, Dabur, Adani Green Energy among top gainers",
-      "summary": "Indian markets showed volatility on May 5 amid escalating US-Iran tensions. The Nifty 50 ended up 0.36%, while the Sensex declined 0.33%. Notable gainers included CreditAccess Grameen and Wockhardt, though profit-taking led to losses in several other stocks.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-may-5-wockhardt-tata-tech-gabriel-india-dabur-adani-green-energy-among-top-gainers-11777973637085.html",
-      "published": "Tue, 05 May 2026 15:36:05 +0530",
-      "compound": -0.34,
-      "pos": 0.125,
-      "neg": 0.131,
-      "neu": 0.744,
-      "fin_score": -0.42,
-      "label": "BEARISH",
-      "id": "f19fe2147449",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "title": "Mankind Pharma to CG Power - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+      "summary": "The GIFT Nifty indicates a positive start for the Indian stock market, trading at 24,279. Benchmark indices BSE Sensex and Nifty 50 ended lower due to profit booking. Broader markets showed resilience, with recommendations for Mankind Pharma, CG Power, and ABB futures.",
+      "url": "https://www.livemint.com/market/stock-market-news/mankind-pharma-to-cg-power-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11778034827218.html",
+      "published": "Wed, 06 May 2026 08:23:58 +0530",
+      "compound": 0.9236,
+      "pos": 0.211,
+      "neg": 0.03,
+      "neu": 0.759,
+      "fin_score": 0.9236,
+      "label": "BULLISH",
+      "id": "ce8fcb44c86b",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Stock market today: Sensex falls 250 points, Nifty 50 ends near 24,000; mid, small-caps outperform",
-      "summary": "The 30-share pack closed 252 points, or 0.33%, lower at 77,017.79, while the NSE barometer Nifty 50 ended at 24,032.80, down 87 points, or 0.36%.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-250-points-nifty-50-ends-near-24-000-mid-small-caps-outperform-on-5-may-2026-11777962974068.html",
-      "published": "Tue, 05 May 2026 15:31:40 +0530",
+      "title": "Stock market today: Gift Nifty jumps; US-Iran war, India VIX, oil, gold to silver rates — eight stocks to buy or sell",
+      "summary": "Stock market today: Experts recommend these eight stocks to buy today — VTL, RR Kabel, Ambuja Cements, REC, IRFC, ABB, M&amp;M, and Apollo Micro Systems",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-jumps-us-iran-war-india-vix-oil-gold-to-silver-rates-eight-stocks-to-buy-or-sell-11778032273657.html",
+      "published": "Wed, 06 May 2026 08:05:31 +0530",
       "compound": 0.4939,
-      "pos": 0.121,
-      "neg": 0.049,
-      "neu": 0.83,
-      "fin_score": 0.3939,
+      "pos": 0.147,
+      "neg": 0.071,
+      "neu": 0.782,
+      "fin_score": 0.1939,
       "label": "BULLISH",
-      "id": "1fd3023d580b",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "954054ebbdef",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Bagmane Prime Office REIT IPO Day 1: GMP signals over 4% listing gains — Check subscription status and other details",
-      "summary": "Bagmane Prime Office REIT IPO price band has been fixed at ₹95 to ₹100 per share. The offer, worth ₹3,405 crore at the upper end of the range, consists of a fresh share sale of ₹2,390 and an offer for sale of ₹1,015 crore.",
-      "url": "https://www.livemint.com/market/ipo/bagmane-prime-office-reit-ipo-day-1-gmp-signals-over-4-listing-gains-check-subscription-status-and-other-details-11777973825644.html",
-      "published": "Tue, 05 May 2026 15:10:41 +0530",
-      "compound": 0.8402,
-      "pos": 0.157,
-      "neg": 0.0,
-      "neu": 0.843,
-      "fin_score": 0.9402,
-      "label": "BULLISH",
-      "id": "cfdea6f8b9c1",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Gold to hit $8000 in 5 years? Why the yellow metal may be heading for a historic surge. Deutsche Bank explains",
-      "summary": "Gold prices may soar to $8000 within five years, driven by emerging market central banks accumulating gold and shifting away from the dollar. The report highlights structural changes in global reserves and geopolitical tensions as key factors in this trend.",
-      "url": "https://www.livemint.com/market/stock-market-news/gold-to-hit-8000-in-5-years-why-the-yellow-metal-may-be-heading-for-a-historic-surge-deutsche-bank-explains-11777970625018.html",
-      "published": "Tue, 05 May 2026 15:01:37 +0530",
-      "compound": -0.4019,
-      "pos": 0.0,
-      "neg": 0.043,
-      "neu": 0.957,
-      "fin_score": -0.4019,
-      "label": "BEARISH",
-      "id": "541ab407b71a",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Wockhardt shares surge over 12% to 9-month high as company swings to profit in Q4",
-      "summary": "Wockhardt's shares surged 12.55% to ₹1,604 following a profitable Q4FY26 with a net profit of ₹164 crore. Strong revenue growth from biotech and emerging markets fueled performance, with full-year revenue rising to ₹3,373 crore and EBITDA increasing by 51%.",
-      "url": "https://www.livemint.com/market/stock-market-news/wockhardt-shares-surge-over-12-to-9-month-high-as-company-swings-to-profit-in-q4-11777970807786.html",
-      "published": "Tue, 05 May 2026 14:51:54 +0530",
-      "compound": 0.9517,
-      "pos": 0.288,
-      "neg": 0.0,
-      "neu": 0.712,
-      "fin_score": 0.9517,
-      "label": "BULLISH",
-      "id": "8dc7dc3787e9",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Marico Q4 results: Net profit rises 14% YoY to ₹391 crore, ₹4 per share dividend announced",
-      "summary": "Marico Q4 results: Parachute brand owner Marico reported a 14% year-on-year increase in consolidated net profit to ₹391 crore for the quarter ended March 31, compared with ₹343 crore in the corresponding period last year.",
-      "url": "https://www.livemint.com/market/stock-market-news/marico-q4-results-net-profit-rises-14-yoy-to-391-crore-4-per-share-dividend-announced-11777970582080.html",
-      "published": "Tue, 05 May 2026 14:16:39 +0530",
-      "compound": 0.8519,
-      "pos": 0.18,
-      "neg": 0.0,
-      "neu": 0.82,
-      "fin_score": 0.8519,
-      "label": "BULLISH",
-      "id": "25b5bce33bf2",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Nippon India Mutual Fund raises stake in this healthcare stock. Do you own?",
-      "summary": "Nippon Life India Asset Management share price surged over 2.48% to ₹1,043 apiece on Tuesday after the announcement. Here's all the details, along with the share price trend.",
-      "url": "https://www.livemint.com/market/stock-market-news/nippon-india-mutual-fund-raises-stake-healthcare-stock-do-you-own-11777967645530.html",
-      "published": "Tue, 05 May 2026 14:10:49 +0530",
-      "compound": 0.7096,
-      "pos": 0.154,
-      "neg": 0.0,
-      "neu": 0.846,
-      "fin_score": 0.7096,
-      "label": "BULLISH",
-      "id": "ffd39b140379",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Why investors are cautious despite Ather’s revenue surge",
-      "summary": "While a massive revenue jump and narrowed losses signal operating leverage, rising cell costs and a steep valuation are keeping market enthusiasm in check.",
-      "url": "https://www.livemint.com/market/mark-to-market/investors-cautious-despite-ather-energy-rizta-scooter-revenue-surge-cell-cost-11777965960848.html",
-      "published": "Tue, 05 May 2026 14:09:46 +0530",
-      "compound": -0.0516,
-      "pos": 0.081,
-      "neg": 0.114,
-      "neu": 0.806,
-      "fin_score": -0.0516,
-      "label": "NEUTRAL",
-      "id": "6998488a591f",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "USD vs INR: Indian Rupee may depreciate to 96 per US dollar amid rising crude oil prices, global risk",
-      "summary": "The Indian rupee fell 20 paise to 95.43 against the US dollar amid geopolitical tensions and rising Brent crude prices, impacting oil-importing nations. Experts warn that prolonged currency weakness could worsen India's current account deficit and trigger further capital outflows.",
-      "url": "https://www.livemint.com/market/stock-market-news/usd-vs-inr-indian-rupee-may-depreciate-to-96-per-us-dollar-amid-rising-crude-oil-prices-global-risk-11777967045465.html",
-      "published": "Tue, 05 May 2026 13:54:00 +0530",
-      "compound": -0.9657,
-      "pos": 0.0,
-      "neg": 0.305,
-      "neu": 0.695,
+      "title": "India to hurt if Iran War stretches in May—Kotak's Sanjeev Prasad on macro impact, unhurt sectors",
+      "summary": "A mid-May ceasefire could limit the damage, but a prolonged West Asia conflict may lift crude prices, pressure inflation, impact current account deficit, and slow growth even as global-facing sectors keep earnings resilient, says one of India's respected market strategists.",
+      "url": "https://www.livemint.com/market/stock-market-news/india-oil-100-barrel-sectors-unhurt-iran-war-mid-may-macro-impact-sanjeev-prasad-kotak-11777962471512.html",
+      "published": "Wed, 06 May 2026 08:00:55 +0530",
+      "compound": -0.8847,
+      "pos": 0.101,
+      "neg": 0.267,
+      "neu": 0.631,
       "fin_score": -1.0,
       "label": "BEARISH",
-      "id": "df9b95bacc09",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "4861b2cf8f7e",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "PNB Q4 results: Profit up 14.4% to ₹5,225 crore; NII, NIM drop on a YoY basis",
-      "summary": "PNB Q4 results: PNB's Q4 profit saw a 14.41% YoY rise. However, NII and NIM declined on a year-over-year basis. Operating profit rose by 10.7% YoY.",
-      "url": "https://www.livemint.com/market/stock-market-news/pnb-q4-results-profit-up-14-4-yoy-to-5225-crore-11777968702939.html",
-      "published": "Tue, 05 May 2026 13:43:23 +0530",
-      "compound": 0.765,
-      "pos": 0.178,
-      "neg": 0.043,
-      "neu": 0.779,
-      "fin_score": 0.765,
-      "label": "BULLISH",
-      "id": "82fd7da0b737",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "US 30-Year Yield Hits 5% on Oil Surge, Higher Borrowing Outlook",
-      "summary": "Treasuries fell, sending 30-year yields to the highest since July, as a surge in oil prices stoked inflation fears while higher government borrowing estimates fueled concerns about increased supply.",
-      "url": "https://www.livemint.com/market/us-30-year-yield-hits-5-on-oil-surge-higher-borrowing-outlook-11777968182659.html",
-      "published": "Tue, 05 May 2026 13:33:02 +0530",
-      "compound": 0.0516,
-      "pos": 0.091,
-      "neg": 0.064,
-      "neu": 0.845,
-      "fin_score": -0.1784,
-      "label": "BEARISH",
-      "id": "4f928364261e",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "BHEL stock in the spotlight after an electrifying Q4 show",
-      "summary": "BHEL’s shares trade at about 43 times its estimated FY27 earnings per share. All eyes will now be on the pace of execution and margin accretion over the next few quarters.",
-      "url": "https://www.livemint.com/market/mark-to-market/bhel-share-price-bhel-q4-earnings-bhel-drdo-order-manufacturing-industry-india-11777963820418.html",
-      "published": "Tue, 05 May 2026 13:10:31 +0530",
-      "compound": 0.5267,
-      "pos": 0.101,
+      "title": "Sensex, Nifty 50 | Stock Market LIVE: Gift Nifty signals strong start for Indian market; Nasdaq, Kospi at record high",
+      "summary": "Sensex, Nifty 50 | Stock Market LIVE: Asian markets gained, while the US stock market ended higher overnight, with the S&P 500 and Nasdaq posting record closing high.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-sensex-nifty-50-live-gift-nifty-us-iran-talks-crude-oil-prices-nasdaq-kospi-gold-rate-today-6-may-2026-11778034310823.html",
+      "published": "Wed, 06 May 2026 07:59:47 +0530",
+      "compound": 0.9423,
+      "pos": 0.287,
       "neg": 0.0,
-      "neu": 0.899,
+      "neu": 0.713,
+      "fin_score": 1.0,
+      "label": "BULLISH",
+      "id": "4d1ffa204d60",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stocks to watch: Bajaj Auto, Paytm, L&T, Marico among 10 shares in focus today",
+      "summary": "Stock market today: The Indian stock market is likely to snap its losing streak as trends in the Gift Nifty index signalled a positive opening on Wednesday. Amid this backdrop, these stocks will remain in focus on 6 May.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-bajaj-auto-paytm-l-t-marico-among-10-shares-in-focus-today-11778032408532.html",
+      "published": "Wed, 06 May 2026 07:51:43 +0530",
+      "compound": 0.8316,
+      "pos": 0.184,
+      "neg": 0.042,
+      "neu": 0.774,
+      "fin_score": 0.8316,
+      "label": "BULLISH",
+      "id": "b3357ec5b43e",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Funding curbs on prop traders: Brokers forum to meet RBI today",
+      "summary": "The Association of NSE Members of India is seeking relaxation &nbsp;of an imminent bar on bank funding to proprietary firms for trading on capital markets from 1 July&nbsp;",
+      "url": "https://www.livemint.com/market/stock-market-news/rbi-capital-market-norms-prop-trading-funding-bank-guarantees-india-anmi-rbi-meeting-proprietary-traders-nse-derivatives-11777994086937.html",
+      "published": "Wed, 06 May 2026 07:45:39 +0530",
+      "compound": 0.5267,
+      "pos": 0.082,
+      "neg": 0.0,
+      "neu": 0.918,
       "fin_score": 0.5267,
       "label": "BULLISH",
-      "id": "3db34413f39f",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "76e71e579bf5",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "SIP mania remains strong despite poor show from Nifty bulls: What could impact investor confidence going ahead?",
-      "summary": "Nifty 50 has risen even less than 2% in the last 24 months, challenging investor patience at a time when the global market performance has remained strong. Asian peers and US markets are trading at or close to record high levels.",
-      "url": "https://www.livemint.com/market/stock-market-news/sip-mania-remains-strong-despite-poor-show-from-nifty-bulls-what-could-impact-investor-confidence-going-ahead-11777965486337.html",
-      "published": "Tue, 05 May 2026 12:57:21 +0530",
-      "compound": 0.9549,
-      "pos": 0.276,
+      "title": "Raja Venkatraman, MarketSmith recommend five stocks for 6 May",
+      "summary": "The key indices, Sensex and Nifty 50, ended lower on 5 May, driven by profit-taking. Mid- and small-cap stocks showed gains. Analysts suggest five stocks for buying today, including Aditya Birla Capital and Aurobindo Pharma, as the market prepares for a muted start.",
+      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-marketsmith-recommend-five-stocks-for-6-may-11778031381221.html",
+      "published": "Wed, 06 May 2026 07:36:11 +0530",
+      "compound": 0.6597,
+      "pos": 0.131,
+      "neg": 0.038,
+      "neu": 0.83,
+      "fin_score": 0.7597,
+      "label": "BULLISH",
+      "id": "f3a5fbf318fa",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 6 May",
+      "summary": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a gap-up start for the Indian benchmark index. The Gift Nifty was trading around 24,322 level, a premium of nearly 216 points from the Nifty futures’ previous close.",
+      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-6-may-11778031595702.html",
+      "published": "Wed, 06 May 2026 07:24:11 +0530",
+      "compound": 0.9538,
+      "pos": 0.278,
       "neg": 0.0,
-      "neu": 0.724,
+      "neu": 0.722,
+      "fin_score": 0.9538,
+      "label": "BULLISH",
+      "id": "122426b7d6dc",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Asian markets today: South Korea's Kospi hits record high amid US-Iran peace talks hopes",
+      "summary": "Asian markets today: South Korea’s Kospi index scaled a new record high, surpassing the 7,000 mark. It climbed 381.8 points, or 5.5%, to touch an all-time high of 7,318.8 during the session.",
+      "url": "https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-hits-record-high-amid-us-iran-peace-talks-hopes-11778030164276.html",
+      "published": "Wed, 06 May 2026 07:18:13 +0530",
+      "compound": 0.743,
+      "pos": 0.125,
+      "neg": 0.0,
+      "neu": 0.875,
       "fin_score": 1.0,
       "label": "BULLISH",
-      "id": "45b70b284cab",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "5ff144569f8b",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Hero MotoCorp Q4 Results 2026 LIVE: Two-wheeler major likely to post robust sales, profit growth; all eyes on dividend",
-      "summary": "Hero MotoCorp Q4 Results 2026 LIVE: Brokerages expect Hero MotoCorp to post a strong set of numbers, driven by high volumes, a rise in average selling prices and export market expansion. According to their estimates, both revenue and profit could jump in double-digits on a year-on-year basis.",
-      "url": "https://www.livemint.com/market/stock-market-news/hero-motocorp-q4-results-2026-live-hero-motocorp-share-price-hero-motocorp-q4-dividend-earnings-profit-5-may-2026-11777964008423.html",
-      "published": "Tue, 05 May 2026 12:45:01 +0530",
-      "compound": 0.9747,
-      "pos": 0.3,
+      "title": "Buy or sell: Gift Nifty signals gap-up opening, Vaishali Parekh recommends three stocks to buy today — 6 May 2026",
+      "summary": "Buy or sell: Vaishali Parekh recommends three stocks to buy today — Rites, Thirumalai Chemicals, and TBZ",
+      "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-opening-vaishali-parekh-recommends-three-stocks-to-buy-today-6-may-2026-11778029929946.html",
+      "published": "Wed, 06 May 2026 07:18:07 +0530",
+      "compound": 0.8126,
+      "pos": 0.222,
       "neg": 0.0,
-      "neu": 0.7,
-      "fin_score": 0.9747,
+      "neu": 0.778,
+      "fin_score": 0.8126,
       "label": "BULLISH",
-      "id": "db4c7c332f00",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "5234c1ba5088",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "M&M Q4 results 2026: Profit jumps 42% YoY to ₹4,667.57 crore; declares a final dividend of ₹33",
-      "summary": "M&amp;M Q4 results 2026: Profit jumped nearly 42% YoY to ₹4,667.57 crore, while revenue from operations increased by nearly 29% to ₹54,891.55 crore. M&amp;M's board approved a final dividend of ₹33 per share, with a face value of ₹5 each, for FY26.",
-      "url": "https://www.livemint.com/market/stock-market-news/mm-q4-results-2026-profit-jumps-42-yoy-to-4-667-57-crore-declares-a-final-dividend-of-33-11777964170440.html",
-      "published": "Tue, 05 May 2026 12:27:48 +0530",
-      "compound": 0.9231,
-      "pos": 0.224,
+      "title": "From Gift Nifty, US-Iran peace talks to Nasdaq, Kospi rally: 10 things that changed for Indian stock market overnight",
+      "summary": "Gift Nifty was trading around 24,306 level, a premium of nearly 200 points from the Nifty futures’ previous close, indicating a gap-up start for the Indian stock market indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-iran-peace-talks-to-nasdaq-kospi-rally-10-things-that-changed-for-indian-stock-market-overnight-11778030811100.html",
+      "published": "Wed, 06 May 2026 07:03:22 +0530",
+      "compound": 0.9468,
+      "pos": 0.293,
       "neg": 0.0,
-      "neu": 0.776,
-      "fin_score": 0.9231,
+      "neu": 0.707,
+      "fin_score": 1.0,
       "label": "BULLISH",
-      "id": "2997b2244009",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "40b6bd836343",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Oil Edges Lower Following Spike With Hormuz Stalemate in Focus",
-      "summary": "Oil edged lower, paring Monday’s gain, as traders tracked tensions in the Middle East after fresh clashes between the US and Iran.",
-      "url": "https://www.livemint.com/market/oil-edges-lower-following-spike-with-hormuz-stalemate-in-focus-11777964056509.html",
-      "published": "Tue, 05 May 2026 12:24:16 +0530",
-      "compound": -0.1027,
-      "pos": 0.143,
-      "neg": 0.178,
-      "neu": 0.678,
-      "fin_score": -0.1027,
+      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today — 6 May 2026",
+      "summary": "The Indian stock market ended Monday's session on a lower note. Sumeet Bagadia of Choice Broking recommends five breakout stocks to buy today.",
+      "url": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-6-may-2026-11778028215795.html",
+      "published": "Wed, 06 May 2026 06:37:46 +0530",
+      "compound": 0.4215,
+      "pos": 0.133,
+      "neg": 0.049,
+      "neu": 0.819,
+      "fin_score": 0.6715,
+      "label": "BULLISH",
+      "id": "f4684333d873",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stock recommendations for 6 May from MarketSmith India",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 6 May. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-6-may-from-marketsmith-india-11777987373602.html",
+      "published": "Wed, 06 May 2026 06:00:34 +0530",
+      "compound": 0.2023,
+      "pos": 0.057,
+      "neg": 0.0,
+      "neu": 0.943,
+      "fin_score": 0.2023,
+      "label": "BULLISH",
+      "id": "1ec44bdaf440",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "BlackRock-backed GIP mulls IPOs for Pristine, Ascend at $500 mn valuations",
+      "summary": "BlackRock's Global Infrastructure Partners is exploring IPOs for Pristine Logistics and Ascend Telecom in India. The listing effort reflects both GIP's exit strategy following BlackRock's acquisition and India's accelerating infrastructure investment cycle.",
+      "url": "https://www.livemint.com/market/gip-blackrock-india-infrastructure-ipo-pristine-logistics-ascend-telecom-asset-monetization-11777959985853.html",
+      "published": "Wed, 06 May 2026 06:00:33 +0530",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neg": 0.0,
+      "neu": 1.0,
+      "fin_score": 0.0,
       "label": "NEUTRAL",
-      "id": "2600778e3cf3",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "d9fcf9ef74f0",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "UBS cuts India’s FY27 GDP growth forecast to 6.2% amid oil price shock, weak monsoon; expects RBI rate hike in H2FY27",
-      "summary": "UBS has revised its India GDP growth forecast downward to 6.2% for FY27, from its earlier estimate of 6.7%, factoring in higher crude oil prices, supply-side disruptions, and expectations of a below-normal monsoon.",
-      "url": "https://www.livemint.com/market/stock-market-news/ubs-cuts-india-s-fy27-gdp-growth-forecast-to-6-2-amid-oil-price-shock-weak-monsoon-expects-rbi-rate-hike-in-h2fy27-11777962004908.html",
-      "published": "Tue, 05 May 2026 12:06:22 +0530",
-      "compound": -0.8225,
-      "pos": 0.079,
-      "neg": 0.209,
-      "neu": 0.712,
-      "fin_score": -1.0,
+      "title": "Stocks to trade: Raja Venkatraman recommends three stocks for 6 May",
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 6 May. Here’s his technical outlook and trade strategy.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-trade-raja-venkatraman-recommends-three-stocks-6-may-11777994626636.html",
+      "published": "Wed, 06 May 2026 06:00:14 +0530",
+      "compound": 0.5994,
+      "pos": 0.179,
+      "neg": 0.0,
+      "neu": 0.821,
+      "fin_score": 0.5994,
+      "label": "BULLISH",
+      "id": "2c8ef720b642",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Municipalities planning large bond issues await clarity on end-use guidelines",
+      "summary": "Three months after a ₹100 crore incentive for municipal bonds in the FY27 budget, urban bodies await guidelines on fund usage. Several municipalities, including Ahmedabad and Brihanmumbai, are planning bond issuances, but investor concerns arise from unclear fund deployment regulations.",
+      "url": "https://www.livemint.com/market/bonds/municipalities-large-bond-issues-awaiting-clarity-end-use-guidelines-fy27-budget-bond-markets-public-infrastructure-11777959872429.html",
+      "published": "Wed, 06 May 2026 05:30:33 +0530",
+      "compound": 0.128,
+      "pos": 0.112,
+      "neg": 0.047,
+      "neu": 0.841,
+      "fin_score": 0.048,
+      "label": "NEUTRAL",
+      "id": "ce4f0123557a",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Oil Extends Decline as Trump Says ‘Great Progress’ in Iran Talks",
+      "summary": "Oil fell a second day as US President Donald Trump said “Great Progress” has been made on a final agreement to end the war with Iran.",
+      "url": "https://www.livemint.com/market/oil-extends-decline-as-trump-says-great-progress-in-iran-talks-11778024509995.html",
+      "published": "Wed, 06 May 2026 05:11:49 +0530",
+      "compound": -0.0516,
+      "pos": 0.11,
+      "neg": 0.092,
+      "neu": 0.798,
+      "fin_score": -0.3516,
       "label": "BEARISH",
-      "id": "e281546c1348",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "f76acc6d3e3e",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Vodafone Idea, HFCL, JP Power, HCC, Meesho, Ola Electric Mobility among the most traded stocks today, 5 May 2026",
-      "summary": "Most traded stocks today: Vodafone Idea, HFCL, Jaiprakash Power Ventures (JP Power), Meesho, Ola Electric Mobility, Hindustan Construction Company (HCC), and Vedanta were among the most traded stocks, or most active stocks in terms of volume, on the NSE on Tuesday.",
-      "url": "https://www.livemint.com/market/stock-market-news/vodafone-idea-hfcl-jp-power-hcc-meesho-ola-electric-mobility-among-the-most-traded-stocks-today-5-may-2026-11777960112288.html",
-      "published": "Tue, 05 May 2026 11:59:36 +0530",
-      "compound": 0.6732,
-      "pos": 0.087,
-      "neg": 0.0,
-      "neu": 0.913,
-      "fin_score": 0.6732,
-      "label": "BULLISH",
-      "id": "61aa57402632",
-      "fetched_at": "2026-05-05 16:25:35 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "BSE SME stock hits 5% upper circuit despite Indian stock market sell-off",
-      "summary": "HRS Aluglaze's stock hit the 5% upper circuit at ₹225.75 on May 5, despite market declines. The company secured a ₹1.31 crore work order for aluminium windows from PSP Projects, enhancing its order book and revenue visibility over the next four months.",
-      "url": "https://www.livemint.com/market/stock-market-news/bse-sme-stock-hrs-aluglaze-share-price-hits-5-upper-circuit-despite-indian-stock-market-selloff-11777961262701.html",
-      "published": "Tue, 05 May 2026 11:49:12 +0530",
-      "compound": 0.4019,
-      "pos": 0.048,
-      "neg": 0.0,
-      "neu": 0.952,
-      "fin_score": 0.0019,
+      "title": "Traders Ramp Up Bets Warsh’s Fed Could Hike Rates Before Cutting",
+      "summary": "Bond traders are boosting wagers that the Federal Reserve’s next policy move could be an interest rate hike rather than a cut.",
+      "url": "https://www.livemint.com/market/traders-ramp-up-bets-warsh-s-fed-could-hike-rates-before-cutting-11778014617590.html",
+      "published": "Wed, 06 May 2026 02:26:57 +0530",
+      "compound": 0.4215,
+      "pos": 0.142,
+      "neg": 0.095,
+      "neu": 0.763,
+      "fin_score": -0.1285,
       "label": "NEUTRAL",
-      "id": "62141b193500",
-      "fetched_at": "2026-05-05 16:25:35 IST"
+      "id": "70d3be7209c3",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Aluminum Jumps the Most in Three Weeks as US-Iran Truce Holds",
+      "summary": "Aluminum jumped the most in three weeks along with other industrial metals as signs that a US-Iran ceasefire still holds reduced fears of a full-blown war that may drag down economic growth.",
+      "url": "https://www.livemint.com/market/aluminum-jumps-the-most-in-three-weeks-as-us-iran-truce-holds-11778006530035.html",
+      "published": "Wed, 06 May 2026 00:12:09 +0530",
+      "compound": -0.7184,
+      "pos": 0.052,
+      "neg": 0.171,
+      "neu": 0.777,
+      "fin_score": -0.8184,
+      "label": "BEARISH",
+      "id": "f5bac7968441",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Dollar softens as Middle East ceasefire holds",
+      "summary": "GLOBAL-FOREX/ (UPDATE 5):FOREX-Dollar softens as Middle East ceasefire holds",
+      "url": "https://www.livemint.com/market/dollar-softens-as-middle-east-ceasefire-holds-11778006528972.html",
+      "published": "Wed, 06 May 2026 00:12:08 +0530",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neg": 0.0,
+      "neu": 1.0,
+      "fin_score": 0.2,
+      "label": "BULLISH",
+      "id": "e6660d40bdfa",
+      "fetched_at": "2026-05-06 09:00:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Nasdaq hits record as AI chip stocks surge",
+      "summary": "USA-STOCKS/ (UPDATE 5):US STOCKS-Nasdaq hits record as AI chip stocks surge",
+      "url": "https://www.livemint.com/market/nasdaq-hits-record-as-ai-chip-stocks-surge-11778006040990.html",
+      "published": "Wed, 06 May 2026 00:04:00 +0530",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neg": 0.0,
+      "neu": 1.0,
+      "fin_score": 0.0,
+      "label": "NEUTRAL",
+      "id": "a121e48e2de2",
+      "fetched_at": "2026-05-06 09:00:49 IST"
     }
   ]
 }
