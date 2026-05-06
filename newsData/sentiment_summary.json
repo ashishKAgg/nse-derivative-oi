@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-06 10:40:41 IST",
+  "generated_at": "2026-05-06 10:45:30 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 18,
+  "bullish_count": 34,
+  "bearish_count": 17,
   "neutral_count": 9,
-  "avg_fin_score": 0.1864,
-  "weighted_score": 0.501,
+  "avg_fin_score": 0.2523,
+  "weighted_score": 0.268,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Voda Idea shares surge 4%, extend rise to 3rd day: AGR relief to KM Birla's return — Key factors behind rally explained",
-    "United Breweries shares fall nearly 5% after Q4 results. Is it time to buy or sell?",
-    "Bajaj Auto Q4 Results 2026 LIVE: Two-wheeler stock jumps 2% ahead of results — Dividend, buyback announcements eyed"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices fall for second day amid US-Iran peace talks hopes; Brent below below $110/bbl mark",
-    "Gold rate jumps over 1% on MCX amid a weaker dollar, easing crude oil prices; possible US-Iran peace talks in focus",
-    "Rupee opens 24 paise higher at 95.04 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
