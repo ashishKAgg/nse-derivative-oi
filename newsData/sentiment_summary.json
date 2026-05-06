@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-06 14:05:26 IST",
+  "generated_at": "2026-05-06 14:10:43 IST",
   "total_articles": 60,
-  "bullish_count": 31,
-  "bearish_count": 19,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2017,
-  "weighted_score": 0.255,
+  "bullish_count": 35,
+  "bearish_count": 20,
+  "neutral_count": 5,
+  "avg_fin_score": 0.2164,
+  "weighted_score": 0.3952,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "KPI Green Energy share price jumps 11% after Q4 results today",
+    "Ruchit Jain of Motilal Oswal suggests Granules India, Nippon Life, and SRF shares to buy for the short term",
+    "Mahindra's next challenge: maintaining its growth lead"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "L&T's wings clipped by geopolitical tensions, recovery likely in H2 of FY27",
+    "Middle East war threatens to derail Indian economic growth: Should stock market investors be worried?",
+    "FIIs sell Indian stocks worth ₹1.98 lakh crore in just four months. Can this trend reverse in May?"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
