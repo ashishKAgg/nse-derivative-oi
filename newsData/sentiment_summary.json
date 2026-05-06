@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-06 13:10:42 IST",
+  "generated_at": "2026-05-06 13:15:45 IST",
   "total_articles": 60,
-  "bullish_count": 32,
+  "bullish_count": 36,
   "bearish_count": 18,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2248,
-  "weighted_score": 0.2631,
+  "neutral_count": 6,
+  "avg_fin_score": 0.2417,
+  "weighted_score": 0.3223,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Mahindra's next challenge: maintaining its growth lead",
+    "Value 360 Communications IPO Day 3: Issue booked 77% so far. Check GMP, issue details, more",
+    "L&T share price falls nearly 4% after Q4 results. Time to buy or sell the infra stock?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "FIIs sell Indian stocks worth ₹1.98 lakh crore in just four months. Can this trend reverse in May?",
+    "Europe Gas Traders Buy Options to Hedge for Winter Price Spike",
+    "Crude oil prices fall for second day amid US-Iran peace talks hopes; Brent below below $110/bbl mark"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
