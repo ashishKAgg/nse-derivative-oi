@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-06 12:20:45 IST",
+  "generated_at": "2026-05-06 12:25:32 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 17,
-  "neutral_count": 7,
-  "avg_fin_score": 0.2512,
-  "weighted_score": 0.4099,
+  "bullish_count": 32,
+  "bearish_count": 18,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2139,
+  "weighted_score": 0.2603,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "L&T share price falls nearly 4% after Q4 results. Time to buy or sell the infra stock?",
-    "Vodafone Idea, YES Bank, HFCL, JP Power, Filatex Fashions among the most traded stocks today, 6 May 2026",
-    "Paytm Q4 Results 2026 LIVE: Paytm share price gains ahead of earnings; what to expect"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Europe Gas Traders Buy Options to Hedge for Winter Price Spike",
-    "Crude oil prices fall for second day amid US-Iran peace talks hopes; Brent below below $110/bbl mark",
-    "Gold rate jumps over 1% on MCX amid a weaker dollar, easing crude oil prices; possible US-Iran peace talks in focus"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
