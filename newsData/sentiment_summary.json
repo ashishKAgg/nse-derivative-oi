@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-06 10:00:50 IST",
+  "generated_at": "2026-05-06 10:05:33 IST",
   "total_articles": 60,
   "bullish_count": 33,
-  "bearish_count": 17,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1954,
-  "weighted_score": 0.3703,
+  "bearish_count": 16,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2419,
+  "weighted_score": 0.2641,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "OnEMI Technology Solutions IPO allotment date likely today. GMP, steps to check share allotment status online",
-    "PNB share price climbs almost 4% after Q4 results: Should you buy, sell, or hold the PSU bank stock?",
-    "M&M shares rise nearly 3% after Q4 results, emerge as top Nifty 50 gainer. Should you buy, sell or hold?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices fall for second day amid US-Iran peace talks hopes; Brent below below $110/bbl mark",
-    "Gold rate jumps over 1% on MCX amid a weaker dollar, easing crude oil prices; possible US-Iran peace talks in focus",
-    "Rupee plunges to new low, some see signs of undervaluation against EM peers"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
