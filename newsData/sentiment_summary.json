@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-06 15:30:59 IST",
+  "generated_at": "2026-05-06 15:35:38 IST",
   "total_articles": 60,
   "bullish_count": 32,
-  "bearish_count": 19,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2092,
-  "weighted_score": 0.255,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bearish_count": 23,
+  "neutral_count": 5,
+  "avg_fin_score": 0.144,
+  "weighted_score": 0.1147,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Crude oil prices hit a lower circuit on US-Iran peace hopes; Brent oil below $104 per barrel",
+    "Raymond Realty shares hit 20% upper circuit after strong Q4 results; up 51% since March low",
+    "Sensex jumps 940 points, Nifty 50 ends above 24,300. Key factors behind stock market rise explained"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "MCX tech glitch: Zerodha flags order issues across brokers, advises caution for commodity trading",
+    "Mint Explainer: Can Sebi’s GIFT City pivot fix India’s weak appetite for foreign debt?",
+    "Lump sum vs SWP: What is the right way to withdraw money from mutual funds after retirement?"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
