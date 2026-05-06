@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-06 16:10:43 IST",
+  "generated_at": "2026-05-06 16:15:37 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 20,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1886,
-  "weighted_score": 0.2496,
+  "bullish_count": 31,
+  "bearish_count": 23,
+  "neutral_count": 6,
+  "avg_fin_score": 0.1578,
+  "weighted_score": 0.1781,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Top Gainers & Losers on May 6: Coforge, Vodafone Idea, HFCL, BPCL, Tata Motors, IndiGo among top gainers",
+    "Raymond Realty shares hit 20% upper circuit after strong Q4 results; up 51% since March low",
+    "Sensex jumps 940 points, Nifty 50 ends above 24,300. Key factors behind stock market rise explained"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "MCX tech glitch: Zerodha flags order issues across brokers, advises caution for commodity trading",
+    "Crude oil prices hit a lower circuit on US-Iran peace hopes; Brent oil below $104 per barrel",
+    "Mint Explainer: Can Sebi’s GIFT City pivot fix India’s weak appetite for foreign debt?"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
