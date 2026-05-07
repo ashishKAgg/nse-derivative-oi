@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-07 09:15:36 IST",
+  "generated_at": "2026-05-07 09:20:30 IST",
   "total_articles": 60,
-  "bullish_count": 41,
-  "bearish_count": 12,
-  "neutral_count": 7,
-  "avg_fin_score": 0.3348,
-  "weighted_score": 0.4748,
+  "bullish_count": 35,
+  "bearish_count": 15,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2593,
+  "weighted_score": 0.2719,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Gold rate up amid focus on potential US-Iran peace deal; dimming US Fed rate cut hopes cap gains",
-    "Stock market today: Gift Nifty hints muted start; US-Iran war, India VIX to gold, silver rates — 8 stocks to buy or sell",
-    "Stocks to buy for short term: From RVNL to Eternal- Amol Athawale of Kotak Securities suggests 3 shares"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 13 paise lower at 94.74 against the US dollar",
-    "Foreign Demand for Treasury Debt Is Stalling, Trade Group Says",
-    "Canadian dollar dips as oil price drop crimps rate cut bets"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Top"
   ]
 }
