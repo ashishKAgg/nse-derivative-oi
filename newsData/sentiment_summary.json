@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-07 14:10:41 IST",
+  "generated_at": "2026-05-07 14:15:45 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 14,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2961,
-  "weighted_score": 0.2824,
+  "bullish_count": 44,
+  "bearish_count": 11,
+  "neutral_count": 5,
+  "avg_fin_score": 0.3964,
+  "weighted_score": 0.6449,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Vodafone Idea, YES Bank, GTL Infrastructure, HFCL, Meesho among the most traded stocks today, 7 May 2026",
+    "Stocks to buy: Nagaraj Shetti recommends Anant Raj, Rico Auto shares to buy in the short-term",
+    "Recode Studios IPO GMP signals 27% listing pop — Issue booked 104x so far on Day 3. Check key details"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Do you know? 5 common mistakes that can drain your portfolio and how to avoid them",
+    "Crude oil prices steady as investors weigh US-Iran peace deal; Brent at $102/bbl. Where are prices headed?",
+    "Sebi’s policy u-turns raise questions on consultations, regulatory certainty"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
