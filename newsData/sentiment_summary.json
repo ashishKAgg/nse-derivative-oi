@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07 14:15:45 IST",
+  "generated_at": "2026-05-07 14:20:43 IST",
   "total_articles": 60,
-  "bullish_count": 44,
-  "bearish_count": 11,
+  "bullish_count": 43,
+  "bearish_count": 12,
   "neutral_count": 5,
-  "avg_fin_score": 0.3964,
-  "weighted_score": 0.6449,
+  "avg_fin_score": 0.3631,
+  "weighted_score": 0.2596,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
@@ -14,12 +14,12 @@
     "Recode Studios IPO GMP signals 27% listing pop — Issue booked 104x so far on Day 3. Check key details"
   ],
   "top_bearish": [
+    "Can gold prices outperform silver amid weak global macroeconomic outlook?",
     "Do you know? 5 common mistakes that can drain your portfolio and how to avoid them",
-    "Crude oil prices steady as investors weigh US-Iran peace deal; Brent at $102/bbl. Where are prices headed?",
-    "Sebi’s policy u-turns raise questions on consultations, regulatory certainty"
+    "Crude oil prices steady as investors weigh US-Iran peace deal; Brent at $102/bbl. Where are prices headed?"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
