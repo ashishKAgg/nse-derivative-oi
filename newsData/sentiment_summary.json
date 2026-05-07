@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-07 15:55:28 IST",
+  "generated_at": "2026-05-07 16:01:05 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 14,
-  "neutral_count": 8,
-  "avg_fin_score": 0.3105,
-  "weighted_score": 0.2853,
+  "bullish_count": 43,
+  "bearish_count": 12,
+  "neutral_count": 5,
+  "avg_fin_score": 0.3652,
+  "weighted_score": 0.6694,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Japan’s Nikkei 225 hits record high on US-Iran deal hopes; SoftBank, Seiko Epson lead the rally",
+    "Top Gainers & Losers on May 7: Godrej Industries, Tejas Networks, Paytm, Polycab, BHEL, HFCL among top gainers",
+    "Stock market today: Sensex falls 114 points, Nifty 50 ends above 24,300; mid, small-cap indices jump 1%"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Can gold prices outperform silver amid weak global macroeconomic outlook?",
+    "Do you know? 5 common mistakes that can drain your portfolio and how to avoid them",
+    "Crude oil prices steady as investors weigh US-Iran peace deal; Brent at $102/bbl. Where are prices headed?"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
