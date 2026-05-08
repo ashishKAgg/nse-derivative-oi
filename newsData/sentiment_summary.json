@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-08 10:20:42 IST",
+  "generated_at": "2026-05-08 10:25:31 IST",
   "total_articles": 60,
-  "bullish_count": 40,
+  "bullish_count": 35,
   "bearish_count": 15,
-  "neutral_count": 5,
-  "avg_fin_score": 0.2973,
-  "weighted_score": 0.366,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2553,
+  "weighted_score": 0.2694,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "OnEMI Technology Solutions share price makes a strong debut, stock opens with a 11.11% premium at ₹190 apiece on NSE",
-    "Gold Rises as Buying Interest Counters Concern Over Hormuz Clash",
-    "Lenskart share price slips 3% as IPO lock-in period ends, block deal buzz"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold price today: Rate up on MCX amid healthy spot demand, positive global cues; experts highlight key levels to watch",
-    "Rupee opens 33 paise lower at 94.58 against the US dollar",
-    "Gundlach Takes Longshot Bet on US Debt Revamp With Low Coupons"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
