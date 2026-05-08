@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-08 15:15:41 IST",
+  "generated_at": "2026-05-08 15:20:43 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 14,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2791,
-  "weighted_score": 0.277,
+  "bullish_count": 40,
+  "bearish_count": 15,
+  "neutral_count": 5,
+  "avg_fin_score": 0.3118,
+  "weighted_score": 0.552,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Kalyan Jewellers Q4 Results: Net profit jumps 118% YoY to ₹409.5 crore; co declares ₹2.5/share final dividend",
+    "Multibagger Thermax stock jumps 14% to fresh record high after strong Q4 performance",
+    "SBI dividend: India's largest lender announces ₹17.35/share dividend. Check record date"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Can Shree Cement, Ambuja's capex breather allay sector’s overcapacity concerns?",
+    "SBI Q4 Results 2026 LIVE: PAT jumps 5.6% YoY to ₹19,684 crore, ₹17.35 dividend announced; PSU stock crashes 7%",
+    "Gold price today: Rate up on MCX amid healthy spot demand, positive global cues; experts highlight key levels to watch"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
