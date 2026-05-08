@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-08 11:05:38 IST",
+  "generated_at": "2026-05-08 11:10:40 IST",
   "total_articles": 60,
-  "bullish_count": 35,
+  "bullish_count": 41,
   "bearish_count": 15,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2681,
-  "weighted_score": 0.2727,
+  "neutral_count": 4,
+  "avg_fin_score": 0.3017,
+  "weighted_score": 0.5307,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "SBI Q4 Results 2026 LIVE: Net profit may rise 4% despite treasury pain, NII seen up 8% YoY; dividend in focus",
+    "Nvidia is now worth more than India’s entire equity market",
+    "Rajesh Palviya of Axis Sec suggests NBCC, Lupin, RBL Bank shares to buy today - 8 May"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold price today: Rate up on MCX amid healthy spot demand, positive global cues; experts highlight key levels to watch",
+    "Rupee opens 33 paise lower at 94.58 against the US dollar",
+    "Gundlach Takes Longshot Bet on US Debt Revamp With Low Coupons"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
