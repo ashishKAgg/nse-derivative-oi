@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-08 13:00:43 IST",
+  "generated_at": "2026-05-08 13:05:39 IST",
   "total_articles": 60,
-  "bullish_count": 35,
+  "bullish_count": 40,
   "bearish_count": 15,
-  "neutral_count": 10,
-  "avg_fin_score": 0.26,
-  "weighted_score": 0.2698,
+  "neutral_count": 5,
+  "avg_fin_score": 0.2864,
+  "weighted_score": 0.3068,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "1800% returns in five years! Multibagger stock shows resilience against stock market sell-off",
+    "Vodafone Idea, GTL Infra, YES Bank, OnEMI Tech, Lenskart, MRPL among the most traded stocks today, 8 May 2026, on NSE",
+    "Small-cap stock under ₹100 MIC Electronics zooms 9% despite weak trends on Dalal Street"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Can Shree Cement, Ambuja's capex breather allay sector’s overcapacity concerns?",
+    "Gold price today: Rate up on MCX amid healthy spot demand, positive global cues; experts highlight key levels to watch",
+    "Rupee opens 33 paise lower at 94.58 against the US dollar"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
