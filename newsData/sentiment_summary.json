@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-08 11:45:46 IST",
+  "generated_at": "2026-05-08 11:50:40 IST",
   "total_articles": 60,
-  "bullish_count": 41,
-  "bearish_count": 15,
-  "neutral_count": 4,
-  "avg_fin_score": 0.3037,
-  "weighted_score": 0.2698,
+  "bullish_count": 35,
+  "bearish_count": 16,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2576,
+  "weighted_score": 0.2699,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Small-cap stock under ₹100 MIC Electronics zooms 9% despite weak trends on Dalal Street",
-    "Hero Motocorp vs Bajaj Auto: Which is a better stock to buy after Q4 results 2026?",
-    "Multibagger defence stock Apollo Micro Systems jumps 7% after this order book update"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Can Shree Cement, Ambuja's capex breather allay sector’s overcapacity concerns?",
-    "Gold price today: Rate up on MCX amid healthy spot demand, positive global cues; experts highlight key levels to watch",
-    "Rupee opens 33 paise lower at 94.58 against the US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
