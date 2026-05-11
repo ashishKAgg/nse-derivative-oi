@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-11 12:40:45 IST",
+  "generated_at": "2026-05-11 12:45:33 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 19,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1439,
-  "weighted_score": 0.2883,
+  "bullish_count": 29,
+  "bearish_count": 21,
+  "neutral_count": 10,
+  "avg_fin_score": 0.0968,
+  "weighted_score": 0.2317,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "SBI: The worst of margin pressure could be over after Q4’s sharp sequential drop",
-    "Life insurance stocks gain after strong FY27 start; SBI Life, ICICI Prudential lead growth",
-    "Vodafone Idea, YES Bank, Ola Electric, HFCL among the most traded stocks on NSE today, 11 May 2026"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Oil Market in ‘Race Against Time’ on Hormuz, Morgan Stanley Says",
-    "SpiceJet to IndiGo: Why are aviation stocks down up to 5% today? Explained",
-    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 11 May in Delhi, Mumbai and Kolkata"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
