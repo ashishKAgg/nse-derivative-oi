@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-05-11 09:50:29 IST",
+  "generated_at": "2026-05-11 09:55:36 IST",
   "total_articles": 60,
-  "bullish_count": 28,
-  "bearish_count": 21,
-  "neutral_count": 11,
-  "avg_fin_score": 0.0856,
-  "weighted_score": -0.0266,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 32,
+  "bearish_count": 19,
+  "neutral_count": 9,
+  "avg_fin_score": 0.123,
+  "weighted_score": -0.2296,
+  "verdict": "BEARISH",
+  "verdict_color": "#dc3545",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Stock market today: Gift Nifty signals big gap-down opening; US-Iran war, oil, gold to silver — 7 stocks to buy or sell",
+    "Stocks to buy for short term: From CDSL to Patanjali Foods - Jigar Patel of Anand Rathi recommends 3 shares",
+    "JPMorgan Hikes Kospi Bull Case Target to 10,000 on Memory Boom"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Crude oil prices continue to rise amid US-Iran uncertainty. What's the near-term outlook?",
+    "Chalet Hotels, Lemon Tree to IHCL: Hotel stocks drop up to 3% on PM Modi's appeal",
+    "Sensex crashes almost 1,000 points; investors lose ₹4 lakh crore: Key factors behind stock market crash explained"
   ],
   "sources_hit": [
-    "MoneyControl Top",
     "LiveMint Economy",
-    "MoneyControl Comm",
-    "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Markets"
   ]
 }
