@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-11 09:55:36 IST",
+  "generated_at": "2026-05-11 10:00:46 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 19,
-  "neutral_count": 9,
-  "avg_fin_score": 0.123,
-  "weighted_score": -0.2296,
-  "verdict": "BEARISH",
-  "verdict_color": "#dc3545",
+  "bullish_count": 28,
+  "bearish_count": 20,
+  "neutral_count": 12,
+  "avg_fin_score": 0.1097,
+  "weighted_score": 0.2257,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Stock market today: Gift Nifty signals big gap-down opening; US-Iran war, oil, gold to silver — 7 stocks to buy or sell",
-    "Stocks to buy for short term: From CDSL to Patanjali Foods - Jigar Patel of Anand Rathi recommends 3 shares",
-    "JPMorgan Hikes Kospi Bull Case Target to 10,000 on Memory Boom"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices continue to rise amid US-Iran uncertainty. What's the near-term outlook?",
-    "Chalet Hotels, Lemon Tree to IHCL: Hotel stocks drop up to 3% on PM Modi's appeal",
-    "Sensex crashes almost 1,000 points; investors lose ₹4 lakh crore: Key factors behind stock market crash explained"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
