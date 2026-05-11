@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-11 13:10:42 IST",
+  "generated_at": "2026-05-11 13:15:36 IST",
   "summary": {
-    "generated_at": "2026-05-11 13:10:42 IST",
+    "generated_at": "2026-05-11 13:15:36 IST",
     "total_articles": 60,
     "bullish_count": 29,
-    "bearish_count": 21,
-    "neutral_count": 10,
-    "avg_fin_score": 0.0968,
-    "weighted_score": 0.2317,
+    "bearish_count": 22,
+    "neutral_count": 9,
+    "avg_fin_score": 0.0723,
+    "weighted_score": 0.2246,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -21,10 +21,10 @@
       "Subramanian Swamy seeks ban on import of cement from Pakistan"
     ],
     "sources_hit": [
-      "MoneyControl Comm",
-      "LiveMint Markets",
       "MoneyControl Top",
-      "MoneyControl Mkts"
+      "MoneyControl Mkts",
+      "MoneyControl Comm",
+      "LiveMint Markets"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,7 +581,22 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stock market crash: Nifty 50 slips below 24,000. Will it fall below 22,000 this time?",
+      "summary": "Nifty 50 has declined 0.5% over the past one month and has fallen nearly 7.7% in the last three months. Monday’s decline below the crucial 24,000 mark has further weakened near-term sentiment, with broader market breadth also turning negative.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-crash-nifty-50-slips-below-24-000-will-it-fall-below-22-000-this-time-11778484668133.html",
+      "published": "Mon, 11 May 2026 13:11:02 +0530",
+      "compound": -0.7003,
+      "pos": 0.084,
+      "neg": 0.173,
+      "neu": 0.743,
+      "fin_score": -1.0,
+      "label": "BEARISH",
+      "id": "bdd902e411cf",
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -596,7 +611,7 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "2dac72014315",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -611,7 +626,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "da0a7884ba08",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -626,22 +641,22 @@
       "fin_score": 0.8708,
       "label": "BULLISH",
       "id": "c97a414b1539",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Canara Bank Q4 Results 2026 LIVE: Canara Bank share price falls ahead of earnings today. Dividend in focus",
+      "title": "Canara Bank Q4 Results 2026 LIVE: Net profit drops 9.9% to ₹4,506 crore, NII up 4% YoY; declares ₹4.20 dividend",
       "summary": "Canara Bank Q4 Results 2026 LIVE: Canara Bank is expected to report a decline in its earnings during the fourth quarter of FY26, weighed down by sluggish operating profitability.",
       "url": "https://www.livemint.com/market/stock-market-news/canara-bank-q4-results-2026-live-canara-bank-q4-earnings-canara-bank-share-price-psu-bank-canara-bank-profit-11-may-2026-11778479446436.html",
       "published": "Mon, 11 May 2026 11:41:34 +0530",
-      "compound": 0.1531,
-      "pos": 0.084,
-      "neg": 0.053,
-      "neu": 0.863,
-      "fin_score": 0.0531,
-      "label": "NEUTRAL",
-      "id": "2e95f67f9ed8",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "compound": 0.3182,
+      "pos": 0.093,
+      "neg": 0.05,
+      "neu": 0.857,
+      "fin_score": 0.3182,
+      "label": "BULLISH",
+      "id": "65a91b2b08e2",
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -656,7 +671,7 @@
       "fin_score": 0.6808,
       "label": "BULLISH",
       "id": "19d12e9c1bc6",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -671,7 +686,7 @@
       "fin_score": 0.8126,
       "label": "BULLISH",
       "id": "c81069a185e4",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -686,7 +701,7 @@
       "fin_score": 0.15,
       "label": "BULLISH",
       "id": "2bd30a225c58",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -701,7 +716,7 @@
       "fin_score": -0.9479,
       "label": "BEARISH",
       "id": "a51f604228e7",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -716,7 +731,7 @@
       "fin_score": 0.2494,
       "label": "BULLISH",
       "id": "c437db7c866c",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -731,7 +746,7 @@
       "fin_score": 0.34,
       "label": "BULLISH",
       "id": "038d4f992a2f",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -746,7 +761,7 @@
       "fin_score": 0.8316,
       "label": "BULLISH",
       "id": "35456976e18c",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -761,7 +776,7 @@
       "fin_score": -0.296,
       "label": "BEARISH",
       "id": "562146b6b32d",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -776,7 +791,7 @@
       "fin_score": 0.6319,
       "label": "BULLISH",
       "id": "a3dbf3a8ed45",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -791,7 +806,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "ec9b12b8c58e",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -806,7 +821,7 @@
       "fin_score": -0.296,
       "label": "BEARISH",
       "id": "6fdefd2d9a61",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -821,7 +836,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "9ea343b96e47",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -836,7 +851,7 @@
       "fin_score": -0.2382,
       "label": "BEARISH",
       "id": "6170c0a29739",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -851,7 +866,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "79a49e87f756",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -866,7 +881,7 @@
       "fin_score": 0.093,
       "label": "NEUTRAL",
       "id": "caab74f2686d",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -881,7 +896,7 @@
       "fin_score": 0.1939,
       "label": "BULLISH",
       "id": "be13597e14d1",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -896,7 +911,7 @@
       "fin_score": -0.7465,
       "label": "BEARISH",
       "id": "27159cc6281e",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -911,22 +926,7 @@
       "fin_score": -0.8888,
       "label": "BEARISH",
       "id": "1c2b6d6d1f6c",
-      "fetched_at": "2026-05-11 13:10:42 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Stocks to buy for short term: From CDSL to Patanjali Foods - Jigar Patel of Anand Rathi recommends 3 shares",
-      "summary": "Stocks to buy for short term: CDSL and Patanjali Foods are among the three shares Jigar Patel of Anand Rathi recommends buying for the next 1-2 weeks.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-from-cdsl-to-patanjali-foods-jigar-patel-of-anand-rathi-recommends-3-shares-11778468912391.html",
-      "published": "Mon, 11 May 2026 08:54:26 +0530",
-      "compound": 0.7351,
-      "pos": 0.16,
-      "neg": 0.0,
-      "neu": 0.84,
-      "fin_score": 0.7351,
-      "label": "BULLISH",
-      "id": "b1048a57b4f3",
-      "fetched_at": "2026-05-11 13:10:42 IST"
+      "fetched_at": "2026-05-11 13:15:36 IST"
     }
   ]
 }
