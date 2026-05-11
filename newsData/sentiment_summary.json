@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-11 09:05:29 IST",
+  "generated_at": "2026-05-11 09:10:42 IST",
   "total_articles": 60,
-  "bullish_count": 31,
-  "bearish_count": 16,
-  "neutral_count": 13,
-  "avg_fin_score": 0.1912,
-  "weighted_score": 0.2543,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 34,
+  "bearish_count": 18,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1618,
+  "weighted_score": 0.0164,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stocks to buy for short term: From CDSL to Patanjali Foods - Jigar Patel of Anand Rathi recommends 3 shares",
+    "JPMorgan Hikes Kospi Bull Case Target to 10,000 on Memory Boom",
+    "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Godrej Properties, Schaffler shares on 11 May"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens 40 paise lower at 94.88 against the US dollar",
+    "Gold price falls on MCX as higher crude oil prices, stalled US–Iran peace talks fuel inflation worries",
+    "Crude oil prices jump 4% on US-Iran peace talks failure; Brent crude near $104 per barrel"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
