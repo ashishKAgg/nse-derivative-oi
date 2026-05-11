@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-11 10:31:03 IST",
+  "generated_at": "2026-05-11 10:35:29 IST",
   "total_articles": 60,
-  "bullish_count": 31,
-  "bearish_count": 20,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1078,
-  "weighted_score": -0.0022,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 27,
+  "bearish_count": 21,
+  "neutral_count": 12,
+  "avg_fin_score": 0.0881,
+  "weighted_score": 0.2228,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Vodafone Idea share price zooms over 4% despite stock market crash",
-    "Stock market today: Gift Nifty signals big gap-down opening; US-Iran war, oil, gold to silver — 7 stocks to buy or sell",
-    "Stocks to buy for short term: From CDSL to Patanjali Foods - Jigar Patel of Anand Rathi recommends 3 shares"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 11 May in Delhi, Mumbai and Kolkata",
-    "Ambani's Jio Platforms IPO pivots to pure fundraise, no offer for sale: Report",
-    "Crude oil prices continue to rise amid US-Iran uncertainty. What's the near-term outlook?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Mkts",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
