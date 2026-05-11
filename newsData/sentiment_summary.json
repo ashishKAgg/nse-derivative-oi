@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-11 11:50:36 IST",
+  "generated_at": "2026-05-11 11:55:34 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 19,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1439,
-  "weighted_score": 0.1666,
+  "bullish_count": 28,
+  "bearish_count": 21,
+  "neutral_count": 11,
+  "avg_fin_score": 0.0882,
+  "weighted_score": 0.2261,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Vinay Rajani of HDFC Sec suggests NLC India, Apollo Hospitals shares to buy",
-    "PVR Inox Q4 Results 2026 LIVE: Will Dhurandhar 2's success power March quarter show? Here's what analysts say",
-    "Copper Shrugs Off Middle East Uncertainty to Aim for Record High"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Oil Market in ‘Race Against Time’ on Hormuz, Morgan Stanley Says",
-    "SpiceJet to IndiGo: Why are aviation stocks down up to 5% today? Explained",
-    "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 11 May in Delhi, Mumbai and Kolkata"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
