@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-11 14:30:58 IST",
+  "generated_at": "2026-05-11 14:35:38 IST",
   "total_articles": 60,
-  "bullish_count": 33,
+  "bullish_count": 34,
   "bearish_count": 19,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1571,
-  "weighted_score": 0.246,
+  "neutral_count": 7,
+  "avg_fin_score": 0.1413,
+  "weighted_score": 0.2908,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "PVR Inox Q4 Results: Firm posts net profit of ₹186 crore against loss YoY; revenue jumps 26%",
+    "NSE SME stock hits upper circuit despite stock market crash",
+    "UPL Q4 Results: Profit jumps 18% YoY to ₹1,061 crore; company announces 300% dividend payout"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Explained: Why PM Modi asked Indians to avoid buying gold for a year and what it means for prices",
+    "Stock market crash: Nifty 50 slips below 24,000. Will it fall below 22,000 this time?",
+    "Oil Market in ‘Race Against Time’ on Hormuz, Morgan Stanley Says"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
