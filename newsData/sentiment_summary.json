@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-05-11 13:20:34 IST",
+  "generated_at": "2026-05-11 13:25:30 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 21,
-  "neutral_count": 9,
-  "avg_fin_score": 0.0963,
-  "weighted_score": 0.2288,
+  "bullish_count": 33,
+  "bearish_count": 20,
+  "neutral_count": 7,
+  "avg_fin_score": 0.1202,
+  "weighted_score": 0.1783,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Canara Bank Q4 results 2026: Profit declines 10% YoY to ₹4506 crore; recommends dividend of ₹4.20",
+    "Investors return to FMCG stocks as early signs of demand recovery emerge",
+    "SBI: The worst of margin pressure could be over after Q4’s sharp sequential drop"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Explained: Why PM Modi asked Indians to avoid buying gold for a year and what it means for prices",
+    "Stock market crash: Nifty 50 slips below 24,000. Will it fall below 22,000 this time?",
+    "Oil Market in ‘Race Against Time’ on Hormuz, Morgan Stanley Says"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
