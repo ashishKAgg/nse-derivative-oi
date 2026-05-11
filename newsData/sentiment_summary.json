@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-05-11 16:00:53 IST",
+  "generated_at": "2026-05-11 16:05:36 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 22,
-  "neutral_count": 5,
-  "avg_fin_score": 0.1065,
-  "weighted_score": 0.1194,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 34,
+  "bearish_count": 18,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1755,
+  "weighted_score": 0.2476,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Equity inflows fall 5% MoM to ₹38,440 crore in April; SIP inflows steady at ₹31,115 crore: AMFI data",
-    "Do you know why companies opt for share buybacks?",
-    "Silver rate today: Is it the right time to buy as precious white metal rises after PM Modi's speech?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Should you buy gold ETF as PM Modi urges domestic investors to avoid buying physical gold?",
-    "Top Gainers & Losers on May 11: Swiggy, Tejas Networks, SBI, Tata Motors, Eternal, Anant Raj among top losers",
-    "SBI shares sink another 4.5%, hit 4-month low as post-earnings selloff extends to second day"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
     "LiveMint Markets"
   ]
 }
