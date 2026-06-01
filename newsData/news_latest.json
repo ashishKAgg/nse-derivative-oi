@@ -1,302 +1,48 @@
 {
-  "generated_at": "2026-06-01 16:01:10 IST",
+  "generated_at": "2026-06-01 16:05:45 IST",
   "summary": {
-    "generated_at": "2026-06-01 16:01:10 IST",
+    "generated_at": "2026-06-01 16:05:45 IST",
     "total_articles": 60,
-    "bullish_count": 32,
-    "bearish_count": 16,
-    "neutral_count": 12,
-    "avg_fin_score": 0.186,
-    "weighted_score": 0.2504,
-    "verdict": "BULLISH",
-    "verdict_color": "#28a745",
+    "bullish_count": 35,
+    "bearish_count": 14,
+    "neutral_count": 11,
+    "avg_fin_score": 0.2194,
+    "weighted_score": 0.0225,
+    "verdict": "NEUTRAL",
+    "verdict_color": "#6c757d",
     "top_bullish": [
-      "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-      "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-      "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+      "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "Agri Picks Report: Geojit"
     ],
     "top_bearish": [
-      "Bond bull market may pause but is far from over: Expert",
-      "Automation threatens 69% jobs in India: World Bank",
-      "Subramanian Swamy seeks ban on import of cement from Pakistan"
+      "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+      "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+      "Rise in textile demand to support MCX cotton ahead of harvest season in October"
     ],
     "sources_hit": [
+      "MoneyControl Mkts",
       "MoneyControl Comm",
-      "MoneyControl Top",
+      "LiveMint Economy",
       "LiveMint Markets",
-      "MoneyControl Mkts"
+      "MoneyControl Top"
     ]
   },
   "articles": [
     {
       "source": "MoneyControl Top",
-      "title": "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-      "summary": "Asian Paints, SBI, Tata Motors, HUL and Maruti Suzuki are top gainers while ONGC, Axis Bank, MM, Bajaj Auto and Hero MotoCorp are major losers in the Sensex.",
-      "url": "http://www.moneycontrol.com/news/local-markets/sensex-nifty-wobbly-hind-zinc-sbi-force-motors-most-active_7577801.html",
-      "published": "Wed, 05 Oct 2016 14:00:44 +0530",
-      "compound": 0.7506,
-      "pos": 0.232,
-      "neg": 0.077,
-      "neu": 0.691,
-      "fin_score": 0.7506,
-      "label": "BULLISH",
-      "id": "c46c248134a5",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-      "summary": "The government has readied plans for a major change in Indiaâs tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
-      "url": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
-      "published": "Wed, 05 Oct 2016 14:42:19 +0530",
-      "compound": 0.4767,
-      "pos": 0.08,
-      "neg": 0.0,
-      "neu": 0.92,
-      "fin_score": 0.4767,
-      "label": "BULLISH",
-      "id": "afc0dad5f886",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Bond bull market may pause but is far from over: Expert",
-      "summary": "The benchmark 10-year government-security yield remained stuck in 8-7.5 percent range through all of 2015 and half of 2016, moving lower to sub-7 percent only when the RBI promised in April to reduce the system's liquidity deficit. The yield may now fall more.",
-      "url": "http://www.moneycontrol.com/news/economy/bond-bull-market-may-pauseis-farover-expert_7575741.html",
-      "published": "Wed, 05 Oct 2016 10:54:17 +0530",
-      "compound": -0.6808,
-      "pos": 0.052,
-      "neg": 0.143,
-      "neu": 0.805,
-      "fin_score": -0.6808,
+      "title": "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+      "summary": "It is true that there is an increase in carbon emission by India and China due to homegrown consumption and lack of infrastructure. But let s keep in mind that India s carbon emissions per capita are still 10 times lower and China s is half of that compared to the US.",
+      "url": "http://www.moneycontrol.com/news/world-news/uncle-sam-is-wrong-indiachinadoing-their-bit-to-fight-climate-change_8779101.html",
+      "published": "Fri, 14 Apr 2017 10:05:06 +0530",
+      "compound": -0.5789,
+      "pos": 0.049,
+      "neg": 0.114,
+      "neu": 0.837,
+      "fin_score": -0.5789,
       "label": "BEARISH",
-      "id": "2ee8040c6c46",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Automation threatens 69% jobs in India: World Bank",
-      "summary": "\"In large parts of Africa, it is likely that technology could fundamentally disrupt this pattern. Research based on World Bank data has predicted that the proportion of jobs threatened in India by automation is 69 percent, in China it is 77 percent and in Ethiopia, the percentage of jobs threatened ",
-      "url": "http://www.moneycontrol.com/news/current-affairs/automation-threatens-69-jobsindia-world-bank_7574441.html",
-      "published": "Wed, 05 Oct 2016 08:00:04 +0530",
-      "compound": -0.8225,
-      "pos": 0.0,
-      "neg": 0.135,
-      "neu": 0.865,
-      "fin_score": -0.8225,
-      "label": "BEARISH",
-      "id": "636b64afc221",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Scope for meaningful rate cuts going ahead: Neelkanth Mishra",
-      "summary": "Credit Suisse' Neelkanth Mishra expects repo rate to fall to a decade low in the coming quarters. He says that beginning December the market may see a robust and widespread pick-up which may boost indices.",
-      "url": "http://www.moneycontrol.com/news/market-outlook/scope-for-meaningful-rate-cuts-going-ahead-neelkanth-mishra_7575461.html",
-      "published": "Wed, 05 Oct 2016 10:33:49 +0530",
-      "compound": 0.6908,
-      "pos": 0.191,
-      "neg": 0.082,
-      "neu": 0.727,
-      "fin_score": 0.9408,
-      "label": "BULLISH",
-      "id": "7cb7fe700e16",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Cautiously optimistic on India; eyeing earnings revival: Sanger",
-      "summary": "Global liquidity tailwinds are unlikely to get any better from now and that makes Arvind Sanger, Managing Partner at Geosphere Capital Management âcautiously optimisticâ on the Indian markets.",
-      "url": "http://www.moneycontrol.com/news/fii-view/cautiously-optimisticindia-eyeing-earnings-revival-sanger_7574941.html",
-      "published": "Wed, 05 Oct 2016 09:00:17 +0530",
-      "compound": 0.6369,
-      "pos": 0.133,
-      "neg": 0.0,
-      "neu": 0.867,
-      "fin_score": 0.6369,
-      "label": "BULLISH",
-      "id": "bc7bc6033776",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Endurance Technologies IPO opens: Should you subscribe?",
-      "summary": "The Aurangabad-based company aims to mop up nearly Rs 1,162 crore (at higher end of price band) by diluting 17.5 percent stake through the issue that will close on October 7. It already raised Rs 348.52 crore through anchor investors' portion on Tuesday, the day before issue opening.",
-      "url": "http://www.moneycontrol.com/news/ipo-tip/endurance-technologies-ipo-opens-should-you-subscribe_7575861.html",
-      "published": "Wed, 05 Oct 2016 09:04:03 +0530",
-      "compound": 0.0,
-      "pos": 0.0,
-      "neg": 0.0,
-      "neu": 1.0,
-      "fin_score": 0.0,
-      "label": "NEUTRAL",
-      "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Subramanian Swamy seeks ban on import of cement from Pakistan",
-      "summary": "\"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he ",
-      "url": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
-      "published": "Wed, 05 Oct 2016 14:50:10 +0530",
-      "compound": -0.8225,
-      "pos": 0.046,
-      "neg": 0.175,
-      "neu": 0.778,
-      "fin_score": -0.8225,
-      "label": "BEARISH",
-      "id": "8fa4ec7085dc",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
-      "summary": "This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
-      "url": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
-      "published": "Wed, 05 Oct 2016 14:59:14 +0530",
-      "compound": -0.2023,
-      "pos": 0.0,
-      "neg": 0.065,
-      "neu": 0.935,
-      "fin_score": -0.2023,
-      "label": "BEARISH",
-      "id": "7f10e0541c6a",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Workload in IT to come down due to AI; jobs to reduce: Genpact",
-      "summary": "But along with that the employment growth rates have started to dip, NV 'Tiger' Tyagarajan says. The percentage addition of employees in India will not be same as past. And due to advancements, a workforce with higher skill sets is required for the IT industry, he says.",
-      "url": "http://www.moneycontrol.com/news/business/workloadit-to-come-down-due-to-ai-jobs-to-reduce-genpact_7577361.html",
-      "published": "Wed, 05 Oct 2016 13:39:13 +0530",
-      "compound": 0.5267,
-      "pos": 0.054,
-      "neg": 0.0,
-      "neu": 0.946,
-      "fin_score": 0.5267,
-      "label": "BULLISH",
-      "id": "c72f7dc7eaae",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Jhunjhunwala-partnered fund buys stake in TFCI: What's buzzing?",
-      "summary": "In an interview with CNBC-TV18, Satpal Arora, MD of Tourism Finance Corporation of India (TFCI), talked about the state of business and the outlook ahead.",
-      "url": "http://www.moneycontrol.com/news/business/jhunjhunwala-partnered-fund-buys-staketfci-whats-buzzing_7576501.html",
-      "published": "Wed, 05 Oct 2016 12:02:15 +0530",
-      "compound": 0.0,
-      "pos": 0.0,
-      "neg": 0.0,
-      "neu": 1.0,
-      "fin_score": 0.0,
-      "label": "NEUTRAL",
-      "id": "84a40cb5bb9b",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Why you should not be always chasing returns",
-      "summary": "Most people focus on returns and chase products that offer the best returns at any point.",
-      "url": "http://www.moneycontrol.com/news/investing/why-you-should-not-be-always-chasing-returns_7576681.html",
-      "published": "Wed, 05 Oct 2016 12:27:10 +0530",
-      "compound": 0.6369,
-      "pos": 0.154,
-      "neg": 0.0,
-      "neu": 0.846,
-      "fin_score": 0.6369,
-      "label": "BULLISH",
-      "id": "7fab0eaba53a",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Steel stocks rally as govt extends MIP on 66 steel products",
-      "summary": "Stocks like Hindustan Zinc, Hindalco, Jindal Steel, JSW Steel and Tata Steel gained over 1 percent from previous close.",
-      "url": "http://www.moneycontrol.com/news/buzzing-stocks/steel-stocks-rally-as-govt-extends-mip66-steel-products_7578561.html",
-      "published": "Wed, 05 Oct 2016 10:00:07 +0530",
-      "compound": 0.6808,
-      "pos": 0.196,
-      "neg": 0.0,
-      "neu": 0.804,
-      "fin_score": 0.8808,
-      "label": "BULLISH",
-      "id": "a634378bd49c",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Up over 200% in 1 year, what's buzzing with Borosil Glass?",
-      "summary": "Shares of Borosil Glass Works have increased threefold over the past one year as the company has posted strong revenue and EBIDTA growth over the past few quarters.",
-      "url": "http://www.moneycontrol.com/news/buzzing-stocks/up-over-2001-year-whats-buzzingborosil-glass_7576821.html",
-      "published": "Wed, 05 Oct 2016 12:28:33 +0530",
-      "compound": 0.8481,
-      "pos": 0.226,
-      "neg": 0.0,
-      "neu": 0.774,
-      "fin_score": 0.8481,
-      "label": "BULLISH",
-      "id": "f4eb8fbd8774",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Tech up to a healthier world",
-      "summary": "Sensors, 3D printed skin, wearables, reconstructed organs, revolutionized clinical trials, personalized medicine and what not â get ready for a new era of healthcare",
-      "url": "http://www.moneycontrol.com/news/24x7booking/techtohealthier-world_7500201.html",
-      "published": "Wed, 05 Oct 2016 10:07:15 +0530",
-      "compound": -0.2755,
-      "pos": 0.0,
-      "neg": 0.068,
-      "neu": 0.932,
-      "fin_score": -0.2755,
-      "label": "BEARISH",
-      "id": "c05fdf93ddb1",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Pixel launch: Is Google Assistant's AI an assault on privacy?",
-      "summary": "Sure, artificial intelligence can make life simpler by suggesting you places to eat, tell you weather, or even crack a joke. The more you use it, the more it learns about your habits and preferences. The protocols pertaining to artificial intelligence, or the lack of it, make our data less secure an",
-      "url": "http://www.moneycontrol.com/news/technology/pixel-launch-is-google-assistants-aiassaultprivacy_7576961.html",
-      "published": "Wed, 05 Oct 2016 12:53:07 +0530",
-      "compound": 0.6915,
-      "pos": 0.173,
-      "neg": 0.083,
-      "neu": 0.744,
-      "fin_score": 0.6915,
-      "label": "BULLISH",
-      "id": "f8ae30f09515",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "RBI latest meeting 'diluted' its old policy framework: Nomura",
-      "summary": "On Tuesday, the central bank surprised the market with a 25-basis-point cut to its policy repo rate, or the rate at which it lends to banks, to 6.25 percent.",
-      "url": "http://www.moneycontrol.com/news/economy/rbi-latest-meeting-diluted-its-old-policy-framework-nomura_7576181.html",
-      "published": "Wed, 05 Oct 2016 11:54:06 +0530",
-      "compound": -0.0516,
-      "pos": 0.048,
-      "neg": 0.053,
-      "neu": 0.9,
-      "fin_score": -0.0516,
-      "label": "NEUTRAL",
-      "id": "6f72e726b024",
-      "fetched_at": "2026-06-01 16:01:10 IST"
-    },
-    {
-      "source": "MoneyControl Top",
-      "title": "Uber redBus partner with ixigo for train travellers",
-      "summary": "ixigo, Indiaâs leading mobile travel marketplace has announced partnerships with Uber and redBus to enable instant bookings for cabs and buses natively within ixigo trains app.",
-      "url": "http://www.moneycontrol.com/news/sme/uberredbus-partnerixigo-for-train-travellers_7577561.html",
-      "published": "Wed, 05 Oct 2016 14:00:34 +0530",
-      "compound": 0.0,
-      "pos": 0.0,
-      "neg": 0.0,
-      "neu": 1.0,
-      "fin_score": 0.0,
-      "label": "NEUTRAL",
-      "id": "8842262d1b18",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "id": "c128e32f5fb5",
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +57,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +72,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +87,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +102,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +117,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +132,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +147,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +162,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +177,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +192,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +207,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +222,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +237,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +252,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +267,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +282,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +297,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +312,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,14 +327,14 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Multibagger small-cap stock surges 19% to 52-week high despite stock market crash; here's why",
       "summary": "Vaxfab Enterprises soared 19% to ₹60, a 52-week high, after reporting a 67.7% increase in FY26 income to ₹99.60 crore and a 523% rise in net profit to ₹3.64 crore, driven by strong financial performance and diversification plans.",
       "url": "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-surges-19-to-52-week-high-despite-stock-market-crash-heres-why-11780306951370.html",
-      "published": "Mon, 01 Jun 2026 15:47:59 +0530",
+      "published": "Pzt, 01 Haz 2026 15:47:59 +0530",
       "compound": 0.8676,
       "pos": 0.183,
       "neg": 0.0,
@@ -596,14 +342,14 @@
       "fin_score": 0.5176,
       "label": "BULLISH",
       "id": "3b70f3f5e065",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Top Gainers & Losers on June 1: PTC Industries, NMDC Steel, Saregama India, Welspun Living, among top gainers",
       "summary": "The Indian stock market closed sharply lower on June 1, with the Nifty 50 and Sensex both down 0.74%. Selling pressure from foreign investors and weak global cues impacted FMCG, financial, and auto stocks, while Nifty IT gained 2.62% amid broader market declines.",
       "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-1-ptc-industries-nmdc-steel-saregama-india-welspun-living-jbm-auto-infosys-among-11780307315002.html",
-      "published": "Mon, 01 Jun 2026 15:38:42 +0530",
+      "published": "Pzt, 01 Haz 2026 15:38:42 +0530",
       "compound": -0.0258,
       "pos": 0.156,
       "neg": 0.144,
@@ -611,14 +357,14 @@
       "fin_score": -0.1258,
       "label": "NEUTRAL",
       "id": "32053eeb4dd2",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Sensex crashes 500 points, extends losing run to 4th day; what drove the Indian stock market lower?",
       "summary": "Stock market crash: Lingering concerns like elevated crude prices and the lack of an outcome on the Middle East conflict, along with persistent selling by foreign institutional investors (FIIs) drove the benchmark indices Sensex and Nifty 50 lower today.",
       "url": "https://www.livemint.com/market/stock-market-news/sensex-crashes-500-points-extends-losing-run-to-4th-day-what-drove-the-indian-stock-market-lower-11780308137176.html",
-      "published": "Mon, 01 Jun 2026 15:34:12 +0530",
+      "published": "Pzt, 01 Haz 2026 15:34:12 +0530",
       "compound": -0.8834,
       "pos": 0.095,
       "neg": 0.255,
@@ -626,14 +372,14 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "a58f1264d50c",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "NMDC Steel shares jump 18% after Q4 profit turnaround; hits 20-month high",
       "summary": "NMDC Steel shares surged 18% to ₹52.60, hitting a 24-month high after reporting a strong financial turnaround for Q4FY26, with a net profit of ₹391.9 crore and revenue growth of 36.7%. For FY26, net profit was ₹58.7 crore, reversing previous losses.",
       "url": "https://www.livemint.com/market/stock-market-news/nmdc-steel-shares-jump-18-after-q4-profit-turnaround-hits-20-month-high-11780306730749.html",
-      "published": "Mon, 01 Jun 2026 15:15:06 +0530",
+      "published": "Pzt, 01 Haz 2026 15:15:06 +0530",
       "compound": 0.936,
       "pos": 0.285,
       "neg": 0.04,
@@ -641,14 +387,14 @@
       "fin_score": 0.936,
       "label": "BULLISH",
       "id": "d66dd3f58807",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "SMR Jewels IPO Day 4: Issue remains undersubscribed so far. Here's GMP, and other details",
       "summary": "According to platforms tracking the unofficial market, the grey market premium (GMP) for the SMR Jewels IPO is currently nil. Based on the current GMP, the stock is expected to list at same as the issue price.",
       "url": "https://www.livemint.com/market/ipo/smr-jewels-ipo-day-4-issue-remains-undersubscribed-so-far-heres-gmp-and-other-details-11780303488504.html",
-      "published": "Mon, 01 Jun 2026 14:57:20 +0530",
+      "published": "Pzt, 01 Haz 2026 14:57:20 +0530",
       "compound": 0.7351,
       "pos": 0.128,
       "neg": 0.0,
@@ -656,14 +402,14 @@
       "fin_score": 0.7351,
       "label": "BULLISH",
       "id": "e6d4dbb3a56e",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Do you know what ADRs are? A complete guide for investors",
       "summary": "American Depositary Receipts enable US investors to easily buy shares of foreign companies. While once popular among Indian investors, newer investment avenues have reduced ADRs' significance, which now cater to specialised needs such as tracking price differences and specific asset allocations.",
       "url": "https://www.livemint.com/market/stock-market-news/do-you-know-what-adrs-are-a-complete-guide-for-investors-11780303458725.html",
-      "published": "Mon, 01 Jun 2026 14:50:47 +0530",
+      "published": "Pzt, 01 Haz 2026 14:50:47 +0530",
       "compound": 0.875,
       "pos": 0.203,
       "neg": 0.0,
@@ -671,14 +417,14 @@
       "fin_score": 0.875,
       "label": "BULLISH",
       "id": "6e78a3dfad3f",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Zee Entertainment share price zooms 7% as firm bags broadcasting rights for 2026 FIFA world cup in India",
       "summary": "Zee Entertainment's stock surged after announcing a partnership with FIFA for broadcasting the 2026 and 2030 World Cups in India. The deal, reportedly between $30-35 million, comes 10 days ahead of the tournament.",
       "url": "https://www.livemint.com/market/stock-market-news/zee-entertainment-share-price-zooms-7-as-firm-to-broadcast-2026-football-world-cup-in-india-11780305370976.html",
-      "published": "Mon, 01 Jun 2026 14:49:46 +0530",
+      "published": "Pzt, 01 Haz 2026 14:49:46 +0530",
       "compound": 0.6124,
       "pos": 0.093,
       "neg": 0.0,
@@ -686,14 +432,14 @@
       "fin_score": 0.6124,
       "label": "BULLISH",
       "id": "a61960f9e36c",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Rajnandini Fashion IPO allotment date likely today. GMP, steps to check share allotment status online for SME IPO",
       "summary": "Rajnandini Fashion IPO allotment date is likely today, June 1. Investors can check Rajnandini Fashion IPO allotment status online through the websites of BSE and the IPO registrar. Bigshare Services is the Rajnandini Fashion India IPO registrar.",
       "url": "https://www.livemint.com/market/ipo/rajnandini-fashion-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-for-sme-ipo-11780305147308.html",
-      "published": "Mon, 01 Jun 2026 14:49:34 +0530",
+      "published": "Pzt, 01 Haz 2026 14:49:34 +0530",
       "compound": 0.296,
       "pos": 0.039,
       "neg": 0.0,
@@ -701,14 +447,14 @@
       "fin_score": 0.296,
       "label": "BULLISH",
       "id": "94847ace9718",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Hexagon Nutrition IPO: From financials to key risks — 10 key things to know from the RHP ahead of offer launch",
       "summary": "Hexagon Nutrition IPO would be the first mainboard offering to hit Dalal Street in a month. So far this year, only 20 IPOs have opened for bidding this year with the market sentiment impacted by the ongoing conflict in the Middle East.&nbsp;",
       "url": "https://www.livemint.com/market/stock-market-news/hexagon-nutrition-ipo-from-financials-to-key-risks-10-key-things-to-know-from-the-rhp-ahead-of-offer-launch-11780304935081.html",
-      "published": "Mon, 01 Jun 2026 14:43:54 +0530",
+      "published": "Pzt, 01 Haz 2026 14:43:54 +0530",
       "compound": -0.5267,
       "pos": 0.0,
       "neg": 0.067,
@@ -716,14 +462,14 @@
       "fin_score": -0.5267,
       "label": "BEARISH",
       "id": "681aed34d4fa",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Aureate Tradde IPO Day 2: Check GMP, subscription status, and other key details",
       "summary": "The shares of Aureate Tradde IPO are commanding a premium of ₹13 in the grey market, as per websites tracking the unlisted market.",
       "url": "https://www.livemint.com/market/ipo/aureate-tradde-ipo-day-2-check-gmp-subscription-status-and-other-key-details-11780297485327.html",
-      "published": "Mon, 01 Jun 2026 14:23:41 +0530",
+      "published": "Pzt, 01 Haz 2026 14:23:41 +0530",
       "compound": 0.34,
       "pos": 0.091,
       "neg": 0.0,
@@ -731,14 +477,14 @@
       "fin_score": 0.34,
       "label": "BULLISH",
       "id": "424452aa605b",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Data centres are powering Cummins. Can growth justify the valuation?",
       "summary": "Strong demand from hyperscalers and colocation operators is driving growth in Cummins India’s power-generation business, though a rich valuation and export headwinds could cap further upside.",
       "url": "https://www.livemint.com/market/mark-to-market/cummins-india-data-centre-demand-growth-q4fy26-results-valuation-risks-11780298144702.html",
-      "published": "Mon, 01 Jun 2026 14:09:39 +0530",
+      "published": "Pzt, 01 Haz 2026 14:09:39 +0530",
       "compound": 0.891,
       "pos": 0.271,
       "neg": 0.034,
@@ -746,14 +492,14 @@
       "fin_score": 0.891,
       "label": "BULLISH",
       "id": "48f82670deef",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "AMFI stock re-categorisation: BSE, Vodafone Idea, Jindal Steel, BHEL among potential large-cap entrants",
       "summary": "AMFI stock re-categorisation: Stocks that could potentially move into the large-cap basket include BSE, Jindal Steel &amp; Power, Vodafone Idea, Hitachi Energy India, Indian Bank, Indus Towers and Bharat Heavy Electricals Ltd (BHEL).",
       "url": "https://www.livemint.com/market/stock-market-news/amfi-stock-re-categorisation-bse-vodafone-idea-jindal-steel-bhel-among-potential-large-cap-entrants-11780302137625.html",
-      "published": "Mon, 01 Jun 2026 14:03:28 +0530",
+      "published": "Pzt, 01 Haz 2026 14:03:28 +0530",
       "compound": 0.2732,
       "pos": 0.045,
       "neg": 0.0,
@@ -761,14 +507,14 @@
       "fin_score": 0.2732,
       "label": "BULLISH",
       "id": "c3da90ff85ad",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Rupee depreciation blunts India bond's appeal for foreign investors",
       "summary": "Rupee depreciating roughly 3.4% against the dollar since the beginning of the West Asia war, made Indian bonds unattractive.",
       "url": "https://www.livemint.com/market/bonds/india-bond-market-foreign-portfolio-investors-fpi-government-bonds-rupee-depreciation-gsec-11780294016765.html",
-      "published": "Mon, 01 Jun 2026 13:50:10 +0530",
+      "published": "Pzt, 01 Haz 2026 13:50:10 +0530",
       "compound": -0.7783,
       "pos": 0.0,
       "neg": 0.207,
@@ -776,14 +522,14 @@
       "fin_score": -0.9783,
       "label": "BEARISH",
       "id": "68ae0a8ce02e",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Suzlon Energy share price extends losses for second straight session. Details here",
       "summary": "Suzlon Energy share price dropped nearly 5% after SEBI imposed penalties of around ₹29 crore for financial reporting violations. The regulator found multiple infractions by the company and former executives, stemming from a 2019 anonymous tip that initiated a detailed investigation.",
       "url": "https://www.livemint.com/market/stock-market-news/suzlon-energy-share-price-extends-losses-for-second-straight-session-details-here-11780299494446.html",
-      "published": "Mon, 01 Jun 2026 13:34:21 +0530",
+      "published": "Pzt, 01 Haz 2026 13:34:21 +0530",
       "compound": 0.3818,
       "pos": 0.189,
       "neg": 0.117,
@@ -791,14 +537,14 @@
       "fin_score": 0.3818,
       "label": "BULLISH",
       "id": "19a1d1af2987",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "HDFC Bank share price trades in green after losing for three straight sessions",
       "summary": "HDFC Bank share price trend has largely remained negative amid weak market sentiment. The private lender stock has fallen by 5.20% in a week and 3.34% in a month.",
       "url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-trades-green-after-losing-for-the-three-straight-sessions-11780298447242.html",
-      "published": "Mon, 01 Jun 2026 13:26:54 +0530",
+      "published": "Pzt, 01 Haz 2026 13:26:54 +0530",
       "compound": -0.7506,
       "pos": 0.119,
       "neg": 0.221,
@@ -806,14 +552,14 @@
       "fin_score": -0.7506,
       "label": "BEARISH",
       "id": "1b70c1689305",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Acme Solar share price jumps to all-time high amid reports of ₹2,500 crore QIP move",
       "summary": "Acme Solar share price has gained nearly 4% in one month and surged more than 33% in three months. The stock has rallied 39% in six months and has risen 19% in one year.",
       "url": "https://www.livemint.com/market/stock-market-news/acme-solar-share-price-jumps-to-all-time-high-amid-reports-of-rs-2-500-crore-qip-move-11780297504259.html",
-      "published": "Mon, 01 Jun 2026 12:39:25 +0530",
+      "published": "Pzt, 01 Haz 2026 12:39:25 +0530",
       "compound": 0.7184,
       "pos": 0.132,
       "neg": 0.0,
@@ -821,14 +567,14 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "d7d9b577e848",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Inox Wind share price slumps over 8% after Q4 results. Should you buy, sell or hold?",
       "summary": "Inox Wind share price fell over 8% on June 1 after a 45% drop in Q4 FY26 net profit to ₹105.68 crore, attributed to rising operating expenses. Despite this, the company's order backlog reached 3.1 GW, ensuring revenue stability for over two years.",
       "url": "https://www.livemint.com/market/stock-market-news/inox-wind-share-price-slumps-over-8-after-q4-results-should-you-buy-sell-or-hold-11780296947334.html",
-      "published": "Mon, 01 Jun 2026 12:31:03 +0530",
+      "published": "Pzt, 01 Haz 2026 12:31:03 +0530",
       "compound": 0.7717,
       "pos": 0.164,
       "neg": 0.032,
@@ -836,14 +582,14 @@
       "fin_score": 0.7717,
       "label": "BULLISH",
       "id": "bc01c1e87500",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Indian stock market: Nifty 50 hovers around key support of 23,500. What should investors do?",
       "summary": "On June 1, the Nifty 50 traded at 23,516.50, down 0.13%, amid investor caution and foreign fund outflows. Support is seen at 23,500, with market analysts suggesting that maintaining this level is crucial for stability as attention shifts to geopolitical factors and upcoming monetary policy.",
       "url": "https://www.livemint.com/market/stock-market-news/stock-market-strategy-nifty-50-hovers-around-key-support-of-23-500-what-should-investors-do-11780295580743.html",
-      "published": "Mon, 01 Jun 2026 12:23:21 +0530",
+      "published": "Pzt, 01 Haz 2026 12:23:21 +0530",
       "compound": 0.8689,
       "pos": 0.162,
       "neg": 0.0,
@@ -851,14 +597,14 @@
       "fin_score": 0.9489,
       "label": "BULLISH",
       "id": "99dc6296b911",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "800% returns in five years! Multibagger small-cap stock jumps 7%. Here's why",
       "summary": "Rathi Steel and Power stock opened at ₹20.63 apiece on 1 June, as compared to previous close of ₹18.76 on Friday last week.",
       "url": "https://www.livemint.com/market/stock-market-news/800-returns-in-five-years-multibagger-small-cap-stock-rathi-steel-and-power-jumps-7-heres-why-11780292855514.html",
-      "published": "Mon, 01 Jun 2026 12:06:07 +0530",
+      "published": "Pzt, 01 Haz 2026 12:06:07 +0530",
       "compound": 0.0,
       "pos": 0.0,
       "neg": 0.0,
@@ -866,14 +612,14 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "b158d53c16cd",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Weak debut! M.R.Maniveni Foods share price lists at 18% discount to IPO price on BSE SME",
       "summary": "M.R.Maniveni Foods share price listed at ₹42.55, down ₹9.45 or 18.17% compared with the offer price of ₹52. Soon after listing, however, the SME stock recovered a bit. It touched the day's peak of ₹44.66, rising almost 5% from the listing price but remained below its offer price.",
       "url": "https://www.livemint.com/market/ipo/weak-debut-m-r-maniveni-foods-share-price-lists-at-18-discount-to-ipo-price-on-bse-sme-11780295507356.html",
-      "published": "Mon, 01 Jun 2026 12:04:47 +0530",
+      "published": "Pzt, 01 Haz 2026 12:04:47 +0530",
       "compound": 0.1386,
       "pos": 0.053,
       "neg": 0.029,
@@ -881,14 +627,14 @@
       "fin_score": 0.1386,
       "label": "NEUTRAL",
       "id": "7780614fbd8e",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Merritronix IPO fully subscribed on first bidding day. Retail, NIIs steal the show; Check GMP, issue details",
       "summary": "Merritronix IPO commenced on June 1 and concludes on June 3, with a price range of ₹141-149 per share. The company raised ₹19.91 crore from anchor investors and has seen strong subscription demand, with a current GMP of +88, indicating a promising market debut.",
       "url": "https://www.livemint.com/market/ipo/merritronix-ipo-gmp-fully-subscribed-on-first-bidding-day-retail-niis-steal-the-show-check-gmp-issue-details-11780293401515.html",
-      "published": "Mon, 01 Jun 2026 11:48:29 +0530",
+      "published": "Pzt, 01 Haz 2026 11:48:29 +0530",
       "compound": 0.5423,
       "pos": 0.119,
       "neg": 0.068,
@@ -896,14 +642,14 @@
       "fin_score": 0.5423,
       "label": "BULLISH",
       "id": "a54d533cdeb3",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "MCX launches ‘Silver 100’ futures from June 1, offering smaller-ticket silver exposure: All you need to know",
       "summary": "Silver 100 contracts will be compulsorily settled through physical delivery, with Ahmedabad designated as the delivery centre through MCX Clearing Corporation-accredited facilities. The delivery unit has been fixed at 100 grams.",
       "url": "https://www.livemint.com/market/commodities/mcx-launches-silver-100-futures-from-june-1-offering-smaller-ticket-silver-exposure-all-you-need-to-know-11780292753279.html",
-      "published": "Mon, 01 Jun 2026 11:28:17 +0530",
+      "published": "Pzt, 01 Haz 2026 11:28:17 +0530",
       "compound": 0.0,
       "pos": 0.0,
       "neg": 0.0,
@@ -911,14 +657,14 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "7570f1e726b5",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Concor fails to impress in Q4, but the Street isn't giving up just yet",
       "summary": "Falling market share at Mundra, and weak rail modal share remain key concerns for Concor investors, though gains at Jawaharlal Nehru Port (JNPT) have offered some relief.",
       "url": "https://www.livemint.com/market/stock-market-news/concor-q4-results-concor-share-price-analysts-rating-western-dedicated-freight-corridor-jnpt-11780242223222.html",
-      "published": "Mon, 01 Jun 2026 11:21:33 +0530",
+      "published": "Pzt, 01 Haz 2026 11:21:33 +0530",
       "compound": 0.6804,
       "pos": 0.26,
       "neg": 0.179,
@@ -926,7 +672,262 @@
       "fin_score": 0.7004,
       "label": "BULLISH",
       "id": "6d19c670ae74",
-      "fetched_at": "2026-06-01 16:01:10 IST"
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "JP Power, Vodafone Idea, Suzlon, Ola Electric among most traded stocks on NSE today, 1 June 2026",
+      "summary": "JP Power, Vodafone Idea, NMDC Steel, Suzlon Energy, YES Bank, Ola Electric Mobility, Dharan Infra-EPC, PC Jeweller, and GTL Infrastructure were the most traded stocks on the NSE.",
+      "url": "https://www.livemint.com/market/stock-market-news/jp-power-vodafone-idea-suzlon-ola-electric-among-most-traded-stocks-on-nse-today-1-june-2026-11780289279961.html",
+      "published": "Pzt, 01 Haz 2026 11:19:50 +0530",
+      "compound": 0.8624,
+      "pos": 0.205,
+      "neg": 0.0,
+      "neu": 0.795,
+      "fin_score": 0.8624,
+      "label": "BULLISH",
+      "id": "0955bfc7a8e0",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Adani Power, Adani Ports to Adani Total Gas: Adani group stocks tank up to 4%. Details here",
+      "summary": "Adani Group stocks fell up to 4% in Monday's trading session after the group came under scrutiny from US authorities over alleged bribery related to its renewable energy operations.",
+      "url": "https://www.livemint.com/market/stock-market-news/adani-power-adani-ports-to-adani-total-gas-adani-group-stocks-tank-up-to-5-details-here-11780290123639.html",
+      "published": "Pzt, 01 Haz 2026 10:38:38 +0530",
+      "compound": 0.2732,
+      "pos": 0.045,
+      "neg": 0.0,
+      "neu": 0.955,
+      "fin_score": 0.2732,
+      "label": "BULLISH",
+      "id": "93c7395bea79",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Mukul Agrawal-owned PTC Industries surges 19.5% after Q4 results. Do you own this multibagger stock?",
+      "summary": "PTC Industries share price rose as much as 19.51% against its last closing price and inched nearer to its 52-week high after the earnings announcement for the March quarter.",
+      "url": "https://www.livemint.com/market/stock-market-news/mukul-agrawal-owned-ptc-industries-stock-surges-19-5-after-q4-results-do-you-own-this-multibagger-stock-11780289681113.html",
+      "published": "Pzt, 01 Haz 2026 10:31:14 +0530",
+      "compound": 0.296,
+      "pos": 0.049,
+      "neg": 0.0,
+      "neu": 0.951,
+      "fin_score": 0.396,
+      "label": "BULLISH",
+      "id": "c59a38871e61",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "How Charlie Munger found an ideal investment option during the global financial crisis in 2008?",
+      "summary": "What began as a contrarian investment during one of the worst financial crises eventually turned into a multi-billion-dollar success story, with Berkshire reportedly earning profits of around $10 billion by the time it substantially exited the investment in 2025.",
+      "url": "https://www.livemint.com/market/stock-market-news/how-charlie-munger-found-an-ideal-investment-option-during-the-global-financial-crisis-in-2008-11780289078696.html",
+      "published": "Pzt, 01 Haz 2026 10:26:51 +0530",
+      "compound": 0.2023,
+      "pos": 0.149,
+      "neg": 0.122,
+      "neu": 0.729,
+      "fin_score": 0.2023,
+      "label": "BULLISH",
+      "id": "592b78fa11fd",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Tata Power, Sona BLW shares on 1 June",
+      "summary": "Indian benchmark indices opened higher on June 1, supported by gains in IndiGo and Asian Paints. The NSE Nifty rose 0.38% and the BSE Sensex gained 0.36% amid positive Asian market sentiment and recovery after recent sell-offs.",
+      "url": "https://www.livemint.com/market/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-tata-power-sona-blw-shares-on-1-june-11780287454009.html",
+      "published": "Pzt, 01 Haz 2026 10:19:15 +0530",
+      "compound": 0.93,
+      "pos": 0.237,
+      "neg": 0.0,
+      "neu": 0.763,
+      "fin_score": 0.93,
+      "label": "BULLISH",
+      "id": "8e07b3d6837c",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Crude oil prices rise 2% as concerns about Middle East conflict linger; Brent at $93. What's the near-term outlook?",
+      "summary": "US-Iran war: MCX crude oil prices rose as much as 3.15% to ₹8,542 per barrel. Here's what analysts say on the near-term outlook.",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-rise-2-as-concerns-about-middle-east-conflict-linger-brent-at-93-whats-the-near-term-outlook-11780285043296.html",
+      "published": "Pzt, 01 Haz 2026 10:00:56 +0530",
+      "compound": -0.9274,
+      "pos": 0.0,
+      "neg": 0.264,
+      "neu": 0.736,
+      "fin_score": -1.0,
+      "label": "BEARISH",
+      "id": "a3c64fc8f615",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Reliance Industries share price jumps on Gujarat lignite gasification project with NLC India",
+      "summary": "Reliance Industries shares rose over 1% after announcing a partnership with NLC India to explore an underground lignite gasification project in Gujarat, aiming to enhance energy security and reduce dependence on LNG.",
+      "url": "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-jumps-on-gujarat-lignite-gasification-project-with-nlc-india-11780286607646.html",
+      "published": "Pzt, 01 Haz 2026 09:38:43 +0530",
+      "compound": 0.7845,
+      "pos": 0.178,
+      "neg": 0.0,
+      "neu": 0.822,
+      "fin_score": 0.7845,
+      "label": "BULLISH",
+      "id": "3acb226fc254",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Vardhman Textiles, Gokaldas Exports to KPR Mill: Textile stocks jump up to 6% after cotton import duty exemption",
+      "summary": "Vardhman Textiles share price jumped over 6%, followed by Pearl Global Industries, Raymond Lifestyle and Trident shares rallying over 5%. Gokaldas Exports, KPR Mill and Welspun Living shares gained over 4% each, while Alok Industries share price surged over 3%.",
+      "url": "https://www.livemint.com/market/stock-market-news/vardhman-textiles-gokaldas-exports-to-kpr-mill-textile-stocks-jump-over-6-after-cotton-import-duty-exemption-11780286800617.html",
+      "published": "Pzt, 01 Haz 2026 09:37:51 +0530",
+      "compound": 0.8555,
+      "pos": 0.177,
+      "neg": 0.0,
+      "neu": 0.823,
+      "fin_score": 1.0,
+      "label": "BULLISH",
+      "id": "a4b724b47bfc",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Copper Gains With US Tariffs Deadline Less Than a Month Away",
+      "summary": "Copper advanced in New York and London to kick off a crucial month that should deliver more clarity on the Trump administration’s plans for levies on imports of the metal to the US.",
+      "url": "https://www.livemint.com/market/copper-gains-with-us-tariffs-deadline-less-than-a-month-away-11780286686290.html",
+      "published": "Pzt, 01 Haz 2026 09:34:45 +0530",
+      "compound": 0.7501,
+      "pos": 0.153,
+      "neg": 0.0,
+      "neu": 0.847,
+      "fin_score": 0.6501,
+      "label": "BULLISH",
+      "id": "718636d1c62c",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "For IndiGo, June quarter will be real earnings test of West Asia war impact",
+      "summary": "IndiGo’s shares had jumped 6% on the next trading day after CEO Walsh's appointment was announced on 31 March. To justify the steep valuation multiple that IndiGo is enjoying, it must achieve substantial improvement in profit hereon.",
+      "url": "https://www.livemint.com/market/mark-to-market/indigo-q4-results-interglobe-aviation-share-price-india-airlines-forex-loss-11780283294744.html",
+      "published": "Pzt, 01 Haz 2026 09:33:46 +0530",
+      "compound": 0.8126,
+      "pos": 0.214,
+      "neg": 0.063,
+      "neu": 0.723,
+      "fin_score": 0.5126,
+      "label": "BULLISH",
+      "id": "8c20d8c27288",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "IndiGo share price rises 5% despite a ₹2,536 crore loss in Q4 results. Should you buy or sell?",
+      "summary": "InterGlobe Aviation, the parent company of budget carrier IndiGo, share price rallied as much as 4.62% in Monday's trading session after the company posted its financial results for the quarter ending on March 31, 2026 on Friday.",
+      "url": "https://www.livemint.com/market/stock-market-news/indigo-share-price-rises-5-despite-a-2-536-crore-loss-in-q4-results-should-you-buy-or-sell-11780285774994.html",
+      "published": "Pzt, 01 Haz 2026 09:31:09 +0530",
+      "compound": 0.2732,
+      "pos": 0.075,
+      "neg": 0.039,
+      "neu": 0.886,
+      "fin_score": 0.2732,
+      "label": "BULLISH",
+      "id": "4422fab40b16",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Gold price today: Rate drops on MCX amid stronger dollar, higher oil prices; experts highlight key levels to watch",
+      "summary": "Gold price today: Rate dropped on MCX amid a stronger dollar and higher oil prices. The dollar index rose by about 0.20%, making greenback-denominated gold expensive for buyers in other currencies. Crude oil prices jumped by over 2% amid persistent uncertainty over a US-Iran deal.",
+      "url": "https://www.livemint.com/market/commodities/gold-price-today-rate-drops-on-mcx-amid-stronger-dollar-higher-oil-prices-experts-highlight-key-levels-to-watch-11780284627283.html",
+      "published": "Pzt, 01 Haz 2026 09:08:22 +0530",
+      "compound": 0.128,
+      "pos": 0.105,
+      "neg": 0.084,
+      "neu": 0.812,
+      "fin_score": 0.028,
+      "label": "NEUTRAL",
+      "id": "b8365789fb4e",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Economy",
+      "title": "India’s manufacturing PMI climbs to 55.0 in May as output hits three-month high",
+      "summary": "Driven by domestic demand resilience, Indian factory activity outperformed estimates in May as new orders and production grew at their fastest pace since February despite persistent cost pressures.",
+      "url": "https://www.livemint.com/economy/india-manufacturing-pmi-climbs-to-55-0-in-may-as-output-hits-three-month-high-11780296445584.html",
+      "published": "Mon, 01 Jun 2026 13:10:10 +0530",
+      "compound": 0.1184,
+      "pos": 0.046,
+      "neg": 0.035,
+      "neu": 0.918,
+      "fin_score": 0.1184,
+      "label": "NEUTRAL",
+      "id": "d9b0c4796f30",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Economy",
+      "title": "GST collections rise 3.2% to ₹1.94 trillion in May",
+      "summary": "Excluding the impact of a one-time ₹10,000-crore GST payment made by a telecom operator for spectrum allocation in May 2025, gross collections recorded an adjusted growth of 9% during May",
+      "url": "https://www.livemint.com/economy/gst-collections-india-may-west-asia-war-telecom-spectrum-gst-revenue-11780297542791.html",
+      "published": "Mon, 01 Jun 2026 13:02:39 +0530",
+      "compound": -0.128,
+      "pos": 0.061,
+      "neg": 0.073,
+      "neu": 0.867,
+      "fin_score": -0.128,
+      "label": "NEUTRAL",
+      "id": "88aa690bad23",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Economy",
+      "title": "Powell says Fed will lose credibility if president removes officials over policy differences",
+      "summary": "The remarks were his first since stepping down as Federal Reserve chair.",
+      "url": "https://www.livemint.com/economy/powell-says-fed-will-lose-credibility-if-president-removes-officials-over-policy-differences-11780276465019.html",
+      "published": "Mon, 01 Jun 2026 06:46:56 +0530",
+      "compound": -0.4019,
+      "pos": 0.0,
+      "neg": 0.101,
+      "neu": 0.899,
+      "fin_score": -0.4019,
+      "label": "BEARISH",
+      "id": "873456cd7291",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Economy",
+      "title": "Govt to help 150,000 farmers access machinery, curb stubble burning",
+      "summary": "The government aims to support 150,000 small farmers with ₹8,550 crore for farm equipment access, promoting mechanisation and reducing stubble burning through the establishment of custom hiring centres, enhancing productivity and resource efficiency in agriculture.",
+      "url": "https://www.livemint.com/economy/centre-farmers-rs-8550-crore-incentive-for-farm-machinery-in-fy27-11780219062540.html",
+      "published": "Sun, 31 May 2026 18:34:20 +0530",
+      "compound": 0.8555,
+      "pos": 0.202,
+      "neg": 0.0,
+      "neu": 0.798,
+      "fin_score": 0.9355,
+      "label": "BULLISH",
+      "id": "b60e39fc4456",
+      "fetched_at": "2026-06-01 16:05:45 IST"
+    },
+    {
+      "source": "LiveMint Economy",
+      "title": "Rain, thunderstorm seen in many parts, conditions favour monsoon progress: IMD",
+      "summary": "The IMD has forecast heavy rain in parts of northeast and south India, along with severe thunderstorms, hailstorms and winds up to 90 kmph across several regions. As heatwave conditions ease, southwest monsoon is expected to advance further over Kerala, Tamil Nadu, Lakshadweep and adjoining seas.",
+      "url": "https://www.livemint.com/economy/rain-thunderstorm-monsoon-progress-weekly-forecast-imd-11780224813053.html",
+      "published": "Sun, 31 May 2026 18:20:55 +0530",
+      "compound": 0.6808,
+      "pos": 0.129,
+      "neg": 0.041,
+      "neu": 0.831,
+      "fin_score": 0.6808,
+      "label": "BULLISH",
+      "id": "752799b5842d",
+      "fetched_at": "2026-06-01 16:05:45 IST"
     }
   ]
 }
