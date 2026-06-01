@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-01 15:15:49 IST",
+  "generated_at": "2026-06-01 15:20:41 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 14,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2306,
-  "weighted_score": 0.4356,
+  "bullish_count": 34,
+  "bearish_count": 15,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2247,
+  "weighted_score": 0.2622,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "SMR Jewels IPO Day 4: Issue remains undersubscribed so far. Here's GMP, and other details",
-    "Do you know what ADRs are? A complete guide for investors",
-    "Zee Entertainment share price zooms 7% as firm bags broadcasting rights for 2026 FIFA world cup in India"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Hexagon Nutrition IPO: From financials to key risks — 10 key things to know from the RHP ahead of offer launch",
-    "Rupee depreciation blunts India bond's appeal for foreign investors",
-    "HDFC Bank share price trades in green after losing for three straight sessions"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
