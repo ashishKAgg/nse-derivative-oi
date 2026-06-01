@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-01 10:15:41 IST",
+  "generated_at": "2026-06-01 10:20:36 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 16,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1818,
-  "weighted_score": 0.0795,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 32,
+  "bearish_count": 17,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1732,
+  "weighted_score": 0.2501,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Reliance Industries share price jumps on Gujarat lignite gasification project with NLC India",
-    "Vardhman Textiles, Gokaldas Exports to KPR Mill: Textile stocks jump over 6% after cotton import duty exemption",
-    "Copper Gains With US Tariffs Deadline Less Than a Month Away"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices rise 2% as concerns about Middle East conflict linger; Brent at $93. What's the near-term outlook?",
-    "Rupee opens 3 paise higher at 94.97 against US dollar",
-    "Dollar steadies as markets await signals on Iran war, central banks"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Mkts"
   ]
 }
