@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-06-01 10:45:42 IST",
+  "generated_at": "2026-06-01 10:50:34 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 16,
-  "neutral_count": 8,
-  "avg_fin_score": 0.186,
-  "weighted_score": 0.2841,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 33,
+  "bearish_count": 18,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1507,
+  "weighted_score": 0.0118,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Adani Power, Adani Ports to Adani Total Gas: Adani group stocks tank up to 5%. Details here",
-    "Mukul Agrawal-owned PTC Industries surges 19.5% after Q4 results. Do you own this multibagger stock?",
-    "How Charlie Munger found an ideal investment option during the global financial crisis in 2008?"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Crude oil prices rise 2% as concerns about Middle East conflict linger; Brent at $93. What's the near-term outlook?",
-    "Rupee opens 3 paise higher at 94.97 against US dollar",
-    "Dollar steadies as markets await signals on Iran war, central banks"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
+    "LiveMint Markets",
     "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
