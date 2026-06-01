@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-01 13:15:39 IST",
+  "generated_at": "2026-06-01 13:20:38 IST",
   "total_articles": 60,
-  "bullish_count": 35,
+  "bullish_count": 34,
   "bearish_count": 14,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2089,
-  "weighted_score": 0.5174,
+  "neutral_count": 12,
+  "avg_fin_score": 0.246,
+  "weighted_score": 0.2682,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Acme Solar share price jumps to all-time high amid reports of ₹2,500 crore QIP move",
-    "Inox Wind share price slumps over 8% after Q4 results. Should you buy, sell or hold?",
-    "Indian stock market: Nifty 50 hovers around key support of 23,500. What should investors do?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices rise 2% as concerns about Middle East conflict linger; Brent at $93. What's the near-term outlook?",
-    "Rupee opens 3 paise higher at 94.97 against US dollar",
-    "Dollar steadies as markets await signals on Iran war, central banks"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
