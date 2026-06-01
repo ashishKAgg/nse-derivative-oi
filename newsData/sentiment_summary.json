@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-01 10:30:59 IST",
+  "generated_at": "2026-06-01 10:35:31 IST",
   "total_articles": 60,
-  "bullish_count": 33,
+  "bullish_count": 35,
   "bearish_count": 16,
-  "neutral_count": 11,
-  "avg_fin_score": 0.193,
-  "weighted_score": 0.254,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1822,
+  "weighted_score": 0.2814,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "How Charlie Munger found an ideal investment option during the global financial crisis in 2008?",
+    "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Tata Power, Sona BLW shares on 1 June",
+    "Reliance Industries share price jumps on Gujarat lignite gasification project with NLC India"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Crude oil prices rise 2% as concerns about Middle East conflict linger; Brent at $93. What's the near-term outlook?",
+    "Rupee opens 3 paise higher at 94.97 against US dollar",
+    "Dollar steadies as markets await signals on Iran war, central banks"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
