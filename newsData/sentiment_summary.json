@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-02 16:05:38 IST",
+  "generated_at": "2026-06-02 16:10:41 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 17,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1515,
-  "weighted_score": 0.4134,
+  "bullish_count": 32,
+  "bearish_count": 15,
+  "neutral_count": 13,
+  "avg_fin_score": 0.2116,
+  "weighted_score": 0.2579,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Small-caps defy market selloff: Is this the next big opportunity?",
-    "Top Gainers & Losers on June 2: Newgen Software Tech, Concord Biotech, TCS, HFCL, NMDC among top gainers",
-    "Metal stock Rajputana Stainless trades green after strong FY26 business update"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rail Vikas Nigam shares extend losing streak to fifth session, drop over 3.5% to 2-year low",
-    "Hexagon Nutrition IPO: 10 key risks investors should know before subscribing; check latest GMP",
-    "Nifty 50 has ended June higher in 6 of the last 10 years. Will history repeat itself?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
