@@ -1,10 +1,10 @@
 {
-  "computed_at": "2026-06-02 11:20:49 IST",
-  "spot": 23310.7,
+  "computed_at": "2026-06-02 11:25:40 IST",
+  "spot": 23310.35,
   "atm_strike": 23300,
-  "atm_iv": 20.46,
-  "iv_rank": 10.1,
-  "iv_pctile": 68.2,
+  "atm_iv": 20.22,
+  "iv_rank": 9.7,
+  "iv_pctile": 66.6,
   "verdict": "IV LOW \u2014 Options cheap, big move expected",
   "verdict_color": "#28a745"
 }
