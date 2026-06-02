@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-02 13:35:36 IST",
+  "generated_at": "2026-06-02 13:40:44 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 21,
-  "neutral_count": 9,
-  "avg_fin_score": 0.0856,
-  "weighted_score": 0.2996,
+  "bullish_count": 32,
+  "bearish_count": 17,
+  "neutral_count": 11,
+  "avg_fin_score": 0.189,
+  "weighted_score": 0.2531,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Patanjali Foods: Street’s optimism in assigning high FMCG valuation multiples was misplaced",
-    "GMR Airports faces West Asia headwinds, but analysts see a growth runway",
-    "NSE SME stock close to 52-week high despite muted trends in Indian stock market"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Hexagon Nutrition IPO: 10 key risks investors should know before subscribing; check latest GMP",
-    "Nifty 50 has ended June higher in 6 of the last 10 years. Will history repeat itself?",
-    "Asian markets today: Air China, China Southern Airlines to Cathay Pacific Airways — why are aviation stocks falling?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
