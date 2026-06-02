@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-02 09:10:37 IST",
+  "generated_at": "2026-06-02 09:15:37 IST",
   "summary": {
-    "generated_at": "2026-06-02 09:10:37 IST",
+    "generated_at": "2026-06-02 09:15:37 IST",
     "total_articles": 60,
-    "bullish_count": 33,
-    "bearish_count": 17,
-    "neutral_count": 10,
-    "avg_fin_score": 0.2029,
-    "weighted_score": 0.2537,
+    "bullish_count": 29,
+    "bearish_count": 20,
+    "neutral_count": 11,
+    "avg_fin_score": 0.121,
+    "weighted_score": 0.2295,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -21,10 +21,10 @@
       "Subramanian Swamy seeks ban on import of cement from Pakistan"
     ],
     "sources_hit": [
+      "MoneyControl Mkts",
       "MoneyControl Comm",
       "MoneyControl Top",
-      "LiveMint Markets",
-      "MoneyControl Mkts"
+      "LiveMint Markets"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,7 +581,67 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Crude oil prices continue to rise amid ongoing US-Iran talks; brent near $95/bbl. What's the outlook?",
+      "summary": "US-Iran war: Crude oil prices on Multi Commodity Exchange (MCX) witnessed downward movement. MCX crude oil prices fell as much as 0.16% to ₹8,725 per barrel.",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-continue-to-rise-amid-ongoing-us-iran-talks-brent-near-95-bbl-whats-the-outlook-11780368815039.html",
+      "published": "Tue, 02 Jun 2026 09:11:04 +0530",
+      "compound": -0.9432,
+      "pos": 0.0,
+      "neg": 0.283,
+      "neu": 0.717,
+      "fin_score": -1.0,
+      "label": "BEARISH",
+      "id": "3838b3b7d89e",
+      "fetched_at": "2026-06-02 09:15:37 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Gold rate today: MCX gold price rises above ₹1.59 lakh per 10 grams, silver flat amid uncertainty over US-Iran talks",
+      "summary": "Gold rate today: Gold prices in the international market were steady as investors awaited further details on the status of the US-Iran talks amid conflicting news.",
+      "url": "https://www.livemint.com/market/commodities/gold-rate-today-mcx-gold-price-rises-above-rs-1-59-lakh-per-10-grams-silver-flat-amid-uncertainty-over-us-iran-talks-11780370882444.html",
+      "published": "Tue, 02 Jun 2026 09:09:04 +0530",
+      "compound": -0.6369,
+      "pos": 0.0,
+      "neg": 0.126,
+      "neu": 0.874,
+      "fin_score": -0.7369,
+      "label": "BEARISH",
+      "id": "04d6ba5c99ed",
+      "fetched_at": "2026-06-02 09:15:37 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "US Spot Petrochemical Prices Ease as Export Demand Starts to Lag",
+      "summary": "US spot petrochemical prices softened across the board last week as export demand for the plastics building blocks appears to weaken for the month of June.",
+      "url": "https://www.livemint.com/market/us-spot-petrochemical-prices-ease-as-export-demand-starts-to-lag-11780371484956.html",
+      "published": "Tue, 02 Jun 2026 09:08:04 +0530",
+      "compound": -0.6808,
+      "pos": 0.057,
+      "neg": 0.232,
+      "neu": 0.711,
+      "fin_score": -0.6808,
+      "label": "BEARISH",
+      "id": "209ee55dbeaf",
+      "fetched_at": "2026-06-02 09:15:37 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Silver rate today: Silver prices remain muted as markets assess US-Iran news and Fed outlook - Key levels to watch",
+      "summary": "MCX silver price was muted, down 0.17% at ₹2,65,685 per kg, while MCX gold price also flat.",
+      "url": "https://www.livemint.com/market/stock-market-news/gold-silver-rate-today-silver-prices-remain-muted-as-markets-assess-us-iran-news-fed-outlook-key-levels-to-watch-11780369026884.html",
+      "published": "Tue, 02 Jun 2026 09:07:30 +0530",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neg": 0.0,
+      "neu": 1.0,
+      "fin_score": 0.0,
+      "label": "NEUTRAL",
+      "id": "fb7db83fbf6e",
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -596,7 +656,7 @@
       "fin_score": -0.4267,
       "label": "BEARISH",
       "id": "104236250a88",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -611,7 +671,7 @@
       "fin_score": -0.8906,
       "label": "BEARISH",
       "id": "ec4d63307406",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -626,7 +686,7 @@
       "fin_score": 0.8074,
       "label": "BULLISH",
       "id": "14969265dfc7",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -641,7 +701,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "60ca9b07b5db",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -656,7 +716,7 @@
       "fin_score": 0.8612,
       "label": "BULLISH",
       "id": "4b65700eea13",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -671,7 +731,7 @@
       "fin_score": 0.902,
       "label": "BULLISH",
       "id": "df3ec8255f99",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -686,7 +746,7 @@
       "fin_score": 0.9325,
       "label": "BULLISH",
       "id": "6698cb713806",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -701,7 +761,7 @@
       "fin_score": 0.4215,
       "label": "BULLISH",
       "id": "fff0f7029006",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -716,7 +776,7 @@
       "fin_score": 0.9538,
       "label": "BULLISH",
       "id": "753445b71594",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -731,7 +791,7 @@
       "fin_score": 0.128,
       "label": "NEUTRAL",
       "id": "3f5020ec8288",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -746,7 +806,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "a575589a07dd",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -761,7 +821,7 @@
       "fin_score": 0.6715,
       "label": "BULLISH",
       "id": "798aa4823932",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -776,7 +836,7 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "ee52a11c875b",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -791,7 +851,7 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "ea1bd0cd87cb",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -806,7 +866,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "58d1b764b7db",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -821,7 +881,7 @@
       "fin_score": 0.7906,
       "label": "BULLISH",
       "id": "3a9431fa1949",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -836,7 +896,7 @@
       "fin_score": -0.6859,
       "label": "BEARISH",
       "id": "5024de1144c1",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -851,7 +911,7 @@
       "fin_score": 0.6859,
       "label": "BULLISH",
       "id": "b7764e9d7244",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -866,67 +926,7 @@
       "fin_score": -0.7003,
       "label": "BEARISH",
       "id": "f5330b3bfce7",
-      "fetched_at": "2026-06-02 09:10:37 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Ola Electric launches QIP, fixes floor price at ₹37.74 per share; check details",
-      "summary": "OLA Electric Mobility received board and shareholder approvals for a qualified institutional placement of equity shares. The issue opened on 1 June 2026.&nbsp;",
-      "url": "https://www.livemint.com/market/stock-market-news/ola-electric-launches-qip-fixes-floor-price-at-rs-37-74-per-share-check-details-11780319201969.html",
-      "published": "Mon, 01 Jun 2026 19:55:18 +0530",
-      "compound": 0.5267,
-      "pos": 0.115,
-      "neg": 0.0,
-      "neu": 0.885,
-      "fin_score": 0.5267,
-      "label": "BULLISH",
-      "id": "4943b5eed7ce",
-      "fetched_at": "2026-06-02 09:10:37 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "US stock market today: Nasdaq, S&P 500 gain as AI optimism offsets Middle East worries",
-      "summary": "US stock futures rose ahead of Monday's trade, continuing the momentum from May driven by AI enthusiasm, despite concerns over oil prices. Analysts suggest geopolitical tensions are easing, with a focus on upcoming macroeconomic data, particularly the US jobs report.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-gain-as-ai-optimism-offsets-middle-east-worries-11780314368021.html",
-      "published": "Mon, 01 Jun 2026 18:14:51 +0530",
-      "compound": 0.743,
-      "pos": 0.178,
-      "neg": 0.083,
-      "neu": 0.739,
-      "fin_score": 0.663,
-      "label": "BULLISH",
-      "id": "3557ff0b34a1",
-      "fetched_at": "2026-06-02 09:10:37 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Nifty IT jumps over 2.5% as strong US software earnings revive sector optimism",
-      "summary": "Domestic technology stocks saw significant gains on June 1, with all Nifty IT index constituents rising. Strong US software earnings and improved sentiment boosted confidence, reversing previous losses. Persistent Systems led with a 4% increase, while the Nifty IT index closed up 2.66%.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-it-jumps-over-2-5-as-strong-us-software-earnings-revive-sector-optimism-11780313094276.html",
-      "published": "Mon, 01 Jun 2026 17:09:37 +0530",
-      "compound": 0.9839,
-      "pos": 0.446,
-      "neg": 0.033,
-      "neu": 0.52,
-      "fin_score": 0.7839,
-      "label": "BULLISH",
-      "id": "211d9ad2f7c3",
-      "fetched_at": "2026-06-02 09:10:37 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Multibagger small-cap stock surges 19% to 52-week high despite stock market crash; here's why",
-      "summary": "Vaxfab Enterprises soared 19% to ₹60, a 52-week high, after reporting a 67.7% increase in FY26 income to ₹99.60 crore and a 523% rise in net profit to ₹3.64 crore, driven by strong financial performance and diversification plans.",
-      "url": "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-surges-19-to-52-week-high-despite-stock-market-crash-heres-why-11780306951370.html",
-      "published": "Mon, 01 Jun 2026 15:47:59 +0530",
-      "compound": 0.8676,
-      "pos": 0.183,
-      "neg": 0.0,
-      "neu": 0.817,
-      "fin_score": 0.5176,
-      "label": "BULLISH",
-      "id": "3b70f3f5e065",
-      "fetched_at": "2026-06-02 09:10:37 IST"
+      "fetched_at": "2026-06-02 09:15:37 IST"
     }
   ]
 }
