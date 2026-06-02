@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-02 12:45:45 IST",
+  "generated_at": "2026-06-02 12:50:41 IST",
   "total_articles": 60,
-  "bullish_count": 32,
+  "bullish_count": 30,
   "bearish_count": 20,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1104,
-  "weighted_score": 0.3545,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1152,
+  "weighted_score": 0.2372,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "NSE SME stock close to 52-week high despite muted trends in Indian stock market",
-    "NHPC share price tanks around 6% after fundraise move through the OFS; check floor price and other details",
-    "Small-cap stocks to buy: Chalet Hotels, Minda Corp, Navin Fluorine among Axis Securities’ top stock picks for June"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Nifty 50 has ended June higher in 6 of the last 10 years. Will history repeat itself?",
-    "Asian markets today: Air China, China Southern Airlines to Cathay Pacific Airways — why are aviation stocks falling?",
-    "Stocks to buy: Sagar Doshi suggests Cyient, Timken India, JBM Auto shares to buy"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
     "LiveMint Markets"
   ]
 }
