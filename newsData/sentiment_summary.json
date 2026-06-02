@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-02 12:05:32 IST",
+  "generated_at": "2026-06-02 12:10:42 IST",
   "total_articles": 60,
-  "bullish_count": 28,
-  "bearish_count": 22,
-  "neutral_count": 10,
-  "avg_fin_score": 0.0659,
-  "weighted_score": 0.2235,
+  "bullish_count": 31,
+  "bearish_count": 20,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1024,
+  "weighted_score": 0.1985,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "IPO GMPs: CMR Green Technologies IPO to Hexagon Nutrition IPO; here's what GMP hints ahead of opening",
+    "ED searches against Vedanta Group in FEMA case",
+    "Small-cap stock under ₹50 jumps despite weak trends on Dalal Street"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Nifty 50 has ended June higher in 6 of the last 10 years. Will history repeat itself?",
+    "Asian markets today: Air China, China Southern Airlines to Cathay Pacific Airways — why are aviation stocks falling?",
+    "Stocks to buy: Sagar Doshi suggests Cyient, Timken India, JBM Auto shares to buy"
   ],
   "sources_hit": [
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
