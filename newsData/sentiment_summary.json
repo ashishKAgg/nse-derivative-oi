@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-02 10:55:32 IST",
+  "generated_at": "2026-06-02 11:00:51 IST",
   "total_articles": 60,
-  "bullish_count": 29,
+  "bullish_count": 31,
   "bearish_count": 20,
-  "neutral_count": 11,
-  "avg_fin_score": 0.1156,
-  "weighted_score": 0.2305,
+  "neutral_count": 9,
+  "avg_fin_score": 0.0978,
+  "weighted_score": 0.1465,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Lacklustre debut! Yaashvi Jewellers shares list at IPO price of ₹83 on BSE SME",
+    "KRN Heat Exchanger share price recovers 8% from day's low after firm raises ₹350 crore through QIP",
+    "ACME Solar share price jumps 3% as firm launches QIP at ₹294.13 floor price"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Stocks to buy: Sagar Doshi suggests Cyient, Timken India, JBM Auto shares to buy",
+    "Aviation stocks under pressure: IndiGo and SpiceJet decline up to 2.5% as Russia bans jet fuel exports",
+    "Crude oil prices steady after 5% surge amid ongoing US-Iran talks; Brent near $95/bbl. What's the outlook?"
   ],
   "sources_hit": [
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
