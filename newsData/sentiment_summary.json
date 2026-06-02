@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-02 15:05:35 IST",
+  "generated_at": "2026-06-02 15:10:44 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 16,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2033,
-  "weighted_score": 0.255,
+  "bullish_count": 30,
+  "bearish_count": 20,
+  "neutral_count": 10,
+  "avg_fin_score": 0.0781,
+  "weighted_score": 0.1471,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Energy stock Fujiyama Power Systems hits upper circuit following stock market rebound",
+    "Oracle layoffs: 30,000 jobs cuts to be completed by June 15 despite booming cloud, AI growth and strong earnings",
+    "Infosys share price jumps 5% in trade today; here's why"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rail Vikas Nigam shares extend losing streak to fifth session, drop over 3.5% to 2-year low",
+    "Hexagon Nutrition IPO: 10 key risks investors should know before subscribing; check latest GMP",
+    "Nifty 50 has ended June higher in 6 of the last 10 years. Will history repeat itself?"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
