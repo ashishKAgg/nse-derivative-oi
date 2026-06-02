@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-02 09:05:35 IST",
+  "generated_at": "2026-06-02 09:10:37 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 16,
-  "neutral_count": 8,
-  "avg_fin_score": 0.191,
-  "weighted_score": 0.0801,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 33,
+  "bearish_count": 17,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2029,
+  "weighted_score": 0.2537,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 2 June 2026",
-    "Expert view: Can't say the worst is behind for markets; positive on banks, says Mittul Kalawadia of ICICI Prudential AMC",
-    "Stocks to buy for short term: Aegis Logistics, CG Power, NBCC among 5 stocks experts recommend for next 1-2 weeks"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Oil prices ease as uncertainty clouds Iran-US peace talks",
-    "Gold Holds Decline as Traders Weigh Confusion Over US-Iran Talks",
-    "US yields higher as uncertainty surrounds Iran talks"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
+    "MoneyControl Top",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts"
   ]
 }
