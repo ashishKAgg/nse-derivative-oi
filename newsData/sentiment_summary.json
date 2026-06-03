@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-03 10:45:42 IST",
+  "generated_at": "2026-06-03 10:50:36 IST",
   "total_articles": 60,
   "bullish_count": 32,
-  "bearish_count": 21,
-  "neutral_count": 7,
-  "avg_fin_score": 0.0797,
-  "weighted_score": 0.1268,
+  "bearish_count": 20,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1209,
+  "weighted_score": 0.233,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Vodafone Idea share price gains despite stock market crash, jumps 40% in one month. More upside left?",
-    "Rajnandini Fashion share price makes flat debut, lists at ₹63, same as SME IPO price",
-    "Chinese Investors Exit Hong Kong Stocks as AI Woos Money Onshore"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Nifty 50 tanks 250 points, Sensex crashes 900 points; why is Indian stock market falling today? Explained with 5 reasons",
-    "Hindustan Zinc to Grasim - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
-    "Crude oil prices gain as US-Iran peace deal remains elusive; Brent tops $97/bbl. Where are they headed next?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
