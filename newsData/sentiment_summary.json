@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-03 15:20:38 IST",
+  "generated_at": "2026-06-03 15:25:37 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 19,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1549,
-  "weighted_score": 0.2452,
+  "bullish_count": 33,
+  "bearish_count": 22,
+  "neutral_count": 5,
+  "avg_fin_score": 0.0595,
+  "weighted_score": 0.3208,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Borosil Renewables shares surge 10% as government extends solar glass import duties",
+    "Suzlon share price rebounds from day’s low after announcement of this growth plan",
+    "India's services sector growth could stall as downside risks build"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Meesho lock-in expiry looms. Time to be cautious as ₹60,000-crore worth of stocks to be tradable?",
+    "RBI MPC meeting begins today: Will RBI announce a rate hike as Middle East conflict threatens to drive inflation?",
+    "Ruchit Jain of Motilal Oswal suggests Premier Energies, Varun Beverages shares to buy for the short term"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
