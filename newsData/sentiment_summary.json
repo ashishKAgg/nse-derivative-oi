@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-03 15:45:48 IST",
+  "generated_at": "2026-06-03 15:50:36 IST",
   "total_articles": 60,
   "bullish_count": 31,
-  "bearish_count": 23,
-  "neutral_count": 6,
-  "avg_fin_score": 0.0336,
-  "weighted_score": -0.0013,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bearish_count": 19,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1496,
+  "weighted_score": 0.2415,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Borosil Renewables shares surge 10% as government extends solar glass import duties",
-    "Suzlon share price rebounds from day’s low after announcement of this growth plan",
-    "India's services sector growth could stall as downside risks build"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Sensex rebounds 850 points from day's low to end 300 points down: 10 key highlights from Indian stock market today",
-    "Meesho lock-in expiry looms. Time to be cautious as ₹60,000-crore worth of stocks to be tradable?",
-    "RBI MPC meeting begins today: Will RBI announce a rate hike as Middle East conflict threatens to drive inflation?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
