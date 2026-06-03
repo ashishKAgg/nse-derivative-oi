@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-03 12:10:39 IST",
+  "generated_at": "2026-06-03 12:15:43 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 22,
-  "neutral_count": 5,
-  "avg_fin_score": 0.0613,
-  "weighted_score": -0.0118,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 31,
+  "bearish_count": 21,
+  "neutral_count": 8,
+  "avg_fin_score": 0.0918,
+  "weighted_score": 0.2257,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "TCS, Infosys to Coforge: IT stocks crash up to 8% after three-day rally; what's behind the selloff?",
-    "Last day to buy Tata Group company Trent shares ahead of its first-ever bonus issue record date; do you own?",
-    "Metals Q4 results: Strong operational performance sustains amid elevated metal prices; Hindalco, APL Apollo top picks"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Beyond ethanol and biogas, Praj needs to prove its growth case",
-    "IndusInd Bank share price falls over 3% after report of whistleblower complaint to RBI, PMO",
-    "From $120 to $95: Crude oil prices surged 70% during the US-Iran war. Can Brent crude price drop to $80?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
