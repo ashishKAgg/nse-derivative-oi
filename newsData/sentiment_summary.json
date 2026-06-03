@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-03 11:31:09 IST",
+  "generated_at": "2026-06-03 11:35:29 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 22,
-  "neutral_count": 6,
-  "avg_fin_score": 0.0599,
-  "weighted_score": -0.0672,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 31,
+  "bearish_count": 21,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1011,
+  "weighted_score": 0.2266,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Metals Q4 results: Strong operational performance sustains amid elevated metal prices; Hindalco, APL Apollo top picks",
-    "NHPC share price rises 5% as OFS opens for retail investors. Should you participate or not?",
-    "Vodafone Idea share price gains despite stock market crash, jumps 40% in one month. More upside left?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "IndusInd Bank share price falls over 3% after report of whistleblower complaint to RBI, PMO",
-    "From $120 to $95: Crude oil prices surged 70% during the US-Iran war. Can Brent crude price drop to $80?",
-    "Nifty 50 tanks 250 points, Sensex crashes 900 points; why is Indian stock market falling today? Explained with 5 reasons"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
