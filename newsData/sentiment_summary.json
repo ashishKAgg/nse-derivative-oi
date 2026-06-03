@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-03 13:05:35 IST",
+  "generated_at": "2026-06-03 13:10:40 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 23,
-  "neutral_count": 4,
-  "avg_fin_score": 0.0625,
-  "weighted_score": 0.2705,
+  "bullish_count": 31,
+  "bearish_count": 21,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1129,
+  "weighted_score": 0.2336,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Auto sector Q4 results review: Volumes, price hikes aid revenue growth, profits beat; M&M, TVS Motors top picks",
-    "Tata Sons, Jio, NSE listings can change the market. Here's why Deepak Shenoy thinks India needs more IPOs",
-    "Small-cap stock Shreeji Shipping Global shows resilience against stock market crash"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "RBI MPC meeting begins today: Will RBI announce a rate hike as Middle East conflict threatens to drive inflation?",
-    "Ruchit Jain of Motilal Oswal suggests Premier Energies, Varun Beverages shares to buy for the short term",
-    "Beyond ethanol and biogas, Praj needs to prove its growth case"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
