@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-04 11:15:39 IST",
+  "generated_at": "2026-06-04 11:20:34 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 16,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1765,
-  "weighted_score": 0.0162,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 30,
+  "bearish_count": 18,
+  "neutral_count": 12,
+  "avg_fin_score": 0.1409,
+  "weighted_score": 0.2365,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Traders Brace for Big Yen Swings on BOJ, Intervention Risks",
-    "Nifty 50 EPS cuts: Cipla, L&T, Adani Enterprises, Adani Ports among top downgrades in May",
-    "HAL, BEL to Bharat Dynamics: Defence stocks rise despite weak trends in the Indian stock market"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Cement price hikes miss the mark as cost inflation struggle intensifies",
-    "Anthropic offers Mythos to 150 additional groups; India to get AI model access",
-    "Oil prices fall amid US-Iran peace talks hopes; Brent at $97. Where are prices headed?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
