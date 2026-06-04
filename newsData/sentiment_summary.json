@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-04 15:55:35 IST",
+  "generated_at": "2026-06-04 16:00:56 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 18,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1309,
-  "weighted_score": 0.3062,
+  "bullish_count": 33,
+  "bearish_count": 16,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1808,
+  "weighted_score": 0.2508,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Top Gainers & Losers on June 4: Physicswallah, Anant Raj, Force Motors, Hitachi Energy, Voltas among top gainers",
-    "Hitachi Energy, GVTD to CG Power: Citi is bullish on these electric equipment stocks. Should you buy?",
-    "ICICI Bank share price: Motilal Oswal sees 41% upside. Should you buy?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Sensex ends choppy trade flat ahead of RBI policy meet: 10 key highlights from Indian stock market today",
-    "Bond yields soften ahead of RBI policy; how should debt market investors position amid repo rate hike fears?",
-    "Inox Wind's stumble may be setting the stage for a strategic transition"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
