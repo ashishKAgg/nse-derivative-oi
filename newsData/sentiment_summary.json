@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-04 15:35:36 IST",
+  "generated_at": "2026-06-04 15:40:42 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 18,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1313,
-  "weighted_score": 0.3342,
+  "bullish_count": 32,
+  "bearish_count": 17,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1542,
+  "weighted_score": 0.2438,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Hitachi Energy, GVTD to CG Power: Citi is bullish on these electric equipment stocks. Should you buy?",
-    "ICICI Bank share price: Motilal Oswal sees 41% upside. Should you buy?",
-    "Meesho shares sink for eighth consecutive session in longest post-listing sell-off. What’s driving the decline?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Bond yields soften ahead of RBI policy; how should debt market investors position amid repo rate hike fears?",
-    "Inox Wind's stumble may be setting the stage for a strategic transition",
-    "Will India’s economy be in trouble if IMD’s monsoon forecast proves accurate?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
