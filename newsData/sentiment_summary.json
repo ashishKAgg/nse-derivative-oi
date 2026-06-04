@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-04 10:10:35 IST",
+  "generated_at": "2026-06-04 10:15:40 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 15,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2161,
-  "weighted_score": 0.2572,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 36,
+  "bearish_count": 17,
+  "neutral_count": 7,
+  "avg_fin_score": 0.1881,
+  "weighted_score": 0.0019,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Drone stock ideaForge share price hits 5% upper circuit, 52-week high as board approves ₹500 crore fundraise",
+    "Gold rate today: MCX gold price rises above ₹1.59 lakh per 10 grams, silver gains amid US-Iran peace deal hopes",
+    "Silver rate today rises as dollar weakens, oil prices retreat amid US-Iran peace hopes"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Oil prices fall amid US-Iran peace talks hopes; Brent at $97. Where are prices headed?",
+    "Rupee opens 1 paise higher at 95.70 against US dollar",
+    "Rajesh Exports share price falls 5% after SEBI flags ₹15 lakh crore misstatement in accounts"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
