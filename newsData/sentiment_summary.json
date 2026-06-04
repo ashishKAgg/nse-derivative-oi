@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-04 12:55:29 IST",
+  "generated_at": "2026-06-04 13:01:04 IST",
   "total_articles": 60,
-  "bullish_count": 31,
-  "bearish_count": 18,
-  "neutral_count": 11,
-  "avg_fin_score": 0.118,
-  "weighted_score": 0.2333,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 35,
+  "bearish_count": 17,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1447,
+  "weighted_score": 0.0057,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Hexagon Nutrition IPO opens June 5: 10 key things to know before subscribing; check GMP today",
+    "Physicswallah share price jumps 18% after partnership with NBFCs for student financing",
+    "NSE SME stock Simca Advertising jumps despite muted trends on Dalal Street"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Inox Wind's stumble may be setting the stage for a strategic transition",
+    "Will India’s economy be in trouble if IMD’s monsoon forecast proves accurate?",
+    "Cement price hikes miss the mark as cost inflation struggle intensifies"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
