@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-04 09:20:32 IST",
+  "generated_at": "2026-06-04 09:25:34 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 15,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2154,
-  "weighted_score": 0.2579,
+  "bullish_count": 35,
+  "bearish_count": 17,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1793,
+  "weighted_score": 0.2787,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Gold rate today: MCX gold price rises above ₹1.59 lakh per 10 grams, silver gains amid US-Iran peace deal hopes",
+    "Silver rate today rises as dollar weakens, oil prices retreat amid US-Iran peace hopes",
+    "Indiabulls share price in focus: Real estate firm raises ₹1000 crore through issuance of convertible warrants"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rajesh Exports share price in focus after SEBI flags ₹15 lakh crore misstatement in accounts",
+    "Asian markets today: Nikkei 225, Kospi fall up to 2% on renewed US-Iran war in the Middle East",
+    "US yields climb on latest flare in Gulf tensions"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Comm",
-    "MoneyControl Top",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
