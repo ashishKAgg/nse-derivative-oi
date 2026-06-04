@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-04 15:15:45 IST",
+  "generated_at": "2026-06-04 15:20:42 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 16,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1755,
-  "weighted_score": 0.2502,
+  "bullish_count": 35,
+  "bearish_count": 18,
+  "neutral_count": 7,
+  "avg_fin_score": 0.1281,
+  "weighted_score": 0.3441,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "ICICI Bank share price: Motilal Oswal sees 41% upside. Should you buy?",
+    "Meesho shares sink for eighth consecutive session in longest post-listing sell-off. What’s driving the decline?",
+    "SMR Jewels IPO allotment to be finalised today. Here's GMP and steps to check status"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Bond yields soften ahead of RBI policy; how should debt market investors position amid repo rate hike fears?",
+    "Inox Wind's stumble may be setting the stage for a strategic transition",
+    "Will India’s economy be in trouble if IMD’s monsoon forecast proves accurate?"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
