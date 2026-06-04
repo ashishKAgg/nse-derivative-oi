@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-04 12:31:06 IST",
+  "generated_at": "2026-06-04 12:35:34 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 16,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1557,
-  "weighted_score": 0.1241,
+  "bullish_count": 31,
+  "bearish_count": 18,
+  "neutral_count": 11,
+  "avg_fin_score": 0.118,
+  "weighted_score": 0.2333,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Hexagon Nutrition IPO opens June 5: 10 key things to know before subscribing; check GMP today",
-    "Physicswallah share price jumps 18% after partnership with NBFCs for student financing",
-    "NSE SME stock Simca Advertising jumps despite muted trends on Dalal Street"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Will India’s economy be in trouble if IMD’s monsoon forecast proves accurate?",
-    "Cement price hikes miss the mark as cost inflation struggle intensifies",
-    "Anthropic offers Mythos to 150 additional groups; India to get AI model access"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
