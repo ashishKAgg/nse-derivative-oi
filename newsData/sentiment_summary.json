@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-04 09:05:37 IST",
+  "generated_at": "2026-06-04 09:10:33 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 18,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1777,
-  "weighted_score": 0.1641,
+  "bullish_count": 34,
+  "bearish_count": 15,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2238,
+  "weighted_score": 0.2594,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Indiabulls share price in focus: Real estate firm raises ₹1000 crore through issuance of convertible warrants",
-    "Block Deals: Lenskart Solutions, GMR Airports shares to be in focus",
-    "CMR Green Technologies IPO Day 2: Issue subscribed 2.46x so far. Check GMP, review, key dates. Apply or not?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rajesh Exports share price in focus after SEBI flags ₹15 lakh crore misstatement in accounts",
-    "Asian markets today: Nikkei 225, Kospi fall up to 2% on renewed US-Iran war in the Middle East",
-    "US yields climb on latest flare in Gulf tensions"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
