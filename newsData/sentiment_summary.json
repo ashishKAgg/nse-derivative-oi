@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-05 09:00:53 IST",
+  "generated_at": "2026-06-05 09:05:33 IST",
   "total_articles": 60,
-  "bullish_count": 34,
+  "bullish_count": 30,
   "bearish_count": 16,
-  "neutral_count": 10,
-  "avg_fin_score": 0.169,
-  "weighted_score": 0.3881,
+  "neutral_count": 14,
+  "avg_fin_score": 0.1548,
+  "weighted_score": 0.2454,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends 3 stocks to buy today amid RBI policy - 5 June 2026",
-    "Stocks to watch: Tata Motors, ICICI Bank, Groww among shares in focus today; check list here",
-    "Buy or sell: Gift Nifty signals muted start, Vaishali Parekh recommends 3 stocks to buy before RBI MPC meeting outcome"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Asian markets today: Kospi tanks 6%, Nikkei falls as AI-led rally cools, US-Iran war worries linger",
-    "RBI MPC Meeting 2026 LIVE: Will Governor Sanjay Malhotra and team hike repo rate or stay put amid US-Iran war worries?",
-    "Emerging-Market Stocks Sink as Broadcom Miss Revives AI Concerns"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Mkts",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
