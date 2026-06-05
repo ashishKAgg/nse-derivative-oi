@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-04 16:25:29 IST",
+  "generated_at": "2026-06-05 09:00:53 IST",
   "total_articles": 60,
-  "bullish_count": 33,
+  "bullish_count": 34,
   "bearish_count": 16,
-  "neutral_count": 11,
-  "avg_fin_score": 0.1839,
-  "weighted_score": 0.2518,
+  "neutral_count": 10,
+  "avg_fin_score": 0.169,
+  "weighted_score": 0.3881,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends 3 stocks to buy today amid RBI policy - 5 June 2026",
+    "Stocks to watch: Tata Motors, ICICI Bank, Groww among shares in focus today; check list here",
+    "Buy or sell: Gift Nifty signals muted start, Vaishali Parekh recommends 3 stocks to buy before RBI MPC meeting outcome"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Asian markets today: Kospi tanks 6%, Nikkei falls as AI-led rally cools, US-Iran war worries linger",
+    "RBI MPC Meeting 2026 LIVE: Will Governor Sanjay Malhotra and team hike repo rate or stay put amid US-Iran war worries?",
+    "Emerging-Market Stocks Sink as Broadcom Miss Revives AI Concerns"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
