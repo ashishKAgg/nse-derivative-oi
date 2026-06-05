@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-05 15:45:43 IST",
+  "generated_at": "2026-06-05 15:50:41 IST",
   "total_articles": 60,
-  "bullish_count": 32,
+  "bullish_count": 36,
   "bearish_count": 16,
-  "neutral_count": 12,
-  "avg_fin_score": 0.2195,
-  "weighted_score": 0.2594,
+  "neutral_count": 8,
+  "avg_fin_score": 0.247,
+  "weighted_score": 0.3475,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Paras Healthcare IPO: Company files DRHP with SEBI to raise ₹1,800 crore via public issue",
+    "Top Gainers & Losers on June 5: Adani Green, Ather Energy, OLA, CarTrade Tech, YES Bank among top gainers",
+    "HDFC MF, ICICI Pru MF cap large-ticket inflows in gold ETFs, but it won't hurt retail investors"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Sensex ends 117 points lower after RBI policy meet outcome: 10 key highlights from Indian stock market today",
+    "Expert view: FII selling more like a stampede towards AI than exodus from India, says Pradeep Gupta of Anand Rathi",
+    "Govt announces removal of taxes on G-Secs for FIIs to spur foreign inflows"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
