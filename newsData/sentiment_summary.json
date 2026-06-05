@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-05 14:15:45 IST",
+  "generated_at": "2026-06-05 14:20:45 IST",
   "total_articles": 60,
-  "bullish_count": 31,
-  "bearish_count": 17,
-  "neutral_count": 12,
-  "avg_fin_score": 0.1865,
-  "weighted_score": 0.2538,
+  "bullish_count": 37,
+  "bearish_count": 14,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2635,
+  "weighted_score": 0.3707,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Meesho share price jumps after falling for eight straight sessions. Choice sees more upside",
+    "Goldman Sachs invests ₹210 crore in Groww; shares rise 4%",
+    "CMR Green Technologies IPO Day 3: GMP, subscription status, other key details. Should you apply as bidding ends today?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Govt announces removal of taxes on G-Secs for FIIs to spur foreign inflows",
+    "Aureate Tradde IPO Listing: SME stock lists at ₹70, same as issue price",
+    "Gold Rate Today: MCX gold price falls below ₹1.59 lakh per 10 grams, silver slips 2% ahead of RBI policy"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
