@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-05 09:25:31 IST",
+  "generated_at": "2026-06-05 09:31:06 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 18,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1323,
-  "weighted_score": 0.1848,
+  "bullish_count": 31,
+  "bearish_count": 17,
+  "neutral_count": 12,
+  "avg_fin_score": 0.1576,
+  "weighted_score": 0.2429,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "CMR Green Technologies IPO Day 3 LIVE: Issue booked nearly 10x so far — GMP jumps to ₹70",
-    "Hexagon Nutrition IPO Day 1 Live: GMP, subscription status to review. Apply or not?",
-    "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends 3 stocks to buy today amid RBI policy - 5 June 2026"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold Rate Today: MCX gold price falls below ₹1.59 lakh per 10 grams, silver slips 2% ahead of RBI policy",
-    "Oil price steadies amid US-Iran ceasefire uncertainty; brent hovers near $95. What's the near-term outlook?",
-    "Silver rate today falls 2% as escalating Iran-Israel tensions dash peace hopes, Gold price down 1%: Key levels to watch"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
