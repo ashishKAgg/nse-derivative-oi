@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-05 10:40:42 IST",
+  "generated_at": "2026-06-05 10:45:42 IST",
   "total_articles": 60,
   "bullish_count": 30,
   "bearish_count": 19,
   "neutral_count": 11,
-  "avg_fin_score": 0.1065,
-  "weighted_score": 0.2284,
+  "avg_fin_score": 0.151,
+  "weighted_score": 0.2417,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Stock market today: Sensex climbs 300 points, Nifty Bank at day's high after RBI hold rates",
-    "Wipro share price falls 4% on record date for ₹15,000-crore buyback. Do you own?",
-    "Rajesh Exports share price falls below ₹100, hits 5% lower circuit for 2nd straight session; here's why"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "RBI MPC Meeting 2026: Central bank revises inflation upwards to 5.1% for FY27",
-    "Aureate Tradde IPO Listing: SME stock lists at ₹70, same as issue price",
-    "Gold Rate Today: MCX gold price falls below ₹1.59 lakh per 10 grams, silver slips 2% ahead of RBI policy"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "LiveMint Markets"
   ]
 }
