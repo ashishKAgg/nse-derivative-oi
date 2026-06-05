@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-05 13:20:44 IST",
+  "generated_at": "2026-06-05 13:25:32 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 16,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2118,
-  "weighted_score": 0.2856,
+  "bullish_count": 32,
+  "bearish_count": 17,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2065,
+  "weighted_score": 0.257,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "JP Morgan gives 'overweight' tag to this Tata Group stock. Do you own?",
-    "Bond yields slip after RBI's FII push: Why India's bond markets could be the biggest winner of this policy?",
-    "Gujarat Gas had a good March quarter. All eyes now on gains from amalgamation"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Govt announces removal of taxes on G-Secs for FIIs to spur foreign inflows",
-    "Aureate Tradde IPO Listing: SME stock lists at ₹70, same as issue price",
-    "Gold Rate Today: MCX gold price falls below ₹1.59 lakh per 10 grams, silver slips 2% ahead of RBI policy"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
