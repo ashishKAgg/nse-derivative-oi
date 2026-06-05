@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-05 10:00:49 IST",
+  "generated_at": "2026-06-05 10:05:27 IST",
   "summary": {
-    "generated_at": "2026-06-05 10:00:49 IST",
+    "generated_at": "2026-06-05 10:05:27 IST",
     "total_articles": 60,
-    "bullish_count": 30,
+    "bullish_count": 31,
     "bearish_count": 18,
-    "neutral_count": 12,
-    "avg_fin_score": 0.1378,
-    "weighted_score": 0.2388,
+    "neutral_count": 11,
+    "avg_fin_score": 0.1613,
+    "weighted_score": 0.2445,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -22,9 +22,9 @@
     ],
     "sources_hit": [
       "MoneyControl Mkts",
+      "MoneyControl Comm",
       "LiveMint Markets",
-      "MoneyControl Top",
-      "MoneyControl Comm"
+      "MoneyControl Top"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,7 +581,37 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Wipro share price falls 4% on record date for ₹15,000-crore buyback. Do you own?",
+      "summary": "Wipro share price touched an intraday high of ₹196.40 per share on NSE today. Here's share buyback details, along with the share price trend.",
+      "url": "https://www.livemint.com/market/stock-market-news/wipro-share-price-falls-4-on-record-date-for-rs-15-000-crore-buyback-do-you-own-11780632376243.html",
+      "published": "Fri, 05 Jun 2026 10:03:20 +0530",
+      "compound": 0.8402,
+      "pos": 0.25,
+      "neg": 0.0,
+      "neu": 0.75,
+      "fin_score": 0.7402,
+      "label": "BULLISH",
+      "id": "08c5b1380f33",
+      "fetched_at": "2026-06-05 10:05:27 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Aureate Tradde IPO Listing: SME stock lists at ₹70, same as issue price",
+      "summary": "Aureate Tradde shares had a flat market debut on June 5, listing at ₹70 on the BSE SME platform, matching the IPO issue price and delivering no listing gains to investors.",
+      "url": "https://www.livemint.com/market/stock-market-news/aureate-tradde-ipo-listing-sme-stock-lists-at-rs-70-same-as-issue-price-11780629960408.html",
+      "published": "Fri, 05 Jun 2026 10:01:09 +0530",
+      "compound": -0.2584,
+      "pos": 0.046,
+      "neg": 0.089,
+      "neu": 0.864,
+      "fin_score": -0.1584,
+      "label": "BEARISH",
+      "id": "a74459dfe5e8",
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -596,7 +626,7 @@
       "fin_score": 0.6268,
       "label": "BULLISH",
       "id": "39283468f331",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -611,7 +641,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "a94021b2603b",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -626,7 +656,7 @@
       "fin_score": 0.34,
       "label": "BULLISH",
       "id": "7990c0f84b90",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -641,7 +671,7 @@
       "fin_score": -0.6273,
       "label": "BEARISH",
       "id": "bbdce2e181fd",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -656,7 +686,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "7a67e45fc49c",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -671,7 +701,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "32d9c230d3d9",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -686,7 +716,7 @@
       "fin_score": 0.8074,
       "label": "BULLISH",
       "id": "f22cab4bdcdf",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -701,7 +731,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "216a2ceb8c74",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -716,7 +746,7 @@
       "fin_score": 0.8126,
       "label": "BULLISH",
       "id": "8568c1e1b523",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -731,7 +761,7 @@
       "fin_score": 0.9538,
       "label": "BULLISH",
       "id": "31b3eed749c7",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -746,7 +776,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "2e64abd33ba9",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -761,7 +791,7 @@
       "fin_score": 0.9169,
       "label": "BULLISH",
       "id": "efc8de859766",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -776,7 +806,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "347e4264d85c",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -791,22 +821,22 @@
       "fin_score": 0.8624,
       "label": "BULLISH",
       "id": "eb73b4490ffc",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "RBI MPC Meeting 2026 LIVE: Will Governor Sanjay Malhotra and team hike repo rate or stay put amid US-Iran war worries?",
+      "title": "RBI MPC Meeting 2026 LIVE: RBI keeps repo rate unchanged at 5.25%; maintains neutral stance",
       "summary": "RBI MPC Meeting 2026 LIVE: The June RBI MPC meeting comes at a time when the macroeconomic environment is becoming increasingly challenging, amid the adverse impact of the US-Iran war in West Asia on domestic growth and inflation dynamics.",
       "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-2026-live-updates-sanjay-malhotra-repo-rate-cut-decision-interest-rate-monetary-policy-news-5-june-2026-11780593940009.html",
       "published": "Fri, 05 Jun 2026 06:15:12 +0530",
-      "compound": -0.8316,
-      "pos": 0.087,
-      "neg": 0.181,
-      "neu": 0.732,
-      "fin_score": -1.0,
+      "compound": -0.2732,
+      "pos": 0.102,
+      "neg": 0.104,
+      "neu": 0.794,
+      "fin_score": -0.7232,
       "label": "BEARISH",
-      "id": "4cd0a22825cc",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "id": "763b5947b6ee",
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -821,7 +851,7 @@
       "fin_score": 0.0268,
       "label": "NEUTRAL",
       "id": "d6d2e4500ffe",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -836,7 +866,7 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "bf8f7f7ada8d",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -851,7 +881,7 @@
       "fin_score": 0.34,
       "label": "BULLISH",
       "id": "94de0f7e1efe",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -866,7 +896,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "2521464867da",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -881,7 +911,7 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "992cbb52c489",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -896,37 +926,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8f6faa341a23",
-      "fetched_at": "2026-06-05 10:00:49 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Emerging-Market Stocks Sink as Broadcom Miss Revives AI Concerns",
-      "summary": "Emerging-market equities notched their worst day in roughly three weeks as Asian technology heavyweights retreated after a disappointing outlook from Broadcom Inc. raised concerns about the scale of the artificial-intelligence rally.",
-      "url": "https://www.livemint.com/market/emergingmarket-stocks-sink-as-broadcom-miss-revives-ai-concerns-11780617909949.html",
-      "published": "Fri, 05 Jun 2026 05:35:09 +0530",
-      "compound": -0.743,
-      "pos": 0.055,
-      "neg": 0.187,
-      "neu": 0.758,
-      "fin_score": -0.623,
-      "label": "BEARISH",
-      "id": "4e82a3c8d597",
-      "fetched_at": "2026-06-05 10:00:49 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Cracks Emerge in Kospi’s 105% Rally as Breadth Concerns Mount",
-      "summary": "South Korea’s $4.9 trillion stock market is starting to flash signs of strain after a world-beating rally.",
-      "url": "https://www.livemint.com/market/cracks-emerge-in-kospi-s-105-rally-as-breadth-concerns-mount-11780613767465.html",
-      "published": "Fri, 05 Jun 2026 04:26:07 +0530",
-      "compound": -0.0516,
-      "pos": 0.0,
-      "neg": 0.044,
-      "neu": 0.956,
-      "fin_score": 0.0684,
-      "label": "NEUTRAL",
-      "id": "3bc5f26275b0",
-      "fetched_at": "2026-06-05 10:00:49 IST"
+      "fetched_at": "2026-06-05 10:05:27 IST"
     }
   ]
 }
