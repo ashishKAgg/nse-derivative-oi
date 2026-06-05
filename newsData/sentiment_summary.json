@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-05 11:31:07 IST",
+  "generated_at": "2026-06-05 11:35:31 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 17,
-  "neutral_count": 11,
-  "avg_fin_score": 0.1378,
-  "weighted_score": 0.2921,
+  "bullish_count": 30,
+  "bearish_count": 18,
+  "neutral_count": 12,
+  "avg_fin_score": 0.1614,
+  "weighted_score": 0.2454,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Rupee jumps 50 paise as govt scraps capital gains tax on govt bonds for FIIs to attract overseas inflows",
-    "Sensex climbs 300 points: RBI action, removal of capital gains tax on G-secs for FIIs among factors behind rise",
-    "Wipro share price falls 4% on record date for ₹15,000-crore buyback. Do you own?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Aureate Tradde IPO Listing: SME stock lists at ₹70, same as issue price",
-    "Gold Rate Today: MCX gold price falls below ₹1.59 lakh per 10 grams, silver slips 2% ahead of RBI policy",
-    "Oil price steadies amid US-Iran ceasefire uncertainty; Brent hovers at $95. What's the near-term outlook?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Top",
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts"
   ]
 }
