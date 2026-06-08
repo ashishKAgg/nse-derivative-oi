@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08 14:00:52 IST",
+  "generated_at": "2026-06-08 14:05:32 IST",
   "total_articles": 60,
   "bullish_count": 34,
   "bearish_count": 17,
   "neutral_count": 9,
-  "avg_fin_score": 0.1982,
-  "weighted_score": 0.252,
+  "avg_fin_score": 0.1927,
+  "weighted_score": 0.2516,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
