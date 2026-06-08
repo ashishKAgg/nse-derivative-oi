@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-08 15:50:40 IST",
+  "generated_at": "2026-06-08 15:55:36 IST",
   "total_articles": 60,
-  "bullish_count": 32,
+  "bullish_count": 38,
   "bearish_count": 19,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1437,
-  "weighted_score": 0.2391,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "neutral_count": 3,
+  "avg_fin_score": 0.1609,
+  "weighted_score": 0.0158,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Do you know how an IPO works in India? Here's a step-by-step guide",
+    "Reliance Industries share price tanks for 9th day in a row, erodes ₹129,000 crore in market cap",
+    "800% returns in five years! Multibagger stock jumps 4% despite weak trends on Dalal Street"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Multibagger railway stock drops for ninth straight session, hits over 2-year low; down 35% in 2026",
+    "Fractal Analytics: an AI leader, or expensive IT bet?",
+    "Vinay Rajani of HDFC Sec suggests Viyash Scientific, Federal Bank shares to buy in near-term"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Comm",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
