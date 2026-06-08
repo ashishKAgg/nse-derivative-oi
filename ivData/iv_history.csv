@@ -1246,3 +1246,4 @@ computed_at,spot,atm_strike,atm_iv,iv_rank,iv_pctile,verdict
 2026-06-08 09:15:49 IST,23080.7,23100,33.77,32.7,99.1,IV NORMAL — No edge from volatility alone
 2026-06-08 09:20:46 IST,23088.25,23100,24.38,17.2,94.2,"IV LOW — Options cheap, big move expected"
 2026-06-08 09:25:43 IST,23106.35,23100,23.24,15.3,91.3,"IV LOW — Options cheap, big move expected"
+2026-06-08 09:31:12 IST,23145.15,23150,23.11,15.1,90.5,"IV LOW — Options cheap, big move expected"
