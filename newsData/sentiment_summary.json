@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-08 11:05:35 IST",
+  "generated_at": "2026-06-08 11:10:38 IST",
   "total_articles": 60,
-  "bullish_count": 39,
-  "bearish_count": 16,
-  "neutral_count": 5,
-  "avg_fin_score": 0.1974,
-  "weighted_score": 0.3548,
+  "bullish_count": 32,
+  "bearish_count": 17,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1433,
+  "weighted_score": 0.2415,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "SMR Jewels share price gains after listing with 20% discount on BSE SME",
-    "Merritronix share price hits in 5% upper circuit after a blockbuster debut",
-    "Stock market today: Gift Nifty hints gap-down start; US-Iran news to gold, silver rates — eight stocks to buy or sell"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold, silver rates today: MCX gold, silver prices dip on renewed inflation concern, US-Iran war in focus",
-    "Treasuries Drop as Jobs Data, Iran Tensions Fuel Rate Hike Bets",
-    "Crude oil prices jump after Israel strikes on Lebanon; WTI rallies 4%, Brent oil above $96 a barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
     "LiveMint Markets"
   ]
 }
