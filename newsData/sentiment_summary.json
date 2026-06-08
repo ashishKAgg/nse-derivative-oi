@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-06-08 10:45:35 IST",
+  "generated_at": "2026-06-08 10:50:38 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 17,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1222,
-  "weighted_score": -0.0141,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 39,
+  "bearish_count": 16,
+  "neutral_count": 5,
+  "avg_fin_score": 0.1958,
+  "weighted_score": 0.2201,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Merritronix share price hits in 5% upper circuit after a blockbuster debut",
+    "Stock market today: Gift Nifty hints gap-down start; US-Iran news to gold, silver rates — eight stocks to buy or sell",
+    "Stock market crash: Sensex slumps over 800 points, Nifty 50 slips below 23,100 amid US-Iran war - 5 key reasons"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Gold, silver rates today: MCX gold, silver prices dip on renewed inflation concern, US-Iran war in focus",
+    "Treasuries Drop as Jobs Data, Iran Tensions Fuel Rate Hike Bets",
+    "Crude oil prices jump after Israel strikes on Lebanon; WTI rallies 4%, Brent oil above $96 a barrel"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
