@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-05 16:25:32 IST",
+  "generated_at": "2026-06-08 09:00:52 IST",
   "total_articles": 60,
-  "bullish_count": 32,
+  "bullish_count": 38,
   "bearish_count": 16,
-  "neutral_count": 12,
-  "avg_fin_score": 0.2254,
-  "weighted_score": 0.262,
+  "neutral_count": 6,
+  "avg_fin_score": 0.1977,
+  "weighted_score": 0.2288,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "CMR Green Technologies IPO allotment date likely today. GMP, steps to check share allotment status online",
+    "Stocks to watch: Adani Energy, Hindustan Zinc, Lenskart, ZEE, Alembic Pharma, among key stocks in focus on 8 June",
+    "Buy or sell: Gift Nifty dips, Vaishali Parekh recommends three stocks to buy today — 8 June 2026"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Crude oil prices jump after Israel strikes on Lebanon; WTI rallies 4%, Brent oil above $96 a barrel",
+    "Asian markets crash: Nikkei slips over 3%, Kopsi tanks 8% amid escalating US-Iran war, rising crude oil prices",
+    "Another year of earnings disappointment? FY27 risks are mounting"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
