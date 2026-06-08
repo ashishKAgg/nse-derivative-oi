@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-08 13:50:35 IST",
+  "generated_at": "2026-06-08 13:55:34 IST",
   "total_articles": 60,
-  "bullish_count": 34,
+  "bullish_count": 38,
   "bearish_count": 17,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1982,
-  "weighted_score": 0.252,
+  "neutral_count": 5,
+  "avg_fin_score": 0.1913,
+  "weighted_score": 0.1436,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "800% returns in five years! Multibagger stock jumps 4% despite weak trends on Dalal Street",
+    "Penny stock under ₹10 hits upper circuit despite stock market sell-off",
+    "TCS, Wipro to Infosys: IT stocks bleed on AI and tech stocks selloff in global markets; Nifty IT dips 2%"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Fractal Analytics: an AI leader, or expensive IT bet?",
+    "Vinay Rajani of HDFC Sec suggests Viyash Scientific, Federal Bank shares to buy in near-term",
+    "Gold Extends Loss as Israel-Iran Clashes Endanger Mideast Truce"
   ],
   "sources_hit": [
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
