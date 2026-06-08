@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-08 10:10:37 IST",
+  "generated_at": "2026-06-08 10:15:38 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 16,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1809,
-  "weighted_score": -0.0833,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 31,
+  "bearish_count": 17,
+  "neutral_count": 12,
+  "avg_fin_score": 0.1161,
+  "weighted_score": 0.2321,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Stock market today: Gift Nifty hints gap-down start; US-Iran news to gold, silver rates — eight stocks to buy or sell",
-    "Stock market crash: Sensex slumps over 800 points, Nifty 50 slips below 23,100 amid US-Iran war - 5 key reasons",
-    "Rupee opens 37 paise lower at 95.32 against US dollar"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold, silver rates today: MCX gold dips on renewed inflation concern, US-Iran war in focus",
-    "Treasuries Drop as Jobs Data, Iran Tensions Fuel Rate Hike Bets",
-    "Crude oil prices jump after Israel strikes on Lebanon; WTI rallies 4%, Brent oil above $96 a barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "LiveMint Markets"
   ]
 }
