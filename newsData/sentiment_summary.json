@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-09 09:31:11 IST",
+  "generated_at": "2026-06-09 09:35:45 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 20,
-  "neutral_count": 10,
-  "avg_fin_score": 0.167,
-  "weighted_score": 0.2466,
+  "bullish_count": 33,
+  "bearish_count": 23,
+  "neutral_count": 4,
+  "avg_fin_score": 0.1422,
+  "weighted_score": 0.2884,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Rupee appreciates 24 paise to open at 95.47 against US dollar",
+    "Zepto IPO: Quick commerce firm files updated DRHP, aims to raise ₹8,010 crore",
+    "NLC India OFS Announced: Government to sell 3% stake in Navratna PSU - Check floor price, key dates, and other details"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Silver price today down 1% to ₹2.43 lakh as bond yields rise, Fed rate hike fears return despite Israel-Iran ceasefire",
+    "World Cup Season Spurs Citi’s Bearish Call on Rates Volatility",
+    "Stocks to watch: Adani Enterprises, Bharti Airtel, RVNL, Vodafone Idea, among key stocks in focus on 9 June"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
