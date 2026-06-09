@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-09 12:35:35 IST",
+  "generated_at": "2026-06-09 12:40:40 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.2267,
-  "weighted_score": 0.3969,
+  "bullish_count": 32,
+  "bearish_count": 17,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2077,
+  "weighted_score": 0.2595,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Vahh Chemicals IPO allotment date likely today. GMP, steps to check share allotment status online for SME IPO",
-    "Is the global IT stock rout a wake-up call for AI optimists?",
-    "Bonus share alert! Hardwyn India announces 2:5 bonus issue, record date awaited - small-cap stock jumps 2%"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee appreciates 24 paise to open at 95.47 against US dollar",
-    "Silver price today down 1% to ₹2.43 lakh as bond yields rise, Fed rate hike fears return despite Israel-Iran ceasefire",
-    "World Cup Season Spurs Citi’s Bearish Call on Rates Volatility"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
