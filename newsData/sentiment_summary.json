@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-09 15:35:36 IST",
+  "generated_at": "2026-06-09 15:40:43 IST",
   "total_articles": 60,
-  "bullish_count": 35,
+  "bullish_count": 38,
   "bearish_count": 14,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2655,
-  "weighted_score": 0.2706,
+  "neutral_count": 8,
+  "avg_fin_score": 0.2867,
+  "weighted_score": 0.2275,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "FirstCry-backed Swara Baby eyes filing for $100 million IPO this month",
+    "Sebi eyes market making framework for commodity derivatives to improve liquidity",
+    "Genxai Analytics IPO Day 3: GMP signals 5% listing gains; check subscription status and other details"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Sensex snaps 2-day losing run, ends 395 points higher: 10 key highlights from Indian stock market today",
+    "SpaceX IPO: Can Indian investors buy stake in Elon Musk’s company in $75 billion public issue",
+    "Rupee appreciates 24 paise to open at 95.47 against US dollar"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
