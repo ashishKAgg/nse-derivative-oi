@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-09 14:15:38 IST",
+  "generated_at": "2026-06-09 14:20:40 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 14,
-  "neutral_count": 12,
-  "avg_fin_score": 0.2553,
-  "weighted_score": 0.2711,
+  "bullish_count": 37,
+  "bearish_count": 16,
+  "neutral_count": 7,
+  "avg_fin_score": 0.2515,
+  "weighted_score": 0.3393,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Adani Energy Solutions to acquire IntelliSmart for ₹3,050 crore",
+    "UHM Vacation IPO allotment finalised: Latest GMP, steps-by-step guide to check allotment status online for SME IPO",
+    "IndiGo share price jumps over 4% after brokerages maintain bullish view on the aviation stock"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee appreciates 24 paise to open at 95.47 against US dollar",
+    "Silver price today down 1% to ₹2.43 lakh as bond yields rise, Fed rate hike fears return despite Israel-Iran ceasefire",
+    "World Cup Season Spurs Citi’s Bearish Call on Rates Volatility"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
