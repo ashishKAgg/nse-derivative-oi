@@ -1,10 +1,10 @@
 {
-  "computed_at": "2026-06-09 09:01:07 IST",
-  "spot": 23100.1,
-  "atm_strike": 23100,
-  "atm_iv": 38.12,
-  "iv_rank": 39.9,
-  "iv_pctile": 99.2,
-  "verdict": "IV NORMAL \u2014 No edge from volatility alone",
-  "verdict_color": "#6c757d"
+  "computed_at": "2026-06-09 09:05:49 IST",
+  "spot": 23364.3,
+  "atm_strike": 23350,
+  "atm_iv": 54.18,
+  "iv_rank": 66.4,
+  "iv_pctile": 99.9,
+  "verdict": "IV ELEVATED \u2014 Slight premium in options",
+  "verdict_color": "#fd7e14"
 }
