@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-09 14:50:41 IST",
+  "generated_at": "2026-06-09 14:55:31 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 15,
-  "neutral_count": 7,
-  "avg_fin_score": 0.2807,
-  "weighted_score": 0.3188,
+  "bullish_count": 35,
+  "bearish_count": 13,
+  "neutral_count": 12,
+  "avg_fin_score": 0.2792,
+  "weighted_score": 0.2749,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Top defence stocks to buy now: HAL, Zen Technologies, Bharat Electronics, Apollo Micro in Choice Broking’s list",
-    "JNK India shares surge over 17% to 15-month high after securing international order",
-    "Copper Resumes Gains as Mideast Tensions Ease, Stocks Rebound"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "SpaceX IPO: Can Indian investors buy stake in Elon Musk’s company in $75 billion public issue",
-    "Rupee appreciates 24 paise to open at 95.47 against US dollar",
-    "Silver price today down 1% to ₹2.43 lakh as bond yields rise, Fed rate hike fears return despite Israel-Iran ceasefire"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "LiveMint Markets"
   ]
 }
