@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-09 11:31:10 IST",
+  "generated_at": "2026-06-09 11:35:32 IST",
   "total_articles": 60,
-  "bullish_count": 36,
+  "bullish_count": 31,
   "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.232,
-  "weighted_score": 0.3788,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1991,
+  "weighted_score": 0.256,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "ICICI Bank pips Reliance Industries to become second-largest weighted stock in Nifty 50 despite smaller market cap",
-    "Hexagon Nutrition IPO Day 3: Issue subscribed 10.98x so far. Check GMP, issue details, key dates. Apply or not?",
-    "IDFC First Bank to ICICI Bank, SBI: Nifty Bank jumps over 1% as RBI swap facility lifts bank shares"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee appreciates 24 paise to open at 95.47 against US dollar",
-    "Silver price today down 1% to ₹2.43 lakh as bond yields rise, Fed rate hike fears return despite Israel-Iran ceasefire",
-    "World Cup Season Spurs Citi’s Bearish Call on Rates Volatility"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "LiveMint Markets"
   ]
 }
