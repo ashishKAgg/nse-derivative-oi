@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-22 16:05:38 IST",
+  "generated_at": "2026-06-22 16:10:41 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 13,
-  "neutral_count": 9,
-  "avg_fin_score": 0.3348,
-  "weighted_score": 0.5908,
+  "bullish_count": 35,
+  "bearish_count": 14,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2687,
+  "weighted_score": 0.274,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Top Gainers & Losers on June 22: Kirloskar Oil Engines, Delhivery, Gabriel India, Urban Company among top gainers",
-    "Stock market today: Sensex gains 300 points, Nifty 50 ends above 24,100; what moved the stock market today?",
-    "Power Mech Projects shares gain 5% as company secures ₹1,009 crore JSW Thermal Energy contract"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Should you invest in the NSE IPO? Here are the key pros and cons",
-    "Why Amber Enterprises’ Oppo deal comes with caveats",
-    "Rupee opens 4 paise lower at 94.36 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
