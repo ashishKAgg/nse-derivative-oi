@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-22 13:35:39 IST",
+  "generated_at": "2026-06-22 13:40:41 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 14,
-  "neutral_count": 8,
-  "avg_fin_score": 0.3284,
-  "weighted_score": 0.4316,
+  "bullish_count": 35,
+  "bearish_count": 15,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2752,
+  "weighted_score": 0.2728,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Advit Jewels IPO: GMP shows nearly 50% listing pop; key details of ₹165 crore public issue in 10 points",
-    "Nocil share price jump 20% on anti-dumping boost. Do you own?",
-    "Bajaj Auto buyback record date nears. Should you participate in ₹5,633 crore share repurchase deal?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Should you invest in the NSE IPO? Here are the key pros and cons",
-    "Why Amber Enterprises’ Oppo deal comes with caveats",
-    "Rupee opens 4 paise lower at 94.36 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "LiveMint Markets"
   ]
 }
