@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-22 10:40:37 IST",
+  "generated_at": "2026-06-22 10:45:42 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 14,
-  "neutral_count": 9,
-  "avg_fin_score": 0.3095,
-  "weighted_score": 0.2854,
+  "bullish_count": 39,
+  "bearish_count": 13,
+  "neutral_count": 8,
+  "avg_fin_score": 0.3329,
+  "weighted_score": 0.6064,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Turtlemint IPO Day 2: Issue subscribed 48% so far. Check GMP, subscription status, review. Apply or not?",
+    "Defence stock Garden Reach Shipbuilders jumps 5% after being conferred with Navratna status",
+    "This Tata Group stock surges 5% after reporting 1 million AC sales in 81 days. Do you own?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens 4 paise lower at 94.36 against US dollar",
+    "Crude oil prices climb 2% as Donald Trump issues new threat amid US-Iran peace talks; Brent reaches $82 per barrel",
+    "Stocks to buy under ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 22 June 2026"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
