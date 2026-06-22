@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-22 09:25:34 IST",
+  "generated_at": "2026-06-22 09:31:04 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 16,
-  "neutral_count": 8,
-  "avg_fin_score": 0.245,
-  "weighted_score": 0.4778,
+  "bullish_count": 37,
+  "bearish_count": 14,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2982,
+  "weighted_score": 0.2809,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Gold, silver prices today: Rates rise on MCX on value buying amid progress in US-Iran peace talks",
-    "Stocks to buy for short term: Trent, Eternal among 3 shares Anand Rathi's Jigar Patel recommends for next 1-2 weeks",
-    "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Kotak Mahindra Bank shares on 22 June"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 4 paise lower at 94.36 against US dollar",
-    "Crude oil prices climb 2% as Donald Trump issues new threat amid US-Iran peace talks; Brent reaches $82 per barrel",
-    "Stocks to buy under ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 22 June 2026"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
