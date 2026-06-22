@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-22 12:15:45 IST",
+  "generated_at": "2026-06-22 12:20:37 IST",
   "total_articles": 60,
-  "bullish_count": 40,
-  "bearish_count": 13,
-  "neutral_count": 7,
-  "avg_fin_score": 0.3564,
-  "weighted_score": 0.5193,
+  "bullish_count": 38,
+  "bearish_count": 14,
+  "neutral_count": 8,
+  "avg_fin_score": 0.3384,
+  "weighted_score": 0.2902,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Bajaj Auto buyback record date nears. Should you participate in ₹5,633 crore share repurchase deal?",
-    "Riyaasat Lifestyle IPO Day 3: SME IPO subscribed 10% so far on last day. Check GMP, price band, other key details",
-    "Liotech Industries IPO: Focus shifts to allotment date. Latest GMP, step-by-step guide to check status"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Why Amber Enterprises’ Oppo deal comes with caveats",
-    "Rupee opens 4 paise lower at 94.36 against US dollar",
-    "Crude oil prices climb 2% as Donald Trump issues new threat amid US-Iran peace talks; Brent reaches $82 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
