@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22 15:15:44 IST",
+  "generated_at": "2026-06-22 15:20:39 IST",
   "total_articles": 60,
   "bullish_count": 36,
   "bearish_count": 14,
@@ -20,8 +20,8 @@
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Comm",
     "MoneyControl Mkts",
-    "MoneyControl Top"
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
