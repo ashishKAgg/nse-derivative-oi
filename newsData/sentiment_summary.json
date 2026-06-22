@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-22 14:20:38 IST",
+  "generated_at": "2026-06-22 14:25:39 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 15,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2745,
-  "weighted_score": 0.2739,
+  "bullish_count": 37,
+  "bearish_count": 14,
+  "neutral_count": 9,
+  "avg_fin_score": 0.3241,
+  "weighted_score": 0.4416,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Diksha Polymers IPO allotment to be finalised today. Here's GMP, how to check status",
+    "For Tata Capital, narrowing profitability gap with Bajaj Finance is a tough task",
+    "Penny stock under ₹5 hits upper circuit after announcement to move into digital solar solutions market"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Should you invest in the NSE IPO? Here are the key pros and cons",
+    "Why Amber Enterprises’ Oppo deal comes with caveats",
+    "Rupee opens 4 paise lower at 94.36 against US dollar"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "MoneyControl Comm",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
