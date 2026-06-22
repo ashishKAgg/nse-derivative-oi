@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-22 11:10:42 IST",
+  "generated_at": "2026-06-22 11:15:42 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 14,
-  "neutral_count": 9,
-  "avg_fin_score": 0.3153,
-  "weighted_score": 0.286,
+  "bullish_count": 39,
+  "bearish_count": 13,
+  "neutral_count": 8,
+  "avg_fin_score": 0.3259,
+  "weighted_score": 0.4047,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Sumeet Industries rights issue worth ₹199.75 crore opens today. Record date, other details",
+    "Leapfrog Engineering Services IPO allotment date likely today. GMP, steps to check share allotment status of SME IPO",
+    "Turtlemint IPO Day 2: Issue subscribed 48% so far. Check GMP, subscription status, review. Apply or not?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens 4 paise lower at 94.36 against US dollar",
+    "Crude oil prices climb 2% as Donald Trump issues new threat amid US-Iran peace talks; Brent reaches $82 per barrel",
+    "Stocks to buy under ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 22 June 2026"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
