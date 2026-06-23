@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-23 12:50:44 IST",
+  "generated_at": "2026-06-23 12:55:35 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 17,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2145,
-  "weighted_score": 0.4548,
+  "bullish_count": 36,
+  "bearish_count": 15,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2554,
+  "weighted_score": 0.2701,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Small-cap multibagger stock Blue Cloud Softech Solutions share price jumps 44% in two days. Here’s why",
-    "Jivial Industries IPO: Issue sees tepid response on first bidding day. Check GMP, key details to know",
-    "Shreedhar Spinners IPO Day 1: Here's GMP, subscription status, and other details"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "CSM Technologies IPO opens on Wednesday: GMP, other key details of ₹146 crore public issue in 10 points",
-    "Rupee opens 1 paise lower at 94.69 against US dollar",
-    "Asian stocks today: Nikkei, Kospi trade lower amid rebound in crude oil prices"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
