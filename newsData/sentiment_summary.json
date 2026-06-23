@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-23 12:35:33 IST",
+  "generated_at": "2026-06-23 12:40:41 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 15,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2565,
-  "weighted_score": 0.2694,
+  "bullish_count": 35,
+  "bearish_count": 17,
+  "neutral_count": 8,
+  "avg_fin_score": 0.2151,
+  "weighted_score": 0.3494,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Jivial Industries IPO: Issue sees tepid response on first bidding day. Check GMP, key details to know",
+    "Shreedhar Spinners IPO Day 1: Here's GMP, subscription status, and other details",
+    "Small-cap stock Interarch Building climbs over 3% after announcing new orders worth ₹375 crore in June; details here"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "CSM Technologies IPO opens on Wednesday: GMP, other key details of ₹146 crore public issue in 10 points",
+    "Rupee opens 1 paise lower at 94.69 against US dollar",
+    "Asian stocks today: Nikkei, Kospi trade lower amid rebound in crude oil prices"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
