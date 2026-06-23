@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-23 11:15:39 IST",
+  "generated_at": "2026-06-23 11:20:42 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 15,
+  "bullish_count": 35,
+  "bearish_count": 17,
   "neutral_count": 8,
-  "avg_fin_score": 0.2708,
-  "weighted_score": 0.2745,
+  "avg_fin_score": 0.2233,
+  "weighted_score": 0.442,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Avience Biomedicals IPO share allotment in focus today; GMP, steps to check status online",
+    "Anubhav Plast IPO day 3: GMP, subscription status, listing date, other details in 10 points",
+    "Factor investing is back in favour. But for how long?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens 1 paise lower at 94.69 against US dollar",
+    "Asian stocks today: Nikkei, Kospi trade lower amid rebound in crude oil prices",
+    "Crude oil prices rebound after selloff, progress on Strait of Hormuz flows awaited; Brent at $78 per barrel"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
