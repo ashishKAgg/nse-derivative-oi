@@ -1,31 +1,334 @@
 {
-  "generated_at": "2026-06-23 11:20:42 IST",
+  "generated_at": "2026-06-23 11:25:32 IST",
   "summary": {
-    "generated_at": "2026-06-23 11:20:42 IST",
+    "generated_at": "2026-06-23 11:25:32 IST",
     "total_articles": 60,
-    "bullish_count": 35,
-    "bearish_count": 17,
+    "bullish_count": 37,
+    "bearish_count": 15,
     "neutral_count": 8,
-    "avg_fin_score": 0.2233,
-    "weighted_score": 0.442,
-    "verdict": "BULLISH",
-    "verdict_color": "#28a745",
+    "avg_fin_score": 0.2613,
+    "weighted_score": 0.0501,
+    "verdict": "NEUTRAL",
+    "verdict_color": "#6c757d",
     "top_bullish": [
-      "Avience Biomedicals IPO share allotment in focus today; GMP, steps to check status online",
-      "Anubhav Plast IPO day 3: GMP, subscription status, listing date, other details in 10 points",
-      "Factor investing is back in favour. But for how long?"
+      "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "Agri Picks Report: Geojit"
     ],
     "top_bearish": [
-      "Rupee opens 1 paise lower at 94.69 against US dollar",
-      "Asian stocks today: Nikkei, Kospi trade lower amid rebound in crude oil prices",
-      "Crude oil prices rebound after selloff, progress on Strait of Hormuz flows awaited; Brent at $78 per barrel"
+      "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+      "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+      "Rise in textile demand to support MCX cotton ahead of harvest season in October"
     ],
     "sources_hit": [
+      "MoneyControl Mkts",
+      "MoneyControl Comm",
       "LiveMint Markets",
-      "LiveMint Economy"
+      "LiveMint Economy",
+      "MoneyControl Top"
     ]
   },
   "articles": [
+    {
+      "source": "MoneyControl Top",
+      "title": "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+      "summary": "It is true that there is an increase in carbon emission by India and China due to homegrown consumption and lack of infrastructure. But let s keep in mind that India s carbon emissions per capita are still 10 times lower and China s is half of that compared to the US.",
+      "url": "http://www.moneycontrol.com/news/world-news/uncle-sam-is-wrong-indiachinadoing-their-bit-to-fight-climate-change_8779101.html",
+      "published": "Fri, 14 Apr 2017 10:05:06 +0530",
+      "compound": -0.5789,
+      "pos": 0.049,
+      "neg": 0.114,
+      "neu": 0.837,
+      "fin_score": -0.5789,
+      "label": "BEARISH",
+      "id": "c128e32f5fb5",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Mkts",
+      "title": "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+      "summary": "Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industries",
+      "url": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "published": "Tue, 23 Apr 2024 15:46:31 +0530",
+      "compound": -0.2732,
+      "pos": 0.103,
+      "neg": 0.126,
+      "neu": 0.771,
+      "fin_score": -0.1732,
+      "label": "BEARISH",
+      "id": "3ac77695589d",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Mkts",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "summary": "Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "published": "Tue, 23 Apr 2024 14:51:26 +0530",
+      "compound": 0.8689,
+      "pos": 0.286,
+      "neg": 0.0,
+      "neu": 0.714,
+      "fin_score": 0.8689,
+      "label": "BULLISH",
+      "id": "7b0b0f8345c5",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Mkts",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "summary": "Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "url": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "published": "Tue, 23 Apr 2024 12:23:21 +0530",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neg": 0.0,
+      "neu": 1.0,
+      "fin_score": 0.12,
+      "label": "NEUTRAL",
+      "id": "e5f8b9881054",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Mkts",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "summary": "India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "url": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "published": "Tue, 23 Apr 2024 09:45:50 +0530",
+      "compound": 0.7003,
+      "pos": 0.201,
+      "neg": 0.0,
+      "neu": 0.799,
+      "fin_score": 0.7203,
+      "label": "BULLISH",
+      "id": "1592faacc8e2",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Agri Picks Report: Geojit",
+      "summary": "According to Geojit, Madhya Pradesh is preparing to spend 11.6 bln rupees under the price support scheme to procure kharif pulses--tur, urad, and moong--harvested in 2020-21 (Jul-Jun), a state government official said.",
+      "url": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14265141.html",
+      "published": "Fri, 11 Sep 2020 09:34:22 +0530",
+      "compound": 0.4019,
+      "pos": 0.072,
+      "neg": 0.0,
+      "neu": 0.928,
+      "fin_score": 0.4819,
+      "label": "BULLISH",
+      "id": "0b0abb18e35d",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Crude already reflects market s view that rebalancing is still some time away",
+      "summary": "With hopes of another round of stimulus measures flying out of the window, the US needs more economic activity to get demand flowing.",
+      "url": "https://www.moneycontrol.com/news/commodities/crude-already-reflects-market39s-view-that-rebalancing-is-still-some-time-away_14263961.html",
+      "published": "Thu, 10 Sep 2020 17:50:24 +0530",
+      "compound": -0.34,
+      "pos": 0.068,
+      "neg": 0.127,
+      "neu": 0.805,
+      "fin_score": -0.14,
+      "label": "NEUTRAL",
+      "id": "adeceb7aec62",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Rise in textile demand to support MCX cotton ahead of harvest season in October",
+      "summary": "Traders are also concerned about the flood-like situation that can damage the crop, which is harvested from October to February, in various parts of India.",
+      "url": "https://www.moneycontrol.com/news/commodities/risetextile-demand-to-support-mcx-cotton-aheadharvest-seasonoctober_14263041.html",
+      "published": "Thu, 10 Sep 2020 14:39:40 +0530",
+      "compound": -0.25,
+      "pos": 0.062,
+      "neg": 0.108,
+      "neu": 0.829,
+      "fin_score": -0.25,
+      "label": "BEARISH",
+      "id": "193de5de4335",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Agri Picks Report: Geojit",
+      "summary": "According to Geojit, Rubber prices rose nearly 10% over the past three-four weeks and hit a record high of 140 rupees a kg due to pent-up demand after easing of the pandemic induced lockdowns amid a supply crunch.",
+      "url": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14262161.html",
+      "published": "Thu, 10 Sep 2020 10:30:46 +0530",
+      "compound": 0.128,
+      "pos": 0.046,
+      "neg": 0.034,
+      "neu": 0.92,
+      "fin_score": 0.428,
+      "label": "BULLISH",
+      "id": "a7973a06c14d",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Oil prices slip as growing stockpiles signal bumpy fuel demand recovery",
+      "summary": "U.S. West Texas Intermediate (WTI) crude futures fell 20 cents, or 0.5%, to $37.85 a barrel at 0056 GMT, after climbing 3.5% on Wednesday.",
+      "url": "https://www.moneycontrol.com/news/commodities/oil-prices-slip-as-growing-stockpiles-signal-bumpy-fuel-demand-recovery_14261401.html",
+      "published": "Thu, 10 Sep 2020 07:11:04 +0530",
+      "compound": -0.5423,
+      "pos": 0.044,
+      "neg": 0.134,
+      "neu": 0.823,
+      "fin_score": -0.4223,
+      "label": "BEARISH",
+      "id": "27566f7e9515",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "US EIA cuts 2020 world oil demand growth forecast",
+      "summary": "In its monthly forecast, the agency cut its oil demand growth estimate for 2021 by 490,000 bpd to 6.53 million bpd.",
+      "url": "https://www.moneycontrol.com/news/commodities/us-eia-cuts-2020-world-oil-demand-growth-forecast_14261221.html",
+      "published": "Wed, 09 Sep 2020 22:34:02 +0530",
+      "compound": -0.0258,
+      "pos": 0.142,
+      "neg": 0.2,
+      "neu": 0.658,
+      "fin_score": -0.0258,
+      "label": "NEUTRAL",
+      "id": "153ad78e2ce4",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Gold may remain choppy, but buying may emerge at lower levels: Kotak Securities",
+      "summary": "Gold may remain choppy but buying may emerge at lower levels amid increasing global uncertainty and also as Fedâs dovish stance may limit upside in US dollar.",
+      "url": "https://www.moneycontrol.com/news/commodities/gold-may-remain-choppybuying-may-emerge-at-lower-levels-kotak-securities_14259821.html",
+      "published": "Wed, 09 Sep 2020 15:50:26 +0530",
+      "compound": -0.7096,
+      "pos": 0.059,
+      "neg": 0.183,
+      "neu": 0.758,
+      "fin_score": -0.8096,
+      "label": "BEARISH",
+      "id": "c94aa342bf74",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Oil breaks below $40/bbl on demand concerns, improving supply",
+      "summary": "Fed s dovish stance may also limit any major upside in the US dollar.",
+      "url": "https://www.moneycontrol.com/news/commodities/oil-breaks-below-3640bbldemand-concerns-improving-supply_14259281.html",
+      "published": "Wed, 09 Sep 2020 13:00:00 +0530",
+      "compound": 0.3182,
+      "pos": 0.111,
+      "neg": 0.059,
+      "neu": 0.83,
+      "fin_score": 0.2382,
+      "label": "BULLISH",
+      "id": "4ab6d20c0d4a",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Agri Picks Report: Geojit",
+      "summary": "According to Geojit, Global consumption of edible oils is expected to fall 30-40% in 2020 because of coronavirus lockdowns, said Dominic Xavier, Middle East and North Africa region head at Sime Darby Oils.",
+      "url": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14258181.html",
+      "published": "Wed, 09 Sep 2020 09:17:15 +0530",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neg": 0.0,
+      "neu": 1.0,
+      "fin_score": 0.0,
+      "label": "NEUTRAL",
+      "id": "6f8f7a0796be",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Gold flat as dollar strength counters safe-haven demand",
+      "summary": "Spot gold was little changed at $1,929.30 per ounce by 0038 GMT, after falling to a near two-week week low of $1,906.24 on Tuesday.",
+      "url": "https://www.moneycontrol.com/news/commodities/gold-flat-as-dollar-strength-counters-safe-haven-demand_14258121.html",
+      "published": "Wed, 09 Sep 2020 08:58:01 +0530",
+      "compound": 0.0,
+      "pos": 0.088,
+      "neg": 0.143,
+      "neu": 0.769,
+      "fin_score": -0.15,
+      "label": "BEARISH",
+      "id": "1f7261ec8ecf",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Oil falls further amid growing alarm over coronavirus second wave",
+      "summary": "The biggest global health crisis in a century continues to flare unabated with cases rising in India, Great Britain, Spain and several parts of the United States, where the infection rate has not come under control for months.",
+      "url": "https://www.moneycontrol.com/news/commodities/oil-falls-further-amid-growing-alarm-over-coronavirus-second-wave_14258161.html",
+      "published": "Wed, 09 Sep 2020 08:58:01 +0530",
+      "compound": 0.2732,
+      "pos": 0.148,
+      "neg": 0.112,
+      "neu": 0.74,
+      "fin_score": 0.1732,
+      "label": "BULLISH",
+      "id": "5d9494ad47ff",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Gold may witness choppy trade, expect buying at lower levels: Kotak Securities",
+      "summary": "After weeks of consolidation, crude oil has come under pressure amid signs of correction in US equity market and gains in US dollar index.",
+      "url": "https://www.moneycontrol.com/news/commodities/gold-may-witness-choppy-trade-expect-buying-at-lower-levels-kotak-securities_14256121.html",
+      "published": "Tue, 08 Sep 2020 14:44:54 +0530",
+      "compound": -0.5423,
+      "pos": 0.105,
+      "neg": 0.185,
+      "neu": 0.709,
+      "fin_score": -0.4423,
+      "label": "BEARISH",
+      "id": "5d32ea76d316",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Energy Weekly Report: Motilal Oswal",
+      "summary": "According to Motilal Oswal, Oil prices hit a rough patch last week, falling back in line with broader financial markets. Prices did try to inch higher, but experienced selling pressure at highs.",
+      "url": "https://www.moneycontrol.com/news/brokerage-recos-commodities/energy-weekly-report-motilal-oswal_14256061.html",
+      "published": "Tue, 08 Sep 2020 14:35:25 +0530",
+      "compound": -0.3716,
+      "pos": 0.039,
+      "neg": 0.103,
+      "neu": 0.858,
+      "fin_score": -0.3716,
+      "label": "BEARISH",
+      "id": "536f1bf0aacc",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Precious Metals Weekly Report: Motilal Oswal",
+      "summary": "According to Motilal Oswal, Gold fell to the lowest level in a month primarily as the dollar rose against its major crosses and better-than-expected economic number from the US.",
+      "url": "https://www.moneycontrol.com/news/brokerage-recos-commodities/precious-metals-weekly-report-motilal-oswal_14256001.html",
+      "published": "Tue, 08 Sep 2020 14:29:27 +0530",
+      "compound": 0.34,
+      "pos": 0.126,
+      "neg": 0.066,
+      "neu": 0.808,
+      "fin_score": 0.44,
+      "label": "BULLISH",
+      "id": "8f133e53b85f",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
+    {
+      "source": "MoneyControl Comm",
+      "title": "Base Metals Weekly Report: Motilal Oswal",
+      "summary": "According to Motilal Oswal, Base metals traded choppy last week, with prices hitting multi month highs at the start of the week and followed by some profit taking on back of volatility in the dollar and mixed data signals from China and US.",
+      "url": "https://www.moneycontrol.com/news/brokerage-recos-commodities/base-metals-weekly-report-motilal-oswal_14256021.html",
+      "published": "Tue, 08 Sep 2020 14:29:02 +0530",
+      "compound": 0.4404,
+      "pos": 0.057,
+      "neg": 0.0,
+      "neu": 0.943,
+      "fin_score": 0.3604,
+      "label": "BULLISH",
+      "id": "f7b22c020afe",
+      "fetched_at": "2026-06-23 11:25:32 IST"
+    },
     {
       "source": "LiveMint Markets",
       "title": "Avience Biomedicals IPO share allotment in focus today; GMP, steps to check status online",
@@ -39,7 +342,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "db86d346e10e",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -54,7 +357,7 @@
       "fin_score": 0.34,
       "label": "BULLISH",
       "id": "51c7e5d7f553",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -69,7 +372,7 @@
       "fin_score": 0.7615,
       "label": "BULLISH",
       "id": "27efee582622",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -84,7 +387,7 @@
       "fin_score": 0.6486,
       "label": "BULLISH",
       "id": "888e4e39f95d",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -99,7 +402,7 @@
       "fin_score": 0.8506,
       "label": "BULLISH",
       "id": "9e0f6c0f8f40",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -114,7 +417,7 @@
       "fin_score": 0.9271,
       "label": "BULLISH",
       "id": "defb515cc3cc",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -129,7 +432,7 @@
       "fin_score": 0.3612,
       "label": "BULLISH",
       "id": "266222a03dcb",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -144,7 +447,7 @@
       "fin_score": 0.4442,
       "label": "BULLISH",
       "id": "58694ac3eb06",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -159,7 +462,7 @@
       "fin_score": 0.9462,
       "label": "BULLISH",
       "id": "d64bbbaf3357",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -174,7 +477,7 @@
       "fin_score": 0.3205,
       "label": "BULLISH",
       "id": "ce9c36636bc2",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -189,7 +492,7 @@
       "fin_score": -0.7749,
       "label": "BEARISH",
       "id": "c4370cf255e6",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -204,7 +507,7 @@
       "fin_score": 0.8555,
       "label": "BULLISH",
       "id": "aa42d37d252f",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -219,7 +522,7 @@
       "fin_score": 0.8074,
       "label": "BULLISH",
       "id": "da6c73e516c7",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -234,7 +537,7 @@
       "fin_score": 0.7096,
       "label": "BULLISH",
       "id": "d7953c81e3ba",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -249,7 +552,7 @@
       "fin_score": 0.9545,
       "label": "BULLISH",
       "id": "5c42656521de",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -264,7 +567,7 @@
       "fin_score": -0.7906,
       "label": "BEARISH",
       "id": "1639dca8a3d1",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -279,7 +582,7 @@
       "fin_score": 0.9538,
       "label": "BULLISH",
       "id": "0ea4c4d34491",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -294,7 +597,7 @@
       "fin_score": 0.8126,
       "label": "BULLISH",
       "id": "f9d8d83c415d",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -309,7 +612,7 @@
       "fin_score": 0.9477,
       "label": "BULLISH",
       "id": "97ccd9c533b0",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -324,7 +627,7 @@
       "fin_score": -0.5994,
       "label": "BEARISH",
       "id": "e1d9556ae91f",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -339,7 +642,7 @@
       "fin_score": 0.8624,
       "label": "BULLISH",
       "id": "bce7d86cbd5a",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -354,7 +657,7 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "eadbd4e6b372",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -369,7 +672,7 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "b523ae6927f3",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -384,7 +687,7 @@
       "fin_score": -0.9858,
       "label": "BEARISH",
       "id": "407e0909b8d9",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -399,7 +702,7 @@
       "fin_score": -0.6249,
       "label": "BEARISH",
       "id": "1994b478b2cf",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -414,7 +717,7 @@
       "fin_score": 0.765,
       "label": "BULLISH",
       "id": "3528d82f8285",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -429,7 +732,7 @@
       "fin_score": 0.926,
       "label": "BULLISH",
       "id": "376f6e231df8",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -444,7 +747,7 @@
       "fin_score": 0.0484,
       "label": "NEUTRAL",
       "id": "e0c28b3f18b2",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -459,7 +762,7 @@
       "fin_score": 0.9186,
       "label": "BULLISH",
       "id": "501dccfd354e",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -474,7 +777,7 @@
       "fin_score": 0.2846,
       "label": "BULLISH",
       "id": "e0ecfdcf1216",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -489,7 +792,7 @@
       "fin_score": 0.8074,
       "label": "BULLISH",
       "id": "15bcb3a184ad",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -504,7 +807,7 @@
       "fin_score": -0.5732,
       "label": "BEARISH",
       "id": "bcff92665c26",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -519,7 +822,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "cf4a67fcf36e",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -534,7 +837,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "10216724decf",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -549,7 +852,7 @@
       "fin_score": -0.0542,
       "label": "NEUTRAL",
       "id": "50494881acaf",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -564,7 +867,7 @@
       "fin_score": -0.9767,
       "label": "BEARISH",
       "id": "c409560bd732",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -579,7 +882,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "d6badf8bb408",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -594,7 +897,7 @@
       "fin_score": 0.25,
       "label": "BULLISH",
       "id": "6d3b99cd9db4",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -609,7 +912,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "f431df1216a7",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -624,307 +927,7 @@
       "fin_score": 0.1463,
       "label": "NEUTRAL",
       "id": "5cecc0a2a7f1",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "India's core sector growth hits seven-month low as Iran war bites",
-      "summary": "Given the tepid core sector output in May 2026, India's IIP growth is likely to weaken to 2-3% in the month from 4.9% in April 2026, according to an analyst.",
-      "url": "https://www.livemint.com/economy/india-core-sector-growth-india-core-sector-data-west-asia-war-energy-supply-11782138572880.html",
-      "published": "Mon, 22 Jun 2026 20:26:25 +0530",
-      "compound": -0.5574,
-      "pos": 0.104,
-      "neg": 0.176,
-      "neu": 0.72,
-      "fin_score": -0.8574,
-      "label": "BEARISH",
-      "id": "72d4955713e0",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Gen Z is out-earning millennials, shows data; but has inflation already closed the gap?",
-      "summary": "New research shows Gen Z workers are out-earning millennials at the same age — but with soaring rents in the UK, US, and India, higher wages may not mean better lives. Here's what the data really shows.",
-      "url": "https://www.livemint.com/economy/gen-z-is-out-earning-millennials-shows-data-but-has-inflation-already-closed-the-gap-11782126064997.html",
-      "published": "Mon, 22 Jun 2026 18:55:52 +0530",
-      "compound": -0.4782,
-      "pos": 0.0,
-      "neg": 0.059,
-      "neu": 0.941,
-      "fin_score": -0.6282,
-      "label": "BEARISH",
-      "id": "d6b4d2f45cbc",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "From village adulteration to organized food crime: The evolution of India’s fake milk industry",
-      "summary": "Evidence is emerging that in some northern states and Gujarat people are being sold fake milk that looks and tastes like the real thing. This deep dive looks at the growing sophistry in adulterating milk and how consumers can protect themselves.",
-      "url": "https://www.livemint.com/economy/the-evolution-of-india-s-fake-milk-industry-11782121657013.html",
-      "published": "Mon, 22 Jun 2026 17:00:20 +0530",
-      "compound": -0.5994,
-      "pos": 0.104,
-      "neg": 0.148,
-      "neu": 0.748,
-      "fin_score": -0.5994,
-      "label": "BEARISH",
-      "id": "aa37144fde56",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "The benefits and risks of RBI’s policy on foreign currency NRI deposits",
-      "summary": "To shore up the rupee, the government is looking at NRIs to make foreign currency deposits in Indian banks. This has implications for India’s external debt management.",
-      "url": "https://www.livemint.com/economy/rbi-foreign-currency-nri-deposits-rupee-defence-risks-explained-11782041864329.html",
-      "published": "Mon, 22 Jun 2026 09:00:33 +0530",
-      "compound": -0.25,
-      "pos": 0.06,
-      "neg": 0.106,
-      "neu": 0.833,
-      "fin_score": -0.25,
-      "label": "BEARISH",
-      "id": "449b745e9eae",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "India, Iran look to soon resume talks to get Chabahar Port plan back on track",
-      "summary": "India and Iran may resume discussions on restoring normal operations at the strategic Chabahar Port and reviving plans to expand the facility, as geopolitical conditions in the region show signs of stabilising, according to two people aware of the matter.",
-      "url": "https://www.livemint.com/economy/india-iran-look-to-revive-chabahar-port-expansion-11782022051643.html",
-      "published": "Mon, 22 Jun 2026 06:00:51 +0530",
-      "compound": 0.5574,
-      "pos": 0.097,
-      "neg": 0.0,
-      "neu": 0.903,
-      "fin_score": 0.2574,
-      "label": "BULLISH",
-      "id": "6966a258935b",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Young Punjab kids ‘rich for 4 yrs after selling their lands… then broke’: World Bank's Ajay Banga on urban agri economy",
-      "summary": "World Bank President Ajay Banga pointed out challenges in urban and agricultural economies, particularly in Punjab, where youth selling farmland quickly spend their earnings, leading to financial instability.",
-      "url": "https://www.livemint.com/economy/young-punjab-kids-rich-for-4-yrs-after-selling-their-lands-then-broke-world-banks-ajay-banga-on-urban-agri-economy-11782037840121.html",
-      "published": "Sun, 21 Jun 2026 16:50:26 +0530",
-      "compound": 0.0772,
-      "pos": 0.026,
-      "neg": 0.0,
-      "neu": 0.974,
-      "fin_score": 0.0772,
-      "label": "NEUTRAL",
-      "id": "686f66828f53",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Views, virality and CJP protest: How India's creator economy found a new stage at Jantar Mantar",
-      "summary": "A May 2025 report, ‘From Content to Commerce: Mapping India’s Creator Economy’ by BCG, said that with over 2–2.5 million monetised content creators influencing more than $350–400 billion in consumer spending, the ecosystem is projected to drive $1 trillion+ in creator-influenced consumption by 2030.",
-      "url": "https://www.livemint.com/economy/views-virality-and-cjp-protest-how-indias-creator-economy-found-a-new-stage-at-jantar-mantar-neet-re-exam-dharmendra-11782021326426.html",
-      "published": "Sun, 21 Jun 2026 12:06:36 +0530",
-      "compound": -0.25,
-      "pos": 0.0,
-      "neg": 0.033,
-      "neu": 0.967,
-      "fin_score": -0.25,
-      "label": "BEARISH",
-      "id": "c68223bbe409",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "The week in charts: State debt concerns, WPI inflation, NSE’s IPO debut",
-      "summary": "In this weekly Plain Facts compilation, we present to you data-based insights, with easy-to-read charts, to help you delve deeper into the stories reported by Mint in the week gone by.",
-      "url": "https://www.livemint.com/economy/nse-ipo-drhp-state-debt-india-wpi-inflation-economy-iran-war-11781766905756.html",
-      "published": "Sat, 20 Jun 2026 07:01:11 +0530",
-      "compound": 0.0516,
-      "pos": 0.058,
-      "neg": 0.054,
-      "neu": 0.887,
-      "fin_score": -0.1784,
-      "label": "BEARISH",
-      "id": "dad2c365ccc7",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Development finance should be used strategically to improve governance, service delivery in Northeast: FM Sitharaman",
-      "summary": "Finance minister Nirmala Sitharaman said that externally aided project funding to India's Northeast has risen nearly eightfold to ₹76,000 crore since 2014, and urged states to use such finance to strengthen governance and service delivery.&nbsp;",
-      "url": "https://www.livemint.com/economy/development-finance-should-be-used-to-improve-governance-service-delivery-in-northeast-fm-nirmala-sitharaman-11781885187972.html",
-      "published": "Fri, 19 Jun 2026 22:44:03 +0530",
-      "compound": 0.6369,
-      "pos": 0.098,
-      "neg": 0.0,
-      "neu": 0.902,
-      "fin_score": 0.6369,
-      "label": "BULLISH",
-      "id": "40d9caca0835",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "AI boom shields Asia from West Asia shock, but risks mount for India and region: Moody’s Analytics",
-      "summary": "Moody's Analytics has said that AI-led exports and investment have helped Asia-Pacific weather the fallout from the West Asia conflict, but higher oil prices, inflation, trade tensions and weather-related disruptions could slow growth in the years ahead.",
-      "url": "https://www.livemint.com/economy/ai-boom-cushions-india-and-asia-pacific-region-but-inflation-oil-risks-cloud-outlook-moody-s-analytics-11781870350092.html",
-      "published": "Fri, 19 Jun 2026 18:58:38 +0530",
-      "compound": -0.8641,
-      "pos": 0.052,
-      "neg": 0.215,
-      "neu": 0.733,
-      "fin_score": -1.0,
-      "label": "BEARISH",
-      "id": "7deb0124fc7e",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Watchful and wary: Inside MPC's unanimous decision to hold rates",
-      "summary": "At its 3-5 June meeting, the Monetary Policy Committee kept the key repo rate unchanged at 5.25%, while acknowledging that there were considerable risks to its assessments of inflation and growth.",
-      "url": "https://www.livemint.com/economy/rbi-rbi-mpc-interest-rates-inflation-gdp-growth-mpc-minutes-rbi-governor-repo-rate-banks-11781850214122.html",
-      "published": "Fri, 19 Jun 2026 17:07:02 +0530",
-      "compound": 0.0534,
-      "pos": 0.059,
-      "neg": 0.054,
-      "neu": 0.887,
-      "fin_score": -0.3966,
-      "label": "BEARISH",
-      "id": "7f9a97de12fd",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Oil slides below $80 as US-Iran peace deal eases supply fears",
-      "summary": "Brent slipped below $80 a barrel as the US and Iran signed a peace framework, easing supply concerns and paving the way for the reopening of the Strait of Hormuz.",
-      "url": "https://www.livemint.com/economy/crude-oil-brent-crude-wti-us-iran-mou-strait-of-hormuz-oil-prices-west-asia-war-iran-blockade-global-energy-11781833784671.html",
-      "published": "Fri, 19 Jun 2026 07:59:50 +0530",
-      "compound": 0.8176,
-      "pos": 0.226,
-      "neg": 0.056,
-      "neu": 0.719,
-      "fin_score": 0.7376,
-      "label": "BULLISH",
-      "id": "e38e6575b31b",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Fuel curbs rollback likely as Iran deal raises hope",
-      "summary": "The Centre is weighing a rollback of emergency curbs on fuel sales imposed during the West Asia conflict after the US and Iran sued for peace, a move that could ease pressure on farmers, lower inflation and improve prospects for the world's third-largest oil importer.",
-      "url": "https://www.livemint.com/news/fuel-curbs-lpg-gas-crude-oil-west-asia-war-usa-iran-peace-deal-farmers-inflation-11781790116385.html",
-      "published": "Fri, 19 Jun 2026 05:40:46 +0530",
-      "compound": 0.6597,
-      "pos": 0.204,
-      "neg": 0.155,
-      "neu": 0.641,
-      "fin_score": 0.5097,
-      "label": "BULLISH",
-      "id": "c41858533d0f",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "India secures steel market access under UK FTA; exporters to avail benefits from 15 July",
-      "summary": "India has secured quota-based protection for its steel exports under the India-UK Ceta, ensuring market access is preserved even as Britain's safeguard measures take effect from 1 July. The broader trade pact will come into force on 15 July.",
-      "url": "https://www.livemint.com/economy/india-secures-steel-market-access-under-uk-fta-exporters-to-avail-benefits-from-15-july-11781789221680.html",
-      "published": "Thu, 18 Jun 2026 23:24:58 +0530",
-      "compound": 0.8834,
-      "pos": 0.201,
-      "neg": 0.0,
-      "neu": 0.799,
-      "fin_score": 0.8834,
-      "label": "BULLISH",
-      "id": "1d6c70909506",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Net direct tax collections rise 14.6% to ₹5.21 trillion as of 17 June",
-      "summary": "Net direct tax collections rose 14.64% to ₹5.21 trillion as of 17 June, led by a 22.5% surge in corporate tax receipts and a near-45% jump in STT collections.",
-      "url": "https://www.livemint.com/economy/net-direct-tax-collections-rise-14-6-to-5-21-trillion-stt-corporate-advance-tax-11781799724836.html",
-      "published": "Thu, 18 Jun 2026 23:02:50 +0530",
-      "compound": 0.0,
-      "pos": 0.0,
-      "neg": 0.0,
-      "neu": 1.0,
-      "fin_score": 0.0,
-      "label": "NEUTRAL",
-      "id": "154ce3db6573",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Centre plans to tap worker cess to fund on-site housing for construction workers",
-      "summary": "The housing ministry is also evaluating a policy to unlock empty airspace above roads and transit lines, helping developers overcome land shortages in dense urban areas.",
-      "url": "https://www.livemint.com/economy/centre-plans-to-tap-worker-cess-to-fund-on-site-housing-for-construction-workers-11781772545582.html",
-      "published": "Thu, 18 Jun 2026 16:48:12 +0530",
-      "compound": -0.0516,
-      "pos": 0.053,
-      "neg": 0.082,
-      "neu": 0.865,
-      "fin_score": -0.0516,
-      "label": "NEUTRAL",
-      "id": "70e95da2aed9",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Basmati rice exports to West Asia poised for rebound after US, Iran sign peace deal",
-      "summary": "The reopening the Strait of Hormuz is expected to mitigate shipping bottlenecks, boosting trade to the Gulf, which represents a major market for Indian basmati rice.",
-      "url": "https://www.livemint.com/economy/india-basmati-rice-exports-to-gulf-set-for-recovery-after-iran-us-peace-deal-11781765452027.html",
-      "published": "Thu, 18 Jun 2026 14:09:15 +0530",
-      "compound": 0.7845,
-      "pos": 0.172,
-      "neg": 0.0,
-      "neu": 0.828,
-      "fin_score": 0.7845,
-      "label": "BULLISH",
-      "id": "ac793994ba9f",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "As war pressures ebb, edible oil prices may ease 10% ahead of the festive season",
-      "summary": "India could see edible oil prices fall by up to 10% in coming months as easing West Asia tensions, lower freight costs and higher palm oil supplies from Indonesia and Malaysia improve availability. However, benefits may take time to reach consumers due to existing inventories and supply contracts.",
-      "url": "https://www.livemint.com/economy/edible-oil-prices-fall-festive-season-west-asia-war-petrochem-plastic-11781684615457.html",
-      "published": "Thu, 18 Jun 2026 06:00:58 +0530",
-      "compound": 0.25,
-      "pos": 0.18,
-      "neg": 0.142,
-      "neu": 0.678,
-      "fin_score": -0.05,
-      "label": "NEUTRAL",
-      "id": "16caf550d842",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "With Iran-US peace deal in sight, IEA projects oil supply surplus in 2027",
-      "summary": "Global crude oil supply is set to fall by 3.9 million barrels per day (bpd) to 102.4 million bpd this year amid trade disruptions due to the West Asia war, before rebounding by 8 million bpd next year, the International Energy Agency (IEA) said on Wednesday.",
-      "url": "https://www.livemint.com/economy/iranus-peace-deal-iea-oil-supply-surplus-2027-11781707177039.html",
-      "published": "Wed, 17 Jun 2026 22:03:35 +0530",
-      "compound": -0.6597,
-      "pos": 0.08,
-      "neg": 0.144,
-      "neu": 0.776,
-      "fin_score": -0.9597,
-      "label": "BEARISH",
-      "id": "8eb1e99689ce",
-      "fetched_at": "2026-06-23 11:20:42 IST"
-    },
-    {
-      "source": "LiveMint Economy",
-      "title": "Crude price fall may not last as nations rush to rebuild reserves",
-      "summary": "Even with a US-Iran peace deal on the horizon, global crude oil prices are not expected to plummet due to a significant supply shortfall.&nbsp;",
-      "url": "https://www.livemint.com/economy/oil-prices-unlikely-major-slump-high-demand-refiners-wait-and-watch-mode-11781613826379.html",
-      "published": "Tue, 16 Jun 2026 21:30:43 +0530",
-      "compound": -0.4767,
-      "pos": 0.119,
-      "neg": 0.166,
-      "neu": 0.716,
-      "fin_score": -0.4767,
-      "label": "BEARISH",
-      "id": "671a4abaf5c7",
-      "fetched_at": "2026-06-23 11:20:42 IST"
+      "fetched_at": "2026-06-23 11:25:32 IST"
     }
   ]
 }
