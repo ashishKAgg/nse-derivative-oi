@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-23 10:35:35 IST",
+  "generated_at": "2026-06-23 10:40:43 IST",
   "total_articles": 60,
   "bullish_count": 35,
   "bearish_count": 17,
   "neutral_count": 8,
-  "avg_fin_score": 0.2335,
-  "weighted_score": 0.5123,
+  "avg_fin_score": 0.2304,
+  "weighted_score": 0.437,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
+    "Anubhav Plast IPO day 3: GMP, subscription status, listing date, other details in 10 points",
     "Factor investing is back in favour. But for how long?",
-    "Turtlemint Fintech Solutions IPO Day 3: Should you subscribe as issue ends today? Check GMP, review, other key details",
-    "Stocks to buy for short term: PFC, Delhivery among 6 stocks experts recommend for next 1-2 weeks"
+    "Turtlemint Fintech Solutions IPO Day 3: Should you subscribe as issue ends today? Check GMP, review, other key details"
   ],
   "top_bearish": [
     "Rupee opens 1 paise lower at 94.69 against US dollar",
@@ -19,7 +19,7 @@
     "Crude oil prices rebound after selloff, progress on Strait of Hormuz flows awaited; Brent at $78 per barrel"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
