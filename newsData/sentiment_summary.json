@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-23 09:00:53 IST",
+  "generated_at": "2026-06-23 09:05:35 IST",
   "total_articles": 60,
-  "bullish_count": 34,
+  "bullish_count": 33,
   "bearish_count": 17,
-  "neutral_count": 9,
-  "avg_fin_score": 0.241,
-  "weighted_score": 0.2664,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2094,
+  "weighted_score": 0.4941,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Waterways Leisure Tourism IPO Day 1: Issue opens today. Check GMP, review, key dates. Apply or not?",
+    "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 23 June 2026",
+    "Stocks to watch: TCS, BEL, Vodafone Idea among shares in focus today; check list here"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Asian stocks today: Nikkei, Kospi trade lower amid rebound in crude oil prices",
+    "Crude oil prices rebound after selloff, progress on Strait of Hormuz flows awaited; Brent at $78 per barrel",
+    "Sebi’s municipal bond push may not bring retail rush, experts warn of credit risks"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
