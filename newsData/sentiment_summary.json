@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-23 10:45:42 IST",
+  "generated_at": "2026-06-23 10:50:43 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 17,
+  "bullish_count": 36,
+  "bearish_count": 16,
   "neutral_count": 8,
-  "avg_fin_score": 0.2304,
-  "weighted_score": 0.437,
+  "avg_fin_score": 0.2456,
+  "weighted_score": 0.269,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Anubhav Plast IPO day 3: GMP, subscription status, listing date, other details in 10 points",
-    "Factor investing is back in favour. But for how long?",
-    "Turtlemint Fintech Solutions IPO Day 3: Should you subscribe as issue ends today? Check GMP, review, other key details"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 1 paise lower at 94.69 against US dollar",
-    "Asian stocks today: Nikkei, Kospi trade lower amid rebound in crude oil prices",
-    "Crude oil prices rebound after selloff, progress on Strait of Hormuz flows awaited; Brent at $78 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
