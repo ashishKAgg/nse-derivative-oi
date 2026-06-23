@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-23 14:45:49 IST",
+  "generated_at": "2026-06-23 14:50:47 IST",
   "total_articles": 60,
-  "bullish_count": 38,
+  "bullish_count": 36,
   "bearish_count": 14,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2641,
-  "weighted_score": 0.4454,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2506,
+  "weighted_score": 0.2688,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "FIIs remain net sellers in Indian stock market for 12 months in a row. Can the trend change?",
-    "Is AI euphoria an overlooked risk for markets beyond geopolitical shocks?",
-    "Is Kirloskar Oil Engines stock running ahead of fundamentals after 25% jump this week?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "CSM Technologies IPO opens on Wednesday: GMP, other key details of ₹146 crore public issue in 10 points",
-    "Rupee opens 1 paise lower at 94.69 against US dollar",
-    "Asian stocks today: Nikkei, Kospi trade lower amid rebound in crude oil prices"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Comm"
   ]
 }
