@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-24 11:05:31 IST",
+  "generated_at": "2026-06-24 11:10:46 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 16,
-  "neutral_count": 11,
-  "avg_fin_score": 0.1937,
-  "weighted_score": 0.2542,
+  "bullish_count": 32,
+  "bearish_count": 20,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1299,
+  "weighted_score": 0.3181,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Liotech Industries share price extends losses after listing at a 20% discount to the IPO price",
+    "Diksha Polymers share price hits 5% upper circuit after decent listing on BSE SME",
+    "Clay Craft India IPO listing: SME stock lists at a 4% premium over issue price, hits upper price band"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee falls 16 paise to open at 94.90 against US dollar",
+    "Why the NSE IPO may not create wealth like BSE’s did",
+    "Crude oil prices extend fall on smoother flows through Strait of Hormuz; Brent below $77 per barrel"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
