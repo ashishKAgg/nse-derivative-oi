@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-24 13:55:39 IST",
+  "generated_at": "2026-06-24 14:00:59 IST",
   "total_articles": 60,
-  "bullish_count": 36,
+  "bullish_count": 34,
   "bearish_count": 16,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1912,
-  "weighted_score": 0.1066,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "neutral_count": 10,
+  "avg_fin_score": 0.2098,
+  "weighted_score": 0.2573,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex jumps 1,000 points, Nifty 50 nears 24,100: Key factors behind stock market rally explained",
-    "Bajaj Auto buyback record date today; shares decline 3% intraday. Details here",
-    "Sri Priyanka Geo Commex IPO day 1: GMP, subscription status, price band, other details of NSE SME IPO in 10 key points"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices drop near four-month low as Strait of Hormuz flows normalize; Can oil sink below $50 a barrel?",
-    "RBI governor Sanjay Malhotra calls rate hike talks premature",
-    "Rupee falls 16 paise to open at 94.90 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "MoneyControl Top",
     "LiveMint Markets"
   ]
 }
