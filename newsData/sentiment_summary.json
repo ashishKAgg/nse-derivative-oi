@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-24 09:05:37 IST",
+  "generated_at": "2026-06-24 09:10:37 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 20,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1318,
-  "weighted_score": 0.1574,
+  "bullish_count": 31,
+  "bearish_count": 18,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1546,
+  "weighted_score": 0.2427,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "CSM Technologies IPO Day 1: Issue opens today. Check GMP, key dates, review. Apply or not?",
-    "Buy or sell: Vaishali Parekh recommends three intraday stocks for today - 24 June 2026",
-    "Stock market today:Gift Nifty hints muted start;US tech stocks sell-off, Kospi rebounds to oil prices - 8 stocks to buy"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Why the NSE IPO may not create wealth like BSE’s did",
-    "Crude oil prices extend fall on smoother flows through Strait of Hormuz; Brent below $77 per barrel",
-    "Asian stocks today: Kospi rebounds 3% after crash, Nikkei falls amid global tech stocks sell-off"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
