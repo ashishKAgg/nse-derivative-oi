@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-23 16:25:40 IST",
+  "generated_at": "2026-06-24 09:00:53 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 16,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2308,
-  "weighted_score": 0.0152,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 33,
+  "bearish_count": 18,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1806,
+  "weighted_score": 0.25,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "FIIs remain net sellers in Indian stock market for 3 months in a row. Can the trend change?",
-    "Is AI euphoria an overlooked risk for markets beyond geopolitical shocks?",
-    "Is Kirloskar Oil Engines stock running ahead of fundamentals after 25% jump this week?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Top Gainers & Losers on June 23: Vedanta, Hindustan Zinc, Infosys, TCS, Bank of Baroda among top losers",
-    "Sensex crashes almost 900 points, investors lose ₹6 lakh crore in a day: What drove the stock market down?",
-    "Hindustan Zinc shares drop 5% amid slump in global silver prices"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "MoneyControl Top",
     "LiveMint Markets"
   ]
 }
