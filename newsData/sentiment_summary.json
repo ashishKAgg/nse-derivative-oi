@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-24 14:40:45 IST",
+  "generated_at": "2026-06-24 14:45:49 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 15,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2194,
-  "weighted_score": 0.2593,
+  "bullish_count": 37,
+  "bearish_count": 16,
+  "neutral_count": 7,
+  "avg_fin_score": 0.1982,
+  "weighted_score": 0.3735,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Anubhav Plast IPO allotment expected today: Step-by-step guide to check your allotment status online",
+    "Can Info Edge find another Zomato?",
+    "Ruchit Jain of Motilal Oswal suggests AXIS Bank, Genus Power shares to buy for the short term"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Crude oil nears four-month low as Strait of Hormuz flows normalise; can prices fall below $50?",
+    "RBI governor Sanjay Malhotra calls rate hike talks premature",
+    "Rupee falls 16 paise to open at 94.90 against US dollar"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
