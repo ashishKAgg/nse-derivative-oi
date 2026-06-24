@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-24 12:25:35 IST",
+  "generated_at": "2026-06-24 12:31:08 IST",
   "total_articles": 60,
   "bullish_count": 34,
-  "bearish_count": 18,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1751,
-  "weighted_score": 0.3504,
+  "bearish_count": 16,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2287,
+  "weighted_score": 0.2633,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Waterways Leisure Tourism IPO Day 2: GMP, subscription status, price band, review, other key details. Apply or not?",
-    "Leapfrog Engineering Services share price hits 5% upper circuit after listing at discount",
-    "Vodafone Idea, Roto Pumps, YES Bank among most traded stocks on NSE today, 24 June 2026"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "RBI governor Sanjay Malhotra calls rate hike talks premature",
-    "Rupee falls 16 paise to open at 94.90 against US dollar",
-    "Why the NSE IPO may not create wealth like BSE’s did"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Comm"
   ]
 }
