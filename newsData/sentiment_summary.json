@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-24 13:35:39 IST",
+  "generated_at": "2026-06-24 13:40:42 IST",
   "total_articles": 60,
   "bullish_count": 35,
-  "bearish_count": 17,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1746,
-  "weighted_score": 0.3375,
+  "bearish_count": 15,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2271,
+  "weighted_score": 0.2628,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sri Priyanka Geo Commex IPO day 1: GMP, subscription status, price band, other details of NSE SME IPO in 10 key points",
-    "Shyam Metalics' value-added expansion to help deliver on its long-term goals",
-    "Turtlemint Fintech Solutions IPO allotment to be finalised today. Here's GMP, how to check status"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "RBI governor Sanjay Malhotra calls rate hike talks premature",
-    "Rupee falls 16 paise to open at 94.90 against US dollar",
-    "Why the NSE IPO may not create wealth like BSE’s did"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
     "LiveMint Markets"
   ]
 }
