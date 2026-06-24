@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24 11:10:46 IST",
+  "generated_at": "2026-06-24 11:15:46 IST",
   "total_articles": 60,
   "bullish_count": 32,
   "bearish_count": 20,
   "neutral_count": 8,
   "avg_fin_score": 0.1299,
-  "weighted_score": 0.3181,
+  "weighted_score": 0.3179,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
@@ -19,7 +19,7 @@
     "Crude oil prices extend fall on smoother flows through Strait of Hormuz; Brent below $77 per barrel"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
