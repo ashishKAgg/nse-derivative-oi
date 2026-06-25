@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25 10:35:39 IST",
+  "generated_at": "2026-06-25 10:40:42 IST",
   "summary": {
-    "generated_at": "2026-06-25 10:35:39 IST",
+    "generated_at": "2026-06-25 10:40:42 IST",
     "total_articles": 60,
     "bullish_count": 41,
     "bearish_count": 14,
@@ -21,8 +21,8 @@
       "Crude oil prices extend decline, reach pre-US-Iran war level; Brent slips to $73 per barrel"
     ],
     "sources_hit": [
-      "LiveMint Economy",
-      "LiveMint Markets"
+      "LiveMint Markets",
+      "LiveMint Economy"
     ]
   },
   "articles": [
@@ -31,7 +31,7 @@
       "title": "South Korean AI chip stock SK Hynix share price surges 13% after unveiling $29 billion US listing plan",
       "summary": "SK Hynix shares surged nearly 13% after announcing plans to raise $29.4 billion through a US listing, fueling a rally in South Korea's semiconductor sector. Investors anticipate strong AI demand, leading to significant stock price increases over various time frames.",
       "url": "https://www.livemint.com/market/stock-market-news/south-korean-ai-chip-stock-sk-hynix-share-price-surges-13-after-unveiling-29-billion-us-listing-plan-11782362544876.html",
-      "published": "Thu, 25 Jun 2026 10:21:27 +0530",
+      "published": "週四, 25 6月 2026 10:21:27 +0530",
       "compound": 0.7906,
       "pos": 0.148,
       "neg": 0.023,
@@ -39,14 +39,14 @@
       "fin_score": 0.9906,
       "label": "BULLISH",
       "id": "dc6535d2c6a2",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Nifty Auto jumps over 2%; Maruti, TVS Motor, Ashok Leyland, M&M among top gainers. Why are auto stocks rising?",
       "summary": "On Thursday morning, major auto stocks, such as Maruti, TVS Motor, Ashok Leyland, Mahindra and Mahindra, Hero MotoCorp, and Eicher Motors, rose more than 2% each.",
       "url": "https://www.livemint.com/market/stock-market-news/nifty-auto-jumps-over-2-maruti-tvs-motor-ashok-leyland-m-m-among-top-gainers-why-are-auto-stocks-rising-11782362228073.html",
-      "published": "Thu, 25 Jun 2026 10:16:53 +0530",
+      "published": "週四, 25 6月 2026 10:16:53 +0530",
       "compound": 0.7964,
       "pos": 0.162,
       "neg": 0.0,
@@ -54,14 +54,14 @@
       "fin_score": 0.7964,
       "label": "BULLISH",
       "id": "f2fb446da7a1",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Delhivery share sale: Logistics stock falls over 2% after Alpha Wave Ventures sells entire 1.93% stake",
       "summary": "Alpha Wave Ventures LP sold its entire 1.93% stake in Delhivery in two tranches on June 24. The Delhivery stake sale by Alpha Wave Ventures LP comes a few days after venture capital firm Nexus Venture Partners offloaded its 1.97% stake in Delhivery.",
       "url": "https://www.livemint.com/market/stock-market-news/delhivery-share-sale-logistics-stock-falls-over-2-after-alpha-wave-ventures-sells-entire-1-93-stake-11782362107590.html",
-      "published": "Thu, 25 Jun 2026 10:11:48 +0530",
+      "published": "週四, 25 6月 2026 10:11:48 +0530",
       "compound": 0.296,
       "pos": 0.037,
       "neg": 0.0,
@@ -69,14 +69,14 @@
       "fin_score": 0.196,
       "label": "BULLISH",
       "id": "c0e125e99e29",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Avience Biomedicals share price lists at 90% premium over the IPO price",
       "summary": "Avience Biomedicals share price opened at ₹395.20 apiece on NSE SME. The SME stock listed at 90% premium over the IPO price of ₹208.",
       "url": "https://www.livemint.com/market/stock-market-news/avience-biomedicals-share-price-lists-at-90-premium-over-the-ipo-price-11782361748054.html",
-      "published": "Thu, 25 Jun 2026 10:09:07 +0530",
+      "published": "週四, 25 6月 2026 10:09:07 +0530",
       "compound": 0.5267,
       "pos": 0.115,
       "neg": 0.0,
@@ -84,14 +84,14 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "1618643f2d53",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "IRFC OFS opens for retail investors today. Should you participate?",
       "summary": "Non-retail investors fully subscribed to the IRFC OFS on Wednesday, placing bids for 1.86 times the shares reserved for their category. Following the strong response, the Centre has decided to exercise the greenshoe option.",
       "url": "https://www.livemint.com/market/stock-market-news/irfc-ofs-opens-for-retail-investors-today-should-you-participate-11782360125712.html",
-      "published": "Thu, 25 Jun 2026 09:51:05 +0530",
+      "published": "週四, 25 6月 2026 09:51:05 +0530",
       "compound": 0.6705,
       "pos": 0.116,
       "neg": 0.0,
@@ -99,14 +99,14 @@
       "fin_score": 0.6705,
       "label": "BULLISH",
       "id": "d76da0e7b99a",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Stocks to buy or sell: Osho Krishan of Angel One suggests buying HDFC Bank, Emcure Pharma shares on 25 June",
       "summary": "Indian equity benchmarks opened higher today, driven by gains in Asian markets and easing crude oil prices. The Nifty 50 rose 0.43%, and market breadth remained positive with 15 out of 16 major indices in the green, showcasing investor confidence amid improving global sentiment.",
       "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-osho-krishan-of-angel-one-suggests-buying-hdfc-bank-emcure-pharma-shares-on-25-june-11782359181101.html",
-      "published": "Thu, 25 Jun 2026 09:26:19 +0530",
+      "published": "週四, 25 6月 2026 09:26:19 +0530",
       "compound": 0.9231,
       "pos": 0.241,
       "neg": 0.047,
@@ -114,14 +114,14 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "26c2cee449ef",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "'There is no quick way to make money': Zerodha's Nithin Kamath issues warning that could save investors millions",
       "summary": "Zerodha co-founder Nithin Kamath highlights the persistence of pyramid schemes in India, with many investors misled by promises of easy profits. He cautions that this mindset can lead to significant financial losses, urging individuals to be wary of recruitment-based opportunities.",
       "url": "https://www.livemint.com/market/stock-market-news/there-is-no-quick-way-to-make-money-zerodha-nithin-kamath-issues-warning-that-could-save-investors-millions-11782357111225.html",
-      "published": "Thu, 25 Jun 2026 09:12:22 +0530",
+      "published": "週四, 25 6月 2026 09:12:22 +0530",
       "compound": 0.8271,
       "pos": 0.221,
       "neg": 0.101,
@@ -129,14 +129,14 @@
       "fin_score": 0.5271,
       "label": "BULLISH",
       "id": "12a05a8d9cd6",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Gold rate falls on MCX on a stronger dollar amid rising expectations of US Fed rate hikes; what should investors do?",
       "summary": "Gold rate on the MCX declined in the morning on Thursday, 25 June, due to a stronger dollar. MCX gold August futures were 0.37% down at ₹1,40,749 per 10 grams, while MCX silver July futures were 1.07% down at ₹2,10,801 per kg around 9:10 am.",
       "url": "https://www.livemint.com/market/commodities/gold-price-today-rate-falls-on-mcx-on-a-stronger-dollar-amid-rising-expectations-of-us-fed-rate-hikes-11782358222707.html",
-      "published": "Thu, 25 Jun 2026 09:08:03 +0530",
+      "published": "週四, 25 6月 2026 09:08:03 +0530",
       "compound": 0.6369,
       "pos": 0.075,
       "neg": 0.0,
@@ -144,14 +144,14 @@
       "fin_score": 0.2869,
       "label": "BULLISH",
       "id": "bb44497c04a2",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Rupee opens 37 paise higher at 94.30 against US dollar",
       "summary": "The rupee rose by 37 paise to 94.30 against the US dollar, driven by falling crude oil prices and likely RBI intervention, despite pressure from strong dollar demand and expectations of higher US interest rates.",
       "url": "https://www.livemint.com/market/stock-market-news/rupee-opens-37-paise-higher-at-94-30-against-us-dollar-11782358402746.html",
-      "published": "Thu, 25 Jun 2026 09:04:58 +0530",
+      "published": "週四, 25 6月 2026 09:04:58 +0530",
       "compound": -0.5594,
       "pos": 0.092,
       "neg": 0.178,
@@ -159,14 +159,14 @@
       "fin_score": -0.4594,
       "label": "BEARISH",
       "id": "54d3f34ff0ef",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Where is gold headed if the war ends?",
       "summary": "Gold, as a safe-haven investment, was clearly on investors' and traders' minds following the outbreak of war in West Asia. And sure enough, the price of gold initially went up, but then came the correction.",
       "url": "https://www.livemint.com/market/stock-market-news/gold-price-india-gold-rate-india-2026-gold-price-outlook-11782309715679.html",
-      "published": "Thu, 25 Jun 2026 09:00:27 +0530",
+      "published": "週四, 25 6月 2026 09:00:27 +0530",
       "compound": -0.34,
       "pos": 0.074,
       "neg": 0.103,
@@ -174,14 +174,14 @@
       "fin_score": -0.64,
       "label": "BEARISH",
       "id": "10a7856734d1",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Stocks to buy for short term: PVR INOX among 3 stocks Amol Athawale of Kotak Securities recommends for next 1-2 weeks",
       "summary": "Amol Athawale from Kotak Securities identifies three stocks for the next 1-2 weeks, including PVR INOX and Aadhar Housing Finance, with strong technical indicators and favourable market conditions.&nbsp;",
       "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-pvr-inox-among-3-stocks-amol-athawale-of-kotak-securities-recommends-for-next-1-2-weeks-11782355851094.html",
-      "published": "Thu, 25 Jun 2026 08:49:43 +0530",
+      "published": "週四, 25 6月 2026 08:49:43 +0530",
       "compound": 0.8225,
       "pos": 0.176,
       "neg": 0.0,
@@ -189,14 +189,14 @@
       "fin_score": 0.8225,
       "label": "BULLISH",
       "id": "712eb32c3a01",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Advit Jewels IPO Day 3: Issue subscribed 44.16x so far. GMP hints 38% listing pop. Should you apply or not?",
       "summary": "Advit Jewels IPO saw strong demand, with subscriptions 44.16 times oversubscribed by diverse investors. The issue opens on 23 June and closes on 25 June, targeting a 1 July debut at an estimated 37.68% premium to the issue price of ₹138.",
       "url": "https://www.livemint.com/market/ipo/advit-jewels-ipo-gmp-advit-jewels-ipo-subscription-status-advit-jewels-ipo-review-advit-jewels-ipo-details-advit-jew-11782355505499.html",
-      "published": "Thu, 25 Jun 2026 08:30:28 +0530",
+      "published": "週四, 25 6月 2026 08:30:28 +0530",
       "compound": 0.5139,
       "pos": 0.094,
       "neg": 0.059,
@@ -204,14 +204,14 @@
       "fin_score": 0.5139,
       "label": "BULLISH",
       "id": "94bf686c969c",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Buy or sell: Vaishali Parekh recommends three intraday stocks for today - 25 June 2026",
       "summary": "Buy or sell stocks, 25 June 2026: Vaishali Parekh recommends three stocks to buy today — Tata Motors, Mangalore Refinery and Petrochemicals, and Sumitomo Chemical.",
       "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-for-today-25-june-2026-11782354844688.html",
-      "published": "Thu, 25 Jun 2026 08:25:03 +0530",
+      "published": "週四, 25 6月 2026 08:25:03 +0530",
       "compound": 0.4215,
       "pos": 0.091,
       "neg": 0.0,
@@ -219,14 +219,14 @@
       "fin_score": 0.4215,
       "label": "BULLISH",
       "id": "fa869c54f935",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Stocks to watch: IRFC, Tata Steel, Vedanta among shares in focus today; check list here",
       "summary": "Stock market today: On Thursday, the Nifty 50 climbed 0.83% to finish at 24,021, and the Sensex rose 1% to close at 76,991.",
       "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-irfc-tata-steel-vedanta-among-shares-in-focus-today-check-list-here-11782352971028.html",
-      "published": "Thu, 25 Jun 2026 08:00:49 +0530",
+      "published": "週四, 25 6月 2026 08:00:49 +0530",
       "compound": 0.5994,
       "pos": 0.12,
       "neg": 0.0,
@@ -234,14 +234,14 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "bb8d06579e6e",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Stock market today: Gift Nifty hints positive start; US-Iran peace talks, Bitcoins to oil prices - 8 stocks to buy",
       "summary": "The Indian stock market is poised for a positive start, buoyed by rising Asian markets and declining crude oil prices. The BSE Sensex and NSE Nifty 50 closed higher, reflecting improved investor sentiment after Micron Technology's strong earnings boosted technology sector outlook.",
       "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-positive-start-us-iran-peace-talks-bitcoins-to-oil-prices-8-stocks-to-buy-11782351726822.html",
-      "published": "Thu, 25 Jun 2026 07:54:35 +0530",
+      "published": "週四, 25 6月 2026 07:54:35 +0530",
       "compound": 0.9756,
       "pos": 0.353,
       "neg": 0.044,
@@ -249,14 +249,14 @@
       "fin_score": 0.9756,
       "label": "BULLISH",
       "id": "a483bc9f2a6d",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 25 June",
       "summary": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a positive start for the Indian benchmark index. The Gift Nifty was trading around 24,130 level, a premium of nearly 78 points from the Nifty futures’ previous close.",
       "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-25-june-11782352210725.html",
-      "published": "Thu, 25 Jun 2026 07:30:48 +0530",
+      "published": "週四, 25 6月 2026 07:30:48 +0530",
       "compound": 0.9678,
       "pos": 0.318,
       "neg": 0.0,
@@ -264,14 +264,14 @@
       "fin_score": 0.9678,
       "label": "BULLISH",
       "id": "671c4fb62313",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Crude oil prices extend decline, reach pre-US-Iran war level; Brent slips to $73 per barrel",
       "summary": "US-Iran peace deal: Brent crude futures for August delivery were down 40 cents, or 0.54%, at $73.34 per barrel, while US West Texas Intermediate (WTI) crude slipped 27 cents, or 0.38%, to $70.07 per barrel.",
       "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-decline-reach-pre-us-iran-war-level-brent-slips-to-73-per-barrel-11782351774082.html",
-      "published": "Thu, 25 Jun 2026 07:30:01 +0530",
+      "published": "週四, 25 6月 2026 07:30:01 +0530",
       "compound": -0.8934,
       "pos": 0.098,
       "neg": 0.233,
@@ -279,14 +279,14 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "4b6ef6724f8d",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "From Gift Nifty, Micron earnings beat to Bitcoin prices: 10 key things that changed for Indian stock market overnight",
       "summary": "Gift Nifty was trading around 24,114 level, a premium of nearly 62 points from the Nifty futures’ previous close, indicating a positive start for the Indian stock market indices.",
       "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-micron-earnings-beat-to-bitcoin-prices-10-key-things-that-changed-for-indian-stock-market-overnight-11782351369779.html",
-      "published": "Thu, 25 Jun 2026 07:12:54 +0530",
+      "published": "週四, 25 6月 2026 07:12:54 +0530",
       "compound": 0.9477,
       "pos": 0.294,
       "neg": 0.0,
@@ -294,14 +294,14 @@
       "fin_score": 0.9477,
       "label": "BULLISH",
       "id": "d35958e7eeb8",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Asian stocks today: Kospi jumps 5%, Nikkei 225 up 1% after Micron's strong earnings",
       "summary": "Asian stocks today: South Korea's Kospi surged over 5% at the open, while the small-cap Kosdaq advanced 1.32%.",
       "url": "https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-jumps-5-nikkei-225-up-1-after-microns-strong-earnings-11782350340517.html",
-      "published": "Thu, 25 Jun 2026 07:10:45 +0530",
+      "published": "週四, 25 6月 2026 07:10:45 +0530",
       "compound": 0.6486,
       "pos": 0.15,
       "neg": 0.0,
@@ -309,14 +309,14 @@
       "fin_score": 0.6486,
       "label": "BULLISH",
       "id": "06826d8570bc",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 25 June 2026",
       "summary": "The Indian stock market ended Wednesday's session on a higher note. Sumeet Bagadia of Choice Broking recommends five breakout stocks to buy today.",
       "url": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-25-june-2026-11782348900485.html",
-      "published": "Thu, 25 Jun 2026 06:43:34 +0530",
+      "published": "週四, 25 6月 2026 06:43:34 +0530",
       "compound": 0.6124,
       "pos": 0.136,
       "neg": 0.0,
@@ -324,14 +324,14 @@
       "fin_score": 0.8624,
       "label": "BULLISH",
       "id": "a3425cb8ca5f",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Stock recommendations for 25 June from MarketSmith India",
       "summary": "MarketSmith India reveals its top stock recommendations for today, 25 June. Get expert insights into the best-performing stocks to guide your investment decisions.",
       "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-25-june-from-marketsmith-india-11782348591672.html",
-      "published": "Thu, 25 Jun 2026 06:25:25 +0530",
+      "published": "週四, 25 6月 2026 06:25:25 +0530",
       "compound": 0.2023,
       "pos": 0.057,
       "neg": 0.0,
@@ -339,14 +339,14 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "367b525e199c",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Raja Venkatraman recommends three stocks for 25 June",
       "summary": "Market expert Raja Venkatraman shares his top stock picks for 25 June. Here’s his technical outlook and trade strategy.",
       "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-25-june-11782317937196.html",
-      "published": "Thu, 25 Jun 2026 06:01:22 +0530",
+      "published": "週四, 25 6月 2026 06:01:22 +0530",
       "compound": 0.5994,
       "pos": 0.197,
       "neg": 0.0,
@@ -354,14 +354,14 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "1736465bd5a4",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Gaming curbs, 5G fuel record share of mobile in options trading",
       "summary": "Trading on index options via mobile surges by 4.9 percentage in May to fresh high &nbsp;31% at the expense of &nbsp;other major modes of trading&nbsp;",
       "url": "https://www.livemint.com/market/mobile-options-trading-gaming-ban-5g-connectivity-markets-11782300690079.html",
-      "published": "Thu, 25 Jun 2026 05:50:23 +0530",
+      "published": "週四, 25 6月 2026 05:50:23 +0530",
       "compound": 0.5423,
       "pos": 0.117,
       "neg": 0.0,
@@ -369,14 +369,14 @@
       "fin_score": 0.5423,
       "label": "BULLISH",
       "id": "e0983b8a0188",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Jio Platforms bucks a long-running IPO trend",
       "summary": "Jio Platforms' proposed IPO stands out for channelling a larger share of proceeds into business growth rather than shareholder exits.",
       "url": "https://www.livemint.com/market/ipo/jio-platforms-ipo-initial-public-offering-nse-sebi-trend-ofs-share-price-stock-market-11782299115063.html",
-      "published": "Thu, 25 Jun 2026 05:31:03 +0530",
+      "published": "週四, 25 6月 2026 05:31:03 +0530",
       "compound": 0.5859,
       "pos": 0.161,
       "neg": 0.0,
@@ -384,14 +384,14 @@
       "fin_score": 0.5859,
       "label": "BULLISH",
       "id": "c39155f31dd7",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Micron Technology earnings in spotlight as investors look for signs of sustained AI demand",
       "summary": "Micron Technology shares dipped 1% to $1,028 amid high expectations for fiscal Q3 results, driven by AI demand. The company, valued above $1 trillion, faces concerns over market sustainability and high valuations, with anticipated earnings of $20.83 per share on $35.75 billion revenue.",
       "url": "https://www.livemint.com/market/stock-market-news/micron-technology-earnings-in-spotlight-as-investors-look-for-signs-of-sustained-ai-demand-11782320631876.html",
-      "published": "Wed, 24 Jun 2026 22:53:24 +0530",
+      "published": "週三, 24 6月 2026 22:53:24 +0530",
       "compound": 0.6486,
       "pos": 0.117,
       "neg": 0.048,
@@ -399,14 +399,14 @@
       "fin_score": 0.5686,
       "label": "BULLISH",
       "id": "1b9397c7f2cc",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Reliance Industries share price to be in focus on Thursday. Here's why",
       "summary": "Reliance Industries' shares may gain interest after Karkinos Healthcare completed HPV DNA screening for over 100,000 women in India, expanding cervical cancer care access.&nbsp;",
       "url": "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-to-be-in-focus-on-thursday-heres-why-11782313951944.html",
-      "published": "Wed, 24 Jun 2026 21:12:53 +0530",
+      "published": "週三, 24 6月 2026 21:12:53 +0530",
       "compound": 0.8225,
       "pos": 0.289,
       "neg": 0.091,
@@ -414,14 +414,14 @@
       "fin_score": 0.8225,
       "label": "BULLISH",
       "id": "14c1117e48fc",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Has the SpaceX correction created a buying opportunity? Expert says, ‘stock will be volatile by nature but…’",
       "summary": "SpaceX's valuation plummeted by over $600 billion in three days, raising questions among investors about buying opportunities versus warning signs. The stock experienced significant volatility post-IPO, with a substantial one-day decline.&nbsp;",
       "url": "https://www.livemint.com/market/stock-market-news/has-the-spacex-correction-created-a-buying-opportunity-expert-says-stock-will-be-volatile-by-nature-but-11782308958102.html",
-      "published": "Wed, 24 Jun 2026 20:09:00 +0530",
+      "published": "週三, 24 6月 2026 20:09:00 +0530",
       "compound": 0.765,
       "pos": 0.199,
       "neg": 0.043,
@@ -429,14 +429,14 @@
       "fin_score": 0.385,
       "label": "BULLISH",
       "id": "7df63c3d160f",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Gold, silver rates today: Comex gold falls below $4,000, silver slips under $60 as hawkish Fed outlook boosts US dollar",
       "summary": "Precious metals experienced a sharp sell-off on June 24, with gold dropping to $3,980 and silver falling to $58. Factors include a stronger US dollar, rising interest rate expectations, and adjustments in gold forecasts from major banks, resulting in significant losses for both metals this year.",
       "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-falls-below-4-000-silver-slips-under-70-as-hawkish-fed-outlook-boosts-us-dollar-11782307750516.html",
-      "published": "Wed, 24 Jun 2026 19:46:33 +0530",
+      "published": "週三, 24 6月 2026 19:46:33 +0530",
       "compound": 0.8442,
       "pos": 0.175,
       "neg": 0.056,
@@ -444,14 +444,14 @@
       "fin_score": 0.3442,
       "label": "BULLISH",
       "id": "9fd90bc7526d",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "CSM Technologies IPO: Issue receives tepid response on Day 01, subscribed 0.26x; GMP signals flat listing",
       "summary": "CSM Technologies' IPO opened on June 24 but saw low demand, being subscribed 0.26 times on the first day. The ₹146-crore offering comprises fresh equity shares, with a valuation of approximately ₹583 crore expected post-issue. Allotment details will be finalized by June 30.",
       "url": "https://www.livemint.com/market/stock-market-news/csm-technologies-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-26x-gmp-signals-flat-listing-11782306711349.html",
-      "published": "Wed, 24 Jun 2026 18:51:00 +0530",
+      "published": "週三, 24 6月 2026 18:51:00 +0530",
       "compound": 0.3291,
       "pos": 0.088,
       "neg": 0.068,
@@ -459,14 +459,14 @@
       "fin_score": 0.3291,
       "label": "BULLISH",
       "id": "b3a9346ec2d3",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "US stock market today: S&P 500, Nasdaq futures rise as tech stocks rebound; Brent slips below $75",
       "summary": "US stock futures rose modestly after a sell-off in technology stocks, particularly semiconductors. S&amp;P 500 futures increased by 0.2% as investors remain concerned about the valuation and potential returns from recent capital expenditures in AI-related sectors.",
       "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-higher-as-tech-stocks-rebound-brent-crude-slips-below-75-11782300799272.html",
-      "published": "Wed, 24 Jun 2026 17:53:34 +0530",
+      "published": "週三, 24 6月 2026 17:53:34 +0530",
       "compound": 0.2732,
       "pos": 0.039,
       "neg": 0.0,
@@ -474,14 +474,14 @@
       "fin_score": -0.2068,
       "label": "BEARISH",
       "id": "1ba08f116558",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Nifty 50 reclaims 24,000: Five market experts predict the index's short-term outlook",
       "summary": "The Nifty 50 index has surged past the crucial 24,000 mark, driven by short covering and lower crude oil prices. Market experts share their insights on resistance levels, potential pullbacks, and what investors can expect in the near term.",
       "url": "https://www.livemint.com/market/stock-market-news/nifty-50-reclaims-24-000-five-market-experts-predict-the-indexs-short-term-outlook-11782301967786.html",
-      "published": "Wed, 24 Jun 2026 17:43:17 +0530",
+      "published": "週三, 24 6月 2026 17:43:17 +0530",
       "compound": 0.1779,
       "pos": 0.128,
       "neg": 0.099,
@@ -489,14 +489,14 @@
       "fin_score": 0.3779,
       "label": "BULLISH",
       "id": "1d679e96a3c7",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Motilal Oswal initiates coverage on 8 textile stocks, including Arvind and Gokaldas Exports; sees up to 39% upside",
       "summary": "Motilal Oswal has started coverage on eight textile firms, predicting growth due to global demand recovery and capacity expansions. They recommend 'buy' for Gokaldas Exports, Arvind, Pearl Global, Indo Count, and Welspun Living.&nbsp;",
       "url": "https://www.livemint.com/market/stock-market-news/motilal-oswal-initiates-coverage-on-8-textile-stocks-including-arvind-and-gokaldas-exports-sees-up-to-39-upside-11782298265932.html",
-      "published": "Wed, 24 Jun 2026 17:06:12 +0530",
+      "published": "週三, 24 6月 2026 17:06:12 +0530",
       "compound": 0.5574,
       "pos": 0.093,
       "neg": 0.027,
@@ -504,14 +504,14 @@
       "fin_score": 0.6774,
       "label": "BULLISH",
       "id": "c4f065a37410",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Can a reversal in global AI trade benefit Indian stock market?",
       "summary": "As global allocators reevaluate tech investments, experts propose that India's diverse economy and macro stability might attract foreign institutional investments. With potential shifts in AI stocks, could India emerge as a prime destination for investors?&nbsp;",
       "url": "https://www.livemint.com/market/stock-market-news/can-a-reversal-in-global-ai-trade-benefit-indian-stock-market-11782293296198.html",
-      "published": "Wed, 24 Jun 2026 17:01:08 +0530",
+      "published": "週三, 24 6月 2026 17:01:08 +0530",
       "compound": 0.7059,
       "pos": 0.118,
       "neg": 0.0,
@@ -519,14 +519,14 @@
       "fin_score": 0.7059,
       "label": "BULLISH",
       "id": "7feb7b3eca35",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Top Gainers & Losers on June 24: KPR Mill, HDFC Bank, Brigade Enterprises, HPCL, Pine Labs, IndiGo among top gainers",
       "summary": "The Indian stock market saw solid gains on Wednesday, with the Nifty 50 and Sensex both climbing 1%. Financial stocks led the rally, bolstered by a rebound in tech shares. Lower crude oil prices improved sentiment, while expectations of static interest rates supported equity valuations.",
       "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-24-kpr-mill-hdfc-bank-brigade-enterprises-hpcl-pine-labs-indigo-among-top-gainers-11782292573390.html",
-      "published": "Wed, 24 Jun 2026 16:01:22 +0530",
+      "published": "週三, 24 6月 2026 16:01:22 +0530",
       "compound": 0.8225,
       "pos": 0.251,
       "neg": 0.112,
@@ -534,14 +534,14 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "e79f8bd4a6c9",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Markets",
       "title": "Anubhav Plast IPO allotment expected today: Step-by-step guide to check your allotment status online",
       "summary": "The Anubhav Plast IPO allotment will be finalized today, with a subscription rate of nearly 2.20 times. Successful investors will see shares credited to their demat accounts on June 29, 2026, while refunds begin on June 25, 2026.",
       "url": "https://www.livemint.com/market/stock-market-news/anubhav-plast-ipo-allotment-expected-today-step-by-step-guide-to-check-your-allotment-status-online-11782290566559.html",
-      "published": "Wed, 24 Jun 2026 14:36:58 +0530",
+      "published": "週三, 24 6月 2026 14:36:58 +0530",
       "compound": 0.8176,
       "pos": 0.148,
       "neg": 0.0,
@@ -549,7 +549,7 @@
       "fin_score": 0.8176,
       "label": "BULLISH",
       "id": "b87e1c7c93d5",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -564,7 +564,7 @@
       "fin_score": 0.875,
       "label": "BULLISH",
       "id": "73eece1ce524",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -579,7 +579,7 @@
       "fin_score": 0.6597,
       "label": "BULLISH",
       "id": "9d88e178b5e1",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -594,7 +594,7 @@
       "fin_score": -0.1027,
       "label": "NEUTRAL",
       "id": "c209a0136b91",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -609,7 +609,7 @@
       "fin_score": -0.5848,
       "label": "BEARISH",
       "id": "a3a2be585a21",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -624,7 +624,7 @@
       "fin_score": 0.128,
       "label": "NEUTRAL",
       "id": "7aa8aa81fdfe",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -639,7 +639,7 @@
       "fin_score": 0.743,
       "label": "BULLISH",
       "id": "899bff65ffd9",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -654,7 +654,7 @@
       "fin_score": 0.2439,
       "label": "BULLISH",
       "id": "b659aeb9a22d",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -669,7 +669,7 @@
       "fin_score": 0.3818,
       "label": "BULLISH",
       "id": "50cd7f52bb71",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -684,7 +684,7 @@
       "fin_score": -0.9767,
       "label": "BEARISH",
       "id": "c409560bd732",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -699,7 +699,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "d6badf8bb408",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -714,7 +714,7 @@
       "fin_score": 0.25,
       "label": "BULLISH",
       "id": "6d3b99cd9db4",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -729,7 +729,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "f431df1216a7",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -744,7 +744,7 @@
       "fin_score": 0.1463,
       "label": "NEUTRAL",
       "id": "5cecc0a2a7f1",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -759,7 +759,7 @@
       "fin_score": -0.8574,
       "label": "BEARISH",
       "id": "72d4955713e0",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -774,7 +774,7 @@
       "fin_score": -0.6282,
       "label": "BEARISH",
       "id": "d6b4d2f45cbc",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -789,7 +789,7 @@
       "fin_score": -0.5994,
       "label": "BEARISH",
       "id": "aa37144fde56",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -804,7 +804,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "449b745e9eae",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -819,7 +819,7 @@
       "fin_score": 0.2574,
       "label": "BULLISH",
       "id": "6966a258935b",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -834,7 +834,7 @@
       "fin_score": 0.0772,
       "label": "NEUTRAL",
       "id": "686f66828f53",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -849,7 +849,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "c68223bbe409",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -864,7 +864,7 @@
       "fin_score": -0.1784,
       "label": "BEARISH",
       "id": "dad2c365ccc7",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -879,7 +879,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "40d9caca0835",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -894,7 +894,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "7deb0124fc7e",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -909,7 +909,7 @@
       "fin_score": -0.3966,
       "label": "BEARISH",
       "id": "7f9a97de12fd",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -924,7 +924,7 @@
       "fin_score": 0.7376,
       "label": "BULLISH",
       "id": "e38e6575b31b",
-      "fetched_at": "2026-06-25 10:35:39 IST"
+      "fetched_at": "2026-06-25 10:40:42 IST"
     }
   ]
 }
