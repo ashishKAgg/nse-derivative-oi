@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-25 12:35:38 IST",
+  "generated_at": "2026-06-25 12:40:43 IST",
   "total_articles": 60,
-  "bullish_count": 39,
-  "bearish_count": 15,
-  "neutral_count": 6,
-  "avg_fin_score": 0.2763,
-  "weighted_score": 0.3037,
+  "bullish_count": 35,
+  "bearish_count": 16,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2419,
+  "weighted_score": 0.2656,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Vodafone Idea, Motherson Sumi Wiring, YES Bank among most traded stocks on NSE today, 25 June 2026",
-    "Stock market holiday: Are BSE and NSE closed for trading tomorrow for Muharram? Check remaining holidays for 2026",
-    "Waterways Leisure Tourism IPO Day 3: Here's GMP, subscription status, other key details - apply or not?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Aviation stocks fly high: IndiGo, SpiceJet shares jump up to 6% as crude oil prices slip to below pre-US-Iran war levels",
-    "Direct impact of poor rains on inflation and growth is weakening. The indirect hit is harder to ignore.",
-    "Rupee opens 37 paise higher at 94.30 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
