@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-25 10:31:03 IST",
+  "generated_at": "2026-06-25 10:35:39 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 15,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2596,
-  "weighted_score": 0.2712,
+  "bullish_count": 41,
+  "bearish_count": 14,
+  "neutral_count": 5,
+  "avg_fin_score": 0.2888,
+  "weighted_score": 0.5473,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "South Korean AI chip stock SK Hynix share price surges 13% after unveiling $29 billion US listing plan",
+    "Nifty Auto jumps over 2%; Maruti, TVS Motor, Ashok Leyland, M&M among top gainers. Why are auto stocks rising?",
+    "Delhivery share sale: Logistics stock falls over 2% after Alpha Wave Ventures sells entire 1.93% stake"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens 37 paise higher at 94.30 against US dollar",
+    "Where is gold headed if the war ends?",
+    "Crude oil prices extend decline, reach pre-US-Iran war level; Brent slips to $73 per barrel"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
