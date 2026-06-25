@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-25 12:00:58 IST",
+  "generated_at": "2026-06-25 12:05:33 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 16,
-  "neutral_count": 8,
-  "avg_fin_score": 0.257,
-  "weighted_score": 0.2686,
+  "bullish_count": 40,
+  "bearish_count": 15,
+  "neutral_count": 5,
+  "avg_fin_score": 0.2712,
+  "weighted_score": 0.1973,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stock market holiday: Are BSE and NSE closed for trading tomorrow for Muharram? Check remaining holidays for 2026",
+    "Waterways Leisure Tourism IPO Day 3: Here's GMP, subscription status, other key details - apply or not?",
+    "CSM Technologies IPO Day 2: GMP, subscription status, price band, review, other key details. Should you subscribe?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Aviation stocks fly high: IndiGo, SpiceJet shares jump up to 6% as crude oil prices slip to below pre-US-Iran war levels",
+    "Direct impact of poor rains on inflation and growth is weakening. The indirect hit is harder to ignore.",
+    "Rupee opens 37 paise higher at 94.30 against US dollar"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "MoneyControl Comm",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
