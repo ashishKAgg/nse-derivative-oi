@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-25 15:31:20 IST",
+  "generated_at": "2026-06-25 15:35:35 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 16,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2406,
-  "weighted_score": 0.2636,
+  "bullish_count": 37,
+  "bearish_count": 17,
+  "neutral_count": 6,
+  "avg_fin_score": 0.2229,
+  "weighted_score": 0.3524,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Sensex drops 700 points from day's high to close flat, Nifty 50 ends near 24,050; mid, small-caps underperform",
+    "Nifty 50 up just 2% in last 2 years. Could a bull run be next amid falling oil prices, easing geopolitical risks?",
+    "Advik Laboratories’ rights issue stayed by Delhi High Court"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Muthoot Finance, Manappuram Finance shares decline up to 3.5% as gold prices hit multi-month lows",
+    "New India Assurance: FY27 profit may get capital gains boost from NSE stake sale, but watch underwriting loss",
+    "Aviation stocks fly high: IndiGo, SpiceJet shares jump up to 6% as crude oil prices slip to below pre-US-Iran war levels"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
