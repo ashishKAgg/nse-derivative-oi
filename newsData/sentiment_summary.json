@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-25 11:15:41 IST",
+  "generated_at": "2026-06-25 11:20:36 IST",
   "total_articles": 60,
-  "bullish_count": 41,
-  "bearish_count": 14,
-  "neutral_count": 5,
-  "avg_fin_score": 0.2818,
-  "weighted_score": 0.5281,
+  "bullish_count": 37,
+  "bearish_count": 15,
+  "neutral_count": 8,
+  "avg_fin_score": 0.2723,
+  "weighted_score": 0.2751,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "CSM Technologies IPO Day 2: GMP, subscription status, price band, review, other key details. Should you subscribe?",
-    "Multibagger stock HFCL share price hits 5% upper circuit following broader gains on Dalal Street; up 200% in 3 months",
-    "Dalmia Bharat share price gains as Goldman Sachs upgrades to ‘Buy’; sees 17% upside"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 37 paise higher at 94.30 against US dollar",
-    "Where is gold headed if the war ends?",
-    "Crude oil prices extend decline, reach pre-US-Iran war level; Brent slips to $73 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Top",
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts"
   ]
 }
