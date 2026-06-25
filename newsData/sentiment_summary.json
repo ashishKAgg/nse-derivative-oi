@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-25 16:20:47 IST",
+  "generated_at": "2026-06-25 16:25:34 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 17,
-  "neutral_count": 6,
-  "avg_fin_score": 0.2234,
-  "weighted_score": 0.4078,
+  "bullish_count": 35,
+  "bearish_count": 16,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2361,
+  "weighted_score": 0.2638,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "‘Korean markets are like small caps’, says Capitalmind Mutual Fund CEO Deepak Shenoy; Kospi jumps 5%",
-    "Top Gainers & Losers on June 25: HFCL, Tata Motors, IndiGo, CarTrade Tech, Paytm, UNO Minda among top gainers",
-    "Sensex drops 700 points from day's high to close flat, Nifty 50 ends near 24,050; mid, small-caps underperform"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Muthoot Finance, Manappuram Finance shares decline up to 3.5% as gold prices hit multi-month lows",
-    "New India Assurance: FY27 profit may get capital gains boost from NSE stake sale, but watch underwriting loss",
-    "Aviation stocks fly high: IndiGo, SpiceJet shares jump up to 6% as crude oil prices slip to below pre-US-Iran war levels"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "LiveMint Markets"
   ]
 }
