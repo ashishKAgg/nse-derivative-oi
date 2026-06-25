@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-25 09:31:04 IST",
+  "generated_at": "2026-06-25 09:35:36 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 14,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2611,
-  "weighted_score": 0.2705,
+  "bullish_count": 40,
+  "bearish_count": 15,
+  "neutral_count": 5,
+  "avg_fin_score": 0.2539,
+  "weighted_score": 0.4507,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stocks to buy or sell: Osho Krishan of Angel One suggests buying HDFC Bank, Emcure Pharma shares on 25 June",
+    "'There is no quick way to make money': Zerodha's Nithin Kamath issues warning that could save investors millions",
+    "Gold rate falls on MCX on a stronger dollar amid rising expectations of US Fed rate hikes; what should investors do?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens 37 paise higher at 94.30 against US dollar",
+    "Where is gold headed if the war ends?",
+    "Crude oil prices extend decline, reach pre-US-Iran war level; Brent slips to $73 per barrel"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
