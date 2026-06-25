@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-25 14:40:41 IST",
+  "generated_at": "2026-06-25 14:45:45 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 15,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2512,
-  "weighted_score": 0.2664,
+  "bullish_count": 37,
+  "bearish_count": 17,
+  "neutral_count": 6,
+  "avg_fin_score": 0.2182,
+  "weighted_score": 0.3006,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Advik Laboratories’ rights issue stayed by Delhi High Court",
+    "Silver price tanks 14% in a week leading to 9% decline in Hindustan Zinc share price. Is worst over for white metal?",
+    "Aastha Spintex IPO: Price band set at ₹125-136 per share; check key dates, issue details"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "New India Assurance: FY27 profit may get capital gains boost from NSE stake sale, but watch underwriting loss",
+    "Aviation stocks fly high: IndiGo, SpiceJet shares jump up to 6% as crude oil prices slip to below pre-US-Iran war levels",
+    "Direct impact of poor rains on inflation and growth is weakening. The indirect hit is harder to ignore."
   ],
   "sources_hit": [
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
