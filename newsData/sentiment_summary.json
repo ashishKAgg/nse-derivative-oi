@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-25 14:00:56 IST",
+  "generated_at": "2026-06-25 14:05:39 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 15,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2618,
-  "weighted_score": 0.2712,
+  "bullish_count": 38,
+  "bearish_count": 16,
+  "neutral_count": 6,
+  "avg_fin_score": 0.2506,
+  "weighted_score": 0.3884,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Silver price crashes over 50% from peak, falls below $60 an ounce; Can MCX silver rate fall below ₹2,00,000 per kg?",
+    "Crazy Snacks IPO day 1: GMP, subscription status, price band, other details of BSE SME IPO",
+    "Atharva Polyplast IPO: BSE SME declares price band at ₹55 to ₹60. GMP, date, other details in 10 points"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Aviation stocks fly high: IndiGo, SpiceJet shares jump up to 6% as crude oil prices slip to below pre-US-Iran war levels",
+    "Direct impact of poor rains on inflation and growth is weakening. The indirect hit is harder to ignore.",
+    "Rupee opens 37 paise higher at 94.30 against US dollar"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
