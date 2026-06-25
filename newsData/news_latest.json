@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-25 10:10:37 IST",
+  "generated_at": "2026-06-25 10:15:38 IST",
   "summary": {
-    "generated_at": "2026-06-25 10:10:37 IST",
+    "generated_at": "2026-06-25 10:15:38 IST",
     "total_articles": 60,
     "bullish_count": 37,
     "bearish_count": 15,
     "neutral_count": 8,
-    "avg_fin_score": 0.2572,
-    "weighted_score": 0.2692,
+    "avg_fin_score": 0.2491,
+    "weighted_score": 0.2671,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -21,10 +21,10 @@
       "Subramanian Swamy seeks ban on import of cement from Pakistan"
     ],
     "sources_hit": [
-      "MoneyControl Top",
-      "LiveMint Markets",
       "MoneyControl Comm",
-      "MoneyControl Mkts"
+      "MoneyControl Top",
+      "MoneyControl Mkts",
+      "LiveMint Markets"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,7 +581,37 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Delhivery share sale: Logistics stock falls over 2% after Alpha Wave Ventures sells entire 1.93% stake",
+      "summary": "Alpha Wave Ventures LP sold its entire 1.93% stake in Delhivery in two tranches on June 24. The Delhivery stake sale by Alpha Wave Ventures LP comes a few days after venture capital firm Nexus Venture Partners offloaded its 1.97% stake in Delhivery.",
+      "url": "https://www.livemint.com/market/stock-market-news/delhivery-share-sale-logistics-stock-falls-over-2-after-alpha-wave-ventures-sells-entire-1-93-stake-11782362107590.html",
+      "published": "Thu, 25 Jun 2026 10:11:48 +0530",
+      "compound": 0.296,
+      "pos": 0.037,
+      "neg": 0.0,
+      "neu": 0.963,
+      "fin_score": 0.196,
+      "label": "BULLISH",
+      "id": "c0e125e99e29",
+      "fetched_at": "2026-06-25 10:15:38 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Avience Biomedicals share price lists at 90% premium over the IPO price",
+      "summary": "Avience Biomedicals share price opened at ₹395.20 apiece on NSE SME. The SME stock listed at 90% premium over the IPO price of ₹208.",
+      "url": "https://www.livemint.com/market/stock-market-news/avience-biomedicals-share-price-lists-at-90-premium-over-the-ipo-price-11782361748054.html",
+      "published": "Thu, 25 Jun 2026 10:09:07 +0530",
+      "compound": 0.5267,
+      "pos": 0.115,
+      "neg": 0.0,
+      "neu": 0.885,
+      "fin_score": 0.5267,
+      "label": "BULLISH",
+      "id": "1618643f2d53",
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -596,7 +626,7 @@
       "fin_score": 0.6705,
       "label": "BULLISH",
       "id": "d76da0e7b99a",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -611,7 +641,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "26c2cee449ef",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -626,7 +656,7 @@
       "fin_score": 0.5271,
       "label": "BULLISH",
       "id": "12a05a8d9cd6",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -641,7 +671,7 @@
       "fin_score": 0.2869,
       "label": "BULLISH",
       "id": "bb44497c04a2",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -656,7 +686,7 @@
       "fin_score": -0.4594,
       "label": "BEARISH",
       "id": "54d3f34ff0ef",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -671,7 +701,7 @@
       "fin_score": -0.64,
       "label": "BEARISH",
       "id": "10a7856734d1",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -686,7 +716,7 @@
       "fin_score": 0.8225,
       "label": "BULLISH",
       "id": "712eb32c3a01",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -701,7 +731,7 @@
       "fin_score": 0.5139,
       "label": "BULLISH",
       "id": "94bf686c969c",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -716,7 +746,7 @@
       "fin_score": 0.4215,
       "label": "BULLISH",
       "id": "fa869c54f935",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -731,7 +761,7 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "bb8d06579e6e",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -746,7 +776,7 @@
       "fin_score": 0.9756,
       "label": "BULLISH",
       "id": "a483bc9f2a6d",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -761,7 +791,7 @@
       "fin_score": 0.9678,
       "label": "BULLISH",
       "id": "671c4fb62313",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -776,7 +806,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "4b6ef6724f8d",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -791,7 +821,7 @@
       "fin_score": 0.9477,
       "label": "BULLISH",
       "id": "d35958e7eeb8",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -806,7 +836,7 @@
       "fin_score": 0.6486,
       "label": "BULLISH",
       "id": "06826d8570bc",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -821,7 +851,7 @@
       "fin_score": 0.8624,
       "label": "BULLISH",
       "id": "a3425cb8ca5f",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -836,7 +866,7 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "367b525e199c",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -851,7 +881,7 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "1736465bd5a4",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -866,7 +896,7 @@
       "fin_score": 0.5423,
       "label": "BULLISH",
       "id": "e0983b8a0188",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -881,7 +911,7 @@
       "fin_score": 0.5859,
       "label": "BULLISH",
       "id": "c39155f31dd7",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -896,37 +926,7 @@
       "fin_score": 0.5686,
       "label": "BULLISH",
       "id": "1b9397c7f2cc",
-      "fetched_at": "2026-06-25 10:10:37 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Reliance Industries share price to be in focus on Thursday. Here's why",
-      "summary": "Reliance Industries' shares may gain interest after Karkinos Healthcare completed HPV DNA screening for over 100,000 women in India, expanding cervical cancer care access.&nbsp;",
-      "url": "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-to-be-in-focus-on-thursday-heres-why-11782313951944.html",
-      "published": "Wed, 24 Jun 2026 21:12:53 +0530",
-      "compound": 0.8225,
-      "pos": 0.289,
-      "neg": 0.091,
-      "neu": 0.62,
-      "fin_score": 0.8225,
-      "label": "BULLISH",
-      "id": "14c1117e48fc",
-      "fetched_at": "2026-06-25 10:10:37 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Has the SpaceX correction created a buying opportunity? Expert says, ‘stock will be volatile by nature but…’",
-      "summary": "SpaceX's valuation plummeted by over $600 billion in three days, raising questions among investors about buying opportunities versus warning signs. The stock experienced significant volatility post-IPO, with a substantial one-day decline.&nbsp;",
-      "url": "https://www.livemint.com/market/stock-market-news/has-the-spacex-correction-created-a-buying-opportunity-expert-says-stock-will-be-volatile-by-nature-but-11782308958102.html",
-      "published": "Wed, 24 Jun 2026 20:09:00 +0530",
-      "compound": 0.765,
-      "pos": 0.199,
-      "neg": 0.043,
-      "neu": 0.758,
-      "fin_score": 0.385,
-      "label": "BULLISH",
-      "id": "7df63c3d160f",
-      "fetched_at": "2026-06-25 10:10:37 IST"
+      "fetched_at": "2026-06-25 10:15:38 IST"
     }
   ]
 }
