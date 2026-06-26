@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-26 09:45:41 IST",
+  "generated_at": "2026-06-26 09:50:41 IST",
   "total_articles": 60,
-  "bullish_count": 35,
+  "bullish_count": 37,
   "bearish_count": 17,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2143,
-  "weighted_score": 0.256,
+  "neutral_count": 6,
+  "avg_fin_score": 0.213,
+  "weighted_score": 0.156,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Rajesh Palviya of Axis Sec suggests JSW Infrastructure, Ind-Swift Laboratories, Welspun Living shares to buy next week",
+    "Top 3 Kirloskar Group stocks to watch to add to your watchlist",
+    "Advit Jewels IPO: Focus shifts to allotment date. Latest GMP, step-by-step guide to check status"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold rate today slips below $4,000 for the first time since 2025, silver price also declines. Is a bigger crash coming?",
+    "Apple stock price slips 6%, posts worst day in over a year after MacBook, iPad price hikes",
+    "Asian stocks today: Nikkei, Kospi fall up to 8% amid tech stocks selloff"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
