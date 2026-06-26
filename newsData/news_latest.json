@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26 15:55:34 IST",
+  "generated_at": "2026-06-26 16:01:01 IST",
   "summary": {
-    "generated_at": "2026-06-26 15:55:34 IST",
+    "generated_at": "2026-06-26 16:01:01 IST",
     "total_articles": 60,
     "bullish_count": 33,
     "bearish_count": 19,
@@ -21,8 +21,8 @@
       "Bitcoin price tumbles below $60,000 to 20-month low as tech rout, rate fears rattle crypto market: What lies ahead?"
     ],
     "sources_hit": [
-      "LiveMint Markets",
-      "LiveMint Economy"
+      "LiveMint Economy",
+      "LiveMint Markets"
     ]
   },
   "articles": [
@@ -39,7 +39,7 @@
       "fin_score": 0.9106,
       "label": "BULLISH",
       "id": "014df82b357e",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -54,7 +54,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "02bbebf41726",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -69,7 +69,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "cd3aa9b433d4",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -84,7 +84,7 @@
       "fin_score": 0.802,
       "label": "BULLISH",
       "id": "c61e0328a922",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -99,7 +99,7 @@
       "fin_score": 0.9337,
       "label": "BULLISH",
       "id": "b6b127f97c54",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -114,7 +114,7 @@
       "fin_score": -0.3,
       "label": "BEARISH",
       "id": "f5c0fd6ce2d7",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -129,7 +129,7 @@
       "fin_score": 0.984,
       "label": "BULLISH",
       "id": "16647073c62a",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -144,7 +144,7 @@
       "fin_score": 0.5423,
       "label": "BULLISH",
       "id": "e6c0556bec6d",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -159,7 +159,7 @@
       "fin_score": 0.9135,
       "label": "BULLISH",
       "id": "644259e6992d",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -174,7 +174,7 @@
       "fin_score": -0.9108,
       "label": "BEARISH",
       "id": "42df3b498afc",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -189,7 +189,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "e4c73b6b5d82",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -204,7 +204,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "f59b83aa11c5",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -219,7 +219,7 @@
       "fin_score": -0.1134,
       "label": "NEUTRAL",
       "id": "8b32172e8cf9",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -234,7 +234,7 @@
       "fin_score": -0.6369,
       "label": "BEARISH",
       "id": "00911a84976d",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -249,7 +249,7 @@
       "fin_score": 0.7703,
       "label": "BULLISH",
       "id": "5b6fd10446eb",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -264,7 +264,7 @@
       "fin_score": 0.906,
       "label": "BULLISH",
       "id": "3bfc1d6f24c6",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -279,7 +279,7 @@
       "fin_score": -0.0531,
       "label": "NEUTRAL",
       "id": "a5d7855b5ea2",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -294,7 +294,7 @@
       "fin_score": 0.296,
       "label": "BULLISH",
       "id": "4a74b3aad5f4",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -309,7 +309,7 @@
       "fin_score": -0.63,
       "label": "BEARISH",
       "id": "1cc11425a2b2",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -324,7 +324,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "57cb95d646d2",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -339,7 +339,7 @@
       "fin_score": 0.8316,
       "label": "BULLISH",
       "id": "2f43d310ffba",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -354,7 +354,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "b5c8f81db93a",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -369,7 +369,7 @@
       "fin_score": -0.8269,
       "label": "BEARISH",
       "id": "278112b951f2",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -384,7 +384,7 @@
       "fin_score": -0.5204,
       "label": "BEARISH",
       "id": "08fcf4f6724a",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -399,7 +399,7 @@
       "fin_score": -0.9807,
       "label": "BEARISH",
       "id": "354c2de9139c",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -414,7 +414,7 @@
       "fin_score": 0.7964,
       "label": "BULLISH",
       "id": "eafab7757621",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -429,7 +429,7 @@
       "fin_score": 0.8274,
       "label": "BULLISH",
       "id": "5258456cf69c",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -444,7 +444,7 @@
       "fin_score": 0.8658,
       "label": "BULLISH",
       "id": "5e190be5e2b2",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -459,7 +459,7 @@
       "fin_score": -0.8074,
       "label": "BEARISH",
       "id": "320c4dacae2a",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -474,7 +474,7 @@
       "fin_score": 0.22,
       "label": "BULLISH",
       "id": "ee8b98df99bf",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -489,7 +489,7 @@
       "fin_score": 0.3818,
       "label": "BULLISH",
       "id": "aeae5b3ff545",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -504,7 +504,7 @@
       "fin_score": 0.9349,
       "label": "BULLISH",
       "id": "53d0f9fca7ff",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -519,7 +519,7 @@
       "fin_score": 0.6114,
       "label": "BULLISH",
       "id": "ee3128fa45f6",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -534,7 +534,7 @@
       "fin_score": 0.4939,
       "label": "BULLISH",
       "id": "7fc9ebe41386",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -549,7 +549,7 @@
       "fin_score": 0.7845,
       "label": "BULLISH",
       "id": "c730e792c139",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -564,7 +564,7 @@
       "fin_score": -0.1007,
       "label": "NEUTRAL",
       "id": "3b453a8efc80",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -579,7 +579,7 @@
       "fin_score": 0.5547,
       "label": "BULLISH",
       "id": "37c4c273271d",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -594,7 +594,7 @@
       "fin_score": -0.2263,
       "label": "BEARISH",
       "id": "5a1ae96380f8",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -609,7 +609,7 @@
       "fin_score": -0.5994,
       "label": "BEARISH",
       "id": "28664a885fd1",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -624,7 +624,7 @@
       "fin_score": 0.875,
       "label": "BULLISH",
       "id": "73eece1ce524",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -639,7 +639,7 @@
       "fin_score": 0.6597,
       "label": "BULLISH",
       "id": "9d88e178b5e1",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -654,7 +654,7 @@
       "fin_score": -0.1027,
       "label": "NEUTRAL",
       "id": "c209a0136b91",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -669,7 +669,7 @@
       "fin_score": -0.5848,
       "label": "BEARISH",
       "id": "a3a2be585a21",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -684,7 +684,7 @@
       "fin_score": 0.128,
       "label": "NEUTRAL",
       "id": "7aa8aa81fdfe",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -699,7 +699,7 @@
       "fin_score": 0.743,
       "label": "BULLISH",
       "id": "899bff65ffd9",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -714,7 +714,7 @@
       "fin_score": 0.2439,
       "label": "BULLISH",
       "id": "b659aeb9a22d",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -729,7 +729,7 @@
       "fin_score": 0.3818,
       "label": "BULLISH",
       "id": "50cd7f52bb71",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -744,7 +744,7 @@
       "fin_score": -0.9767,
       "label": "BEARISH",
       "id": "c409560bd732",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -759,7 +759,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "d6badf8bb408",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -774,7 +774,7 @@
       "fin_score": 0.25,
       "label": "BULLISH",
       "id": "6d3b99cd9db4",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -789,7 +789,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "f431df1216a7",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -804,7 +804,7 @@
       "fin_score": 0.1463,
       "label": "NEUTRAL",
       "id": "5cecc0a2a7f1",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -819,7 +819,7 @@
       "fin_score": -0.8574,
       "label": "BEARISH",
       "id": "72d4955713e0",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -834,7 +834,7 @@
       "fin_score": -0.6282,
       "label": "BEARISH",
       "id": "d6b4d2f45cbc",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -849,7 +849,7 @@
       "fin_score": -0.5994,
       "label": "BEARISH",
       "id": "aa37144fde56",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -864,7 +864,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "449b745e9eae",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -879,7 +879,7 @@
       "fin_score": 0.2574,
       "label": "BULLISH",
       "id": "6966a258935b",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -894,7 +894,7 @@
       "fin_score": 0.0772,
       "label": "NEUTRAL",
       "id": "686f66828f53",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -909,7 +909,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "c68223bbe409",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -924,7 +924,7 @@
       "fin_score": -0.1784,
       "label": "BEARISH",
       "id": "dad2c365ccc7",
-      "fetched_at": "2026-06-26 15:55:34 IST"
+      "fetched_at": "2026-06-26 16:01:01 IST"
     }
   ]
 }
