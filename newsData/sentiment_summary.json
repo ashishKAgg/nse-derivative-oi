@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-26 12:40:46 IST",
+  "generated_at": "2026-06-26 12:45:45 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 19,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1587,
-  "weighted_score": -0.1511,
-  "verdict": "BEARISH",
-  "verdict_color": "#dc3545",
+  "bullish_count": 30,
+  "bearish_count": 20,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1213,
+  "weighted_score": 0.2308,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Upcoming IPO: Sathya Agencies, Kanohar Electricals, Torrent Gas get SEBI nod to launch IPOs",
-    "Turtlemint Fintech IPO listing date on 29 June: Here’s what GMP hints ahead of debut",
-    "Is ITC stock nearing the end of a 21-month correction? Bajaj Broking sees a 14% rally in 6 months"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Bitcoin at $59,900 amid inflation concerns, here's what experts think lies ahead",
-    "Bitcoin price tumbles below $60,000 to 20-month low as tech rout, rate fears rattle crypto market: What lies ahead?",
-    "OpenAI IPO: ChatGPT maker considers delaying public issue to 2027, stresses on $1 trillion valuation, says report"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
     "LiveMint Markets"
   ]
 }
