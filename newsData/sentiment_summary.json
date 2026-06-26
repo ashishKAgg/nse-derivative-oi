@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-26 13:31:13 IST",
+  "generated_at": "2026-06-26 13:35:34 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 19,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1597,
-  "weighted_score": 0.2122,
+  "bullish_count": 30,
+  "bearish_count": 20,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1236,
+  "weighted_score": 0.2341,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Stocks to buy: Anand Rathi bullish on Hindustan Copper shares, sees 45% upside in the PSU stock; here’s why",
-    "Tata Motors PV is on a clear road. JLR remains the speed bump.",
-    "Upcoming IPO: Sathya Agencies, Kanohar Electricals, Torrent Gas get SEBI nod to launch IPOs"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Bitcoin at $59,900 amid inflation concerns, here's what experts think lies ahead",
-    "Bitcoin price tumbles below $60,000 to 20-month low as tech rout, rate fears rattle crypto market: What lies ahead?",
-    "OpenAI IPO: ChatGPT maker considers delaying public issue to 2027, stresses on $1 trillion valuation, says report"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
