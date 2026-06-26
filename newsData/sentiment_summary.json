@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-26 14:05:38 IST",
+  "generated_at": "2026-06-26 14:10:43 IST",
   "total_articles": 60,
   "bullish_count": 34,
   "bearish_count": 19,
   "neutral_count": 7,
-  "avg_fin_score": 0.1677,
-  "weighted_score": 0.1547,
+  "avg_fin_score": 0.1724,
+  "weighted_score": 0.3339,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
+    "IPO GMPs: CSM Technologies IPO vs Knack Packaging IPO vs Aastha Spintex IPO; here's what GMP hints",
     "HDFC Bank, ICICI Bank remain top bets as valuations stay attractive, says Kotak",
-    "Stocks to buy: Anand Rathi bullish on Hindustan Copper shares, sees 45% upside in the PSU stock; here’s why",
-    "Tata Motors PV is on a clear road. JLR remains the speed bump."
+    "Stocks to buy: Anand Rathi bullish on Hindustan Copper shares, sees 45% upside in the PSU stock; here’s why"
   ],
   "top_bearish": [
     "Foreign investors exit India funds as AI boom redirects capital. Will inflows return?",
