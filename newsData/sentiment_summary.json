@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-26 14:31:11 IST",
+  "generated_at": "2026-06-26 14:35:39 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 20,
-  "neutral_count": 10,
-  "avg_fin_score": 0.1455,
-  "weighted_score": 0.2424,
+  "bullish_count": 33,
+  "bearish_count": 19,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1625,
+  "weighted_score": 0.3832,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Multibagger small cap stock Standard Engineering share price to be in focus on Monday; here's why",
+    "IPO GMPs: CSM Technologies IPO vs Knack Packaging IPO vs Aastha Spintex IPO; here's what GMP hints",
+    "HDFC Bank, ICICI Bank remain top bets as valuations stay attractive, says Kotak"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Foreign investors exit India funds as AI boom redirects capital. Will inflows return?",
+    "Bitcoin at $59,900 amid inflation concerns, here's what experts think lies ahead",
+    "Bitcoin price tumbles below $60,000 to 20-month low as tech rout, rate fears rattle crypto market: What lies ahead?"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
