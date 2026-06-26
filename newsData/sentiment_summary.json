@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-26 12:01:00 IST",
+  "generated_at": "2026-06-26 12:05:36 IST",
   "total_articles": 60,
-  "bullish_count": 36,
+  "bullish_count": 33,
   "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1891,
-  "weighted_score": 0.1322,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1875,
+  "weighted_score": 0.2498,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Turtlemint Fintech IPO listing date on 29 June: Here’s what GMP hints ahead of debut",
-    "Is ITC stock nearing the end of a 21-month correction? Bajaj Broking sees a 14% rally in 6 months",
-    "Waterways Leisure Tourism IPO allotment next week. GMP, steps to check share allotment status online"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "OpenAI IPO: ChatGPT maker considers delaying public issue to 2027, stresses on $1 trillion valuation, says report",
-    "Gold rate today slips below $4,000 for the first time since 2025, silver price also declines. Is a bigger crash coming?",
-    "Apple stock price slips 6%, posts worst day in over a year after MacBook, iPad price hikes"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "LiveMint Markets"
   ]
 }
