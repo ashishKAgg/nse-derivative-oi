@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-29 15:50:41 IST",
+  "generated_at": "2026-06-29 15:55:37 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 14,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2644,
-  "weighted_score": 0.2724,
+  "bullish_count": 36,
+  "bearish_count": 18,
+  "neutral_count": 6,
+  "avg_fin_score": 0.1785,
+  "weighted_score": 0.1602,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stock market today: Sensex falls 400 points, Nifty 50 ends below 23,950; Reliance, Kotak Mahindra Bank among top drags",
+    "Small-cap stock under ₹50 jumps after announcement of amalgamation move",
+    "Hexaware Technologies stock gains 9% after expanding AI partnership with Anthropic"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Top Gainers & Losers on June 29: Persistent Systems, Netweb Tech, Astral, MRF, Berger Paints, OLA among top losers",
+    "Nifty IT index crashes 28% YTD. Buy or wait, as renewed US-Iran tension may jeopardise crude oil supply again?",
+    "The trade-off in the Persistent-Nagarro deal is hard to ignore"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
