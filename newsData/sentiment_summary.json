@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-29 15:31:13 IST",
+  "generated_at": "2026-06-29 15:35:35 IST",
   "total_articles": 60,
   "bullish_count": 37,
-  "bearish_count": 17,
-  "neutral_count": 6,
-  "avg_fin_score": 0.2054,
-  "weighted_score": 0.4711,
+  "bearish_count": 14,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2628,
+  "weighted_score": 0.2718,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Small-cap stock under ₹50 jumps after announcement of amalgamation move",
-    "Hexaware Technologies stock gains 9% after expanding AI partnership with Anthropic",
-    "Multibagger defence stock Apollo Micro Systems jumps 7% despite stock market sell-off"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Nifty IT index crashes 28% YTD. Buy or wait, as renewed US-Iran tension may jeopardise crude oil supply again?",
-    "The trade-off in the Persistent-Nagarro deal is hard to ignore",
-    "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
