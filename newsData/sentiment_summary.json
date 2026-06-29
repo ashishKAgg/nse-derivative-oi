@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-29 14:01:00 IST",
+  "generated_at": "2026-06-29 14:05:33 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1791,
-  "weighted_score": 0.4198,
+  "bullish_count": 35,
+  "bearish_count": 16,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2387,
+  "weighted_score": 0.2659,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Can Astral's demerger catalyze chemicals growth?",
-    "Radico Khaitan, Allied Blenders shares get Jefferies’ ‘Buy’ rating; up to 25% upside seen; Should you buy?",
-    "Advit Jewels IPO allotment to be finalised today. Here's GMP, how to check status"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "The trade-off in the Persistent-Nagarro deal is hard to ignore",
-    "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?",
-    "IOC, HPCL to BPCL: OMC stocks dip on rising crude oil prices. ONGC, Oil India stocks gain"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
