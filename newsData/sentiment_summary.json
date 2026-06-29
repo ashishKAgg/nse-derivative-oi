@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29 13:15:45 IST",
+  "generated_at": "2026-06-29 13:20:44 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 17,
+  "bullish_count": 36,
+  "bearish_count": 18,
   "neutral_count": 6,
-  "avg_fin_score": 0.186,
-  "weighted_score": 0.4424,
+  "avg_fin_score": 0.1788,
+  "weighted_score": 0.2652,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
@@ -14,9 +14,9 @@
     "Vinay Rajani of HDFC Sec suggests L&T Finance, Welspun Enterprises shares to buy in near-term"
   ],
   "top_bearish": [
+    "Persistent-Nagarro deal: High on diversification, low on margin comfort",
     "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?",
-    "IOC, HPCL to BPCL: OMC stocks dip on rising crude oil prices. ONGC, Oil India stocks gain",
-    "Gold rate declines on MCX as fresh escalations in US-Iran tensions drive oil prices up, fueling US Fed rate-hike bets"
+    "IOC, HPCL to BPCL: OMC stocks dip on rising crude oil prices. ONGC, Oil India stocks gain"
   ],
   "sources_hit": [
     "LiveMint Markets",
