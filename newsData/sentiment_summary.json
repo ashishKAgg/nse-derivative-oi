@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-29 09:15:43 IST",
+  "generated_at": "2026-06-29 09:20:38 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 18,
+  "bullish_count": 34,
+  "bearish_count": 17,
   "neutral_count": 9,
-  "avg_fin_score": 0.1384,
-  "weighted_score": 0.2591,
+  "avg_fin_score": 0.1821,
+  "weighted_score": 0.2499,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Stocks to buy for short term: Anand Rathi's Jigar Patel recommends 3 shares for next 1-2 weeks; do you own any?",
-    "Waterways Leisure Tourism IPO allotment date likely today. GMP, steps to check share allotment status online",
-    "CSM Technologies IPO Day 3: Issue booked 66% so far. Check GMP, key dates, review. Should you apply or skip?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "US dollar set to log highest monthly gain in one-year. US-Iran war, job data in focus",
-    "Asian stocks today: Kospi, Nikkei crash up to 3% on escalation in US-Iran war",
-    "Crude oil prices rise amid escalating US-Iran war, supply fears; Brent above $70 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Top",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
