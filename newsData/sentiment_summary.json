@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-29 14:35:39 IST",
+  "generated_at": "2026-06-29 14:40:45 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1757,
-  "weighted_score": 0.1002,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 35,
+  "bearish_count": 16,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2213,
+  "weighted_score": 0.261,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Jivial Industries IPO allotment likely to be out today. Here's step-by-step guide on how to check status",
-    "Can Astral's demerger catalyze chemicals growth?",
-    "Radico Khaitan, Allied Blenders shares get Jefferies’ ‘Buy’ rating; up to 25% upside seen; Should you buy?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Nifty IT index crashes 28% YTD. Buy or wait, as renewed US-Iran tension may jeopardise crude oil supply again?",
-    "The trade-off in the Persistent-Nagarro deal is hard to ignore",
-    "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
