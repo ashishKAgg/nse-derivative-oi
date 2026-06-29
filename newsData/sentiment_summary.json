@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-29 15:00:58 IST",
+  "generated_at": "2026-06-29 15:05:35 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 15,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2454,
-  "weighted_score": 0.2671,
+  "bullish_count": 37,
+  "bearish_count": 17,
+  "neutral_count": 6,
+  "avg_fin_score": 0.2001,
+  "weighted_score": 0.3724,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Multibagger defence stock Apollo Micro Systems jumps 7% despite stock market sell-off",
+    "Big boost for Zee Media Corporation! Mauritius-based FII raises stake to 5.04%",
+    "Stock market strategy: Buy on dips or sell on rallies? Here’s what experts recommend"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Nifty IT index crashes 28% YTD. Buy or wait, as renewed US-Iran tension may jeopardise crude oil supply again?",
+    "The trade-off in the Persistent-Nagarro deal is hard to ignore",
+    "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
