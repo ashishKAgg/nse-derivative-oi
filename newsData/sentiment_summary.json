@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-29 12:45:44 IST",
+  "generated_at": "2026-06-29 12:50:40 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1676,
-  "weighted_score": 0.4371,
+  "bullish_count": 35,
+  "bearish_count": 16,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2233,
+  "weighted_score": 0.262,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "IPO GMPs: Advit Jewels IPO, CSM Technologies IPO to Knack Packaging IPO; here's what GMP hints",
-    "Small-cap stock Blue Cloud Softech Solution has been empanelled by BSNL. Details here",
-    "Kotak Mahindra Bank shares drop over 3% as CEO Ashok Vaswani opts out of second term"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?",
-    "IOC, HPCL to BPCL: OMC stocks dip on rising crude oil prices. ONGC, Oil India stocks gain",
-    "Gold rate declines on MCX as fresh escalations in US-Iran tensions drive oil prices up, fueling US Fed rate-hike bets"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
