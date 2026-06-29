@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-29 09:25:36 IST",
+  "generated_at": "2026-06-29 09:31:07 IST",
   "total_articles": 60,
   "bullish_count": 35,
   "bearish_count": 17,
   "neutral_count": 8,
-  "avg_fin_score": 0.1756,
-  "weighted_score": 0.2805,
+  "avg_fin_score": 0.1966,
+  "weighted_score": 0.2545,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Aastha Spintex IPO Day 1: GMP, subscription status, review, other details. Apply or not?",
-    "Rupee opens 5 paise higher at 94.35 against US dollar",
-    "Stocks to buy for short term: Anand Rathi's Jigar Patel recommends 3 shares for next 1-2 weeks; do you own any?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold rate declines on MCX as fresh escalations in US-Iran tensions drive oil prices up, fueling US Fed rate-hike bets",
-    "US dollar set to log highest monthly gain in one-year. US-Iran war, job data in focus",
-    "Asian stocks today: Kospi, Nikkei crash up to 3% on escalation in US-Iran war"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Top",
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts"
   ]
 }
