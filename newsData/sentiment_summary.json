@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-29 14:45:44 IST",
+  "generated_at": "2026-06-29 14:50:43 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 16,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2213,
-  "weighted_score": 0.261,
+  "bullish_count": 37,
+  "bearish_count": 17,
+  "neutral_count": 6,
+  "avg_fin_score": 0.2144,
+  "weighted_score": 0.4519,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stock market strategy: Buy on dips or sell on rallies? Here’s what experts recommend",
+    "NBFC stock Aptus Value Housing Finance climbs over 3%; Citi sees over 30% upside potential",
+    "Jivial Industries IPO allotment likely to be out today. Here's step-by-step guide on how to check status"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Nifty IT index crashes 28% YTD. Buy or wait, as renewed US-Iran tension may jeopardise crude oil supply again?",
+    "The trade-off in the Persistent-Nagarro deal is hard to ignore",
+    "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "MoneyControl Comm",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
