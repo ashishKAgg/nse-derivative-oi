@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-29 10:00:57 IST",
+  "generated_at": "2026-06-29 10:05:34 IST",
   "total_articles": 60,
   "bullish_count": 34,
-  "bearish_count": 19,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1503,
-  "weighted_score": 0.1344,
+  "bearish_count": 18,
+  "neutral_count": 8,
+  "avg_fin_score": 0.1873,
+  "weighted_score": 0.2506,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Transrail Lighting share price jumps 4% after winning overseas orders worth ₹459 crore",
-    "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Kotak Mahindra Bank shares on 29 June",
-    "Aastha Spintex IPO Day 1: GMP, subscription status, review, other details. Apply or not?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Persistent Systems share price crashes 9% to hit a 52-week low; is it a stock to buy?",
-    "IOC, HPCL to BPCL: OMC stocks dip on rising crude oil prices. ONGC, Oil India stocks gain",
-    "Gold rate declines on MCX as fresh escalations in US-Iran tensions drive oil prices up, fueling US Fed rate-hike bets"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm",
     "LiveMint Markets"
   ]
 }
