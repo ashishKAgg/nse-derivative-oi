@@ -1948,3 +1948,4 @@ computed_at,spot,atm_strike,atm_iv,iv_rank,iv_pctile,verdict
 2026-06-30 09:55:44 IST,23857.05,23850,28.2,29.8,97.9,IV NORMAL — No edge from volatility alone
 2026-06-30 10:01:05 IST,23868.1,23850,28.14,29.7,97.8,IV NORMAL — No edge from volatility alone
 2026-06-30 10:05:44 IST,23882.55,23900,27.31,28.4,97.5,IV NORMAL — No edge from volatility alone
+2026-06-30 10:10:53 IST,23915.8,23900,26.11,26.6,96.2,IV NORMAL — No edge from volatility alone
