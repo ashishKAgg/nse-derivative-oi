@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-30 09:25:30 IST",
+  "generated_at": "2026-06-30 09:31:13 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 16,
-  "neutral_count": 12,
-  "avg_fin_score": 0.1957,
-  "weighted_score": 0.255,
+  "bullish_count": 36,
+  "bearish_count": 14,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2149,
+  "weighted_score": 0.2164,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "SIS announces ₹120 crore share buyback, fifth since listing; check details",
+    "Stocks to buy for short term: Trent, Torrent Pharma among 6 stocks experts recommend for next 1-2 weeks",
+    "CSM Technologies IPO allotment date likely today. GMP, steps to check share allotment status online"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens marginally weaker at 94.57 against US dollar",
+    "Crude oil prices fall on possible US-Iran talks; Brent near $72 per barrel",
+    "How retail came to life in currency derivatives during war"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
