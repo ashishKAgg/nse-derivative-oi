@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-30 13:45:53 IST",
+  "generated_at": "2026-06-30 13:50:48 IST",
   "total_articles": 60,
-  "bullish_count": 35,
+  "bullish_count": 36,
   "bearish_count": 14,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2479,
-  "weighted_score": 0.2678,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "neutral_count": 10,
+  "avg_fin_score": 0.2243,
+  "weighted_score": 0.0801,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Zerodha's Nithin Kamath reveals the simple investing formula most people ignore",
+    "Atharva Polyplast IPO Day 1: Issue subscribed 67% so far. Check GMP, key details",
+    "Sampark India Logistics IPO Day 1: SME IPO opens today - check GMP, subscription status, and other details"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Is HDFC Bank’s leadership reset the missing piece of the puzzle?",
+    "Japanese yen slides to 40-year low against the US dollar",
+    "Bitcoin price falls below $60,000 again: Experts reveal key levels to watch for the cryptocurrency - What lies ahead?"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
