@@ -1,10 +1,10 @@
 {
-  "computed_at": "2026-06-30 15:10:55 IST",
-  "spot": 23840.95,
+  "computed_at": "2026-06-30 15:15:55 IST",
+  "spot": 23847.45,
   "atm_strike": 23850,
-  "atm_iv": 21.77,
-  "iv_rank": 20.1,
-  "iv_pctile": 77.2,
-  "verdict": "IV NORMAL \u2014 No edge from volatility alone",
-  "verdict_color": "#6c757d"
+  "atm_iv": 17.35,
+  "iv_rank": 13.4,
+  "iv_pctile": 58.2,
+  "verdict": "IV LOW \u2014 Options cheap, big move expected",
+  "verdict_color": "#28a745"
 }
