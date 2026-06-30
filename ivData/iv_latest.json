@@ -1,10 +1,10 @@
 {
-  "computed_at": "2026-06-30 09:45:54 IST",
-  "spot": 23876.4,
-  "atm_strike": 23900,
-  "atm_iv": 27.84,
-  "iv_rank": 29.2,
-  "iv_pctile": 97.9,
+  "computed_at": "2026-06-30 09:50:52 IST",
+  "spot": 23872.0,
+  "atm_strike": 23850,
+  "atm_iv": 28.4,
+  "iv_rank": 30.1,
+  "iv_pctile": 98.0,
   "verdict": "IV NORMAL \u2014 No edge from volatility alone",
   "verdict_color": "#6c757d"
 }
