@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-30 11:31:11 IST",
+  "generated_at": "2026-06-30 11:35:42 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 16,
-  "neutral_count": 10,
-  "avg_fin_score": 0.234,
-  "weighted_score": 0.2642,
+  "bullish_count": 35,
+  "bearish_count": 14,
+  "neutral_count": 11,
+  "avg_fin_score": 0.221,
+  "weighted_score": 0.4486,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Vinit Mobile IPO opens today; GMP, subscription status, price band, other key details of SME IPO",
+    "Teja Engineering Industries IPO opens today. GMP, subscription status, other details of NSE SME IPO in 10 points",
+    "Healthcare stock Park Medi World hits record high despite weak trends on Dalal Street"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Japanese yen slides to 40-year low against the US dollar",
+    "Bitcoin price falls below $60,000 again: Experts reveal key levels to watch for the cryptocurrency - What lies ahead?",
+    "Rupee opens marginally weaker at 94.57 against US dollar"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
