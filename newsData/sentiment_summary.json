@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-06-30 15:15:46 IST",
+  "generated_at": "2026-06-30 15:20:44 IST",
   "total_articles": 60,
-  "bullish_count": 36,
+  "bullish_count": 37,
   "bearish_count": 13,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2664,
-  "weighted_score": 0.2709,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2337,
+  "weighted_score": 0.4172,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Penny stock under ₹10 hits 5% upper circuit. Details here",
+    "Gold vs Silver: Which commodity offers better return potential in H2 CY26?",
+    "Upcoming IPO: Fibe parent Social Worth Technologies files DRHP with SEBI for IPO"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Is HDFC Bank’s leadership reset the missing piece of the puzzle?",
+    "Japanese yen slides to 40-year low against the US dollar",
+    "Bitcoin price falls below $60,000 again: Experts reveal key levels to watch for the cryptocurrency - What lies ahead?"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
