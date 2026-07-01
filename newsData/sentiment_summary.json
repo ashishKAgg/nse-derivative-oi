@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-01 09:35:34 IST",
+  "generated_at": "2026-07-01 09:40:48 IST",
   "total_articles": 60,
   "bullish_count": 31,
-  "bearish_count": 19,
-  "neutral_count": 10,
-  "avg_fin_score": 0.17,
-  "weighted_score": 0.2457,
+  "bearish_count": 20,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1525,
+  "weighted_score": 0.2008,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Zee Media raises ₹19.12 crore as Singapore-based FII ups stake to 3.33%; converts 3 crore warrants into equity shares",
+    "Here are the stocks where the government could do OFS",
+    "Aastha Spintex IPO Day 3: Last day to buy; check GMP, subscription status, and other details - Apply or not?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens 2 paise lower at 94.68 against US dollar",
+    "MFs wary of Sebi plan to allow celeb ads, cite mis-selling, edge for big entities",
+    "Stock market today: Gift Nifty hints flat start; US-Iran talks, weak yen to crude oil prices - 8 stocks to buy or sell"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
