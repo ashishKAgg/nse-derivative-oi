@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-01 13:05:45 IST",
+  "generated_at": "2026-07-01 13:10:47 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 16,
-  "neutral_count": 12,
-  "avg_fin_score": 0.2456,
-  "weighted_score": 0.2694,
+  "bullish_count": 33,
+  "bearish_count": 19,
+  "neutral_count": 8,
+  "avg_fin_score": 0.2124,
+  "weighted_score": 0.5218,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stocks to buy for the long term: Axis Bank, Delhivery among Ventura's top picks with 19% to 58% upside",
+    "Route Mobile share price jumps after partnership with Truecaller",
+    "RailTel share price rallies 5.5% on new order win worth ₹108 crore . Do you own?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Jivial Industries share price slips over 3% after lacklustre debut",
+    "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell?",
+    "MFs wary of Sebi plan to allow celeb ads, cite mis-selling, edge for big entities"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
