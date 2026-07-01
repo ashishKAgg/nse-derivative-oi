@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-01 14:35:40 IST",
+  "generated_at": "2026-07-01 14:40:48 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 15,
-  "neutral_count": 12,
-  "avg_fin_score": 0.265,
-  "weighted_score": 0.2714,
+  "bullish_count": 34,
+  "bearish_count": 17,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2442,
+  "weighted_score": 0.4102,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Advit Jewels share price hits 5% lower circuit after bumper debut. Should you buy, sell or hold?",
+    "Manufacturing PMI: Inflation pressure is receding, so is growth",
+    "Samir Arora of Helios Capital backs SIPs, challenges critics: 'Prove market timing works'"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "India sits out the global bull run in the first half of 2026",
+    "Jivial Industries share price slips over 3% after lacklustre debut",
+    "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell?"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Comm",
-    "MoneyControl Top",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
