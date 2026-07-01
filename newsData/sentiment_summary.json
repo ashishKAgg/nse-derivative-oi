@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-01 14:15:48 IST",
+  "generated_at": "2026-07-01 14:20:49 IST",
   "total_articles": 60,
-  "bullish_count": 35,
+  "bullish_count": 34,
   "bearish_count": 17,
-  "neutral_count": 8,
-  "avg_fin_score": 0.256,
-  "weighted_score": 0.2185,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2442,
+  "weighted_score": 0.4102,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
+    "Advit Jewels share price hits 5% lower circuit after bumper debut. Should you buy, sell or hold?",
     "Manufacturing PMI: Inflation pressure is receding, so is growth",
-    "Samir Arora of Helios Capital backs SIPs, challenges critics: 'Prove market timing works'",
-    "Cartrade Tech share price jumps 6%. Nomura sees more big upside"
+    "Samir Arora of Helios Capital backs SIPs, challenges critics: 'Prove market timing works'"
   ],
   "top_bearish": [
     "India sits out the global bull run in the first half of 2026",
@@ -19,7 +19,7 @@
     "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell?"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "LiveMint Economy"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
