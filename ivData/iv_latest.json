@@ -1,7 +1,7 @@
 {
-  "computed_at": "2026-07-01 12:45:56 IST",
-  "spot": 24032.75,
-  "atm_strike": 24050,
+  "computed_at": "2026-07-01 12:50:54 IST",
+  "spot": 24023.2,
+  "atm_strike": 24000,
   "atm_iv": 12.57,
   "iv_rank": 6.1,
   "iv_pctile": 13.4,
