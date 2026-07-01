@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-01 15:50:43 IST",
+  "generated_at": "2026-07-01 15:55:40 IST",
   "total_articles": 60,
   "bullish_count": 32,
-  "bearish_count": 17,
-  "neutral_count": 11,
-  "avg_fin_score": 0.24,
-  "weighted_score": 0.2627,
+  "bearish_count": 19,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2067,
+  "weighted_score": 0.3142,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Top Gainers & losers on 1 July: Reliance Power, Delhivery, Eternal, Paytm, MCX, Dabur India among top gainers",
+    "Sensex rises over 400 points, Nifty 50 ends above 24,000; investors earn over ₹2 lakh crore in a day",
+    "Aurobindo Pharma’s investors await next leg of growth"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Japanese Yen sinks to weakest level since 1986: 3 reasons behind the historic slide",
+    "Infosys shares slip below ₹1,000 for first time since 2020 as IT rout deepens; m-cap falls to ₹4 lakh crore",
+    "Expert view: A smooth rally unlikely in short term; markets not out of macro woods, says Rishabh Nahar of Qode Advisors"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
