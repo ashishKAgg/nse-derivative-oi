@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-01 15:05:37 IST",
+  "generated_at": "2026-07-01 15:10:46 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 17,
-  "neutral_count": 11,
-  "avg_fin_score": 0.2392,
-  "weighted_score": 0.2625,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 31,
+  "bearish_count": 20,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1841,
+  "weighted_score": 0.1196,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Aurobindo Pharma’s investors await next leg of growth",
+    "Advit Jewels share price hits 5% lower circuit after bumper debut. Should you buy, sell or hold?",
+    "Manufacturing PMI: Inflation pressure is receding, so is growth"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Japanese Yen sinks to weakest level since 1986: 3 reasons behind the historic slide",
+    "Infosys shares slip below ₹1,000 for first time since 2020 as IT rout deepens; m-cap falls to ₹4 lakh crore",
+    "Expert view: A smooth rally unlikely in short term; markets not out of macro woods, says Rishabh Nahar of Qode Advisors"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
