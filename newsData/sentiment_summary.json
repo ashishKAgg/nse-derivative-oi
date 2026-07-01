@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-01 15:40:47 IST",
+  "generated_at": "2026-07-01 15:45:45 IST",
   "total_articles": 60,
   "bullish_count": 32,
   "bearish_count": 19,
   "neutral_count": 9,
-  "avg_fin_score": 0.2146,
-  "weighted_score": 0.3171,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "avg_fin_score": 0.2228,
+  "weighted_score": 0.0282,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex rises over 400 points, Nifty 50 ends above 24,000; investors earn over ₹2 lakh crore in a day",
-    "Aurobindo Pharma’s investors await next leg of growth",
-    "Advit Jewels share price hits 5% lower circuit after bumper debut. Should you buy, sell or hold?"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Japanese Yen sinks to weakest level since 1986: 3 reasons behind the historic slide",
-    "Infosys shares slip below ₹1,000 for first time since 2020 as IT rout deepens; m-cap falls to ₹4 lakh crore",
-    "Expert view: A smooth rally unlikely in short term; markets not out of macro woods, says Rishabh Nahar of Qode Advisors"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
+    "LiveMint Economy",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
