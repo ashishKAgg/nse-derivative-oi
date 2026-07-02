@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-02 09:10:47 IST",
+  "generated_at": "2026-07-02 09:15:45 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 22,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1341,
-  "weighted_score": 0.2502,
+  "bullish_count": 35,
+  "bearish_count": 15,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2375,
+  "weighted_score": 0.2636,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Momentum investing stages sharp comeback after 15-month lull",
-    "Stocks to buy for short term: NBCC among 3 shares Amol Athawale of Kotak Securities recommends for next 1-2 weeks",
-    "Knack Packaging IPO Day 2: Issue subscribed 2.60x so far. Check GMP, key dates, review. Apply or not?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Crude oil prices extend decline for third session amid ongoing US-Iran talks; Brent crude near $70 per barrel",
-    "Asian stocks today: South Korea's Kospi falls 5%, Japan's Nikkei 225 plunges 2% over AI concerns",
-    "Gold, silver prices today: Comex gains as softer US jobs data, Warsh remarks ease Fed hike bets"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
