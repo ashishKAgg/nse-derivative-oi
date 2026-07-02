@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-02 15:31:22 IST",
+  "generated_at": "2026-07-02 15:35:41 IST",
   "total_articles": 60,
   "bullish_count": 37,
-  "bearish_count": 15,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2873,
-  "weighted_score": 0.2784,
+  "bearish_count": 19,
+  "neutral_count": 4,
+  "avg_fin_score": 0.2213,
+  "weighted_score": 0.5156,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Sensex jumps 600 points, Nifty 50 ends above 24,150; investors earn ₹3 lakh crore. What drove the market higher?",
+    "Tata Technologies shares jump 9% after expanding strategic partnership with Tenneco",
+    "Can Nifty 50 end 2026 on a high after a brutal first half? Top sectors and stocks that could deliver solid gains"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Room AC firms set to have a moment in the sun?",
+    "Can WeWork India's managed-office bet pay off?",
+    "Rupee opens 32 paise higher at 94.93 against US dollar"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
