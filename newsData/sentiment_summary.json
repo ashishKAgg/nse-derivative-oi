@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-02 14:20:50 IST",
+  "generated_at": "2026-07-02 14:25:38 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 19,
-  "neutral_count": 4,
-  "avg_fin_score": 0.2124,
-  "weighted_score": 0.4808,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 39,
+  "bearish_count": 16,
+  "neutral_count": 5,
+  "avg_fin_score": 0.2707,
+  "weighted_score": 0.0526,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Can Nifty 50 end 2026 on a high after a brutal first half? Top sectors and stocks that could deliver solid gains",
-    "Kajaria Ceramics buyback opens July 3: Check key dates, price, eligibility, and more",
-    "Upcoming IPO: FirstCry-backed Swara Baby Products files draft papers to raise over ₹1,000 crore via IPO. Details here"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Room AC firms set to have a moment in the sun?",
-    "Can WeWork India's managed-office bet pay off?",
-    "Rupee opens 32 paise higher at 94.93 against US dollar"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
     "LiveMint Markets",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "MoneyControl Top",
     "LiveMint Economy"
   ]
 }
