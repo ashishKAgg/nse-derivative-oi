@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 16:20:48 IST",
+  "generated_at": "2026-07-02 16:25:35 IST",
   "total_articles": 60,
   "bullish_count": 39,
   "bearish_count": 16,
@@ -19,10 +19,10 @@
     "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "LiveMint Economy",
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
