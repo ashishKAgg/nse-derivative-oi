@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-02 11:10:49 IST",
+  "generated_at": "2026-07-02 11:15:42 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 21,
-  "neutral_count": 4,
-  "avg_fin_score": 0.1733,
-  "weighted_score": 0.4704,
+  "bullish_count": 36,
+  "bearish_count": 15,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2567,
+  "weighted_score": 0.271,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Adon Agro Commodities IPO share allotment in focus today: GMP, 4 steps to check status online",
-    "Multibagger Alert! Vedanta Iron and Steel share price soars 113% since listing - More upside ahead?",
-    "CSM Technologies share price makes flat debut, lists at IPO price of ₹113"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 32 paise higher at 94.93 against US dollar",
-    "Crude oil prices extend decline for third session amid ongoing US-Iran talks; Brent crude near $70 per barrel",
-    "Asian stocks today: South Korea's Kospi falls 5%, Japan's Nikkei 225 plunges 2% over AI concerns"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
