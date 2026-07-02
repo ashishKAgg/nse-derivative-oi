@@ -1,27 +1,28 @@
 {
-  "generated_at": "2026-07-02 16:15:45 IST",
+  "generated_at": "2026-07-02 16:20:48 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 14,
-  "neutral_count": 8,
-  "avg_fin_score": 0.314,
-  "weighted_score": 0.2853,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 39,
+  "bearish_count": 16,
+  "neutral_count": 5,
+  "avg_fin_score": 0.2784,
+  "weighted_score": 0.0603,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
     "MoneyControl Top",
+    "MoneyControl Comm",
     "MoneyControl Mkts",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
