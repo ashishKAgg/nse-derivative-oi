@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-02 12:35:40 IST",
+  "generated_at": "2026-07-02 12:40:45 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 20,
-  "neutral_count": 4,
-  "avg_fin_score": 0.1974,
-  "weighted_score": 0.278,
+  "bullish_count": 35,
+  "bearish_count": 16,
+  "neutral_count": 9,
+  "avg_fin_score": 0.24,
+  "weighted_score": 0.2674,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Margin trading: why discount brokers are betting big on MTF despite the risks",
-    "Nifty IT jumps over 4%; Infosys, TCS shares surge up to 5%. Should you buy IT stocks at this juncture?",
-    "CSM Technologies share price hits 5% lower circuit after flat listing. Should you buy, sell or hold?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Can WeWork India's managed-office bet pay off?",
-    "Rupee opens 32 paise higher at 94.93 against US dollar",
-    "Crude oil prices extend decline for third session amid ongoing US-Iran talks; Brent crude near $70 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
