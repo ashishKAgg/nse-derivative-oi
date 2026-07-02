@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-02 14:01:09 IST",
+  "generated_at": "2026-07-02 14:05:38 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 19,
-  "neutral_count": 4,
-  "avg_fin_score": 0.2124,
-  "weighted_score": 0.4808,
+  "bullish_count": 36,
+  "bearish_count": 15,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2723,
+  "weighted_score": 0.2744,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Can Nifty 50 end 2026 on a high after a brutal first half? Top sectors and stocks that could deliver solid gains",
-    "Kajaria Ceramics buyback opens July 3: Check key dates, price, eligibility, and more",
-    "Upcoming IPO: FirstCry-backed Swara Baby Products files draft papers to raise over ₹1,000 crore via IPO. Details here"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Room AC firms set to have a moment in the sun?",
-    "Can WeWork India's managed-office bet pay off?",
-    "Rupee opens 32 paise higher at 94.93 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Comm"
   ]
 }
