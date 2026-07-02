@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-02 10:31:09 IST",
+  "generated_at": "2026-07-02 10:35:37 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 19,
-  "neutral_count": 5,
-  "avg_fin_score": 0.2175,
-  "weighted_score": 0.0358,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 34,
+  "bearish_count": 22,
+  "neutral_count": 4,
+  "avg_fin_score": 0.1594,
+  "weighted_score": 0.5128,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Multibagger Alert! Vedanta Iron and Steel share price soars 113% since listing - More upside ahead?",
+    "CSM Technologies share price makes flat debut, lists at IPO price of ₹113",
+    "Stocks to buy or sell: Osho Krishan of Angel One suggests buying CDSL, Indian Hotels shares on 2 July"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Rupee opens 32 paise higher at 94.93 against US dollar",
+    "Crude oil prices extend decline for third session amid ongoing US-Iran talks; Brent crude near $70 per barrel",
+    "Asian stocks today: South Korea's Kospi falls 5%, Japan's Nikkei 225 plunges 2% over AI concerns"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "LiveMint Economy"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
