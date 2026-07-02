@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-02 13:20:51 IST",
+  "generated_at": "2026-07-02 13:25:40 IST",
   "total_articles": 60,
   "bullish_count": 36,
-  "bearish_count": 20,
-  "neutral_count": 4,
-  "avg_fin_score": 0.1765,
-  "weighted_score": 0.2962,
+  "bearish_count": 15,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2636,
+  "weighted_score": 0.2711,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Upcoming IPO: FirstCry-backed Swara Baby Products files draft papers to raise over ₹1,000 crore via IPO. Details here",
-    "ICICI Prudential Mutual Fund raises stake to 5.24% in Container Corporation of India",
-    "Stocks to buy: Nagaraj Shetti recommends IFCI, Five-Star Business Finance shares to buy in the short-term"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Room AC firms set to have a moment in the sun?",
-    "Can WeWork India's managed-office bet pay off?",
-    "Rupee opens 32 paise higher at 94.93 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
+    "MoneyControl Top",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts"
   ]
 }
