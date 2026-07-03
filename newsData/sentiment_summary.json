@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-03 16:05:43 IST",
+  "generated_at": "2026-07-03 16:10:46 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 18,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1474,
-  "weighted_score": 0.3619,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 35,
+  "bearish_count": 14,
+  "neutral_count": 11,
+  "avg_fin_score": 0.222,
+  "weighted_score": 0.03,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Top Gainers & Losers on 3 July: Zensar Tech, HFCL, IndusInd Bank, Muthoot Finance, Lupin among top gainers",
-    "Stock market today: Sensex gains 260 points, Nifty 50 ends above 24,250; IT, pharma shine",
-    "Aastha Spintex IPO listing date next week. Here’s what GMP signals about share debut"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Market outlook: Monsoon, crude oil prices to earnings - Five key macro triggers for Dalal Street in H2CY26",
-    "PB Fintech share price falls over 8% amid reports of ₹1,741 crore block deal",
-    "APL Apollo Tubes’ profitability in focus after volumes fail to impress"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
