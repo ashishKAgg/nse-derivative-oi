@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-03 09:01:01 IST",
+  "generated_at": "2026-07-03 09:05:33 IST",
   "summary": {
-    "generated_at": "2026-07-03 09:01:01 IST",
+    "generated_at": "2026-07-03 09:05:33 IST",
     "total_articles": 60,
-    "bullish_count": 37,
+    "bullish_count": 36,
     "bearish_count": 13,
-    "neutral_count": 10,
-    "avg_fin_score": 0.3077,
-    "weighted_score": 0.2849,
+    "neutral_count": 11,
+    "avg_fin_score": 0.3029,
+    "weighted_score": 0.2833,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
     "top_bullish": [
@@ -21,10 +21,10 @@
       "Subramanian Swamy seeks ban on import of cement from Pakistan"
     ],
     "sources_hit": [
-      "LiveMint Markets",
       "MoneyControl Top",
       "MoneyControl Mkts",
-      "MoneyControl Comm"
+      "MoneyControl Comm",
+      "LiveMint Markets"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,7 +581,52 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Where will Cipla share price be in the next 3 years?",
+      "summary": "Pharma stocks are grabbing attention due to strong healthcare demand, rising global medicine need and increasing exports. Against this backdrop we tell you about the prospects for Cipla in next three years.",
+      "url": "https://www.livemint.com/market/stock-market-news/cipla-share-price-cipla-stock-price-cipla-cipla-q4-results-11783007723492.html",
+      "published": "Fri, 03 Jul 2026 09:00:54 +0530",
+      "compound": 0.7351,
+      "pos": 0.16,
+      "neg": 0.031,
+      "neu": 0.809,
+      "fin_score": 0.8351,
+      "label": "BULLISH",
+      "id": "170fd0397fcb",
+      "fetched_at": "2026-07-03 09:05:33 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Vinit Mobile IPO allotment: Latest GMP, steps to check allotment status online for SME IPO",
+      "summary": "Vinit Mobile allotment date is likely to be finalised today, July 3. Investors can check the SME IPO allotment status online on NSE and the IPO registrar - Bigshare Services.",
+      "url": "https://www.livemint.com/market/ipo/vinit-mobile-ipo-allotment-latest-ipo-gmp-steps-to-check-allotment-status-online-for-sme-ipo-11783048941852.html",
+      "published": "Fri, 03 Jul 2026 09:00:21 +0530",
+      "compound": 0.0,
+      "pos": 0.0,
+      "neg": 0.0,
+      "neu": 1.0,
+      "fin_score": 0.0,
+      "label": "NEUTRAL",
+      "id": "5866b1963e35",
+      "fetched_at": "2026-07-03 09:05:33 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "US stock market to Nikkei: Here’s world equity heatmap you should know before opening of the Indian stock market",
+      "summary": "The global market cues remained mixed. While the softer US jobs data boosted sentiment, cautious sentiment prevailed as investors await greater clarity on the outcome of the US-Iran negotiations, with geopolitical developments expected to be the key near-term catalyst.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-to-nikkei-here-s-world-equity-heatmap-you-should-know-before-opening-of-the-indian-stock-market-11783048970100.html",
+      "published": "Fri, 03 Jul 2026 08:58:49 +0530",
+      "compound": 0.7717,
+      "pos": 0.143,
+      "neg": 0.022,
+      "neu": 0.835,
+      "fin_score": 0.7717,
+      "label": "BULLISH",
+      "id": "fc9a3c584335",
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -596,7 +641,7 @@
       "fin_score": 0.8074,
       "label": "BULLISH",
       "id": "a205f2b3ac93",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -611,7 +656,7 @@
       "fin_score": 0.6705,
       "label": "BULLISH",
       "id": "66d6a362737c",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -626,7 +671,7 @@
       "fin_score": 0.6747,
       "label": "BULLISH",
       "id": "9719fa5dc7dd",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -641,7 +686,7 @@
       "fin_score": 0.8126,
       "label": "BULLISH",
       "id": "65190da30f83",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -656,7 +701,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "932e8d084239",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -671,7 +716,7 @@
       "fin_score": 0.9678,
       "label": "BULLISH",
       "id": "97368b90aafe",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -686,7 +731,7 @@
       "fin_score": 0.9118,
       "label": "BULLISH",
       "id": "fd59c0f1d736",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -701,7 +746,7 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "143f8bdd0981",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -716,7 +761,7 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "786c70516f90",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -731,7 +776,7 @@
       "fin_score": 0.6042,
       "label": "BULLISH",
       "id": "123d5d067d06",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -746,7 +791,7 @@
       "fin_score": 0.6186,
       "label": "BULLISH",
       "id": "5bd6b05deecd",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -761,7 +806,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "8717b5f1d198",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -776,7 +821,7 @@
       "fin_score": 0.8834,
       "label": "BULLISH",
       "id": "a1583196da8b",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -791,7 +836,7 @@
       "fin_score": -0.4404,
       "label": "BEARISH",
       "id": "5c27ea36bacb",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -806,7 +851,7 @@
       "fin_score": 0.6296,
       "label": "BULLISH",
       "id": "dfb412d6047c",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -821,7 +866,7 @@
       "fin_score": 0.8176,
       "label": "BULLISH",
       "id": "1afe7dc016ac",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -836,7 +881,7 @@
       "fin_score": 0.1027,
       "label": "NEUTRAL",
       "id": "3ff5e486bf70",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -851,7 +896,7 @@
       "fin_score": 0.9116,
       "label": "BULLISH",
       "id": "8c257bee3477",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -866,7 +911,7 @@
       "fin_score": -0.0331,
       "label": "NEUTRAL",
       "id": "fcbbe5ae1765",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -881,52 +926,7 @@
       "fin_score": 0.7724,
       "label": "BULLISH",
       "id": "91b1b68fd46e",
-      "fetched_at": "2026-07-03 09:01:01 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Expert view: Broader market to remain range-bound in medium term, says SKG Investment's Director",
-      "summary": "Expert view: Kush Gupta, Fund Manager at SKG Investment, predicts a cautious recovery for the Indian stock market in 2026, hinging on crucial macroeconomic factors. Gupta emphasises opportunities in defence, financial services, and pharma.",
-      "url": "https://www.livemint.com/market/stock-market-news/expert-view-broader-market-to-remain-range-bound-in-medium-term-says-skg-investments-director-11782990063458.html",
-      "published": "Thu, 02 Jul 2026 16:44:57 +0530",
-      "compound": 0.3818,
-      "pos": 0.079,
-      "neg": 0.028,
-      "neu": 0.893,
-      "fin_score": 0.5018,
-      "label": "BULLISH",
-      "id": "266c8edda5d2",
-      "fetched_at": "2026-07-03 09:01:01 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Why should you buy ETFs instead of stocks? Nithin Kamath of Zerodha explains",
-      "summary": "In a post on X, Kamath pointed to the recent performance of the IT sector to explain why diversified investing often works better over the long term.",
-      "url": "https://www.livemint.com/market/stock-market-news/why-should-you-buy-etfs-instead-of-stocks-nithin-kamath-of-zerodha-explains-11782980485821.html",
-      "published": "Thu, 02 Jul 2026 16:11:27 +0530",
-      "compound": 0.4404,
-      "pos": 0.069,
-      "neg": 0.0,
-      "neu": 0.931,
-      "fin_score": 0.4404,
-      "label": "BULLISH",
-      "id": "c7035545c2d3",
-      "fetched_at": "2026-07-03 09:01:01 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Top Gainers & Losers on 2 July: Zensar Tech, TCS, Coforge, Apollo Tyres, Bharat Forge, Anant Raj among top gainers",
-      "summary": "Dalal Street saw gains for the second consecutive day, driven by technology stocks and easing crude oil prices. Nifty 50 rose 0.71% to 24,175, while the Sensex gained 0.75% to 77,502. The Nifty IT index surged 4.5%, marking its biggest gain since January.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-2-july-zensar-tech-tcs-coforge-apollo-tyres-bharat-forge-anant-raj-among-top-gainers-11782984189497.html",
-      "published": "Thu, 02 Jul 2026 15:44:07 +0530",
-      "compound": 0.8519,
-      "pos": 0.244,
-      "neg": 0.089,
-      "neu": 0.667,
-      "fin_score": 0.9519,
-      "label": "BULLISH",
-      "id": "6a41f7df3b47",
-      "fetched_at": "2026-07-03 09:01:01 IST"
+      "fetched_at": "2026-07-03 09:05:33 IST"
     }
   ]
 }
