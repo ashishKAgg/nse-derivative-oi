@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-03 10:31:23 IST",
+  "generated_at": "2026-07-03 10:35:41 IST",
   "total_articles": 60,
-  "bullish_count": 39,
-  "bearish_count": 14,
-  "neutral_count": 7,
-  "avg_fin_score": 0.2862,
-  "weighted_score": 0.3803,
+  "bullish_count": 37,
+  "bearish_count": 12,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2983,
+  "weighted_score": 0.2794,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Crazy Snacks IPO Listing: Shares rally 10% after debuting at 5% premium from issue price despite muted GMP",
-    "Avenue Supermarts share price falls over 4% after Q1 business update. Should you buy or sell the stock?",
-    "Rajesh Palviya of Axis Sec suggests Five-Star Business, Apollo Tyres, Exide Industries shares to buy today"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Temasek to sell $200 million stake in Policybazaar via block deal",
-    "5kg LPG cylinder demand from immigrant labourers plummets up to 80% amid price surge",
-    "The ‘Hi, hello’ monsoon: In rural India, an anxious, high-stakes wait for the skies to swell"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Top"
   ]
 }
