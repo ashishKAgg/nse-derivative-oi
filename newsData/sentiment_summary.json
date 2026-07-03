@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-03 11:35:40 IST",
+  "generated_at": "2026-07-03 11:40:48 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 16,
-  "neutral_count": 6,
-  "avg_fin_score": 0.2624,
-  "weighted_score": 0.3526,
+  "bullish_count": 35,
+  "bearish_count": 14,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2701,
+  "weighted_score": 0.2714,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Stocks to buy: Dalmia Bharat, Chalet Hotels, Minda Corp, among 6 mid-cap and small-cap stock picks by Axis Securities",
-    "US stock market holiday: Here's why Wall Street is closed on July 3",
-    "Seemax Resources IPO share allotment in focus today: Latest GMP, 5 steps to check status online"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "PB Fintech share price falls over 8% amid reports of ₹1,741 crore block deal",
-    "APL Apollo Tubes’ profitability in focus after volumes fail to impress",
-    "Temasek to sell $200 million stake in Policybazaar via block deal"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
