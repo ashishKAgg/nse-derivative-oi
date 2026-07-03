@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-03 16:01:04 IST",
+  "generated_at": "2026-07-03 16:05:43 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 15,
-  "neutral_count": 13,
-  "avg_fin_score": 0.201,
-  "weighted_score": 0.2556,
+  "bullish_count": 33,
+  "bearish_count": 18,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1474,
+  "weighted_score": 0.3619,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Top Gainers & Losers on 3 July: Zensar Tech, HFCL, IndusInd Bank, Muthoot Finance, Lupin among top gainers",
+    "Stock market today: Sensex gains 260 points, Nifty 50 ends above 24,250; IT, pharma shine",
+    "Aastha Spintex IPO listing date next week. Here’s what GMP signals about share debut"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Market outlook: Monsoon, crude oil prices to earnings - Five key macro triggers for Dalal Street in H2CY26",
+    "PB Fintech share price falls over 8% amid reports of ₹1,741 crore block deal",
+    "APL Apollo Tubes’ profitability in focus after volumes fail to impress"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "MoneyControl Comm",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
