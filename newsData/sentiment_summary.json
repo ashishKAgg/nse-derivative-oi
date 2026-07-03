@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-03 10:10:49 IST",
+  "generated_at": "2026-07-03 10:15:50 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 13,
-  "neutral_count": 10,
-  "avg_fin_score": 0.3042,
-  "weighted_score": 0.2824,
+  "bullish_count": 40,
+  "bearish_count": 14,
+  "neutral_count": 6,
+  "avg_fin_score": 0.3086,
+  "weighted_score": 0.4484,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Avenue Supermarts share price falls over 4% after Q1 business update. Should you buy or sell the stock?",
+    "Rajesh Palviya of Axis Sec suggests Five-Star Business, Apollo Tyres, Exide Industries shares to buy today",
+    "HCL Tech to Infosys, Tech Mahindra: Nifty IT extends winning streak, up 3% today: Is worst over for the battered sector?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Temasek to sell $200 million stake in Policybazaar via block deal",
+    "5kg LPG cylinder demand from immigrant labourers plummets up to 80% amid price surge",
+    "The ‘Hi, hello’ monsoon: In rural India, an anxious, high-stakes wait for the skies to swell"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
