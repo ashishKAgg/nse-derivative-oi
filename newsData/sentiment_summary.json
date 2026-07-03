@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-03 15:35:39 IST",
+  "generated_at": "2026-07-03 15:40:53 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 18,
-  "neutral_count": 9,
-  "avg_fin_score": 0.1537,
-  "weighted_score": 0.2389,
+  "bullish_count": 32,
+  "bearish_count": 15,
+  "neutral_count": 13,
+  "avg_fin_score": 0.1962,
+  "weighted_score": 0.2542,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Aastha Spintex IPO listing date next week. Here’s what GMP signals about share debut",
-    "Expert view: See compelling opportunities in financials, energy, metals, says Sandeep Neema of PL Asset Management",
-    "Sampark India Logistics IPO allotment date likely today; GMP, steps to check share allotment status of SME IPO"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Market outlook: Monsoon, crude oil prices to earnings - Five key macro triggers for Dalal Street in H2CY26",
-    "PB Fintech share price falls over 8% amid reports of ₹1,741 crore block deal",
-    "APL Apollo Tubes’ profitability in focus after volumes fail to impress"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top"
   ]
 }
