@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-03 10:15:50 IST",
+  "generated_at": "2026-07-03 10:20:48 IST",
   "total_articles": 60,
   "bullish_count": 40,
-  "bearish_count": 14,
-  "neutral_count": 6,
-  "avg_fin_score": 0.3086,
-  "weighted_score": 0.4484,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bearish_count": 12,
+  "neutral_count": 8,
+  "avg_fin_score": 0.3327,
+  "weighted_score": 0.0727,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Avenue Supermarts share price falls over 4% after Q1 business update. Should you buy or sell the stock?",
-    "Rajesh Palviya of Axis Sec suggests Five-Star Business, Apollo Tyres, Exide Industries shares to buy today",
-    "HCL Tech to Infosys, Tech Mahindra: Nifty IT extends winning streak, up 3% today: Is worst over for the battered sector?"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Temasek to sell $200 million stake in Policybazaar via block deal",
-    "5kg LPG cylinder demand from immigrant labourers plummets up to 80% amid price surge",
-    "The ‘Hi, hello’ monsoon: In rural India, an anxious, high-stakes wait for the skies to swell"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
+    "LiveMint Economy",
+    "MoneyControl Mkts",
+    "MoneyControl Top",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm"
   ]
 }
