@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-03 13:35:40 IST",
+  "generated_at": "2026-07-03 13:40:48 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 17,
-  "neutral_count": 8,
-  "avg_fin_score": 0.1969,
-  "weighted_score": 0.3316,
+  "bullish_count": 32,
+  "bearish_count": 14,
+  "neutral_count": 14,
+  "avg_fin_score": 0.2198,
+  "weighted_score": 0.2594,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Multibagger stock: Indiabulls share price zooms 5% to its 52-week high following stock market rally",
-    "Waterways Leisure Tourism shares hit 10% upper circuit for second straight day. Newly listed stock nears its issue price",
-    "Small-cap stock under ₹50: Sindhu Trade Links up over 8%. Do you own?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "PB Fintech share price falls over 8% amid reports of ₹1,741 crore block deal",
-    "APL Apollo Tubes’ profitability in focus after volumes fail to impress",
-    "India’s services sector grows at slowest pace in 17 months in June as demand softens: HSBC India Services PMI"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Mkts",
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top"
   ]
 }
