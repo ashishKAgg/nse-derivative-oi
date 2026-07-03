@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-03 09:35:35 IST",
+  "generated_at": "2026-07-03 09:40:54 IST",
   "total_articles": 60,
   "bullish_count": 39,
-  "bearish_count": 13,
-  "neutral_count": 8,
-  "avg_fin_score": 0.3171,
-  "weighted_score": 0.0697,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bearish_count": 15,
+  "neutral_count": 6,
+  "avg_fin_score": 0.293,
+  "weighted_score": 0.4161,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Rupee opens 19 paise higher at 95.20 against US dollar",
+    "Gold, silver rates jump up to 2% on MCX as US Fed rate hike bets ease; experts highlight key levels to watch",
+    "Where will Cipla share price be in the next 3 years?"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Temasek to sell $200 million stake in Policybazaar via block deal",
+    "Room AC firms set to have a moment in the sun?",
+    "5kg LPG cylinder demand from immigrant labourers plummets up to 80% amid price surge"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy",
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
