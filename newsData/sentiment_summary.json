@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-03 16:25:35 IST",
+  "generated_at": "2026-07-06 09:01:12 IST",
   "total_articles": 60,
-  "bullish_count": 32,
-  "bearish_count": 15,
-  "neutral_count": 13,
-  "avg_fin_score": 0.201,
-  "weighted_score": 0.2556,
+  "bullish_count": 39,
+  "bearish_count": 18,
+  "neutral_count": 3,
+  "avg_fin_score": 0.1836,
+  "weighted_score": 0.4549,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stocks to buy for short term: Maruti, Tata Steel among 3 shares Anand Rathi's Jigar Patel recommends for next 1-2 weeks",
+    "US stock market to Nikkei: Here’s world equity heatmap you should know before the Indian stock market opens",
+    "Vaishali Parekh recommends three intraday stocks to buy or sell on Monday — 6 July 2026"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Oil prices decline as OPEC+ approves higher output targets; Brent above $70 per barrel",
+    "Asian stocks today: Kospi, Nikkei rise up to 3% amid tech rally, falling crude oil prices",
+    "Poor monsoon is a risk, but unlikely to trigger runaway food inflation: Axis AMC’s R. Sivakumar"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
