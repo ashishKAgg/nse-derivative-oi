@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-06 09:25:38 IST",
+  "generated_at": "2026-07-06 09:31:28 IST",
   "total_articles": 60,
-  "bullish_count": 39,
-  "bearish_count": 17,
-  "neutral_count": 4,
-  "avg_fin_score": 0.2036,
-  "weighted_score": 0.2371,
+  "bullish_count": 35,
+  "bearish_count": 16,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2151,
+  "weighted_score": 0.2591,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Rupee opens 2 paisa lower at 95.23 against US dollar",
-    "Stocks to buy for short term: Maruti, Tata Steel among 3 shares Anand Rathi's Jigar Patel recommends for next 1-2 weeks",
-    "US stock market to Nikkei: Here’s world equity heatmap you should know before the Indian stock market opens"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold, silver trade volatile amid elevated dollar, easing US Fed rate hike bets; what should investors do?",
-    "Oil prices decline as OPEC+ approves higher output targets; Brent above $70 per barrel",
-    "Asian stocks today: Kospi, Nikkei rise up to 3% amid tech rally, falling crude oil prices"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
