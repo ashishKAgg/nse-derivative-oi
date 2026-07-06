@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-06 14:35:38 IST",
+  "generated_at": "2026-07-06 14:41:05 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 15,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2699,
-  "weighted_score": 0.2727,
+  "bullish_count": 39,
+  "bearish_count": 16,
+  "neutral_count": 5,
+  "avg_fin_score": 0.2652,
+  "weighted_score": 0.4188,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Sobha sets decent base for FY27 with record Q1 bookings",
+    "El Nino remains an important variable to watch; earnings recovery likely in H2FY27: Dharmesh Kakkad of ICICI Pru AMC",
+    "75% returns in YTD! Indiabulls share price hits a fresh 52-week high"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "AU Small Finance Bank's growth engine is intact, but questions remain",
+    "Aastha Spintex share price hits 5% upper circuit after weak debut. Buy, sell or hold?",
+    "Gold, silver trade volatile amid elevated dollar, easing US Fed rate hike bets; what should investors do?"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
