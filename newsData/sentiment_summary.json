@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-06 12:10:55 IST",
+  "generated_at": "2026-07-06 12:15:48 IST",
   "total_articles": 60,
-  "bullish_count": 36,
+  "bullish_count": 41,
   "bearish_count": 15,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2885,
-  "weighted_score": 0.2806,
+  "neutral_count": 4,
+  "avg_fin_score": 0.2576,
+  "weighted_score": 0.5818,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Jewellery stock Senco Gold jumps over 6% after Q1FY27 business update",
+    "Adon Agro Commodities share price hits upper circuit after listing at a 12% premium; details here",
+    "Shakti Pumps India share price jumps 5% after receipt of order worth over ₹350 crore"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold, silver trade volatile amid elevated dollar, easing US Fed rate hike bets; what should investors do?",
+    "Oil prices decline as OPEC+ approves higher output targets; Brent above $70 per barrel",
+    "Asian stocks today: Kospi, Nikkei rise up to 3% amid tech rally, falling crude oil prices"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
