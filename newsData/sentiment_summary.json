@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-06 10:15:46 IST",
+  "generated_at": "2026-07-06 10:21:01 IST",
   "total_articles": 60,
-  "bullish_count": 40,
-  "bearish_count": 16,
-  "neutral_count": 4,
-  "avg_fin_score": 0.2404,
-  "weighted_score": 0.5256,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 39,
+  "bearish_count": 14,
+  "neutral_count": 7,
+  "avg_fin_score": 0.2741,
+  "weighted_score": 0.0546,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Aastha Spintex share price makes weak debut, lists at 4% discount to the IPO price",
-    "HAL, BEL to Zen Technologies: Defence stocks rally on ₹52,000 crore procurement boost; check key beneficiaries",
-    "Healthcare stock Unihealth Hospitals hits 5% upper circuit; here's why"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Gold, silver trade volatile amid elevated dollar, easing US Fed rate hike bets; what should investors do?",
-    "Oil prices decline as OPEC+ approves higher output targets; Brent above $70 per barrel",
-    "Asian stocks today: Kospi, Nikkei rise up to 3% amid tech rally, falling crude oil prices"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
+    "MoneyControl Top",
     "LiveMint Economy",
+    "MoneyControl Mkts",
     "LiveMint Markets"
   ]
 }
