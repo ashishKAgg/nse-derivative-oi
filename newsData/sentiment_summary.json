@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-07 09:51:06 IST",
+  "generated_at": "2026-07-07 09:55:38 IST",
   "total_articles": 60,
   "bullish_count": 36,
-  "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1628,
-  "weighted_score": 0.3406,
+  "bearish_count": 15,
+  "neutral_count": 9,
+  "avg_fin_score": 0.249,
+  "weighted_score": 0.2668,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Kalyan Jewellers share price crashes 9% after Q1FY27 business update; details here",
-    "RITES share price jumps over 8% after bagging overseas locomotive supply order worth $36 million",
-    "Cochin Shipyard share price falls 4% as OFS opens today for non-retail investors. Details here"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 7 paise higher at 95.33 against US dollar",
-    "Where is the Sensex and Nifty headed?",
-    "Crude oil prices rise on hopes of stronger demand; Brent above $72 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Mkts",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
