@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-07 15:41:11 IST",
+  "generated_at": "2026-07-07 15:45:55 IST",
   "total_articles": 60,
   "bullish_count": 42,
   "bearish_count": 15,
   "neutral_count": 3,
-  "avg_fin_score": 0.2542,
-  "weighted_score": 0.5358,
+  "avg_fin_score": 0.2548,
+  "weighted_score": 0.5121,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
+    "Top Gainers & Losers on 7 July: Trent, Kalyan Jewellers, Cochin Shipyard, Tejas Networks, BSE among top losers",
     "Stock market today: Sensex, Nifty 50 snap four-day winning streak as fresh US-Iran strikes drive oil prices higher",
-    "Is Trent’s moderated growth pace the new normal?",
-    "India VIX hits 5-month low. Could market stability attract smart money?"
+    "Is Trent’s moderated growth pace the new normal?"
   ],
   "top_bearish": [
     "Swiggy share price jumps 6% after this foreign investment update. Do you own?",
@@ -19,7 +19,7 @@
     "Beyond the rain hit, El Nino set to sap India's wind power output"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
