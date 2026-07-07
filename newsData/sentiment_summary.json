@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-07 13:15:50 IST",
+  "generated_at": "2026-07-07 13:21:03 IST",
   "total_articles": 60,
-  "bullish_count": 41,
-  "bearish_count": 15,
-  "neutral_count": 4,
-  "avg_fin_score": 0.2484,
-  "weighted_score": 0.5613,
+  "bullish_count": 39,
+  "bearish_count": 12,
+  "neutral_count": 9,
+  "avg_fin_score": 0.3007,
+  "weighted_score": 0.2824,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Laser Power & Infra IPO: From issue price to OFS details - 10 key things investors should know from the RHP",
-    "Nykaa's Q1 update paints a pretty picture for long-term growth",
-    "‘Bheek maangne ka tareeka...’: Ashneer Grover hits back at ₹900 cr donation demand after wife’s remarks spark backlash"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 7 paise higher at 95.33 against US dollar",
-    "Where is the Sensex and Nifty headed?",
-    "Beyond the rain hit, El Nino set to sap India's wind power output"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
