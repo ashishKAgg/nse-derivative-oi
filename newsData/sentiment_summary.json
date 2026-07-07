@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-07 09:41:00 IST",
+  "generated_at": "2026-07-07 09:45:48 IST",
   "total_articles": 60,
   "bullish_count": 36,
-  "bearish_count": 16,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2127,
-  "weighted_score": 0.0311,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bearish_count": 18,
+  "neutral_count": 6,
+  "avg_fin_score": 0.1616,
+  "weighted_score": 0.3789,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "RITES share price jumps over 8% after bagging overseas locomotive supply order worth $36 million",
+    "Cochin Shipyard share price falls 4% as OFS opens today for non-retail investors. Details here",
+    "Multibagger defence stock Apollo Micro Systems declares ₹951 crore fund raise via preferential shares"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Rupee opens 7 paise higher at 95.33 against US dollar",
+    "Where is the Sensex and Nifty headed?",
+    "Crude oil prices rise on hopes of stronger demand; Brent above $72 per barrel"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "LiveMint Economy",
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
