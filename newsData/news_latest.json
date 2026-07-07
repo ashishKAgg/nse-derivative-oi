@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-07 10:41:01 IST",
+  "generated_at": "2026-07-07 10:45:45 IST",
   "summary": {
-    "generated_at": "2026-07-07 10:41:01 IST",
+    "generated_at": "2026-07-07 10:45:45 IST",
     "total_articles": 60,
     "bullish_count": 37,
     "bearish_count": 16,
     "neutral_count": 7,
-    "avg_fin_score": 0.2241,
-    "weighted_score": 0.0422,
+    "avg_fin_score": 0.2218,
+    "weighted_score": 0.041,
     "verdict": "NEUTRAL",
     "verdict_color": "#6c757d",
     "top_bullish": [
@@ -21,10 +21,10 @@
       "Rise in textile demand to support MCX cotton ahead of harvest season in October"
     ],
     "sources_hit": [
-      "MoneyControl Mkts",
       "MoneyControl Top",
       "LiveMint Markets",
       "LiveMint Economy",
+      "MoneyControl Mkts",
       "MoneyControl Comm"
     ]
   },
@@ -42,7 +42,7 @@
       "fin_score": -0.5789,
       "label": "BEARISH",
       "id": "c128e32f5fb5",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -57,7 +57,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -72,7 +72,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -87,7 +87,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -102,7 +102,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -117,7 +117,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -132,7 +132,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -147,7 +147,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -162,7 +162,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -177,7 +177,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -192,7 +192,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -207,7 +207,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -222,7 +222,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -237,7 +237,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -252,7 +252,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -267,7 +267,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -282,7 +282,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -297,7 +297,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -312,7 +312,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -327,7 +327,22 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Apollo Hospitals share price turns negative after hitting record high of ₹8,948.10 apiece on BSE. Do you own?",
+      "summary": "Apollo Hospitals stock hits record high following gains in DalalStreet. It has added 2% in the last 1 week, 6.5% in 1 month, 21% in 3 months, and 19% in 6 months. Meanwhile, it has given multibagger returns in thel ong term, soaring 138% in 5 years.",
+      "url": "https://www.livemint.com/market/stock-market-news/apollo-hospitals-share-price-turns-negative-after-hitting-record-high-of-rs-8-948-10-apiece-on-bse-do-you-own-11783400650339.html",
+      "published": "Tue, 07 Jul 2026 10:44:26 +0530",
+      "compound": -0.0258,
+      "pos": 0.065,
+      "neg": 0.053,
+      "neu": 0.882,
+      "fin_score": 0.3742,
+      "label": "BULLISH",
+      "id": "43ae461fe27d",
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -342,7 +357,7 @@
       "fin_score": 0.9481,
       "label": "BULLISH",
       "id": "87aa755b0f3d",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -357,7 +372,7 @@
       "fin_score": 0.2732,
       "label": "BULLISH",
       "id": "120bf9dd4804",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -372,7 +387,7 @@
       "fin_score": 0.9425,
       "label": "BULLISH",
       "id": "f18cec699d3e",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -387,12 +402,12 @@
       "fin_score": 0.91,
       "label": "BULLISH",
       "id": "e017cb4d7a2f",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Cult.Fit files for IPO to raise up to ₹950 crore",
-      "summary": "The OFS component, by a clutch of existing shareholders, can potentially take Cult.Fit's IPO size to up to ₹4,000 crore",
+      "title": "Cult.fit files for IPO to raise up to ₹950 crore",
+      "summary": "The OFS component, by a clutch of existing shareholders, can potentially take Cult.fit's IPO size to up to ₹4,000 crore",
       "url": "https://www.livemint.com/market/ipo/cultfit-ipo-drhp-ofs-investors-share-sales-stock-markets-11783397719619.html",
       "published": "Tue, 07 Jul 2026 10:07:13 +0530",
       "compound": 0.0,
@@ -401,8 +416,8 @@
       "neu": 1.0,
       "fin_score": 0.0,
       "label": "NEUTRAL",
-      "id": "5756b4670c51",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "id": "8bb31ff714f4",
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -417,7 +432,7 @@
       "fin_score": 0.7717,
       "label": "BULLISH",
       "id": "47b3752e5f5a",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -432,7 +447,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "05f9ba3c5053",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -447,7 +462,7 @@
       "fin_score": 0.3684,
       "label": "BULLISH",
       "id": "416eabd62962",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -462,7 +477,7 @@
       "fin_score": 0.8225,
       "label": "BULLISH",
       "id": "0c2518492857",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -477,7 +492,7 @@
       "fin_score": 0.196,
       "label": "BULLISH",
       "id": "dfb8931a1c82",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -492,7 +507,7 @@
       "fin_score": 0.5979,
       "label": "BULLISH",
       "id": "afaafd602d58",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -507,7 +522,7 @@
       "fin_score": 0.34,
       "label": "BULLISH",
       "id": "3a0fb7cf7490",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -522,7 +537,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "5590b540fd8d",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -537,7 +552,7 @@
       "fin_score": -0.6858,
       "label": "BEARISH",
       "id": "8bde919f0f02",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -552,7 +567,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "f90a255f2cb9",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -567,7 +582,7 @@
       "fin_score": 0.8979,
       "label": "BULLISH",
       "id": "e7cdf31d54c0",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -582,7 +597,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "a3c358574a61",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -597,7 +612,7 @@
       "fin_score": 1.0,
       "label": "BULLISH",
       "id": "6f8a41de292c",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -612,7 +627,7 @@
       "fin_score": 0.4215,
       "label": "BULLISH",
       "id": "23595d9c2460",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -627,7 +642,7 @@
       "fin_score": 0.8591,
       "label": "BULLISH",
       "id": "bbf6908c7d9a",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -642,7 +657,7 @@
       "fin_score": 0.9678,
       "label": "BULLISH",
       "id": "de76be5ea502",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -657,7 +672,7 @@
       "fin_score": 0.0754,
       "label": "NEUTRAL",
       "id": "5d76c7a02c00",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -672,7 +687,7 @@
       "fin_score": 0.9477,
       "label": "BULLISH",
       "id": "086426b160db",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -687,7 +702,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "3bc03a519d90",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -702,7 +717,7 @@
       "fin_score": 0.8624,
       "label": "BULLISH",
       "id": "7bdc012d4eea",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -717,7 +732,7 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "8c6282eb4d59",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -732,7 +747,7 @@
       "fin_score": 0.2,
       "label": "BULLISH",
       "id": "13ac26c7c4a0",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -747,7 +762,7 @@
       "fin_score": 0.2023,
       "label": "BULLISH",
       "id": "37de98140a37",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -762,7 +777,7 @@
       "fin_score": 0.8405,
       "label": "BULLISH",
       "id": "c737ef572cf5",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -777,7 +792,7 @@
       "fin_score": 0.8499,
       "label": "BULLISH",
       "id": "5853b43ae0e1",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -792,7 +807,7 @@
       "fin_score": 0.128,
       "label": "NEUTRAL",
       "id": "513a0b49fa74",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -807,7 +822,7 @@
       "fin_score": -0.7908,
       "label": "BEARISH",
       "id": "ad89ce0181f3",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -822,7 +837,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "734773290742",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -837,22 +852,7 @@
       "fin_score": -0.4574,
       "label": "BEARISH",
       "id": "dbc40e38ebfc",
-      "fetched_at": "2026-07-07 10:41:01 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Ather Energy Is said to plan $200 million India share sale",
-      "summary": "The electric two-wheeler maker has appointed HSBC Holdings Plc, Axis Capital Ltd. and Nomura Holdings Inc. to manage the qualified institutional placement",
-      "url": "https://www.livemint.com/market/ipo/ather-energy-is-said-to-plan-200-million-india-share-sale-11783339172273.html",
-      "published": "Mon, 06 Jul 2026 17:42:36 +0530",
-      "compound": 0.5106,
-      "pos": 0.122,
-      "neg": 0.0,
-      "neu": 0.878,
-      "fin_score": 0.5106,
-      "label": "BULLISH",
-      "id": "99f1f4e07b15",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -867,7 +867,7 @@
       "fin_score": 0.3124,
       "label": "BULLISH",
       "id": "08c602287610",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -882,7 +882,7 @@
       "fin_score": -0.7184,
       "label": "BEARISH",
       "id": "5f8cc9c7162b",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -897,7 +897,7 @@
       "fin_score": -0.7906,
       "label": "BEARISH",
       "id": "7bd22e86fcd5",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -912,7 +912,7 @@
       "fin_score": -0.8834,
       "label": "BEARISH",
       "id": "3df2206b9d85",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -927,7 +927,7 @@
       "fin_score": 0.296,
       "label": "BULLISH",
       "id": "fee01a9e7a8c",
-      "fetched_at": "2026-07-07 10:41:01 IST"
+      "fetched_at": "2026-07-07 10:45:45 IST"
     }
   ]
 }
