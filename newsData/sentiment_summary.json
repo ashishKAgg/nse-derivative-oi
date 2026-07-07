@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-07 09:25:34 IST",
+  "generated_at": "2026-07-07 09:31:33 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 16,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2255,
-  "weighted_score": 0.2614,
+  "bullish_count": 36,
+  "bearish_count": 18,
+  "neutral_count": 6,
+  "avg_fin_score": 0.1583,
+  "weighted_score": 0.2603,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Cochin Shipyard share price falls 4% as OFS opens today for non-retail investors. Details here",
+    "Multibagger defence stock Apollo Micro Systems declares ₹951 crore fund raise via preferential shares",
+    "Gold, silver rates decline on MCX ahead of US Fed's June meeting minutes; experts highlight key levels to watch"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Rupee opens 7 paise higher at 95.33 against US dollar",
+    "Where is the Sensex and Nifty headed?",
+    "Crude oil prices rise on hopes of stronger demand; Brent above $72 per barrel"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
