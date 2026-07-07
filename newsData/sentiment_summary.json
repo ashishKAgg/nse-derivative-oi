@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-07 11:11:04 IST",
+  "generated_at": "2026-07-07 11:15:43 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 17,
-  "neutral_count": 5,
-  "avg_fin_score": 0.1854,
-  "weighted_score": 0.4063,
+  "bullish_count": 37,
+  "bearish_count": 14,
+  "neutral_count": 9,
+  "avg_fin_score": 0.2651,
+  "weighted_score": 0.2725,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Trent shares crash over 11% after Q1FY27 business update. Here's what spooked investors",
-    "Recently listed Waterways Leisure Tourism shares rise nearly 6% after announcement of stock split move",
-    "Apollo Hospitals share price turns negative after hitting record high of ₹8,948.10 apiece on BSE. Do you own?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 7 paise higher at 95.33 against US dollar",
-    "Where is the Sensex and Nifty headed?",
-    "Crude oil prices rise on hopes of stronger demand; Brent above $72 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top",
+    "MoneyControl Comm"
   ]
 }
