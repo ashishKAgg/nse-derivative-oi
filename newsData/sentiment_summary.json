@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-07 12:11:03 IST",
+  "generated_at": "2026-07-07 12:15:49 IST",
   "total_articles": 60,
   "bullish_count": 40,
-  "bearish_count": 14,
-  "neutral_count": 6,
-  "avg_fin_score": 0.2612,
-  "weighted_score": 0.0537,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bearish_count": 16,
+  "neutral_count": 4,
+  "avg_fin_score": 0.2101,
+  "weighted_score": 0.4038,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Defence stock Zen Technologies jumps as subsidiary Vector Technics becomes India's largest drone propulsion manufacturer",
+    "Ola Electric share price dips amid fresh insolvency row. Do you own?",
+    "Last day to tender! Bajaj Auto buyback worth ₹5,633 crore closes today: Key details and should you participate?"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Rupee opens 7 paise higher at 95.33 against US dollar",
+    "Where is the Sensex and Nifty headed?",
+    "Crude oil prices rise on hopes of stronger demand; Brent above $72 per barrel"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "LiveMint Markets",
-    "MoneyControl Comm",
     "LiveMint Economy",
-    "MoneyControl Mkts"
+    "LiveMint Markets"
   ]
 }
