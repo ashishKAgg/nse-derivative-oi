@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-07 10:31:34 IST",
+  "generated_at": "2026-07-07 10:35:35 IST",
   "total_articles": 60,
   "bullish_count": 37,
-  "bearish_count": 18,
-  "neutral_count": 5,
-  "avg_fin_score": 0.1729,
-  "weighted_score": 0.4993,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bearish_count": 16,
+  "neutral_count": 7,
+  "avg_fin_score": 0.2241,
+  "weighted_score": 0.0422,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Teja Engineering Industries shares hit the upper circuit after a stellar 90% listing gain",
-    "Power Grid Corporation secures 80 billion yen loan from JBIC for Khavda-Nagpur HVDC project",
-    "Upcoming IPO: Cult.fit files draft papers with SEBI to raise ₹950 crore via IPO"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Rupee opens 7 paise higher at 95.33 against US dollar",
-    "Where is the Sensex and Nifty headed?",
-    "Crude oil prices rise on hopes of stronger demand; Brent above $72 per barrel"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
     "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top"
   ]
 }
