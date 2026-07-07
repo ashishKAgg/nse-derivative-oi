@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-07 14:21:06 IST",
+  "generated_at": "2026-07-07 14:25:37 IST",
   "total_articles": 60,
-  "bullish_count": 40,
-  "bearish_count": 17,
-  "neutral_count": 3,
-  "avg_fin_score": 0.2042,
-  "weighted_score": 0.2187,
+  "bullish_count": 37,
+  "bearish_count": 14,
+  "neutral_count": 9,
+  "avg_fin_score": 0.273,
+  "weighted_score": 0.2726,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "FMCG sector Q1 results preview: Healthy topline growth likely, margin to be resilient despite inflation pressure",
-    "Kusumgar IPO: GMP, dates, price band, other key details in 10 points",
-    "Markets flat? No problem. HNIs stay invested"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Swiggy share price jumps 6% after this foreign investment update. Do you own?",
-    "Vinit Mobile share price hits 5% lower circuit after weak debut",
-    "Rupee opens 7 paise higher at 95.33 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Mkts"
   ]
 }
