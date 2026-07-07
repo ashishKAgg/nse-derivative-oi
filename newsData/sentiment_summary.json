@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-07 13:31:29 IST",
+  "generated_at": "2026-07-07 13:35:42 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 13,
-  "neutral_count": 9,
-  "avg_fin_score": 0.2919,
-  "weighted_score": 0.2789,
+  "bullish_count": 41,
+  "bearish_count": 16,
+  "neutral_count": 3,
+  "avg_fin_score": 0.2333,
+  "weighted_score": 0.3334,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Markets flat? No problem. HNIs stay invested",
+    "Blue Jet Healthcare shares rise after the launch of QIP at the floor price of ₹531.70 per share",
+    "Laser Power & Infra IPO: From issue price to OFS details - 10 key things investors should know from the RHP"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Vinit Mobile share price hits 5% lower circuit after weak debut",
+    "Rupee opens 7 paise higher at 95.33 against US dollar",
+    "Where is the Sensex and Nifty headed?"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Comm",
     "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
