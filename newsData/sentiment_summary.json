@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-07 15:35:37 IST",
+  "generated_at": "2026-07-07 15:41:11 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 14,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2926,
-  "weighted_score": 0.2798,
+  "bullish_count": 42,
+  "bearish_count": 15,
+  "neutral_count": 3,
+  "avg_fin_score": 0.2542,
+  "weighted_score": 0.5358,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stock market today: Sensex, Nifty 50 snap four-day winning streak as fresh US-Iran strikes drive oil prices higher",
+    "Is Trent’s moderated growth pace the new normal?",
+    "India VIX hits 5-month low. Could market stability attract smart money?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Swiggy share price jumps 6% after this foreign investment update. Do you own?",
+    "Vinit Mobile share price hits 5% lower circuit after weak debut",
+    "Beyond the rain hit, El Nino set to sap India's wind power output"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
