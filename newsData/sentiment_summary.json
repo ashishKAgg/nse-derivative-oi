@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-07 14:45:48 IST",
+  "generated_at": "2026-07-07 14:51:05 IST",
   "total_articles": 60,
   "bullish_count": 40,
-  "bearish_count": 15,
-  "neutral_count": 5,
-  "avg_fin_score": 0.2518,
-  "weighted_score": 0.0462,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bearish_count": 17,
+  "neutral_count": 3,
+  "avg_fin_score": 0.2008,
+  "weighted_score": 0.4717,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Multibagger TARC shares jump 12% as Q1 pre-sales triple, collections surge 80%",
+    "Knack Packaging IPO listing in focus. Here's what GMP signals ahead of debut",
+    "FMCG sector Q1 results preview: Healthy topline growth likely, margin to be resilient despite inflation pressure"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Swiggy share price jumps 6% after this foreign investment update. Do you own?",
+    "Vinit Mobile share price hits 5% lower circuit after weak debut",
+    "Rupee opens 7 paise higher at 95.33 against US dollar"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top",
-    "MoneyControl Mkts",
     "LiveMint Economy"
   ]
 }
