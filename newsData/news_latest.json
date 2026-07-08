@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-08 09:55:39 IST",
+  "generated_at": "2026-07-08 10:01:25 IST",
   "summary": {
-    "generated_at": "2026-07-08 09:55:39 IST",
+    "generated_at": "2026-07-08 10:01:25 IST",
     "total_articles": 60,
-    "bullish_count": 29,
+    "bullish_count": 28,
     "bearish_count": 19,
-    "neutral_count": 12,
-    "avg_fin_score": 0.0943,
+    "neutral_count": 13,
+    "avg_fin_score": 0.0927,
     "weighted_score": 0.2248,
     "verdict": "BULLISH",
     "verdict_color": "#28a745",
@@ -21,10 +21,10 @@
       "Subramanian Swamy seeks ban on import of cement from Pakistan"
     ],
     "sources_hit": [
-      "MoneyControl Mkts",
       "LiveMint Markets",
-      "MoneyControl Top",
-      "MoneyControl Comm"
+      "MoneyControl Comm",
+      "MoneyControl Mkts",
+      "MoneyControl Top"
     ]
   },
   "articles": [
@@ -41,7 +41,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "c46c248134a5",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -56,7 +56,7 @@
       "fin_score": 0.4767,
       "label": "BULLISH",
       "id": "afc0dad5f886",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -71,7 +71,7 @@
       "fin_score": -0.6808,
       "label": "BEARISH",
       "id": "2ee8040c6c46",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -86,7 +86,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "636b64afc221",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -101,7 +101,7 @@
       "fin_score": 0.9408,
       "label": "BULLISH",
       "id": "7cb7fe700e16",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -116,7 +116,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "bc7bc6033776",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -131,7 +131,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "ac98e3dbb7f3",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -146,7 +146,7 @@
       "fin_score": -0.8225,
       "label": "BEARISH",
       "id": "8fa4ec7085dc",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -161,7 +161,7 @@
       "fin_score": -0.2023,
       "label": "BEARISH",
       "id": "7f10e0541c6a",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -176,7 +176,7 @@
       "fin_score": 0.5267,
       "label": "BULLISH",
       "id": "c72f7dc7eaae",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -191,7 +191,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "84a40cb5bb9b",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -206,7 +206,7 @@
       "fin_score": 0.6369,
       "label": "BULLISH",
       "id": "7fab0eaba53a",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -221,7 +221,7 @@
       "fin_score": 0.8808,
       "label": "BULLISH",
       "id": "a634378bd49c",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -236,7 +236,7 @@
       "fin_score": 0.8481,
       "label": "BULLISH",
       "id": "f4eb8fbd8774",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -251,7 +251,7 @@
       "fin_score": -0.2755,
       "label": "BEARISH",
       "id": "c05fdf93ddb1",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -266,7 +266,7 @@
       "fin_score": 0.6915,
       "label": "BULLISH",
       "id": "f8ae30f09515",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -281,7 +281,7 @@
       "fin_score": -0.0516,
       "label": "NEUTRAL",
       "id": "6f72e726b024",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Top",
@@ -296,7 +296,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8842262d1b18",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -311,7 +311,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -326,7 +326,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -341,7 +341,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -356,7 +356,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -371,7 +371,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -386,7 +386,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -401,7 +401,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -416,7 +416,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -431,7 +431,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -446,7 +446,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -461,7 +461,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -476,7 +476,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -491,7 +491,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -506,7 +506,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -521,7 +521,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -536,7 +536,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -551,7 +551,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -566,7 +566,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -581,7 +581,52 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Penny stock under ₹10 PC Jeweller jumps 5% despite stock market sell-off",
+      "summary": "PC Jeweller share price rose 6% on July 8 after announcing the repayment of all outstanding debt under a settlement with two consortium banks, marking a significant step towards becoming debt-free.",
+      "url": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-pc-jeweller-jumps-5-despite-stock-market-selloff-11783484760580.html",
+      "published": "Wed, 08 Jul 2026 10:00:33 +0530",
+      "compound": 0.6705,
+      "pos": 0.162,
+      "neg": 0.051,
+      "neu": 0.788,
+      "fin_score": 0.0705,
+      "label": "NEUTRAL",
+      "id": "63ce19222846",
+      "fetched_at": "2026-07-08 10:01:25 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Knack Packaging share price makes strong debut, lists with over 10% premium at ₹188 on NSE",
+      "summary": "Knack Packaging IPO listing: Knack Packaging share price opened at ₹188 on NSE and ₹186 on BSE.&nbsp;",
+      "url": "https://www.livemint.com/market/stock-market-news/knack-packaging-share-price-makes-strong-debut-lists-with-over-10-premium-at-188-on-nse-11783482802755.html",
+      "published": "Wed, 08 Jul 2026 09:56:46 +0530",
+      "compound": 0.7717,
+      "pos": 0.204,
+      "neg": 0.0,
+      "neu": 0.796,
+      "fin_score": 0.7717,
+      "label": "BULLISH",
+      "id": "ed612992f4f2",
+      "fetched_at": "2026-07-08 10:01:25 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Infosys to PFC - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+      "summary": "Indian stock indices opened lower amid US-Iran tensions and rising crude oil prices. The Nifty 50 fell 0.57% while the BSE Sensex declined 0.47%. With all sectors in the red, market sentiment remains weak, and key support levels are in focus for future movements.",
+      "url": "https://www.livemint.com/market/stock-market-news/infosys-to-pfc-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11783482615835.html",
+      "published": "Wed, 08 Jul 2026 09:52:56 +0530",
+      "compound": -0.7269,
+      "pos": 0.074,
+      "neg": 0.158,
+      "neu": 0.768,
+      "fin_score": -0.6469,
+      "label": "BEARISH",
+      "id": "3fdc13add6cc",
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -596,7 +641,7 @@
       "fin_score": 0.7506,
       "label": "BULLISH",
       "id": "42526850400a",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -611,7 +656,7 @@
       "fin_score": 0.128,
       "label": "NEUTRAL",
       "id": "cd39f249509b",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -626,7 +671,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "9cffb4c82e1c",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -641,7 +686,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "badbfd8640da",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -656,7 +701,7 @@
       "fin_score": 0.3182,
       "label": "BULLISH",
       "id": "e1e5f77ce594",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -671,7 +716,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "0290ac33434c",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -686,7 +731,7 @@
       "fin_score": -0.8583,
       "label": "BEARISH",
       "id": "b3df9f145f44",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -701,7 +746,7 @@
       "fin_score": 0.0613,
       "label": "NEUTRAL",
       "id": "5c6b86026d7a",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -716,7 +761,7 @@
       "fin_score": 0.4215,
       "label": "BULLISH",
       "id": "52e0c5a5afb1",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -731,7 +776,7 @@
       "fin_score": -0.3579,
       "label": "BEARISH",
       "id": "2785d249e32f",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -746,7 +791,7 @@
       "fin_score": 0.886,
       "label": "BULLISH",
       "id": "29405100ac9f",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -761,7 +806,7 @@
       "fin_score": 0.9538,
       "label": "BULLISH",
       "id": "2e979cf01718",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -776,7 +821,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "fed8b858b998",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -791,7 +836,7 @@
       "fin_score": -0.1469,
       "label": "NEUTRAL",
       "id": "5e7f855e3eaf",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -806,7 +851,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "05b3be788e47",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -821,7 +866,7 @@
       "fin_score": 0.6715,
       "label": "BULLISH",
       "id": "80786fb02af0",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -836,7 +881,7 @@
       "fin_score": 0.7783,
       "label": "BULLISH",
       "id": "6287bd19ce47",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -851,22 +896,7 @@
       "fin_score": 0.3818,
       "label": "BULLISH",
       "id": "c1f4885de75c",
-      "fetched_at": "2026-07-08 09:55:39 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Stock recommendations for 8 July from MarketSmith India",
-      "summary": "MarketSmith India reveals its top stock recommendations for today, 8 July. Get expert insights into the best-performing stocks to guide your investment decisions.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-8-july-marketsmith-india-equitas-small-finance-bank-titan-company-nifty-sensex-11783436027626.html",
-      "published": "Wed, 08 Jul 2026 06:00:43 +0530",
-      "compound": 0.2023,
-      "pos": 0.057,
-      "neg": 0.0,
-      "neu": 0.943,
-      "fin_score": 0.2023,
-      "label": "BULLISH",
-      "id": "2ec27557a2e2",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -881,52 +911,22 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "653b81bfdc73",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "fetched_at": "2026-07-08 10:01:25 IST"
     },
     {
       "source": "LiveMint Markets",
-      "title": "Promoter caution makes investment banks work longer and harder for IPO wins",
-      "summary": "Winning an IPO mandate is becoming a longer process for investment banks. Cautious promoters are extending IPO preparations, doing deeper due diligence and taking more time to choose advisers, reflecting a shift in how companies approach public market listings.",
-      "url": "https://www.livemint.com/market/ipo/promoter-caution-makes-investment-banks-work-longer-and-harder-for-ipo-wins-11783411865393.html",
-      "published": "Wed, 08 Jul 2026 05:50:43 +0530",
-      "compound": 0.7717,
-      "pos": 0.126,
-      "neg": 0.025,
-      "neu": 0.85,
-      "fin_score": 0.7717,
+      "title": "Stock recommendations for 8 July from MarketSmith India",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 8 July. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-8-july-marketsmith-india-equitas-small-finance-bank-titan-company-nifty-sensex-11783436027626.html",
+      "published": "Wed, 08 Jul 2026 06:00:43 +0530",
+      "compound": 0.2023,
+      "pos": 0.057,
+      "neg": 0.0,
+      "neu": 0.943,
+      "fin_score": 0.2023,
       "label": "BULLISH",
-      "id": "7f4739ec8d26",
-      "fetched_at": "2026-07-08 09:55:39 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Kusumgar raises ₹194 crore from anchor investors ahead of IPO opening tomorrow",
-      "summary": "Kusumgar Limited has raised ₹193.9 crore from anchor investors for its IPO, allocating 4,628,877 shares at ₹419 each. The IPO opens on July 8, 2026, and is an Offer for Sale of 1.55 crore shares, totaling ₹650 crore.",
-      "url": "https://www.livemint.com/market/stock-market-news/kusumgar-raises-rs-194-crore-from-anchor-investors-ahead-of-ipo-opening-tomorrow-11783442895355.html",
-      "published": "Tue, 07 Jul 2026 22:48:51 +0530",
-      "compound": 0.3612,
-      "pos": 0.083,
-      "neg": 0.036,
-      "neu": 0.882,
-      "fin_score": 0.3612,
-      "label": "BULLISH",
-      "id": "bad6251a7b3f",
-      "fetched_at": "2026-07-08 09:55:39 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Gold, silver prices today: Comex gold and silver edge lower amid Middle East tensions, firm US dollar",
-      "summary": "Precious metals declined on 7 July amid rising tensions in the Middle East and ahead of Federal Reserve meeting minutes. Gold and silver futures fell sharply, continuously influenced by international geopolitical concerns and fluctuations in the US dollar and crude oil prices.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-edge-lower-amid-middle-east-tensions-firm-us-dollar-11783438926272.html",
-      "published": "Tue, 07 Jul 2026 22:24:43 +0530",
-      "compound": -0.765,
-      "pos": 0.054,
-      "neg": 0.164,
-      "neu": 0.783,
-      "fin_score": -0.845,
-      "label": "BEARISH",
-      "id": "acdf685e6fe5",
-      "fetched_at": "2026-07-08 09:55:39 IST"
+      "id": "2ec27557a2e2",
+      "fetched_at": "2026-07-08 10:01:25 IST"
     }
   ]
 }
