@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-08 14:15:51 IST",
+  "generated_at": "2026-07-08 14:21:10 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 19,
-  "neutral_count": 11,
-  "avg_fin_score": 0.1148,
-  "weighted_score": 0.0128,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 31,
+  "bearish_count": 20,
+  "neutral_count": 9,
+  "avg_fin_score": 0.0803,
+  "weighted_score": 0.4333,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "Paint makers poised for a mixed Q1; won’t rush on price cuts",
+    "Multibagger stock Diamond Power hits record high despite stock market crash. InCred sees 28% more upside",
+    "Stocks to buy for short term: Reliance, Bharti Airtel, BEL among 5 shares Bajaj Broking's expert recommends for July"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Investors lost money worth ₹2 lakh crore! Why is the Indian stock market falling today? Explained with five reasons",
+    "Infosys to PFC - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+    "Gold, Silver Rate Today: MCX gold price falls near ₹1.45 lakh per 10 grams, silver eases amid escalating US-Iran war"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Comm",
-    "LiveMint Economy"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
