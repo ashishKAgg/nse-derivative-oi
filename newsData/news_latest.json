@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-08 09:01:17 IST",
+  "generated_at": "2026-07-08 09:05:49 IST",
   "summary": {
-    "generated_at": "2026-07-08 09:01:17 IST",
+    "generated_at": "2026-07-08 09:05:49 IST",
     "total_articles": 60,
     "bullish_count": 32,
     "bearish_count": 19,
     "neutral_count": 9,
-    "avg_fin_score": 0.1274,
-    "weighted_score": -0.0133,
+    "avg_fin_score": 0.1196,
+    "weighted_score": -0.0139,
     "verdict": "NEUTRAL",
     "verdict_color": "#6c757d",
     "top_bullish": [
@@ -21,11 +21,11 @@
       "Rise in textile demand to support MCX cotton ahead of harvest season in October"
     ],
     "sources_hit": [
-      "MoneyControl Top",
-      "MoneyControl Mkts",
-      "LiveMint Markets",
       "MoneyControl Comm",
-      "LiveMint Economy"
+      "MoneyControl Mkts",
+      "LiveMint Economy",
+      "MoneyControl Top",
+      "LiveMint Markets"
     ]
   },
   "articles": [
@@ -42,7 +42,7 @@
       "fin_score": -0.5789,
       "label": "BEARISH",
       "id": "c128e32f5fb5",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -57,7 +57,7 @@
       "fin_score": -0.1732,
       "label": "BEARISH",
       "id": "3ac77695589d",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -72,7 +72,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "7b0b0f8345c5",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -87,7 +87,7 @@
       "fin_score": 0.12,
       "label": "NEUTRAL",
       "id": "e5f8b9881054",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Mkts",
@@ -102,7 +102,7 @@
       "fin_score": 0.7203,
       "label": "BULLISH",
       "id": "1592faacc8e2",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -117,7 +117,7 @@
       "fin_score": 0.4819,
       "label": "BULLISH",
       "id": "0b0abb18e35d",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -132,7 +132,7 @@
       "fin_score": -0.14,
       "label": "NEUTRAL",
       "id": "adeceb7aec62",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -147,7 +147,7 @@
       "fin_score": -0.25,
       "label": "BEARISH",
       "id": "193de5de4335",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -162,7 +162,7 @@
       "fin_score": 0.428,
       "label": "BULLISH",
       "id": "a7973a06c14d",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -177,7 +177,7 @@
       "fin_score": -0.4223,
       "label": "BEARISH",
       "id": "27566f7e9515",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -192,7 +192,7 @@
       "fin_score": -0.0258,
       "label": "NEUTRAL",
       "id": "153ad78e2ce4",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -207,7 +207,7 @@
       "fin_score": -0.8096,
       "label": "BEARISH",
       "id": "c94aa342bf74",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -222,7 +222,7 @@
       "fin_score": 0.2382,
       "label": "BULLISH",
       "id": "4ab6d20c0d4a",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -237,7 +237,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "6f8f7a0796be",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -252,7 +252,7 @@
       "fin_score": -0.15,
       "label": "BEARISH",
       "id": "1f7261ec8ecf",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -267,7 +267,7 @@
       "fin_score": 0.1732,
       "label": "BULLISH",
       "id": "5d9494ad47ff",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -282,7 +282,7 @@
       "fin_score": -0.4423,
       "label": "BEARISH",
       "id": "5d32ea76d316",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -297,7 +297,7 @@
       "fin_score": -0.3716,
       "label": "BEARISH",
       "id": "536f1bf0aacc",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -312,7 +312,7 @@
       "fin_score": 0.44,
       "label": "BULLISH",
       "id": "8f133e53b85f",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "MoneyControl Comm",
@@ -327,7 +327,22 @@
       "fin_score": 0.3604,
       "label": "BULLISH",
       "id": "f7b22c020afe",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Four critical mineral stocks with strong growth plans",
+      "summary": "The race for critical minerals has quietly become one of the biggest investment themes and these Indian companies are at the centerstage.",
+      "url": "https://www.livemint.com/market/stock-market-news/critical-minerals-rare-earth-stocks-critical-mineral-stocks-expansion-rare-earth-minerals-11783425256792.html",
+      "published": "Wed, 08 Jul 2026 09:01:06 +0530",
+      "compound": 0.3182,
+      "pos": 0.162,
+      "neg": 0.126,
+      "neu": 0.712,
+      "fin_score": 0.3182,
+      "label": "BULLISH",
+      "id": "e1e5f77ce594",
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -342,7 +357,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "0290ac33434c",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -357,7 +372,7 @@
       "fin_score": -0.8583,
       "label": "BEARISH",
       "id": "b3df9f145f44",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -372,7 +387,7 @@
       "fin_score": 0.0613,
       "label": "NEUTRAL",
       "id": "5c6b86026d7a",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -387,7 +402,7 @@
       "fin_score": 0.4215,
       "label": "BULLISH",
       "id": "52e0c5a5afb1",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -402,7 +417,7 @@
       "fin_score": -0.3579,
       "label": "BEARISH",
       "id": "2785d249e32f",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -417,7 +432,7 @@
       "fin_score": 0.886,
       "label": "BULLISH",
       "id": "29405100ac9f",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -432,7 +447,7 @@
       "fin_score": 0.9538,
       "label": "BULLISH",
       "id": "2e979cf01718",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -447,7 +462,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "fed8b858b998",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -462,7 +477,7 @@
       "fin_score": -0.1469,
       "label": "NEUTRAL",
       "id": "5e7f855e3eaf",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -477,7 +492,7 @@
       "fin_score": -1.0,
       "label": "BEARISH",
       "id": "05b3be788e47",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -492,7 +507,7 @@
       "fin_score": 0.6715,
       "label": "BULLISH",
       "id": "80786fb02af0",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -507,7 +522,7 @@
       "fin_score": 0.7783,
       "label": "BULLISH",
       "id": "6287bd19ce47",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -522,22 +537,7 @@
       "fin_score": 0.3818,
       "label": "BULLISH",
       "id": "c1f4885de75c",
-      "fetched_at": "2026-07-08 09:01:17 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Stock recommendations for 8 July from MarketSmith India",
-      "summary": "MarketSmith India reveals its top stock recommendations for today, 8 July. Get expert insights into the best-performing stocks to guide your investment decisions.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-8-july-marketsmith-india-equitas-small-finance-bank-titan-company-nifty-sensex-11783436027626.html",
-      "published": "Wed, 08 Jul 2026 06:00:43 +0530",
-      "compound": 0.2023,
-      "pos": 0.057,
-      "neg": 0.0,
-      "neu": 0.943,
-      "fin_score": 0.2023,
-      "label": "BULLISH",
-      "id": "2ec27557a2e2",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -552,7 +552,22 @@
       "fin_score": 0.5994,
       "label": "BULLISH",
       "id": "653b81bfdc73",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
+    },
+    {
+      "source": "LiveMint Markets",
+      "title": "Stock recommendations for 8 July from MarketSmith India",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 8 July. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-8-july-marketsmith-india-equitas-small-finance-bank-titan-company-nifty-sensex-11783436027626.html",
+      "published": "Wed, 08 Jul 2026 06:00:43 +0530",
+      "compound": 0.2023,
+      "pos": 0.057,
+      "neg": 0.0,
+      "neu": 0.943,
+      "fin_score": 0.2023,
+      "label": "BULLISH",
+      "id": "2ec27557a2e2",
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -567,7 +582,7 @@
       "fin_score": 0.7717,
       "label": "BULLISH",
       "id": "7f4739ec8d26",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -582,7 +597,7 @@
       "fin_score": 0.3612,
       "label": "BULLISH",
       "id": "bad6251a7b3f",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -597,7 +612,7 @@
       "fin_score": -0.845,
       "label": "BEARISH",
       "id": "acdf685e6fe5",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -612,7 +627,7 @@
       "fin_score": -0.3542,
       "label": "BEARISH",
       "id": "adf3a81cda26",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -627,7 +642,7 @@
       "fin_score": 0.7783,
       "label": "BULLISH",
       "id": "f69ba404146b",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -642,7 +657,7 @@
       "fin_score": -0.3182,
       "label": "BEARISH",
       "id": "474a2c73d02d",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -657,7 +672,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "005bab884dd4",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -672,7 +687,7 @@
       "fin_score": 0.296,
       "label": "BULLISH",
       "id": "9179873f1d5a",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -687,7 +702,7 @@
       "fin_score": 0.0,
       "label": "NEUTRAL",
       "id": "8269dc963fb4",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -702,7 +717,7 @@
       "fin_score": -0.8151,
       "label": "BEARISH",
       "id": "24ac0fcae69d",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -717,7 +732,7 @@
       "fin_score": 0.9269,
       "label": "BULLISH",
       "id": "e45c86240ec3",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -732,7 +747,7 @@
       "fin_score": 0.8689,
       "label": "BULLISH",
       "id": "e7ddad4b18e2",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -747,7 +762,7 @@
       "fin_score": 0.5088,
       "label": "BULLISH",
       "id": "94524786502a",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -762,7 +777,7 @@
       "fin_score": 0.5441,
       "label": "BULLISH",
       "id": "9cb4c4a18a26",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -777,7 +792,7 @@
       "fin_score": 0.9169,
       "label": "BULLISH",
       "id": "8e5791dd12ae",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -792,7 +807,7 @@
       "fin_score": 0.5106,
       "label": "BULLISH",
       "id": "30266c3c1fe7",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -807,7 +822,7 @@
       "fin_score": 0.6108,
       "label": "BULLISH",
       "id": "31315fd68dd8",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -822,7 +837,7 @@
       "fin_score": 0.9151,
       "label": "BULLISH",
       "id": "0b2ad07bf1b8",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Markets",
@@ -837,22 +852,7 @@
       "fin_score": 0.9062,
       "label": "BULLISH",
       "id": "29a6fbf46971",
-      "fetched_at": "2026-07-08 09:01:17 IST"
-    },
-    {
-      "source": "LiveMint Markets",
-      "title": "Knack Packaging IPO listing in focus. Here's what GMP signals ahead of debut",
-      "summary": "Knack Packaging share price will be listed on Wednesday, 8 July, on both exchanges - BSE and NSE. The shares are commanding a strong premium in the grey market.",
-      "url": "https://www.livemint.com/market/ipo/knack-packaging-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11783392457168.html",
-      "published": "Tue, 07 Jul 2026 14:23:45 +0530",
-      "compound": 0.7845,
-      "pos": 0.19,
-      "neg": 0.0,
-      "neu": 0.81,
-      "fin_score": 0.7845,
-      "label": "BULLISH",
-      "id": "6c93d41b6452",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -867,7 +867,7 @@
       "fin_score": 0.3124,
       "label": "BULLISH",
       "id": "08c602287610",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -882,7 +882,7 @@
       "fin_score": -0.7184,
       "label": "BEARISH",
       "id": "5f8cc9c7162b",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -897,7 +897,7 @@
       "fin_score": -0.7906,
       "label": "BEARISH",
       "id": "7bd22e86fcd5",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -912,7 +912,7 @@
       "fin_score": -0.8834,
       "label": "BEARISH",
       "id": "3df2206b9d85",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     },
     {
       "source": "LiveMint Economy",
@@ -927,7 +927,7 @@
       "fin_score": 0.296,
       "label": "BULLISH",
       "id": "fee01a9e7a8c",
-      "fetched_at": "2026-07-08 09:01:17 IST"
+      "fetched_at": "2026-07-08 09:05:49 IST"
     }
   ]
 }
