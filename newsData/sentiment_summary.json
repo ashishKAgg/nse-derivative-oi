@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-08 11:01:16 IST",
+  "generated_at": "2026-07-08 11:05:41 IST",
   "total_articles": 60,
   "bullish_count": 27,
-  "bearish_count": 20,
-  "neutral_count": 13,
-  "avg_fin_score": 0.0846,
-  "weighted_score": 0.2247,
+  "bearish_count": 24,
+  "neutral_count": 9,
+  "avg_fin_score": -0.0336,
+  "weighted_score": 0.2025,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Adani Enterprises shares trade flat after closure of ₹1500 crore QIP. Do you own?",
+    "Multibagger stock jumps over 4% after order win from RITES. Do you own?",
+    "Knack Packaging share price makes strong debut, lists with over 10% premium at ₹188 on NSE"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "₹2 lakh crore gone! Why is the Indian stock market falling today? Explained with top five reasons",
+    "Infosys to PFC - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+    "Gold, Silver Rate Today: MCX gold price falls near ₹1.45 lakh per 10 grams, silver eases amid escalating US-Iran war"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
