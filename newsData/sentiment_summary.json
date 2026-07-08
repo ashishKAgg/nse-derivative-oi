@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-08 14:25:43 IST",
+  "generated_at": "2026-07-08 14:41:14 IST",
   "total_articles": 60,
   "bullish_count": 31,
   "bearish_count": 20,
   "neutral_count": 9,
-  "avg_fin_score": 0.0803,
-  "weighted_score": 0.4333,
+  "avg_fin_score": 0.0849,
+  "weighted_score": 0.4635,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Paint makers poised for a mixed Q1; won’t rush on price cuts",
-    "Multibagger stock Diamond Power hits record high despite stock market crash. InCred sees 28% more upside",
-    "Stocks to buy for short term: Reliance, Bharti Airtel, BEL among 5 shares Bajaj Broking's expert recommends for July"
+    "Oil prices jump to more than $78 a barrel as Trump says ceasefire with Iran is 'over'",
+    "Defence sector Q1 results preview: Muted earnings likely on execution delays; BEL, Bharat Dynamics, GRSE among top picks",
+    "Paint makers poised for a mixed Q1; won’t rush on price cuts"
   ],
   "top_bearish": [
-    "₹8.50 lakh crore gone! Why is the Indian stock market falling today? Explained with five reasons",
+    "₹8.50 lakh crore gone! Bloodbath on Dalal Street — Sensex tanks 1700 points, Nifty below 24K; five reasons to explain",
     "Infosys to PFC - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
     "Gold, Silver Rate Today: MCX gold price falls near ₹1.45 lakh per 10 grams, silver eases amid escalating US-Iran war"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
