@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-08 14:41:14 IST",
+  "generated_at": "2026-07-08 14:45:47 IST",
   "total_articles": 60,
-  "bullish_count": 31,
-  "bearish_count": 20,
-  "neutral_count": 9,
-  "avg_fin_score": 0.0849,
-  "weighted_score": 0.4635,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 30,
+  "bearish_count": 19,
+  "neutral_count": 11,
+  "avg_fin_score": 0.1195,
+  "weighted_score": 0.0178,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Oil prices jump to more than $78 a barrel as Trump says ceasefire with Iran is 'over'",
-    "Defence sector Q1 results preview: Muted earnings likely on execution delays; BEL, Bharat Dynamics, GRSE among top picks",
-    "Paint makers poised for a mixed Q1; won’t rush on price cuts"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "₹8.50 lakh crore gone! Bloodbath on Dalal Street — Sensex tanks 1700 points, Nifty below 24K; five reasons to explain",
-    "Infosys to PFC - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
-    "Gold, Silver Rate Today: MCX gold price falls near ₹1.45 lakh per 10 grams, silver eases amid escalating US-Iran war"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "LiveMint Economy",
+    "MoneyControl Comm"
   ]
 }
