@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-08 16:15:49 IST",
+  "generated_at": "2026-07-08 16:21:13 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 15,
-  "neutral_count": 12,
-  "avg_fin_score": 0.2464,
-  "weighted_score": 0.2682,
+  "bullish_count": 31,
+  "bearish_count": 20,
+  "neutral_count": 9,
+  "avg_fin_score": 0.0845,
+  "weighted_score": 0.2747,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Oberoi Realty’s NCR debut spurs growth visibility with solid bookings",
+    "Oil prices jump to more than $78 a barrel as Trump says ceasefire with Iran is 'over'",
+    "Defence sector Q1 results preview: Muted earnings likely on execution delays; BEL, Bharat Dynamics, GRSE among top picks"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "BPCL, HPCL to IOC: OMC stocks fall up to 5.5% on sharp rebound in crude oil prices",
+    "₹8 lakh crore gone! Bloodbath on Dalal Street — Sensex tanks 1650 points, Nifty below 24K; five reasons to explain",
+    "Infosys to PFC - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment"
   ],
   "sources_hit": [
-    "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
