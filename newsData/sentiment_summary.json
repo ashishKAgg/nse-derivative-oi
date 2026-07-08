@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-08 09:25:42 IST",
+  "generated_at": "2026-07-08 09:31:35 IST",
   "total_articles": 60,
-  "bullish_count": 28,
-  "bearish_count": 20,
-  "neutral_count": 12,
-  "avg_fin_score": 0.079,
-  "weighted_score": 0.2202,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 29,
+  "bearish_count": 23,
+  "neutral_count": 8,
+  "avg_fin_score": -0.0001,
+  "weighted_score": -0.0999,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Four critical mineral stocks with strong growth plans",
+    "Vaishali Parekh recommends three intraday stocks to buy or sell on Wednesday — 8 July 2026",
+    "Stocks to watch: Cochin Shipyard, Premier Energies, ideaForge Tech among shares in focus today; check list here"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold, Silver Rate Today: MCX gold price falls near ₹1.45 lakh per 10 grams, silver eases amid escalating US-Iran war",
+    "Rupee falls 20 paise to open at 95.17 against US dollar amid rise in crude oil prices",
+    "US stock market to Nikkei: Here’s world equity heatmap you should know before the opening of Indian stock market today"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
