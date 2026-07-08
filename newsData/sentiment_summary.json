@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-08 13:51:05 IST",
+  "generated_at": "2026-07-08 13:55:44 IST",
   "total_articles": 60,
-  "bullish_count": 29,
-  "bearish_count": 17,
-  "neutral_count": 14,
-  "avg_fin_score": 0.1647,
-  "weighted_score": 0.2511,
+  "bullish_count": 31,
+  "bearish_count": 20,
+  "neutral_count": 9,
+  "avg_fin_score": 0.0713,
+  "weighted_score": 0.4714,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stocks to buy for short term: Reliance, Bharti Airtel, BEL among 5 shares Bajaj Broking's expert recommends for July",
+    "₹939 crore order impact? INOX India share price jumps over 5% despite muted trends in the Indian stock market",
+    "Can Nifty 50 touch 25,000 this month? Analysts see bank, auto, IT stocks driving the next leg up"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Investors lost money worth ₹2 lakh crore! Why is the Indian stock market falling today? Explained with five reasons",
+    "Infosys to PFC - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+    "Gold, Silver Rate Today: MCX gold price falls near ₹1.45 lakh per 10 grams, silver eases amid escalating US-Iran war"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
