@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-09 12:05:46 IST",
+  "generated_at": "2026-07-09 12:11:19 IST",
   "total_articles": 60,
   "bullish_count": 36,
-  "bearish_count": 18,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1609,
-  "weighted_score": 0.2656,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bearish_count": 17,
+  "neutral_count": 7,
+  "avg_fin_score": 0.2156,
+  "weighted_score": 0.0196,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "FII selling eases after $60 billion exodus. Is the tide finally turning for Indian stock markets?",
-    "Godrej Consmer Produucts shares climb 2% as ICICI Securities upgrades the stock to a buy, raises target price",
-    "Multibagger small-cap stock hits 5% upper circuit for second day after Vijay Kedia raises stake"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "TCS Q1 Results 2026 LIVE: IT stock falls ahead of earnings; margins, demand outlook, AI strategy, dividend in focus",
-    "Small-cap stock under ₹50 Elitecon International retraces after jumping 9% following stock market rebound. Do you own?",
-    "US-Iran war: BPCL, GAIL to HPCL — oil and gas stocks rise despite soaring crude oil prices"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "LiveMint Economy",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top"
   ]
 }
