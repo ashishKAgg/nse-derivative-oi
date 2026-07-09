@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-09 13:20:57 IST",
+  "generated_at": "2026-07-09 13:25:55 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 18,
-  "neutral_count": 7,
-  "avg_fin_score": 0.2012,
-  "weighted_score": 0.0193,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 36,
+  "bearish_count": 19,
+  "neutral_count": 5,
+  "avg_fin_score": 0.1619,
+  "weighted_score": 0.3476,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "India's premium over EMs is shrinking, but still above 2021 level. What it means?",
+    "Uno Minda’s passenger vehicle seating systems push adds a new growth engine",
+    "Nifty 50 companies set for strongest revenue growth in 3 years, but margins to come under pressure"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "US-Iran war: Did Donald Trump deliberately choose the NATO Summit to reject the ceasefire deal?",
+    "TCS Q1 Results 2026 LIVE: IT stock falls ahead of earnings; margins, demand outlook, AI strategy, dividend in focus",
+    "Small-cap stock under ₹50 Elitecon International retraces after jumping 9% following stock market rebound. Do you own?"
   ],
   "sources_hit": [
-    "MoneyControl Top",
-    "MoneyControl Mkts",
     "LiveMint Economy",
-    "LiveMint Markets",
-    "MoneyControl Comm"
+    "LiveMint Markets"
   ]
 }
