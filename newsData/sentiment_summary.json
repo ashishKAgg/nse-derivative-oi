@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-09 09:21:12 IST",
+  "generated_at": "2026-07-09 09:25:41 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 20,
-  "neutral_count": 6,
-  "avg_fin_score": 0.0887,
-  "weighted_score": 0.0213,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 32,
+  "bearish_count": 16,
+  "neutral_count": 12,
+  "avg_fin_score": 0.193,
+  "weighted_score": 0.2516,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Kusumgar IPO Day 2: Check Latest GMP, subscription status, and other details - Apply or not?",
-    "Stocks to buy for short term: Infosys among 3 shares Amol Athawale of Kotak Securities recommends for next 1-2 weeks",
-    "US stock market to Nikkei: Here’s world equity heatmap to know before the opening of Indian stock market today"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold, silver prices decline on MCX as US-Iran tensions fuel Fed rate hike expectations",
-    "Stock market today: Gift Nifty hints cautious start; seven day trading stocks to buy on Thursday, 9 July",
-    "Crude oil prices extend gains on renewed US-Iran war tensions; Brent climbs above $78 per barrel"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
