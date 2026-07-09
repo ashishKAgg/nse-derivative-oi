@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-09 10:11:08 IST",
+  "generated_at": "2026-07-09 10:15:50 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 16,
-  "neutral_count": 10,
-  "avg_fin_score": 0.2298,
-  "weighted_score": 0.2636,
+  "bullish_count": 37,
+  "bearish_count": 18,
+  "neutral_count": 5,
+  "avg_fin_score": 0.1646,
+  "weighted_score": 0.4741,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Stocks to buy or sell: Osho Krishan of Angel One suggests buying LIC, Titan Company shares on 9 July",
+    "Tata Steel share price dips nearly 1% after Q1FY27 business update; details here",
+    "Kalyan Jewellers share price hits 10% upper circuit, up for second straight session after strong Q1 business update"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Gold, silver prices decline on MCX as US-Iran tensions fuel Fed rate hike expectations",
+    "Rupee opens flat at 95.55 against US dollar",
+    "Stock market today: Gift Nifty hints cautious start; seven day trading stocks to buy on Thursday, 9 July"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "MoneyControl Mkts",
-    "MoneyControl Top",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
