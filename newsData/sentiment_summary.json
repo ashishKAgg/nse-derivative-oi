@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-09 11:55:44 IST",
+  "generated_at": "2026-07-09 12:01:25 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 19,
+  "bullish_count": 36,
+  "bearish_count": 18,
   "neutral_count": 6,
-  "avg_fin_score": 0.1256,
-  "weighted_score": -0.1711,
-  "verdict": "BEARISH",
-  "verdict_color": "#dc3545",
+  "avg_fin_score": 0.1609,
+  "weighted_score": 0.2656,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Multibagger small-cap stock hits 5% upper circuit for second day after Vijay Kedia raises stake",
-    "Stocks to buy or sell: Osho Krishan of Angel One suggests buying LIC, Titan Company shares on 9 July",
-    "Tata Steel share price dips nearly 1% after Q1FY27 business update; details here"
+    "FII selling eases after $60 billion exodus. Is the tide finally turning for Indian stock markets?",
+    "Godrej Consmer Produucts shares climb 2% as ICICI Securities upgrades the stock to a buy, raises target price",
+    "Multibagger small-cap stock hits 5% upper circuit for second day after Vijay Kedia raises stake"
   ],
   "top_bearish": [
     "TCS Q1 Results 2026 LIVE: IT stock falls ahead of earnings; margins, demand outlook, AI strategy, dividend in focus",
@@ -19,7 +19,7 @@
     "US-Iran war: BPCL, GAIL to HPCL — oil and gas stocks rise despite soaring crude oil prices"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "LiveMint Economy"
   ]
 }
