@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-09 11:16:03 IST",
+  "generated_at": "2026-07-09 11:21:15 IST",
   "total_articles": 60,
-  "bullish_count": 36,
-  "bearish_count": 19,
-  "neutral_count": 5,
-  "avg_fin_score": 0.1351,
-  "weighted_score": 0.1555,
+  "bullish_count": 32,
+  "bearish_count": 18,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1765,
+  "weighted_score": 0.2472,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Multibagger small-cap stock hits 5% upper circuit for second day after Vijay Kedia raises stake",
-    "Stocks to buy or sell: Osho Krishan of Angel One suggests buying LIC, Titan Company shares on 9 July",
-    "Tata Steel share price dips nearly 1% after Q1FY27 business update; details here"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Oyo IPO: Zostel seeks SEBI review of updated DRHP over litigation disclosures, says report",
-    "Gold, silver prices decline on MCX as US-Iran tensions fuel Fed rate hike expectations",
-    "Rupee opens flat at 95.55 against US dollar"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
