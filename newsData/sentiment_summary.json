@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-09 12:25:40 IST",
+  "generated_at": "2026-07-09 12:31:47 IST",
   "total_articles": 60,
-  "bullish_count": 37,
-  "bearish_count": 18,
-  "neutral_count": 5,
-  "avg_fin_score": 0.1763,
-  "weighted_score": 0.3812,
+  "bullish_count": 30,
+  "bearish_count": 19,
+  "neutral_count": 11,
+  "avg_fin_score": 0.16,
+  "weighted_score": 0.2443,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Stocks to buy: Nagaraj Shetti recommends Avantel, Jtekt India shares to buy in the short-term",
-    "FII selling eases after $60 billion exodus. Is the tide finally turning for Indian stock markets?",
-    "Godrej Consmer Produucts shares climb 2% as ICICI Securities upgrades the stock to a buy, raises target price"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "TCS Q1 Results 2026 LIVE: IT stock falls ahead of earnings; margins, demand outlook, AI strategy, dividend in focus",
-    "Small-cap stock under ₹50 Elitecon International retraces after jumping 9% following stock market rebound. Do you own?",
-    "US-Iran war: BPCL, GAIL to HPCL — oil and gas stocks rise despite soaring crude oil prices"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
