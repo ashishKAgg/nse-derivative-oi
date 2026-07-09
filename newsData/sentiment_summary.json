@@ -1,28 +1,25 @@
 {
-  "generated_at": "2026-07-09 15:15:49 IST",
+  "generated_at": "2026-07-09 15:21:32 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 18,
-  "neutral_count": 8,
-  "avg_fin_score": 0.2193,
-  "weighted_score": 0.0309,
-  "verdict": "NEUTRAL",
-  "verdict_color": "#6c757d",
+  "bullish_count": 35,
+  "bearish_count": 19,
+  "neutral_count": 6,
+  "avg_fin_score": 0.1799,
+  "weighted_score": 0.3836,
+  "verdict": "BULLISH",
+  "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-    "Agri Picks Report: Geojit"
+    "IPO GMPs: Kusumgar IPO vs Laser Power IPO; here's what GMP hints",
+    "Syrma SGS to Kaynes Tech: EMS stocks jump up to 7.5% as Centre waives customs duty on key electronic components",
+    "ITC Hotels to Apollo Tyres, Astral: 10 mid- and small-cap stock picks by ICICI Securities for up to 41% upside potential"
   ],
   "top_bearish": [
-    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
-    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
-    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
+    "Phoenix Mills’ growth hinges on more than retail consumption",
+    "Penny stock under ₹10: NBFC share jumps 7% from intraday low after this AI update",
+    "US-Iran war: Did Donald Trump deliberately choose the NATO Summit to reject the ceasefire deal?"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "MoneyControl Top",
-    "LiveMint Economy",
-    "MoneyControl Comm",
-    "MoneyControl Mkts"
+    "LiveMint Economy"
   ]
 }
