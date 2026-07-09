@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-09 15:21:32 IST",
+  "generated_at": "2026-07-09 15:25:41 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 19,
-  "neutral_count": 6,
-  "avg_fin_score": 0.1799,
-  "weighted_score": 0.3836,
+  "bullish_count": 30,
+  "bearish_count": 20,
+  "neutral_count": 10,
+  "avg_fin_score": 0.1683,
+  "weighted_score": 0.2477,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "IPO GMPs: Kusumgar IPO vs Laser Power IPO; here's what GMP hints",
-    "Syrma SGS to Kaynes Tech: EMS stocks jump up to 7.5% as Centre waives customs duty on key electronic components",
-    "ITC Hotels to Apollo Tyres, Astral: 10 mid- and small-cap stock picks by ICICI Securities for up to 41% upside potential"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Phoenix Mills’ growth hinges on more than retail consumption",
-    "Penny stock under ₹10: NBFC share jumps 7% from intraday low after this AI update",
-    "US-Iran war: Did Donald Trump deliberately choose the NATO Summit to reject the ceasefire deal?"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
