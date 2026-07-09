@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-09 09:51:14 IST",
+  "generated_at": "2026-07-09 09:55:39 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 20,
-  "neutral_count": 5,
-  "avg_fin_score": 0.1035,
-  "weighted_score": 0.3443,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 34,
+  "bearish_count": 19,
+  "neutral_count": 7,
+  "avg_fin_score": 0.1399,
+  "weighted_score": 0.006,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Laser Power & Infra IPO Day 1: Issue opens today. GMP hints 7% listing gain. Apply or not?",
-    "Happy Steels IPO opens today; GMP, subscriptions status, other key details of SME IPO",
-    "TCS share price falls 2% ahead of Q1 results 2026. Should you buy or sell?"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Gold, silver prices decline on MCX as US-Iran tensions fuel Fed rate hike expectations",
-    "Rupee opens flat at 95.55 against US dollar",
-    "Stock market today: Gift Nifty hints cautious start; seven day trading stocks to buy on Thursday, 9 July"
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
     "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
