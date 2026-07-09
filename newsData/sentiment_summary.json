@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-09 15:45:57 IST",
+  "generated_at": "2026-07-09 15:51:12 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 20,
-  "neutral_count": 5,
-  "avg_fin_score": 0.1722,
-  "weighted_score": 0.4367,
+  "bullish_count": 31,
+  "bearish_count": 19,
+  "neutral_count": 10,
+  "avg_fin_score": 0.2032,
+  "weighted_score": 0.2579,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Top Gainers & Losers on 9 July: Kalyan Jewellers, Swiggy, Kaynes Tech, Anant Raj, Thermax among top gainers",
-    "Stock market today: Sensex gains over 200 points, Nifty 50 ends above 23,950; investors earn ₹5 lakh crore in a day",
-    "IPO GMPs: Kusumgar IPO vs Laser Power IPO; here's what GMP hints"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Gold retailers navigate a tough first quarter on duty hikes, adhik maas",
-    "Phoenix Mills’ growth hinges on more than retail consumption",
-    "Penny stock under ₹10: NBFC share jumps 7% from intraday low after this AI update"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
