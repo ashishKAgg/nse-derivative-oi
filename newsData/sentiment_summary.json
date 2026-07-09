@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-09 14:21:04 IST",
+  "generated_at": "2026-07-09 14:25:43 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 18,
-  "neutral_count": 9,
-  "avg_fin_score": 0.216,
-  "weighted_score": 0.261,
+  "bullish_count": 36,
+  "bearish_count": 19,
+  "neutral_count": 5,
+  "avg_fin_score": 0.1718,
+  "weighted_score": 0.465,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "SBI Funds Management IPO: SBI likely to earn ₹7,365 crore from share sale; Should you buy the PSU stock?",
+    "Private banks poised for a rally? Experts bullish on these banking heavyweights",
+    "Multibagger small cap stock Cupid share price rebounds 10% after biggest single-day fall in six months"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "US-Iran war: Did Donald Trump deliberately choose the NATO Summit to reject the ceasefire deal?",
+    "TCS Q1 Results 2026 LIVE: IT stock falls ahead of earnings; margins, demand outlook, AI strategy, dividend in focus",
+    "Small-cap stock under ₹50 Elitecon International retraces after jumping 9% following stock market rebound. Do you own?"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
-    "MoneyControl Comm",
-    "MoneyControl Top",
+    "LiveMint Economy",
     "LiveMint Markets"
   ]
 }
