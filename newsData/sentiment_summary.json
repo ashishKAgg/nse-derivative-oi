@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09 09:55:39 IST",
+  "generated_at": "2026-07-09 10:01:22 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 19,
+  "bullish_count": 35,
+  "bearish_count": 18,
   "neutral_count": 7,
-  "avg_fin_score": 0.1399,
-  "weighted_score": 0.006,
+  "avg_fin_score": 0.1627,
+  "weighted_score": 0.0155,
   "verdict": "NEUTRAL",
   "verdict_color": "#6c757d",
   "top_bullish": [
@@ -20,9 +20,9 @@
   ],
   "sources_hit": [
     "LiveMint Economy",
-    "MoneyControl Top",
     "LiveMint Markets",
     "MoneyControl Comm",
+    "MoneyControl Top",
     "MoneyControl Mkts"
   ]
 }
