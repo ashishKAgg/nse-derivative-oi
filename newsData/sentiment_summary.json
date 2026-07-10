@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-10 15:41:10 IST",
+  "generated_at": "2026-07-10 15:45:54 IST",
   "total_articles": 60,
-  "bullish_count": 39,
+  "bullish_count": 45,
   "bearish_count": 13,
-  "neutral_count": 8,
-  "avg_fin_score": 0.3364,
-  "weighted_score": 0.2905,
+  "neutral_count": 2,
+  "avg_fin_score": 0.3766,
+  "weighted_score": 0.6577,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "Top Gainers & Losers on 10 July: Godrej Industries, Indian Bank, Kalyan Jewellers, Paytm, CDSL among top gainers",
+    "AMFI June data: Equity mutual fund inflows jump 26%, mid-cap, small-cap funds steal the show",
+    "Sensex jumps 800 points, Nifty 50 reclaims 24,200; investors earn ₹6 lakh crore in a day: What drove the stock market?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Natural gas companies are set to lose steam in Q1",
+    "Rupee opens 13 paise higher at 95.26 against US dollar",
+    "Asian stocks surge as investors look past Middle East attacks"
   ],
   "sources_hit": [
-    "MoneyControl Mkts",
     "LiveMint Markets",
-    "MoneyControl Comm",
-    "MoneyControl Top"
+    "LiveMint Economy"
   ]
 }
