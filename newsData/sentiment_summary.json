@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-10 16:21:15 IST",
+  "generated_at": "2026-07-10 16:25:49 IST",
   "total_articles": 60,
-  "bullish_count": 46,
-  "bearish_count": 12,
-  "neutral_count": 2,
-  "avg_fin_score": 0.4036,
-  "weighted_score": 0.6941,
+  "bullish_count": 39,
+  "bearish_count": 13,
+  "neutral_count": 8,
+  "avg_fin_score": 0.3392,
+  "weighted_score": 0.2925,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Bank of Maharashtra Q1 results: Net profit jumps 27% YoY to ₹2,020 crore",
-    "Top Gainers & Losers on 10 July: Godrej Industries, Indian Bank, Kalyan Jewellers, Paytm, CDSL among top gainers",
-    "AMFI June data: Equity mutual fund inflows jump 26%, mid-cap, small-cap funds steal the show"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Natural gas companies are set to lose steam in Q1",
-    "Rupee opens 13 paise higher at 95.26 against US dollar",
-    "India inflation likely rose to 4.2% in June: Mint poll"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Comm",
+    "MoneyControl Top",
+    "MoneyControl Mkts"
   ]
 }
