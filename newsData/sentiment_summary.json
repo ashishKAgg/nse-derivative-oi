@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-10 09:11:08 IST",
+  "generated_at": "2026-07-10 09:15:50 IST",
   "total_articles": 60,
-  "bullish_count": 38,
-  "bearish_count": 16,
-  "neutral_count": 6,
-  "avg_fin_score": 0.2671,
-  "weighted_score": 0.4513,
+  "bullish_count": 36,
+  "bearish_count": 13,
+  "neutral_count": 11,
+  "avg_fin_score": 0.2894,
+  "weighted_score": 0.279,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Stocks to buy or sell: Ajit Mishra of Religare Broking recommends 3 names for short-term trading",
-    "These 3 BESS stocks are betting big on India’s energy storage boom",
-    "Laser Power and Infra IPO Day 2: Check latest GMP, subscription status, and other details - Should you apply?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Asian stocks surge as investors look past Middle East attacks",
-    "Gold retailers navigate a tough first quarter on duty hikes, adhik maas",
-    "Phoenix Mills’ growth hinges on more than retail consumption"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Comm",
+    "MoneyControl Mkts"
   ]
 }
