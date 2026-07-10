@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-10 12:05:42 IST",
+  "generated_at": "2026-07-10 12:11:14 IST",
   "total_articles": 60,
-  "bullish_count": 43,
-  "bearish_count": 13,
-  "neutral_count": 4,
-  "avg_fin_score": 0.3338,
-  "weighted_score": 0.5475,
+  "bullish_count": 38,
+  "bearish_count": 14,
+  "neutral_count": 8,
+  "avg_fin_score": 0.3207,
+  "weighted_score": 0.2868,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "SBI Funds Management IPO: What is the reservation for SBI shareholders? Who is eligible to apply?",
-    "TCS’ sparse Q1 positives won't unlock re-rating triggers",
-    "Vedanta Iron and Steel to Vedanta Oil and Gas, Vedanta Power: How Anil Agarwal's demerged stocks are performing"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 13 paise higher at 95.26 against US dollar",
-    "Asian stocks surge as investors look past Middle East attacks",
-    "India inflation likely rose to 4.2% in June: Mint poll"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts",
+    "MoneyControl Top"
   ]
 }
