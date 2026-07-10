@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-10 10:11:07 IST",
+  "generated_at": "2026-07-10 10:15:55 IST",
   "total_articles": 60,
   "bullish_count": 40,
-  "bearish_count": 16,
-  "neutral_count": 4,
-  "avg_fin_score": 0.2847,
-  "weighted_score": 0.6213,
+  "bearish_count": 13,
+  "neutral_count": 7,
+  "avg_fin_score": 0.3896,
+  "weighted_score": 0.338,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Indian Bank share price rises ahead of the Q1 results 2026",
-    "Rajesh Palviya of Axis Sec suggests Paytm, Anand Rathi, Nykaa shares to buy today",
-    "Kusumgar IPO Day 3: Issue subscribed 13.13x so far. GMP hints 38% listing pop. Apply or not?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 13 paise higher at 95.26 against US dollar",
-    "Asian stocks surge as investors look past Middle East attacks",
-    "Gold retailers navigate a tough first quarter on duty hikes, adhik maas"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Mkts",
     "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top"
   ]
 }
