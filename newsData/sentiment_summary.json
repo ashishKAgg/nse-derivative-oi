@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-10 12:41:12 IST",
+  "generated_at": "2026-07-10 12:45:48 IST",
   "total_articles": 60,
-  "bullish_count": 44,
+  "bullish_count": 39,
   "bearish_count": 13,
-  "neutral_count": 3,
-  "avg_fin_score": 0.3592,
-  "weighted_score": 0.6645,
+  "neutral_count": 8,
+  "avg_fin_score": 0.3356,
+  "weighted_score": 0.2913,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Kalyan Jewellers India share price jumps over 36% in three days. Buy, sell or hold?",
-    "Ashok Leyland, Hero Motocorp to M&M: Auto stocks rise despite E20 row",
-    "Bharti Airtel declares record date for the payment of final dividend in FY26. Details here"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Rupee opens 13 paise higher at 95.26 against US dollar",
-    "Asian stocks surge as investors look past Middle East attacks",
-    "India inflation likely rose to 4.2% in June: Mint poll"
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
+    "MoneyControl Comm",
+    "MoneyControl Top",
     "LiveMint Markets",
-    "LiveMint Economy"
+    "MoneyControl Mkts"
   ]
 }
