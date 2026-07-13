@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-13 09:41:10 IST",
+  "generated_at": "2026-07-13 09:45:55 IST",
   "total_articles": 60,
-  "bullish_count": 33,
-  "bearish_count": 19,
-  "neutral_count": 8,
-  "avg_fin_score": 0.145,
-  "weighted_score": 0.2381,
+  "bullish_count": 36,
+  "bearish_count": 18,
+  "neutral_count": 6,
+  "avg_fin_score": 0.1394,
+  "weighted_score": 0.1792,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "HCL Tech share price edges higher ahead of Q1 results 2026. Should you buy or sell?",
+    "Avenue Supermarts share price slips over 4% after Q1 results. Should you buy, sell or hold DMart shares?",
+    "Laser Power IPO Day 3: Issue booked 1x so far. GMP hints 16% listing gain. Should you apply or skip?"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "Sensex crashes over 700 points, India VIX jumps 10%; 5 key factors driving the stock market down explained",
+    "Gold price drops 1%, silver rates crash over 2% on MCX as inflation fears, rate hike concerns revive",
+    "Rupee slips 37 paise to open at 95.70 against US dollar"
   ],
   "sources_hit": [
-    "MoneyControl Top",
     "LiveMint Markets",
-    "MoneyControl Mkts",
-    "MoneyControl Comm"
+    "LiveMint Economy"
   ]
 }
