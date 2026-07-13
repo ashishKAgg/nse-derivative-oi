@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-07-13 16:21:13 IST",
+  "generated_at": "2026-07-13 16:25:42 IST",
   "total_articles": 60,
-  "bullish_count": 35,
-  "bearish_count": 18,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1816,
-  "weighted_score": 0.4805,
+  "bullish_count": 32,
+  "bearish_count": 16,
+  "neutral_count": 12,
+  "avg_fin_score": 0.2142,
+  "weighted_score": 0.261,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Top Gainers & Losers on 13 July: Newgen Software, Kalyan Jewellers, TCS, Voltas, Paytm, Bajaj Auto among top gainers",
-    "Stock market today: Sensex, Nifty 50 end flat; IT stocks shine",
-    "SBI Funds IPO: Can its private-markets bet close the profitability gap?"
+    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
   ],
   "top_bearish": [
-    "Textile stock Aastha Spintex hits 5% upper circuit after this order book update",
-    "LME copper prices fall as escalating US-Iran war renews inflation risks, interest rate hike fears",
-    "The real worry for Indian metal stocks isn't FPI selling. It's more earnings downgrades."
+    "Bond bull market may pause but is far from over: Expert",
+    "Automation threatens 69% jobs in India: World Bank",
+    "Subramanian Swamy seeks ban on import of cement from Pakistan"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "LiveMint Markets",
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "MoneyControl Comm"
   ]
 }
