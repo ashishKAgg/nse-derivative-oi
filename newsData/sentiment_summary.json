@@ -1,27 +1,25 @@
 {
-  "generated_at": "2026-07-13 13:25:41 IST",
+  "generated_at": "2026-07-13 13:31:38 IST",
   "total_articles": 60,
-  "bullish_count": 30,
-  "bearish_count": 18,
-  "neutral_count": 12,
-  "avg_fin_score": 0.1277,
-  "weighted_score": 0.2382,
+  "bullish_count": 34,
+  "bearish_count": 19,
+  "neutral_count": 7,
+  "avg_fin_score": 0.1145,
+  "weighted_score": 0.3124,
   "verdict": "BULLISH",
   "verdict_color": "#28a745",
   "top_bullish": [
-    "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
-    "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
-    "Scope for meaningful rate cuts going ahead: Neelkanth Mishra"
+    "L&T Finance share price rises 4% after Q1 results 2026. Should you buy, sell or hold?",
+    "Vinay Rajani of HDFC Sec suggests PG Electroplast, Puravankara shares to buy in near-term",
+    "Alpine Texworld IPO: GMP, price band, lot size, among 10 key things to know ahead of issue opening"
   ],
   "top_bearish": [
-    "Bond bull market may pause but is far from over: Expert",
-    "Automation threatens 69% jobs in India: World Bank",
-    "Subramanian Swamy seeks ban on import of cement from Pakistan"
+    "The real worry for Indian metal stocks isn't FPI selling. It's more earnings downgrades.",
+    "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Shriram Finance, Brigade Enterprise on 13 July",
+    "Sensex crashes over 700 points, India VIX jumps 10%; 5 key factors driving the stock market down explained"
   ],
   "sources_hit": [
-    "MoneyControl Comm",
-    "LiveMint Markets",
-    "MoneyControl Top",
-    "MoneyControl Mkts"
+    "LiveMint Economy",
+    "LiveMint Markets"
   ]
 }
