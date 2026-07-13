@@ -1,25 +1,28 @@
 {
-  "generated_at": "2026-07-13 15:35:45 IST",
+  "generated_at": "2026-07-13 15:41:09 IST",
   "total_articles": 60,
-  "bullish_count": 34,
-  "bearish_count": 19,
-  "neutral_count": 7,
-  "avg_fin_score": 0.1327,
-  "weighted_score": 0.3806,
-  "verdict": "BULLISH",
-  "verdict_color": "#28a745",
+  "bullish_count": 33,
+  "bearish_count": 18,
+  "neutral_count": 9,
+  "avg_fin_score": 0.1659,
+  "weighted_score": 0.0166,
+  "verdict": "NEUTRAL",
+  "verdict_color": "#6c757d",
   "top_bullish": [
-    "Stock market today: Sensex, Nifty 50 end flat; IT, banking stocks shine",
-    "SBI Funds IPO: Can its private-markets bet close the profitability gap?",
-    "Fino Payments Bank shares hit 20% upper circuit after June business update"
+    "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+    "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+    "Agri Picks Report: Geojit"
   ],
   "top_bearish": [
-    "Textile stock Aastha Spintex hits 5% upper circuit after this order book update",
-    "LME copper prices fall as escalating US-Iran war renews inflation risks, interest rate hike fears",
-    "The real worry for Indian metal stocks isn't FPI selling. It's more earnings downgrades."
+    "Uncle Sam is wrong, India and China are doing their bit to fight climate change",
+    "Taking Stock: Market fails to hold on to day s gains, ends marginally higher",
+    "Rise in textile demand to support MCX cotton ahead of harvest season in October"
   ],
   "sources_hit": [
-    "LiveMint Economy",
-    "LiveMint Markets"
+    "MoneyControl Top",
+    "MoneyControl Mkts",
+    "LiveMint Markets",
+    "MoneyControl Comm",
+    "LiveMint Economy"
   ]
 }
